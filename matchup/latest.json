@@ -1,0 +1,19 @@
+{
+  "reportNumber": 350,
+  "reportDate": "Thu, 28 May 2026 16:00:08 +0000",
+  "source": "vicious_syndicate",
+  "fetchDate": "2026-05-30T00:19:06.463579Z",
+  "archetypes": [],
+  "matrix": [],
+  "rankBrackets": [
+    "legend",
+    "all"
+  ],
+  "imageUrls": {
+    "legend": "https://www.vicioussyndicate.com/wp-content/uploads/DRR350-Winrate-L.png",
+    "all": "https://www.vicioussyndicate.com/wp-content/uploads/DRR350-Winrate-All.png"
+  },
+  "dataQuality": "none",
+  "parseMethod": "failed",
+  "note": "Could not parse structured data. Images available at imageUrls."
+}

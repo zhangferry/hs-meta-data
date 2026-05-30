@@ -1,0 +1,18 @@
+{
+  "lastUpdated": "2026-05-30T00:19:06.464665+00:00Z",
+  "version": "1.0.0",
+  "sources": {
+    "hearthstone_json": "https://api.hearthstonejson.com",
+    "firestone": "https://static.zerotoheroes.com",
+    "hsreplay": "https://hsreplay.net",
+    "vicious_syndicate": "https://www.vicioussyndicate.com"
+  },
+  "stats": {
+    "cards_zhCN": 7935,
+    "cards_enUS": 7935,
+    "archetypes": 748,
+    "meta_deck_entries": 25123,
+    "matchup_quality": "none",
+    "matchup_report": 350
+  }
+}

@@ -1,0 +1,39 @@
+name: Sync Hearthstone Data
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # 每日 UTC 08:00 (北京时间 16:00)
+  workflow_dispatch:       # 支持手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y tesseract-ocr
+          pip install requests beautifulsoup4 lxml pillow pytesseract
+
+      - name: Fetch data
+        env:
+          PYTHONUNBUFFERED: 1
+        run: python scripts/fetch_data.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "hs-data-bot"
+          git config user.email "bot@noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: update data $(date -u +%Y-%m-%d)"
+          git push

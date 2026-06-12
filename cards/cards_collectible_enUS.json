@@ -15711,7 +15711,7 @@
     "name": "Twilight Egg",
     "rarity": "COMMON",
     "set": "CATACLYSM",
-    "text": "[x]<b>Deathrattle:</b> Summon a\n2/2 Whelp. <i>(Gains +1/+1\n  at the start of your turns!)  </i>",
+    "text": "[x]<b>Deathrattle:</b> Summon a\n{0}/{1} Whelp. <i>(Gains +1/+1\n  at the start of your turns!)  </i>",
     "type": "MINION"
   },
   {
@@ -16979,7 +16979,7 @@
     "artist": "Luca Zontini",
     "cardClass": "HUNTER",
     "collectible": true,
-    "cost": 3,
+    "cost": 4,
     "dbfId": 122939,
     "flavor": "You better be careful or else I'll unleash my tiny army!",
     "howToEarnGolden": "Earnable on <i>CATACLYSM</i> Reward Track.",
@@ -118659,7 +118659,7 @@
     "name": "The Eternal Hold",
     "rarity": "LEGENDARY",
     "set": "TIME_TRAVEL",
-    "text": "[x]<b>Discover</b> any Demon that\ncosts (5) or more. If your\ndeck has no minions,\nyour next one costs (0).",
+    "text": "[x]<b>Discover</b> any Demon that\ncosts (5) or more. If your\ndeck has no minions,\nyour next one costs (1).",
     "type": "LOCATION"
   },
   {
@@ -120331,7 +120331,7 @@
       "TAUNT"
     ],
     "set": "THE_LOST_CITY",
-    "text": "[x]<b>Battlecry:</b> Give your\nother minions with 2 or less\nAttack +1/+2 and <b>Taunt</b>.",
+    "text": "[x]<b>Battlecry:</b> Give your\nother minions with 2 or less\nAttack +1/+1 and <b>Taunt</b>.",
     "type": "MINION"
   },
   {

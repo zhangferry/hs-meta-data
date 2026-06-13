@@ -2,16 +2,16 @@
   "reportNumber": 351,
   "reportDate": "Thu, 04 Jun 2026 16:00:26 +0000",
   "source": "vicious_syndicate",
-  "fetchDate": "2026-06-12T11:41:17.926092Z",
+  "fetchDate": "2026-06-13T10:25:04.929357Z",
   "archetypes": [],
   "matrix": [],
   "rankBrackets": [
-    "all",
-    "legend"
+    "legend",
+    "all"
   ],
   "imageUrls": {
-    "all": "https://www.vicioussyndicate.com/wp-content/uploads/DRR351-Winrate-All.png",
-    "legend": "https://www.vicioussyndicate.com/wp-content/uploads/DRR351-Winrate-L.png"
+    "legend": "https://www.vicioussyndicate.com/wp-content/uploads/DRR351-Winrate-L.png",
+    "all": "https://www.vicioussyndicate.com/wp-content/uploads/DRR351-Winrate-All.png"
   },
   "dataQuality": "none",
   "parseMethod": "failed",

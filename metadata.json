@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T10:25:04.930804+00:00Z",
+  "lastUpdated": "2026-06-14T10:47:00.034978+00:00Z",
   "version": "1.0.0",
   "sources": {
     "hearthstone_json": "https://api.hearthstonejson.com",
@@ -11,7 +11,7 @@
     "cards_zhCN": 7948,
     "cards_enUS": 7948,
     "archetypes": 748,
-    "meta_deck_entries": 24159,
+    "meta_deck_entries": 24437,
     "matchup_quality": "none",
     "matchup_report": 351
   }

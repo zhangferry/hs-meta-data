@@ -1979,7 +1979,7 @@
     "name": "Silver Hand Regent",
     "rarity": "COMMON",
     "set": "TGT",
-    "text": "<b>Inspire:</b> Summon a 1/1 Silver Hand Recruit.",
+    "text": "<b>Inspire:</b> Summon a {0} Silver Hand Recruit.",
     "type": "MINION"
   },
   {
@@ -7696,7 +7696,7 @@
     "name": "Soldier's Caravan",
     "rarity": "RARE",
     "set": "THE_BARRENS",
-    "text": "[x]At the start of your turn,\nsummon two 1/1\nSilver Hand Recruits.",
+    "text": "[x]At the start of your turn,\nsummon two {0}\nSilver Hand Recruits.",
     "type": "MINION"
   },
   {
@@ -16239,7 +16239,7 @@
     ],
     "rarity": "RARE",
     "set": "CATACLYSM",
-    "text": "[x]At the end of your turn,\nget a random Holy Spell.\nReduce its Cost by (3).",
+    "text": "[x]At the end of your turn,\nget a random Holy spell.\nReduce its Cost by (3).",
     "type": "MINION"
   },
   {
@@ -17963,8 +17963,8 @@
     "dbfId": 124074,
     "flavor": "I SEES THE LIGHT! Oh wait it's just candle...",
     "health": 3,
-    "howToEarn": "Earnable by participating in a special event.",
-    "howToEarnGolden": "Earnable by participating in a special event",
+    "howToEarn": "Earnable after opening a <i>CATACLYSM</i> card pack.",
+    "howToEarnGolden": "Earnable after opening a golden <i>CATACLYSM</i> card pack.",
     "id": "CATA_EVENT_401",
     "mechanics": [
       "SPELLPOWER"
@@ -29107,7 +29107,7 @@
     "name": "Muster for Battle",
     "rarity": "RARE",
     "set": "CORE",
-    "text": "Summon three 1/1 Silver Hand Recruits. Equip a 1/4 Weapon.",
+    "text": "Summon three {0} Silver Hand Recruits. Equip a 1/4 Weapon.",
     "type": "SPELL"
   },
   {
@@ -34581,7 +34581,7 @@
     "name": "Stand Against Darkness",
     "rarity": "COMMON",
     "set": "PLACEHOLDER_202204",
-    "text": "Summon five 1/1 Silver Hand Recruits.",
+    "text": "Summon five {0} Silver Hand Recruits.",
     "type": "SPELL"
   },
   {
@@ -47183,7 +47183,7 @@
       "DEATHRATTLE"
     ],
     "set": "WILD_WEST",
-    "text": "Summon two 1/1 Silver Hand Recruits with \"<b>Deathrattle:</b> Summon\na 1/1 Frail Ghoul\".",
+    "text": "Summon two {0} Silver Hand Recruits with \"<b>Deathrattle:</b> Summon\na 1/1 Frail Ghoul\".",
     "type": "SPELL"
   },
   {
@@ -75273,7 +75273,7 @@
     "name": "Muster for Battle",
     "rarity": "RARE",
     "set": "GVG",
-    "text": "Summon three 1/1 Silver Hand Recruits. Equip a 1/4 Weapon.",
+    "text": "Summon three {0} Silver Hand Recruits. Equip a 1/4 Weapon.",
     "type": "SPELL"
   },
   {
@@ -76930,7 +76930,7 @@
     "type": "HERO"
   },
   {
-    "artist": "Rodrigo Camilo",
+    "artist": "Timur Shevtsov",
     "cardClass": "WARRIOR",
     "collectible": true,
     "dbfId": 116082,
@@ -77185,6 +77185,32 @@
     "heroPowerDbfId": 127942,
     "id": "HERO_01bt",
     "name": "Gazlowe",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "dbfId": 130930,
+    "health": 30,
+    "heroPowerDbfId": 130931,
+    "id": "HERO_01bw",
+    "name": "Dr. Boom",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "dbfId": 130950,
+    "health": 30,
+    "heroPowerDbfId": 66836,
+    "id": "HERO_01bx",
+    "name": "Henchman Boulderfist",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -78100,6 +78126,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Thunder Fire Studio",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "dbfId": 130939,
+    "health": 30,
+    "heroPowerDbfId": 130940,
+    "id": "HERO_02bz",
+    "name": "Wuxia Fireheart",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Cole Eastburn",
     "cardClass": "SHAMAN",
     "collectible": true,
@@ -78108,6 +78147,19 @@
     "heroPowerDbfId": 55964,
     "id": "HERO_02c",
     "name": "The Thunder King",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "dbfId": 130953,
+    "health": 30,
+    "heroPowerDbfId": 66933,
+    "id": "HERO_02ca",
+    "name": "Jailbird Inzah",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -78914,6 +78966,45 @@
     "heroPowerDbfId": 66931,
     "id": "HERO_03bo",
     "name": "Beast Tess",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Mooncolony & The Hearthstone Art Team",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "dbfId": 130927,
+    "health": 30,
+    "heroPowerDbfId": 130928,
+    "id": "HERO_03bs",
+    "name": "Maiev, Hand of Vengeance",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "dbfId": 130948,
+    "health": 30,
+    "heroPowerDbfId": 66931,
+    "id": "HERO_03bt",
+    "name": "Mastermind Vanessa",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "dbfId": 131084,
+    "health": 30,
+    "heroPowerDbfId": 131085,
+    "id": "HERO_03by",
+    "name": "Aya Blackpaw",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -79772,6 +79863,32 @@
     "heroPowerDbfId": 65542,
     "id": "HERO_04bs",
     "name": "Finley & Metzen",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "dbfId": 130954,
+    "health": 30,
+    "heroPowerDbfId": 65542,
+    "id": "HERO_04bv",
+    "name": "Sir Alarm-O",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "dbfId": 130958,
+    "health": 30,
+    "heroPowerDbfId": 65542,
+    "id": "HERO_04bw",
+    "name": "Runebound Beatrix",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -80637,6 +80754,32 @@
     "type": "HERO"
   },
   {
+    "artist": "Thunder Fire Studio",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "dbfId": 130942,
+    "health": 30,
+    "heroPowerDbfId": 130943,
+    "id": "HERO_05bt",
+    "name": "Wuxia Sylvanas",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "dbfId": 130947,
+    "health": 30,
+    "heroPowerDbfId": 65540,
+    "id": "HERO_05bu",
+    "name": "Prison Break Mukla",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Glenn Rane",
     "cardClass": "HUNTER",
     "collectible": true,
@@ -81451,6 +81594,32 @@
     "heroPowerDbfId": 66926,
     "id": "HERO_06bo",
     "name": "Firelands Malfurion",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Thunder Fire Studio",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "dbfId": 130945,
+    "health": 30,
+    "heroPowerDbfId": 66926,
+    "id": "HERO_06bs",
+    "name": "Wuxia Elise",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "dbfId": 130949,
+    "health": 30,
+    "heroPowerDbfId": 66926,
+    "id": "HERO_06bt",
+    "name": "Model Prisoner Faelin",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -82314,6 +82483,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Timur Shevtsov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "dbfId": 127685,
+    "health": 30,
+    "heroPowerDbfId": 66935,
+    "id": "HERO_07bq",
+    "name": "Nefarious Nemsy",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Thunder Fire Studio",
     "cardClass": "WARLOCK",
     "collectible": true,
@@ -82348,6 +82530,32 @@
     "heroPowerDbfId": 129095,
     "id": "HERO_07bt",
     "name": "Murozond the Inevitable",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "dbfId": 130952,
+    "health": 30,
+    "heroPowerDbfId": 66935,
+    "id": "HERO_07bw",
+    "name": "Escapee Zail",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "dbfId": 130957,
+    "health": 30,
+    "heroPowerDbfId": 66935,
+    "id": "HERO_07bx",
+    "name": "Gaolbreaker Godfrey",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -83380,6 +83588,32 @@
     "type": "HERO"
   },
   {
+    "artist": "Allan Arello",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "dbfId": 130936,
+    "health": 30,
+    "heroPowerDbfId": 130937,
+    "id": "HERO_08ck",
+    "name": "Millhouse Manastorm",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "dbfId": 130955,
+    "health": 30,
+    "heroPowerDbfId": 64973,
+    "id": "HERO_08cl",
+    "name": "Dalaran Aegwynn",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "N. Saviori & T. Shevtsov",
     "cardClass": "MAGE",
     "collectible": true,
@@ -84216,6 +84450,45 @@
     "type": "HERO"
   },
   {
+    "artist": "Grafit",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "dbfId": 130951,
+    "health": 30,
+    "heroPowerDbfId": 66929,
+    "id": "HERO_09bu",
+    "name": "Info Broker Lazul",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "dbfId": 130962,
+    "health": 30,
+    "heroPowerDbfId": 130963,
+    "id": "HERO_09bv",
+    "name": "Unfettered Azalina",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Mooncolony & The Hearthstone Art Team",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "dbfId": 132172,
+    "health": 30,
+    "heroPowerDbfId": 132173,
+    "id": "HERO_09bw",
+    "name": "Maiev, Hand of Vengeance",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Wayne Reynolds",
     "cardClass": "PRIEST",
     "collectible": true,
@@ -85009,6 +85282,32 @@
     "type": "HERO"
   },
   {
+    "artist": "Luke Mancini",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "dbfId": 130933,
+    "health": 30,
+    "heroPowerDbfId": 130934,
+    "id": "HERO_10br",
+    "name": "Irida Sinseeker",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Tales Irie",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "dbfId": 130956,
+    "health": 30,
+    "heroPowerDbfId": 66907,
+    "id": "HERO_10bs",
+    "name": "Unchained Omen",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "L. Lullabi & A. Zemskov",
     "cardClass": "DEMONHUNTER",
     "collectible": true,
@@ -85589,6 +85888,45 @@
     "heroPowerDbfId": 78162,
     "id": "HERO_11b",
     "name": "Arthas Menethil",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Tales Irie",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "dbfId": 130946,
+    "health": 30,
+    "heroPowerDbfId": 100116,
+    "id": "HERO_11bc",
+    "name": "Imprisoned Lana'thel",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Tee Fuyuan",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "dbfId": 130959,
+    "health": 30,
+    "heroPowerDbfId": 130960,
+    "id": "HERO_11bd",
+    "name": "Prison Doctor Thal'ena",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "dbfId": 131088,
+    "health": 30,
+    "heroPowerDbfId": 100116,
+    "id": "HERO_11bi",
+    "name": "Judge Jailer",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -88859,6 +89197,773 @@
     "type": "MINION"
   },
   {
+    "artist": "Juan Calle",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 123995,
+    "flavor": "Honestly compared to the prison this is actually an improvement.",
+    "health": 6,
+    "id": "JAIL_007",
+    "name": "Sewer Imp",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Deal 2\n damage to all enemies.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 126094,
+    "flavor": "YOU NO THROW CANDLE!!!",
+    "health": 6,
+    "id": "JAIL_029",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Rioter",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "After a friendly minion survives damage,\ngive it +1 Attack.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tee Fuyuan",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 125643,
+    "flavor": "For my next trick I need a volunteer. Please inspect the battlefield and ensure there are no trap doors or otherwise concealed exits.",
+    "health": 4,
+    "howToEarnGolden": "Earnable on <i>Escape from Violet Hold</i> Reward Track.",
+    "id": "JAIL_030",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Escape Artist",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]After this attacks and\nsurvives, draw a card and\nescape the game!",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dmitry Bolotov",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 125660,
+    "flavor": "Now all of Dalaran knows you're here.",
+    "health": 3,
+    "id": "JAIL_035",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "Vigilant Sentry",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> If your deck has\nno Neutral cards, summon\n two Vigilant Sentries.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 124003,
+    "flavor": "Bad news for your flower garden.",
+    "health": 3,
+    "id": "JAIL_101",
+    "name": "Violet Punisher",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "targetingArrowText": "Steal bonus effects.",
+    "text": "[x]<b>Battlecry:</b> Choose an\nenemy minion. Steal its\n<b>Bonus Effects</b> and gain\n +1/+1 for each stolen.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sonderflex",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 125462,
+    "elite": true,
+    "flavor": "BE NOT AFRAID",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "id": "JAIL_118",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "V'ama, Looming Death",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Battlecry:</b> Destroy all\nnon-Paladin minions.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 126353,
+    "elite": true,
+    "flavor": "“Millhouse Manastorm, I'm coming for you!” His wife’s words haunted him ever since she escaped from Violet Hold. One night, he heard a strange ZAP! as he stepped through a portal, and found himself nearly a decade in the past - Millificent’s cold cell waiting for him.",
+    "health": 5,
+    "id": "JAIL_122",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Jailhouse Manastorm",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Battlecry:</b> After you cast a\nspell this game, summon\na random minion of the\nsame Cost.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 126354,
+    "flavor": "Oh nah, these aren't maps! It's... uh... just arcane hopscotch!",
+    "health": 5,
+    "id": "JAIL_123",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "Breakout Architect",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Battlecry:</b> <b>Discover</b> a spell\nthat costs (5) or more. It\n casts twice when played.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tee Fuyuan",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 126356,
+    "flavor": "Oh snappers!",
+    "id": "JAIL_125",
+    "name": "Cold Snap",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "FROST",
+    "text": "<b>Freeze</b> an enemy.\nGet a random\nFrost spell.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 127815,
+    "flavor": "Do NOT let them cook!",
+    "id": "JAIL_200",
+    "name": "Infest the Scullery",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "Summon a random\n 4-Cost minion.\n<i>(Improved by your hero attacks this game.)</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Adriel",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 127932,
+    "flavor": "'eye of newt, toe of frog, hand of... waving.",
+    "id": "JAIL_201",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "Secret Ingredient",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Choose One -</b>\nGive your hero +2 Attack this turn; or get a random Druid card.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 127946,
+    "flavor": "Yes chef!",
+    "health": 3,
+    "id": "JAIL_202",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "Spiderling",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "Your hero has +1 Attack\non your turn.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Felideus Bubastis",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 127994,
+    "flavor": "One arm bandit.",
+    "health": 3,
+    "howToEarnGolden": "Earnable on <i>Escape from Violet Hold</i> Reward Track.",
+    "id": "JAIL_204",
+    "name": "Solitary Prisoner",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "Costs (2) if there are no minions on the battlefield.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 131316,
+    "flavor": "He actually came clean about everything that went down in Gadgetzan in exchange for a lighter sentence.",
+    "health": 6,
+    "howToEarnGolden": "Earnable on <i>Escape from Violet Hold</i> Reward Track.",
+    "id": "JAIL_205",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Rat Burglar",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]At the end of your turn,\nsteal all cards that entered\nyour opponent's hand\nduring your turn.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 128019,
+    "flavor": "Just be sure to draw the cards UNDER the table, alright?",
+    "id": "JAIL_206",
+    "name": "Dark Bribe",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "Draw 3 cards.\nPick one to give to\nyour opponent.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 125571,
+    "flavor": "\"Wait Rogue is meta?\"\n\"Always has been...\"",
+    "id": "JAIL_225",
+    "name": "Nab",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Deal $3 damage\nto a minion. If it dies,\nshuffle a copy of it into\nyour deck that costs (2).",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tee Fuyuan",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 125878,
+    "flavor": "\"If you let me out I'll tell you what the next Hearthstone expansion is.\"",
+    "health": 6,
+    "id": "JAIL_303",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "Ancient Augur",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "targetingArrowText": "Discard a minion.",
+    "text": "[x]<b>Battlecry:</b> Look at 3 cards\nin your opponent's hand\n and secretly choose one.\n  <b>Deathrattle:</b> Discard it.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 126100,
+    "flavor": "What type? Stun? Sleep? Sheep?",
+    "id": "JAIL_307",
+    "name": "Crowd Control",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "FIRE",
+    "text": "[x]Deal $2 damage\nto all minions.\nIf your deck has 25 or\nmore cards, deal $2 more.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 126104,
+    "flavor": "What a gentle-ogre! Always gets the door for others.",
+    "health": 7,
+    "id": "JAIL_311",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "Scrappy Defender",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Taunt</b>\nHas +5 Attack if your deck\nhas 25 or more cards.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126109,
+    "flavor": "The cake is a lie.",
+    "id": "JAIL_312",
+    "name": "Contraband Wands",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "Get 3 Arcane Missiles.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Felideus Bubastis",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 126111,
+    "flavor": "Careful! This potion has a bit of a KICK to it!",
+    "health": 3,
+    "id": "JAIL_313",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Bootleg Alchemist",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "targetingArrowText": "Transform a card into a spell.",
+    "text": "[x]<b>Battlecry:</b> Choose a card in\nyour hand. Transform it into\n a spell that costs (5) more\n   <i>(keeps its original Cost).</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 126113,
+    "flavor": "\"Knock knock.\"\n\"Who's there?\"\n\"Distracting Sheep.\"\n\"Distracting sheep wh- BAAAHHHH!\"",
+    "id": "JAIL_315",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "Mystic Misdirection",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "ARCANE",
+    "text": "[x]<b>Secret:</b> When an enemy\nminion attacks, transform\nit into a 1/1 Sheep.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 126116,
+    "elite": true,
+    "flavor": "The skeleton belongs to the person who last tried to use it.",
+    "id": "JAIL_319",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "The Skeleton Key",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "ARCANE",
+    "text": "[x]<b>Discover</b> a spell,\nor refresh your options\n<i>(20% chance to take 5\ndamage each refresh!)</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 126253,
+    "flavor": "Welcome to Dalaran, where the spells are made up and the points don't matter!",
+    "health": 4,
+    "id": "JAIL_321",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Tricksy Improviser",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Prepare</b>\n<b>Battlecry:</b> If you've cast\na spell this turn, cast a\n random Mage <b>Secret</b>.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 126616,
+    "flavor": "Omg your card back is SO last season.",
+    "id": "JAIL_326",
+    "name": "Judgment",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "HOLY",
+    "text": "[x]<b>Prepare</b>\nChoose a friendly minion.\nSet all minions' stats\nequal to that minion's.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 126617,
+    "flavor": "You're good enough, strong enough, and gosh darnit people like you.",
+    "id": "JAIL_327",
+    "name": "Reinforcement Aura",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "HOLY",
+    "text": "[x]At the end of your turn,\nsummon a minion from\nyour deck that costs (2)\nor less. Lasts 3 turns.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126618,
+    "flavor": "She puts the \"scar\" in scarlet.",
+    "health": 2,
+    "id": "JAIL_328",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "Scarlet Bruiser",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Deathrattle:</b> If your deck\nhas no Neutral cards, get\na random Paladin card.\nIt costs (2) less.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 126619,
+    "durability": 0,
+    "flavor": "YOU CAN'T HANDLE THE TRUTH!",
+    "health": 3,
+    "id": "JAIL_329",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Truth Seeker",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "After your hero attacks, give your Paladin minions +2/+2.",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Eric Kenji",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 126620,
+    "flavor": "Stand ready for my arrival, worm.",
+    "health": 3,
+    "id": "JAIL_330",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Dalaran Champion",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Divine Shield</b>, <b>Taunt</b>\nWhenever this gains stats,\ngain an extra +1/+1\n<i>(wherever this is).</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 126597,
+    "durability": 0,
+    "flavor": "How long can this go on? Apparently for three whole flavor texts.",
+    "health": 2,
+    "id": "JAIL_376",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "Ball and Chain",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Deathrattle:</b>\nGive your damaged minions +1/+2.",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126652,
+    "flavor": "Also makes prisoners tell the truth.",
+    "id": "JAIL_377",
+    "name": "Holy Bola!",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "HOLY",
+    "text": "Draw a card.\nIf it costs (2) or less, draw another.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 126355,
+    "flavor": "One does not simply walk out of The Violet Hold. Its gates are guarded by more than just Boulderfist Ogres. There is evil there that does not sleep, and Spire Security's great eye is ever watchful.",
+    "health": 4,
+    "id": "JAIL_379",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Spire Security",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Battlecry:</b> Reveal a spell in\nyour deck. If it costs (5) or\nmore, deal 5 damage split\n   among enemy minions.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 125996,
+    "durability": 0,
+    "flavor": "I am a rat and I'm digging a hole. Diggy diggy hole, diggy diggy hole!",
+    "health": 2,
+    "id": "JAIL_380",
+    "name": "Smuggled Shovel",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Deathrattle:</b> Draw a spell that didn't start in your deck.",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 10,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 126002,
+    "elite": true,
+    "flavor": "Inmate Intake 031306. Reason for arrest: Ate too many noobs.",
+    "health": 10,
+    "id": "JAIL_384",
+    "mechanics": [
+      "START_OF_GAME_KEYWORD",
+      "TAUNT"
+    ],
+    "name": "Chainbreaker Hogger",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Taunt</b>\n<b>Start of Game:</b> Duplicate\nall other <b>Legendary</b> cards\nin your deck.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sonderflex",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 125893,
+    "flavor": "Trying to get a toddler ready to leave the house.",
+    "id": "JAIL_386",
+    "name": "Scramble for Gear",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "Gain 2 Armor. Shuffle five Gear spells into your deck that give\n2 Armor when drawn.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126598,
+    "flavor": "\"Mano a mano, man-to-man. Just you, me, and my ELEKK!\"",
+    "id": "JAIL_387",
+    "name": "Release the Beasts",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Give minions in\n your hand +1/+1.\n<b> Legendary</b> minions\n get an extra +2/+1.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 125934,
+    "flavor": "It's Sewer Swimmer Saturday!",
+    "health": 4,
+    "id": "JAIL_395",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Sewer Swimmer",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "targetingArrowText": "Trigger a Deathrattle.",
+    "text": "[x]<b>Prepare</b>\n<b>Battlecry:</b> Trigger a friendly\n minion's <b>Deathrattle.</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eric Kenji",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 126621,
+    "elite": true,
+    "flavor": "The crimes of the Scarlet Crusade had become too great for Azeroth to ignore. Behind bars, Beatrix has taken over a wing of the prison with her fellow crusaders, demanding that the mages give them an incantation to disable the Hold’s defenses.",
+    "health": 6,
+    "id": "JAIL_397",
+    "mechanics": [
+      "START_OF_GAME_KEYWORD",
+      "TAUNT"
+    ],
+    "name": "Commander Beatrix",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Taunt</b>\nWhile building your deck,\npick a 2-Cost minion. Ten\n copies join your deck!",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 125918,
+    "flavor": "What the heck is this? Straight to jail.",
+    "health": 6,
+    "id": "JAIL_398",
+    "mechanics": [
+      "DEATHRATTLE",
+      "InvisibleDeathrattle"
+    ],
+    "name": "IMPFERNAL!",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Deathrattle:</b> Deal 3 damage\nto all other characters. <i>(Also\ntriggers in hand or deck.)</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Adriel",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 125917,
+    "flavor": "Bah! What does that Demon know anyways? Huh, what's wrong?\nShe's right behind me isn't she...",
+    "health": 5,
+    "id": "JAIL_399",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "Imp Gang Stooge",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Taunt</b>. <b>Deathrattle:</b>\nPut a 9/9 Demon with\n<b>Taunt</b> and <b>Lifesteal</b> on the\nbottom of your deck.",
+    "type": "MINION"
+  },
+  {
     "artist": "Mooncolony",
     "attack": 4,
     "cardClass": "NEUTRAL",
@@ -88884,6 +89989,1686 @@
     "type": "MINION"
   },
   {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 125803,
+    "elite": true,
+    "flavor": "Warptooth's life of crime can be directly linked back to a botched wisdom tooth operation.",
+    "health": 3,
+    "id": "JAIL_421",
+    "mechanics": [
+      "CHARGE"
+    ],
+    "name": "Warptooth",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Charge</b>. If three friendly\ncharacters take damage on\none of your turns, summon\n  this from hand or deck.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Leroy Steinmann",
+    "attack": 7,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 126055,
+    "elite": true,
+    "flavor": "The vengeful spirit’s reign of terror in the Witchwood has come to an end. But more and more of Azalina’s whispers have been escaping her cage. How many guards are under her spell? Only one thing is certain: any deal Vanessa strikes with her will come at a cost...",
+    "health": 7,
+    "id": "JAIL_430",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Azalina Soulsever",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Your deck is 20 cards, plus\n20 copied from your enemy.\n<b>Battlecry:</b> Draw until\nyour hand is full.",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126122,
+    "flavor": "[ ] [ ] [ ]\n[ ] [8] [ ]\n[ ] [ ] [ ]",
+    "health": 3,
+    "id": "JAIL_432",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Mind Sweeper",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Battlecry:</b> If you played a copy\nof an opponent's card while\nholding this, deal 2 damage\nto all enemy minions.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 126124,
+    "flavor": "Hit the road, shackle, and don't you come back no more.",
+    "id": "JAIL_433",
+    "name": "Unshackle Soul",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "[x]Destroy a minion.\nIf you played a copy of an\nopponent's card while\nholding this, this costs (1).",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 126127,
+    "flavor": "She's a priest main at heart, but is fascinated by the other classes' cards.",
+    "health": 3,
+    "id": "JAIL_434",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "Enthralled Shade",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b><b>Deathrattle:</b> </b>Reduce the\nCost of cards in your hand\nthat were copied from\nyour opponent by (1).",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 126136,
+    "flavor": "Made you over-extend!",
+    "health": 12,
+    "id": "JAIL_435",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Rampaging Hound",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Prepare</b>\n<b>Battlecry:</b> Force all enemy\nminions to attack this.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126180,
+    "flavor": "Spider Bake Sale. All proceeds go to real spiders.",
+    "id": "JAIL_436",
+    "name": "Widow's Bite",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "Give your hero +1 Attack this turn. Gain 1 Armor. Add \"Widow's Feast\" to your hand.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dmitry Bolotov",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 126252,
+    "flavor": "Once in a while a group of Frail Ghouls will try to escape their end of turn fate.",
+    "health": 7,
+    "id": "JAIL_440",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Tower of Ghouls",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "After this minion takes damage, summon two 1/1 Frail Ghouls.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126254,
+    "flavor": "Good news! We've lowered your blood pressure!",
+    "id": "JAIL_441",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "Drink Blood",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "<b>Lifesteal</b>\nDeal $3 damage to a minion. Refresh your Hero Power.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 5,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 126255,
+    "flavor": "The doctor is in... disguise!",
+    "health": 1,
+    "id": "JAIL_442",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "Disguised Doctor",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Can be played on either side.\n<b>Deathrattle:</b> Shuffle 4 Blights\ninto your deck that deal 2\ndamage when drawn.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 7,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 126259,
+    "elite": true,
+    "flavor": "\"I'm actually a nice guy when you get to know me.\" - The Living Plague",
+    "health": 7,
+    "id": "JAIL_443",
+    "mechanics": [
+      "CHARGE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "The Living Plague",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Charge</b>. Instead of damaging\nheroes, this shuffles that many\nBlights into their deck that deal\n 2 damage when drawn.",
+    "type": "MINION"
+  },
+  {
+    "artist": "AJ Nazzaro",
+    "attack": 6,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 126260,
+    "flavor": "Sawbones saw bones to bone saw.",
+    "health": 4,
+    "id": "JAIL_444",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Sawbones",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Prepare</b>. <b>Battlecry:</b> Destroy\nall your other minions. Draw\na card and refresh a Mana\n   for each one destroyed.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabor Szikszai",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126261,
+    "flavor": "Go! Fetch!",
+    "id": "JAIL_445",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "Bone Flurry",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Deal $3 damage randomly\nsplit among enemies. \nIf a friendly minion died\nthis turn, deal $3 more.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 126365,
+    "elite": true,
+    "flavor": "Blood-Princess Thal’ena has been imprisoned for longer than the archmages can remember. Posing as the prison’s doctor, Thal’ena is not content to sate her hunger. Locked in her lab, she is creating something terrifying…",
+    "health": 5,
+    "id": "JAIL_446",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Blood Doctor Thal'ena",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Battlecry:</b> Get a\nsecond Hero Power\nthat costs <b>Corpses</b>.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 126479,
+    "flavor": "I was so close to solving the case. And that's when it hit me- a tentacle in the back of the head...",
+    "health": 4,
+    "howToEarnGolden": "Earnable on <i>Escape from Violet Hold</i> Reward Track.",
+    "id": "JAIL_447",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "Reckless Detective",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Rush</b>. <b>Deathrattle:</b> Get\nDetective's Clothes that\ngive +4/+4 and <b>Rush</b>.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 6,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 126482,
+    "elite": true,
+    "flavor": "Karov didn't care - Old God's corruption was a small price to pay for getting swole.",
+    "health": 6,
+    "id": "JAIL_448",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "Karov the Broken",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Deathrattle:</b> Get three\n1/1 copies of random\n<b>Legendary</b> minions. They cost (1).",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 1,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126502,
+    "durability": 0,
+    "flavor": "LET THE BODIES HIT THE BOARD!",
+    "health": 3,
+    "id": "JAIL_450",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Corpse Cannon",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 2
+    },
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "After your hero\nattacks, summon a\n1/1 Frail Ghoul.",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 126503,
+    "flavor": "I'm starting with the clone in the mirror.",
+    "id": "JAIL_451",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "Blood Clone",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 2,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "[x]<b>Discover</b> a 5-Cost minion.\nSpend 5 <b>Corpses</b> to\nsummon a copy of it.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 126627,
+    "flavor": "AlRiGht I'Ll bE gOinG. Oh, JUsT oNe mORe tHinG...",
+    "health": 3,
+    "id": "JAIL_452",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "Disguised Detective",
+    "overload": 2,
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "Can be played on either side. <b>Overload</b> that\nplayer for (2).",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 126666,
+    "flavor": "Polly wants your lunch money. SQUACK!",
+    "health": 4,
+    "id": "JAIL_453",
+    "name": "Jailbird",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Taunt</b>. When you\n <b>Prepare</b> while holding this,\nreduce this card's Cost by\n the same amount.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Leroy Steinmann",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 126911,
+    "flavor": "uh, actually I just remembered that I forgot to fast...",
+    "id": "JAIL_454",
+    "name": "Emergency Surgery",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Choose an enemy minion.\n Summon three 3/1\nUndead with <b>Lifesteal</b>\nthat attack it.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127260,
+    "flavor": "\"Was that half of a guard always there?\"",
+    "health": 4,
+    "id": "JAIL_455",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Disguised Watchman",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "Can be played on either side.\n<b>Battlecry:</b> Deal 1 damage\nto all other friendly minions, twice.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127322,
+    "flavor": "P1ck-P0ck3t p1ck3d a p3ck 0f p1ckl3d p0ck3ts.",
+    "health": 3,
+    "howToEarnGolden": "Earnable on <i>Escape from Violet Hold</i> Reward Track.",
+    "id": "JAIL_456",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "P1CK-P0K3T",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Battlecry:</b> If your deck\nhas 25 or more cards,\ndraw a card.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 127688,
+    "flavor": "After the hijacking, it became an insecuritybot and wondered if it would ever be good enough to guard prisoners again.",
+    "health": 3,
+    "id": "JAIL_457",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Hijacked Securitybot",
+    "race": "MECHANICAL",
+    "races": [
+      "ELEMENTAL",
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Prepare</b>\n<b>Battlecry:</b> Give your other minions +1/+1.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 127711,
+    "durability": 0,
+    "elite": true,
+    "flavor": "SAY HELLO!",
+    "health": 3,
+    "id": "JAIL_458",
+    "mechanics": [
+      "BATTLECRY",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Tiny Pal",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Battlecry:</b> Choose your\nelemental ammunition!\n<i>(After your hero attacks,\nchoose another).</i>",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 127996,
+    "flavor": "IT'S SO FLUFFY I'M GOING TO DIE!",
+    "health": 7,
+    "id": "JAIL_459",
+    "mechanics": [
+      "AURA",
+      "RUSH"
+    ],
+    "name": "Arachnathid",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Rush</b>\nAll friendly minions\nare <b>Poisonous</b>.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabriel Lopes",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 128004,
+    "flavor": "You can have your cake and attack with it too!",
+    "health": 2,
+    "id": "JAIL_460",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "Concealing Confection",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Deathrattle:</b> Get a\nrandom weapon.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 128052,
+    "flavor": "Call a medic! But not for me...",
+    "health": 4,
+    "howToEarnGolden": "Earnable on <i>Escape from Violet Hold</i> Reward Track.",
+    "id": "JAIL_461",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Disguised Executioner",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Can be played on either side.\n<b>Battlecry:</b> Destroy a\n random adjacent minion.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 128053,
+    "flavor": "HOG DRIVERRR!",
+    "health": 2,
+    "howToEarnGolden": "Earnable after purchasing the <i>Escape from Violet Hold</i> Tavern Pass.",
+    "id": "JAIL_462",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Getaway Hogdriver",
+    "race": "QUILBOAR",
+    "races": [
+      "QUILBOAR"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Battlecry:</b> Draw 2 cards.\nIf they're both minions, gain <b>Charge</b>.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 129983,
+    "flavor": "Can we go 2-2-2?",
+    "health": 2,
+    "id": "JAIL_470",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Lotus Troublemaker",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Battlecry:</b> Deal 2 damage to a\nrandom enemy. Shoot 1 time!\n<i>(While holding this, play cards\n  for 2 Mana to shoot more!)</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "collectionText": "[x]Get two random 8-Cost\nminions. They cost (1) less\nfor each card you played\nfor 2 Mana this game.",
+    "cost": 3,
+    "dbfId": 130021,
+    "flavor": "On second thought! I am going back to my cell...",
+    "id": "JAIL_474",
+    "name": "Jade Guardians",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Get two random 8-Cost\nminions. They cost (1) less\nfor each card you played\nfor 2 Mana this game.@ <i>(@)</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 125983,
+    "elite": true,
+    "flavor": "It Preps, it Shivs, it Fans, it wins! Slice and Dice does it all!",
+    "id": "JAIL_500",
+    "name": "Slice and Dice",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "Replay all other cards played this turn <i>(targeting enemies if possible).</i> End your turn.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 125985,
+    "flavor": "Call me derivative because I'm always on curve!",
+    "health": 1,
+    "id": "JAIL_501",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Picklock",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "targetingArrowText": "Deal @ damage to an enemy minion.",
+    "text": "[x]All numbers on this card\nequal your remaining Mana.\n<b>Battlecry:</b> Deal 1 damage\nto an enemy minion.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 125986,
+    "flavor": "Weeee woooo... weeee woooo... WEE WOO! WEE WOO! WEE WOO!",
+    "health": 3,
+    "howToEarnGolden": "Earnable on <i>Escape from Violet Hold</i> Reward Track.",
+    "id": "JAIL_502",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Alarm-o-Matic",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "At the start of your turn, swap this minion with a random one in your opponent's hand.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 125988,
+    "durability": 0,
+    "flavor": "Coin-Whip-Concede.",
+    "health": 2,
+    "id": "JAIL_503",
+    "name": "Blackpaw's Whip",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "Costs (1) less for each Coin you're holding.  <b>Deathrattle:</b> Draw a card.",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 125989,
+    "elite": true,
+    "flavor": "If there's one thing the leader of the Jade Lotus learned back in Gadgetzan, it’s that there is no honor among thieves. And yet here she finds herself again - working with backstabbers no better than Kazakus.",
+    "health": 3,
+    "id": "JAIL_504",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Aya, Lotus Kingpin",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]You always go second.\n<b>Battlecry:</b> Pick an upgraded\ncounterfeit to replace your\n    Coins this game. Get two.  ",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 125993,
+    "flavor": "All I said was that it needed a touch more salt!",
+    "health": 2,
+    "id": "JAIL_507",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Spiteful Chef",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "targetingArrowText": "Deal 5 damage to an enemy minion.",
+    "text": "[x]<b>Battlecry:</b> Summon a 2-Cost\n<b>Taunt</b> minion. If you have 10\nor more Mana, summon a\n6-Cost instead.",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 126125,
+    "elite": true,
+    "flavor": "Hunted down and cornered in Shadowfang Keep, Godfrey was left with no choice but to go quietly. But before his time is up, that monster, Crowley, will get what’s coming to him.",
+    "health": 4,
+    "id": "JAIL_509",
+    "mechanics": [
+      "START_OF_GAME_KEYWORD"
+    ],
+    "name": "Godfrey the Betrayer",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Start of Game:</b> Overdrawn\ncards return to your hand\nwhen you have space.\nThey cost (1) less.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 126128,
+    "flavor": "This is the Annihilation. This is the Annihilation now!",
+    "id": "JAIL_510",
+    "name": "Annihilation",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Destroy all minions.\nSummon any Demons\nin the bottom 3 cards\nof your deck.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 126129,
+    "flavor": "Ah, an introvert's dream!",
+    "health": 2,
+    "id": "JAIL_511",
+    "name": "Spire of Solitude",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Summon a Demon\nwith stats equal to your\nhand size. It attacks a\nrandom enemy minion.",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 126135,
+    "flavor": "\"NYEH HEH HEH!\"",
+    "health": 1,
+    "id": "JAIL_513",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "Caged Cranium",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> Gain +1 Health\n  for each card in your hand. ",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 126477,
+    "flavor": "Are you sure? I can see it right there.",
+    "id": "JAIL_514",
+    "name": "The Unseen Atlas",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "Draw 3 cards.\nCosts (1) less for each card in your hand.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126478,
+    "flavor": "This rounds on you, and you, AND YOU!",
+    "id": "JAIL_515",
+    "name": "Shadow Rounds",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "[x]Deal $2 damage to an\nenemy minion. If it dies,\ncast this on another\nrandom enemy minion.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eric Kenji",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 127319,
+    "flavor": "You're taking 2 2/2's!",
+    "health": 4,
+    "id": "JAIL_516",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Scarlet Recruiter",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Battlecry:</b> Summon two\nminions from your deck\nthat cost (2) or less.\nGive them <b>Rush</b>.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 126092,
+    "flavor": "Ohhhh you're a guard who left their gear at home? I am SO sorry, I thought for a moment you were a prisoner trying to escape!",
+    "health": 3,
+    "id": "JAIL_703",
+    "name": "Gullible Guard",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Deathrattle:</b> You can say Sorry this game.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 126098,
+    "flavor": "Aya keeps her stash hidden behind a Poison Bloom poster in her cell.",
+    "id": "JAIL_706",
+    "name": "Thief's Tools",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "Get two random 4-Cost spells. Reduce their Costs by (2).",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 126210,
+    "flavor": "I got the best steals anywhere!",
+    "health": 4,
+    "id": "JAIL_718",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Black Market Auctioneer",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Prepare</b>\nWhenever you cast a spell, draw a card.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sonderflex",
+    "attack": 7,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 126211,
+    "elite": true,
+    "flavor": "Day 7902. I am not alone anymore. Tras’tath can help me… give Irida the strength she needs… Irida. That was my name, but it sounds so strange to me now. The walls won’t stop whispering. They won’t stop they won’t stop they won’t stop",
+    "health": 5,
+    "id": "JAIL_719",
+    "mechanics": [
+      "BATTLECRY",
+      "LIFESTEAL"
+    ],
+    "name": "Irida Sinseeker",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Lifesteal</b>. <b>Battlecry:</b> Send\nyour deck to the Void. At the\nstart of your turns, get two\ncards from the Void.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Milica Celikovic",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126221,
+    "flavor": "He skims a bit from the top. It's just his nature.",
+    "health": 2,
+    "id": "JAIL_720",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "Lotus Bookie",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Deathrattle:</b> Get a Coin.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 126222,
+    "elite": true,
+    "flavor": "Tras'tath did some deep soul searching before they found Irida.",
+    "hasDiamondSkin": true,
+    "health": 1,
+    "id": "JAIL_721",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Tras'tath, Soul Parasite",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Prepare, Rush</b>\nAfter you summon a\n Demon, gain its stats.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dmitry Bolotov",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 126660,
+    "durability": 0,
+    "flavor": "Isn't ALL dust, stardust?",
+    "health": 2,
+    "id": "JAIL_730",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Stardust Scythe",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "After your hero attacks, get a Void Soul.",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Tee Fuyuan",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 126662,
+    "flavor": "WARNING: Soul void if damaged.",
+    "id": "JAIL_732",
+    "name": "Void Soul",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "[x]Summon a random\n1-Cost Demon. Improve\nyour future Void Souls.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 126663,
+    "flavor": "He's the bad guy, DUH!",
+    "health": 4,
+    "id": "JAIL_733",
+    "name": "Vicious Voidscale",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Get\na Void Soul.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 126664,
+    "flavor": "ME SMASH!",
+    "health": 2,
+    "id": "JAIL_734",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "Hellraiser",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Battlecry:</b> <b>Discover</b> a card\nin your deck. If it's empty,\ngain +4/+4 instead.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "collectionText": "[x]<b>Prepare.</b> Summon an\n8-Cost minion. If you've\ncast 3 other spells this\nturn, do it again.",
+    "cost": 7,
+    "dbfId": 126841,
+    "flavor": "Above Code Red but just below Code Ultraviolet.",
+    "id": "JAIL_735",
+    "name": "Code Violet",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "ARCANE",
+    "text": "[x]<b>Prepare.</b> Summon an\n8-Cost minion. If you've\ncast 3 other spells this\nturn, do it again.@ <i>({0} left!)</i> @ <i>(Ready!)</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 126416,
+    "elite": true,
+    "flavor": "Before he hit the big time at The Gallagio, Mug’Zee did a bit of work for the cartels back in Gadgetzan. Let’s just say he won’t be going back.",
+    "health": 7,
+    "id": "JAIL_800",
+    "mechanics": [
+      "START_OF_GAME_KEYWORD"
+    ],
+    "name": "Mug'Zee",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Start of Game:</b> If your deck\nhas no other minions, get\nMug's Hero Power. If it has\nno spells, get Zee's!",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 126407,
+    "flavor": "Looks like it's time for a little PAYBACK!",
+    "id": "JAIL_801",
+    "name": "Molten Gold",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "FIRE",
+    "text": "Deal $4 damage.\n<i>(Cast 3 spells to turn into a minion!)</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 126409,
+    "flavor": "Sure the knuckle dusters are kind of redundant but look how cool they look!",
+    "health": 3,
+    "id": "JAIL_802",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Gallagio Goon",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "After you play a <b>Battlecry</b> minion, give it +1/+1.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kleston Marques",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 126410,
+    "flavor": "\"WHERE IS MY SUPER SUIT?!\"",
+    "id": "JAIL_803",
+    "name": "Frostshatter",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "FROST",
+    "targetingArrowText": "Freeze an enemy.",
+    "text": "[x]<b>Freeze</b> an enemy.\nDraw 2 cards.\n<i>(Cast 3 spells to turn\ninto a minion!)</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 126413,
+    "flavor": "UNLIMITED POWER!!!",
+    "id": "JAIL_805",
+    "name": "Stormfury",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "NATURE",
+    "text": "[x]<b>Lifesteal</b>. Deal 2 damage\nto all enemy minions.\n<i>(Cast 3 spells to turn\ninto a minion!)</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sonderflex",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 126415,
+    "flavor": "When you just put the prisoners in their cells and they're escaping <i>again</i>!",
+    "health": 6,
+    "id": "JAIL_806",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Hexmarshal",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Battlecry:</b> Get a random\n spell that costs (5) or more.\nIf your deck started with no\n  spells, it costs (5) less.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 125998,
+    "elite": true,
+    "faction": "HORDE",
+    "flavor": "After being RUDELY expunged from Stormwind’s sewers, the Rat King declared himself sovereign of Dalaran’s Underbelly. And how convenient for Vanessa and her crew - his smuggling tunnels run right into the Violet Hold…",
+    "health": 5,
+    "id": "JAIL_831",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "King of the Underbelly",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]While building your deck,\n pick 3 contraband Beasts.\n <b><b>Battlecry:</b> Discover</b> one.\nIt costs (3) less.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Joseph Weston",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126600,
+    "elite": true,
+    "flavor": "Maiev believes in scared straight tactics. For most minions, one turn is enough.",
+    "health": 4,
+    "howToEarn": "Earnable on <i>Escape from Violet Hold</i> Reward Track.",
+    "howToEarnGolden": "Earnable after purchasing the <i>Escape from Violet Hold</i> Tavern Pass.",
+    "id": "JAIL_850",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Warden Maiev",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]After you play a minion,\ngive it +3/+3 and make it\n go <b>Dormant</b> for 1 turn.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 126602,
+    "elite": true,
+    "flavor": "His favorite books include Murder on the Gilnean Express, Death on the Yan-Zhe River, And Then There Were None Cards In My Deck.",
+    "health": 5,
+    "id": "JAIL_851",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Inspector Murloc Holmes",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Battlecry:</b> Investigate a card\nin the enemy hand. If they\nplay a card with that name\n next turn, get 3 Coins.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 126604,
+    "elite": true,
+    "flavor": "\"Finally, he's here for you\nIt's the King of the Kobold crew!\"",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "id": "JAIL_852",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Togwaggle, Smuggler King",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Battlecry:</b> Shuffle both\n players' hands together.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 126045,
+    "elite": true,
+    "flavor": "Neth’rek was the leader of a small Nerubian settlement - but that was before the Lich King came. Appearing content with her life as head chef, the wardens have forgotten to see her as a threat…",
+    "health": 3,
+    "id": "JAIL_860",
+    "mechanics": [
+      "START_OF_GAME_KEYWORD"
+    ],
+    "name": "Chef Neth'rek",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Start of Game:</b> If your deck\nonly has cards that cost (3)\nor less, set your Mana to\n10 after five turns!",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabriel Lopes",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126054,
+    "flavor": "\"I baked you a pie!\"\n\"Oh boy what flavor?\"\n\"SPIE-DER FLAVORED!\"",
+    "id": "JAIL_861",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "Noxious Bribe",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Discover</b> a <b>Choose One</b>\ncard. It has both effects\ncombined. Give your\nopponent a plain copy.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 126205,
+    "flavor": "Sauce?",
+    "id": "JAIL_866",
+    "name": "Lethal Recipe",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Draw 2 minions.\nIf you have 10 or more\nMana, give them +3/+3.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gabor Szikszai",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126225,
+    "flavor": "SPIDER JOCKEY",
+    "health": 4,
+    "id": "JAIL_872",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Spider Rider",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "After your hero attacks, draw a card.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 126243,
+    "durability": 0,
+    "elite": true,
+    "flavor": "It's tricky to get a 'vate, to get a 'vate that's not too late - it's tricky!",
+    "health": 3,
+    "id": "JAIL_875",
+    "mechanics": [
+      "DISCOVER",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Staff of Trickery",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]After your hero attacks,\n<b>Discover</b> a Druid card.\nReduce its Cost by\nyour hero's Attack.",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 126294,
+    "flavor": "He crawled through a tunnel of filth, only to come out clean on the other side.",
+    "id": "JAIL_876",
+    "name": "Dig for Freedom",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Give a friendly\nminion \"<b>Deathrattle:</b>\nSummon two random\n4-Cost minions.\"",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126295,
+    "flavor": "Mind if I roll cheese?",
+    "health": 2,
+    "id": "JAIL_877",
+    "name": "Underbelly Network",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "Summon a 2/1 Rat with \"<b>Deathrattle:</b> Draw a card.\"",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Gabor Szikszai",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126299,
+    "flavor": "Updog",
+    "health": 1,
+    "id": "JAIL_878",
+    "name": "Guard Dog",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Deathrattle:</b> Summon\na random 1-Cost\n <b>Deathrattle</b> minion.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 126419,
+    "flavor": "And it was at that moment, she knew, she tripped up.",
+    "id": "JAIL_879",
+    "name": "Beast Tripwire",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Summon a random\n5-Cost Beast. Shuffle 2\nspells into your deck that\ndo it again when drawn.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 126422,
+    "flavor": "Do you have an account with the black market? If you sign up now you'll get 20% off your first crate of stolen goods!",
+    "health": 3,
+    "id": "JAIL_880",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Black Market Overseer",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "Whenever you play a <b>Deathrattle</b> minion,\ngive it <b>Rush</b>.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 126423,
+    "flavor": "What a Long, Strange Trip It's Been",
+    "id": "JAIL_881",
+    "name": "Arcane Tripwire",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "ARCANE",
+    "text": "[x]Deal $5 damage split\namong all enemies. Shuffle\n2 spells into your deck that\ndo it again when drawn.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 126425,
+    "elite": true,
+    "flavor": "He's gonna c4tch y4, c4tch y4, c4tch y4, c4tch y4.",
+    "hasDiamondSkin": true,
+    "health": 2,
+    "id": "JAIL_882",
+    "name": "R4T-C4TCH3R",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Battlecry:</b> Copy all spells\n in your deck.\n <b>Deathrattle:</b> Draw one.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 126472,
+    "flavor": "First we're going to raise our right arm as high as we can. This will help activate our core.",
+    "health": 5,
+    "id": "JAIL_883",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Activated Golem",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "At the end of each turn, gain <b>Reborn</b>.",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 126497,
+    "elite": true,
+    "flavor": "WETVAC MODE ACTIVATE!",
+    "health": 3,
+    "id": "JAIL_887",
+    "name": "Zuramat's Prison",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Choose a card to discard\nto summon a 5/5 <b>Taunt</b>.\n<b>Deathrattle:</b> Free Zuramat\nwho plays one each turn!  ",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 127155,
+    "flavor": "All he needs is a feather to escape.",
+    "health": 12,
+    "id": "JAIL_890",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "Captive Nathrezim",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Prepare</b>, <b>Taunt</b>\nALL minions cost (2) more.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127157,
+    "flavor": "More like A-void Blast, amirite?",
+    "id": "JAIL_891",
+    "name": "Void Blast",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "Deal $3 damage to a\nminion. If it dies,\nget a Void Soul.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127159,
+    "flavor": "I did NOT manifest this.",
+    "id": "JAIL_892",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "Cosmic Manifestations",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "[x]Deal $2 damage. Shuffle\na random Demon Hunter\nspell into your deck.\n<b>Outcast:</b> Do it again.",
+    "type": "SPELL"
+  },
+  {
     "artist": "Timur Shevtsov",
     "attack": 6,
     "cardClass": "WARLOCK",
@@ -88906,6 +91691,214 @@
     "rarity": "LEGENDARY",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "[x]<b>Prepare</b>. <b>Deathrattle:</b> Summon\na random Demon from your\ndeck. Give it \"<b>Deathrattle:</b>\nSummon Moragg.\"",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "collectionText": "[x]<b>Prepare</b>\n<b>Combo:</b> Gain +1/+1 for\neach other card played\nthis turn.",
+    "cost": 4,
+    "dbfId": 124075,
+    "flavor": "A candle on top of your head does NOT help with being <i>stealthy</i>.",
+    "health": 2,
+    "id": "JAIL_909",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "Defias Wannabe",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Prepare</b>\n<b>Combo:</b> Gain +1/+1 for\neach other card played\nthis turn.@ <i>(@)</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Stefano Spagnuolo",
+    "attack": 6,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 124079,
+    "flavor": "\"Sooth.\nSooth.\n...Sooth.\nAm I doing it right?\"",
+    "health": 6,
+    "id": "JAIL_912",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "Soothsayer",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Prepare</b>, <b><b>Taunt</b>.</b>\n<b>Deathrattle:</b> Restore 6\nHealth your hero. Summon a\n   random 6-Cost minion.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 124080,
+    "flavor": "I've <b>Prepared</b> for this moment my whole life sentence.",
+    "id": "JAIL_913",
+    "name": "Hold Them Off!",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "HOLY",
+    "text": "<b>Prepare</b>\nGive a minion +5/+5 and <b>Lifesteal</b>.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 126867,
+    "flavor": "A punishment reserved for only the most cold-blooded criminals.",
+    "id": "JAIL_940",
+    "name": "Undeath Sentence",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "[x]Trigger the <b>Deathrattle</b> of\na random friendly minion\nthat died this game.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126896,
+    "flavor": "It's a Holy Embrace until you notice the rats.",
+    "id": "JAIL_941",
+    "name": "Holy Embrace",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "HOLY",
+    "text": "Restore #4 Health.\n Get a 'Dark Embrace'\n that deals 4 damage.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126898,
+    "flavor": "This is so sad. Azalina play Despaircito.",
+    "health": 6,
+    "id": "JAIL_942",
+    "mechanics": [
+      "CANT_ATTACK",
+      "TAUNT"
+    ],
+    "name": "Specter of Despair",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Taunt</b>\n Can't attack.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabor Szikszai",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "collectionText": "[x]<b>Deathrattle:</b> If you had 4 other\nCaptured Archmages die this\ngame, cast 'Fireball' at\n a random enemy.",
+    "cost": 2,
+    "dbfId": 126874,
+    "faction": "ALLIANCE",
+    "flavor": "Step One: Die.\nStep Two: Perish.\nStep Three: Pass away.\nStep Four: Bite the dust.\nSteps Five-Ten: FIREBALL!",
+    "health": 2,
+    "id": "JAIL_974",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "Captured Archmage",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Deathrattle:</b> If you had 4 other\nCaptured Archmages die this\ngame, cast 'Fireball' at\n a random enemy.@ <i>(@/4)</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Milica Celikovic",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 126937,
+    "flavor": "\"I must not tell lies...\"\n\"I must not tell lies...\"\n\"I must not tell lies...\"",
+    "health": 2,
+    "id": "JAIL_986",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Frantic Forger",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Battlecry:</b> Get a\nrandom playable spell.\nIt is <b>Temporary</b>.",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 126938,
+    "flavor": "It's not that these prisoners don't matter, it's that the guards are a little preoccupied.",
+    "health": 3,
+    "id": "JAIL_987",
+    "name": "Low Security Wing",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Get a random Shaman\nminion. It's locked in\nyour hand until you\nplay another card.",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 125915,
+    "flavor": "If he fits, he sits",
+    "id": "JAIL_997",
+    "name": "Demonic Confinement",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Make a minion go\n<b>Dormant</b> for 2 turns.\nIf it’s a friendly Demon,\ngive it +3/+3 instead.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 125914,
+    "flavor": "Must have been the wind.",
+    "health": 3,
+    "id": "JAIL_998",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Defias Smuggler",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "targetingArrowText": "Give +2 Attack and Rush.",
+    "text": "<b>Prepare</b>. <b>Battlecry:</b>\nGive a friendly minion\n+2 Attack and <b>Rush</b>.",
     "type": "MINION"
   },
   {
@@ -89173,7 +92166,7 @@
     ],
     "rarity": "COMMON",
     "set": "BATTLE_OF_THE_BANDS",
-    "text": "[x]At the end of your turn,\nsummon a 1/1 Silver\nHand Recruit.",
+    "text": "[x]At the end of your turn,\nsummon a{1} {0} Silver\nHand Recruit.",
     "type": "MINION"
   },
   {
@@ -96444,7 +99437,7 @@
     ],
     "set": "CATACLYSM",
     "spellSchool": "HOLY",
-    "text": "Summon two 1/1 Silver Hand Recruits with <b>Divine Shield</b>.",
+    "text": "Summon two {0} Silver Hand Recruits with <b>Divine Shield</b>.",
     "type": "SPELL"
   },
   {
@@ -96519,7 +99512,7 @@
     "name": "Teamwork",
     "rarity": "RARE",
     "set": "CATACLYSM",
-    "text": "[x]Summon and get\nfour 1/1 Silver\nHand Recruits.",
+    "text": "[x]Summon and get\nfour {0} Silver\nHand Recruits.",
     "type": "SPELL"
   },
   {
@@ -100582,7 +103575,7 @@
     "name": "Stand Against Darkness",
     "rarity": "COMMON",
     "set": "OG",
-    "text": "Summon five 1/1 Silver Hand Recruits.",
+    "text": "Summon five {0} Silver Hand Recruits.",
     "type": "SPELL"
   },
   {
@@ -129282,7 +132275,7 @@
       "TAUNT"
     ],
     "set": "THE_SUNKEN_CITY",
-    "text": "<b>Battlecry:</b> If you're holding a Holy Spell, gain <b>Taunt</b> and <b>Divine Shield</b>.",
+    "text": "<b>Battlecry:</b> If you're holding a Holy spell, gain <b>Taunt</b> and <b>Divine Shield</b>.",
     "type": "MINION"
   },
   {
@@ -140213,7 +143206,7 @@
     "name": "Vinecleaver",
     "rarity": "RARE",
     "set": "UNGORO",
-    "text": "[x]After your hero attacks,\nsummon two 1/1 Silver\nHand Recruits.",
+    "text": "[x]After your hero attacks,\nsummon two {0} Silver\nHand Recruits.",
     "type": "WEAPON"
   },
   {
@@ -140345,7 +143338,7 @@
     "name": "Lost in the Jungle",
     "rarity": "COMMON",
     "set": "UNGORO",
-    "text": "Summon two 1/1 Silver Hand Recruits.",
+    "text": "Summon two {0} Silver Hand Recruits.",
     "type": "SPELL"
   },
   {
@@ -158420,7 +161413,7 @@
       "TAUNT"
     ],
     "set": "YEAR_OF_THE_DRAGON",
-    "text": "<b>Twinspell</b>\nSummon two 1/1 Silver Hand Recruits with <b>Taunt</b>.",
+    "text": "<b>Twinspell</b>\nSummon two {0} Silver Hand Recruits with <b>Taunt</b>.",
     "type": "SPELL"
   },
   {

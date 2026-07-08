@@ -23013,5 +23013,14 @@
       ]
     },
     "wild_ccp_signature_core": null
+  },
+  {
+    "id": 867,
+    "name": "Void Demon Hunter",
+    "player_class": 14,
+    "player_class_name": "DEMONHUNTER",
+    "url": "/archetypes/867/void-demon-hunter",
+    "standard_ccp_signature_core": null,
+    "wild_ccp_signature_core": null
   }
 ]

@@ -10575,7 +10575,7 @@
     "artist": "Arthur Bozonnet",
     "cardClass": "WARLOCK",
     "collectible": true,
-    "cost": 1,
+    "cost": 2,
     "dbfId": 49423,
     "elite": true,
     "flavor": "最烂的旅游景点，没有之一。",
@@ -16971,7 +16971,7 @@
     "artist": "Luca Zontini",
     "cardClass": "HUNTER",
     "collectible": true,
-    "cost": 4,
+    "cost": 5,
     "dbfId": 122939,
     "flavor": "当心，不然我就放出我的迷你部队了！",
     "howToEarnGolden": "可以在<i>大地的裂变</i>奖励路线中获得该奖励。",
@@ -21734,7 +21734,7 @@
     "artist": "Arthur Bozonnet",
     "cardClass": "WARLOCK",
     "collectible": true,
-    "cost": 1,
+    "cost": 2,
     "countAsCopyOfDbfId": 49423,
     "dbfId": 116719,
     "elite": true,
@@ -28936,7 +28936,7 @@
     ],
     "set": "CORE",
     "spellSchool": "FIRE",
-    "text": "<b>发现</b>一张<b>战吼</b>随从牌，其法力值消耗减少（1）点。",
+    "text": "<b>发现</b>一张<b>战吼</b>随从牌。",
     "type": "SPELL"
   },
   {
@@ -73881,7 +73881,7 @@
     ],
     "set": "GILNEAS",
     "spellSchool": "FIRE",
-    "text": "<b>发现</b>一张<b>战吼</b>随从牌，其法力值消耗减少（1）点。",
+    "text": "<b>发现</b>一张<b>战吼</b>随从牌。",
     "type": "SPELL"
   },
   {
@@ -89555,7 +89555,7 @@
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "targetingArrowText": "将一张牌变形成为法术牌。",
-    "text": "<b>战吼：</b>选择你手牌中的一张牌，将其变形成为法力值消耗大于或等于（5）点的法术牌<i>（保留其原始法力值消耗。）</i>",
+    "text": "<b>战吼：</b>选择你手牌中的一张牌，将其变形成为法力值消耗增加（5）点的法术牌<i>（保留其原始法力值消耗）。</i>",
     "type": "MINION"
   },
   {
@@ -89701,7 +89701,7 @@
     "name": "达拉然魔像勇士",
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>圣盾</b>。<b>嘲讽</b>。每当本随从获得属性值时，额外获得+1/+1<i>（无论本随从在哪）。</i>",
+    "text": "<b>圣盾</b>。<b>嘲讽</b>。在本随从获得属性值后，额外获得+1/+1<i>（无论本随从在哪）。</i>",
     "type": "MINION"
   },
   {
@@ -89833,13 +89833,13 @@
   },
   {
     "artist": "James Ryman",
-    "attack": 5,
+    "attack": 4,
     "cardClass": "HUNTER",
     "collectible": true,
-    "cost": 5,
+    "cost": 4,
     "dbfId": 125934,
     "flavor": "今天是下水道划水的日子！",
-    "health": 4,
+    "health": 3,
     "id": "JAIL_395",
     "mechanics": [
       "BATTLECRY"
@@ -89927,7 +89927,7 @@
       "TAUNT"
     ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>嘲讽</b>。<b>亡语：</b>将一张9/9并具有<b>嘲讽</b>和<b>吸血</b>的恶魔置于你的牌库底。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>\n将两张8/8并具有<b>嘲讽</b>和<b>吸血</b>的恶魔置于你的牌库底。",
     "type": "MINION"
   },
   {
@@ -89935,11 +89935,11 @@
     "attack": 4,
     "cardClass": "NEUTRAL",
     "collectible": true,
-    "cost": 6,
+    "cost": 7,
     "dbfId": 124150,
     "elite": true,
     "flavor": "想要打出这一套，你至少需要十几张牌配合，我想想……一张加里维克斯，一张钩牙，一张杜加尔，两张古加尔，还有一张呓语魔典……哦，还有那个巨大无比的任务达人。",
-    "health": 4,
+    "health": 3,
     "howToEarn": "完成起始任务后解锁。",
     "howToEarnGolden": "购买<i>逃离紫罗兰监狱</i>炉石通行证后开放解锁。",
     "id": "JAIL_407",
@@ -89976,7 +89976,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>冲锋</b>。如果在你的某个回合中有三个友方角色受到伤害，从手牌或牌库中召唤本随从。",
+    "text": "<b>冲锋</b>。如果在你的某个回合中有四个友方角色受到伤害，从手牌或牌库中召唤本随从。",
     "type": "MINION"
   },
   {
@@ -89991,7 +89991,8 @@
     "health": 7,
     "id": "JAIL_430",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "START_OF_GAME_KEYWORD"
     ],
     "name": "裂魂者阿扎莉娜",
     "race": "UNDEAD",
@@ -90000,7 +90001,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "你的套牌为20张牌，\n外加20张敌方卡牌的复制。<b>战吼：</b>抽牌，直到达到你的手牌上限。",
+    "text": "你的初始生命值为40点。\n你的套牌为20张牌，外加20张敌方卡牌的复制。<b>战吼：</b>抽牌，直到达到你的手牌上限。",
     "type": "MINION"
   },
   {
@@ -90039,13 +90040,13 @@
   },
   {
     "artist": "Slawomir Maniak",
-    "attack": 4,
+    "attack": 3,
     "cardClass": "PRIEST",
     "collectible": true,
-    "cost": 3,
+    "cost": 2,
     "dbfId": 126127,
     "flavor": "她其实是个牧师玩家，只是被其他职业的牌迷住了。",
-    "health": 3,
+    "health": 2,
     "id": "JAIL_434",
     "mechanics": [
       "DEATHRATTLE"
@@ -90062,7 +90063,7 @@
   },
   {
     "artist": "Jaemin Kim",
-    "attack": 3,
+    "attack": 4,
     "cardClass": "WARRIOR",
     "collectible": true,
     "cost": 7,
@@ -90164,14 +90165,14 @@
   },
   {
     "artist": "Jakub Kasper",
-    "attack": 7,
+    "attack": 8,
     "cardClass": "DEATHKNIGHT",
     "collectible": true,
-    "cost": 7,
+    "cost": 6,
     "dbfId": 126259,
     "elite": true,
     "flavor": "“如果你深入地了解我，就会发现我其实很不错。”——活体疫病",
-    "health": 7,
+    "health": 8,
     "id": "JAIL_443",
     "mechanics": [
       "CHARGE",
@@ -90189,18 +90190,18 @@
       "unholy": 1
     },
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>冲锋</b>。本随从攻击英雄时\n不会造成伤害，改为将与伤害等量的疾疫牌洗入其牌库。抽到疾疫牌时，造成2点伤害。",
+    "text": "<b>冲锋</b>。本随从对英雄造成伤害时，改为将与伤害等量的疾疫牌洗入其牌库。抽到疾疫牌时，造成2点伤害。",
     "type": "MINION"
   },
   {
     "artist": "AJ Nazzaro",
-    "attack": 6,
+    "attack": 5,
     "cardClass": "DEATHKNIGHT",
     "collectible": true,
-    "cost": 6,
+    "cost": 5,
     "dbfId": 126260,
     "flavor": "锯骨巨魔，就是用巨锯锯巨骨的巨魔。",
-    "health": 4,
+    "health": 3,
     "id": "JAIL_444",
     "mechanics": [
       "BATTLECRY"
@@ -90238,7 +90239,7 @@
     "attack": 4,
     "cardClass": "DEATHKNIGHT",
     "collectible": true,
-    "cost": 5,
+    "cost": 4,
     "dbfId": 126365,
     "elite": true,
     "flavor": "鲜血公主萨安娜被关得太久了，连大法师们都记不清到底有多久。她化作了监狱中的医官，并不只是为了满足对血的渴望。在萨安娜的实验室里，锁着她可怕的创造……",
@@ -90295,12 +90296,13 @@
     "health": 6,
     "id": "JAIL_448",
     "mechanics": [
-      "DEATHRATTLE"
+      "DEATHRATTLE",
+      "TAUNT"
     ],
     "name": "崩坏的卡洛夫",
     "rarity": "LEGENDARY",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>亡语：</b>获取三张随机<b>传说</b>随从牌的1/1的复制，这些牌的法力值消耗为（1）点。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>获取三张随机<b>传说</b>随从牌的1/1的复制，这些牌的法力值消耗为（1）点。",
     "type": "MINION"
   },
   {
@@ -90413,7 +90415,7 @@
       "unholy": 1
     },
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "选择一个敌方随从。召唤三个3/1并具有<b>吸血</b>的亡灵攻击该随从。",
+    "text": "选择一个敌方随从。召唤四个3/1并具有<b>吸血</b>的亡灵攻击该随从。",
     "type": "SPELL"
   },
   {
@@ -90618,7 +90620,7 @@
     "name": "玉莲帮捣蛋鬼",
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>战吼：</b>随机对一个敌人造成2点伤害，射击1次！<i>（当本牌在你手中时使用消耗（2）点法力的牌以增加射击次数！）</i>",
+    "text": "<b>战吼：</b>随机对一个敌人造成1点伤害，射击1次！<i>（当本牌在手牌或牌库中时使用消耗（2）点法力的牌以增加射击次数！）</i>",
     "type": "MINION"
   },
   {
@@ -90785,7 +90787,7 @@
     "artist": "Slawomir Maniak",
     "cardClass": "WARLOCK",
     "collectible": true,
-    "cost": 9,
+    "cost": 8,
     "dbfId": 126128,
     "flavor": "末日！毁灭！",
     "id": "JAIL_510",
@@ -90947,7 +90949,7 @@
     "dbfId": 126211,
     "elite": true,
     "flavor": "第7902天。我不再孤单。特莱斯塔斯能帮我……让伊莉达得到她所需的力量……伊莉达。那明明是我的名字，如今却显得这样陌生。高墙拦不住低语，那个声音不会停止不会停止不会停止不会停止",
-    "health": 5,
+    "health": 7,
     "id": "JAIL_719",
     "mechanics": [
       "BATTLECRY",
@@ -90980,7 +90982,7 @@
   },
   {
     "artist": "Grafit",
-    "attack": 1,
+    "attack": 3,
     "cardClass": "DEMONHUNTER",
     "collectible": true,
     "cost": 6,
@@ -90988,7 +90990,7 @@
     "elite": true,
     "flavor": "特莱斯塔斯做了一番深度的灵魂检索，最终找上了伊莉达。",
     "hasDiamondSkin": true,
-    "health": 1,
+    "health": 3,
     "id": "JAIL_721",
     "mechanics": [
       "RUSH",
@@ -91009,7 +91011,7 @@
     "dbfId": 126660,
     "durability": 0,
     "flavor": "所有的尘，本质上不都是星体的余尘？",
-    "health": 2,
+    "health": 3,
     "id": "JAIL_730",
     "mechanics": [
       "TRIGGER_VISUAL"
@@ -91045,6 +91047,9 @@
     "flavor": "一看就很邪恶，这还用说！",
     "health": 4,
     "id": "JAIL_733",
+    "mechanics": [
+      "BATTLECRY"
+    ],
     "name": "邪恶的虚鳞纳迦",
     "race": "NAGA",
     "races": [
@@ -91056,7 +91061,7 @@
       "TAUNT"
     ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>嘲讽</b>。<b>亡语：</b>获取一张虚空灵魂。",
+    "text": "<b>嘲讽</b>。<b>战吼，亡语：</b>获取一张虚空灵魂。",
     "type": "MINION"
   },
   {
@@ -91083,6 +91088,7 @@
     "artist": "Edgar Hidalgo",
     "cardClass": "MAGE",
     "collectible": true,
+    "collectionText": "<b>预备</b>。召唤一个法力值消耗为（8）的随从。在本回合中，如果你施放过3个其他法术，重复一次。",
     "cost": 7,
     "dbfId": 126841,
     "flavor": "条令介于红罗兰与紫外罗兰之间。",
@@ -91091,7 +91097,7 @@
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "spellSchool": "ARCANE",
-    "text": "<b>预备</b>。召唤一个法力值消耗为（8）的随从。在本回合中，如果你施放过3个其他法术，重复一次。0<i>（还剩{0}个！）</i>0（已经就绪！）<i>",
+    "text": "<b>预备</b>。召唤一个法力值消耗为（8）的随从。在本回合中，如果你施放过3个其他法术，重复一次。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
     "type": "SPELL"
   },
   {
@@ -91499,6 +91505,9 @@
     "dbfId": 126423,
     "flavor": "牵奇百怪的绊索旅行",
     "id": "JAIL_881",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
     "name": "奥术绊索",
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
@@ -91529,7 +91538,7 @@
       "DEATHRATTLE"
     ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>战吼：</b>复制你牌库中的所有法术牌。<b>亡语：</b>抽其中一张。",
+    "text": "<b>战吼：</b>复制你牌库中的所有法术牌。<b>亡语：</b>抽一张法术牌。",
     "type": "MINION"
   },
   {
@@ -91638,7 +91647,7 @@
     "attack": 6,
     "cardClass": "WARLOCK",
     "collectible": true,
-    "cost": 10,
+    "cost": 9,
     "dbfId": 124073,
     "elite": true,
     "flavor": "逃跑计划的关键，就是计划好所有关键问题。",
@@ -91694,7 +91703,7 @@
     "name": "预言师",
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>预备</b>。<b><b>嘲讽</b>。</b><b>亡语：</b>为你的英雄恢复6点生命值。随机召唤一个法力值消耗为（6）的随从。",
+    "text": "<b>预备</b>。<b>嘲讽</b>。<b>亡语：</b>为你的英雄恢复6点生命值。随机召唤一个法力值消耗为（6）的随从。",
     "type": "MINION"
   },
   {
@@ -94902,7 +94911,7 @@
     "mechanics": [
       "SECRET"
     ],
-    "name": "审判",
+    "name": "神圣试炼",
     "rarity": "COMMON",
     "set": "LOE",
     "spellSchool": "HOLY",
@@ -117399,7 +117408,7 @@
     ],
     "rarity": "EPIC",
     "set": "STORMWIND",
-    "text": "<b>亡语：</b>在本局对战中如果有7只你的艾尔文野猪死亡，装备一把15/3的锯齿符文剑。0<i>（0/7）</i>",
+    "text": "<b>亡语：</b>在本局对战中如果有10只你的艾尔文野猪死亡，装备一把15/3的锯齿符文剑。0<i>（0/10）</i>",
     "type": "MINION"
   },
   {
@@ -134178,13 +134187,13 @@
   },
   {
     "artist": "Wayne Reynolds",
-    "attack": 2,
+    "attack": 4,
     "cardClass": "ROGUE",
     "collectible": true,
-    "cost": 4,
+    "cost": 6,
     "dbfId": 72533,
     "flavor": "如果你手速够快，法力值消耗还不是你说了算？",
-    "health": 2,
+    "health": 4,
     "id": "TSC_936",
     "mechanics": [
       "BATTLECRY"

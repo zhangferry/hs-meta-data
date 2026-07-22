@@ -10577,7 +10577,7 @@
     "artist": "Arthur Bozonnet",
     "cardClass": "WARLOCK",
     "collectible": true,
-    "cost": 1,
+    "cost": 2,
     "dbfId": 49423,
     "elite": true,
     "flavor": "Worst field trip ever.",
@@ -16979,7 +16979,7 @@
     "artist": "Luca Zontini",
     "cardClass": "HUNTER",
     "collectible": true,
-    "cost": 4,
+    "cost": 5,
     "dbfId": 122939,
     "flavor": "You better be careful or else I'll unleash my tiny army!",
     "howToEarnGolden": "Earnable on <i>CATACLYSM</i> Reward Track.",
@@ -21752,7 +21752,7 @@
     "artist": "Arthur Bozonnet",
     "cardClass": "WARLOCK",
     "collectible": true,
-    "cost": 1,
+    "cost": 2,
     "countAsCopyOfDbfId": 49423,
     "dbfId": 116719,
     "elite": true,
@@ -28955,7 +28955,7 @@
     ],
     "set": "CORE",
     "spellSchool": "FIRE",
-    "text": "[x]<b>Discover</b> a <b>Battlecry</b>\nminion. It costs (1) less.",
+    "text": "[x]<b>Discover</b> a <b>Battlecry</b>\nminion.",
     "type": "SPELL"
   },
   {
@@ -73914,7 +73914,7 @@
     ],
     "set": "GILNEAS",
     "spellSchool": "FIRE",
-    "text": "[x]<b>Discover</b> a <b>Battlecry</b>\nminion. It costs (1) less.",
+    "text": "[x]<b>Discover</b> a <b>Battlecry</b>\nminion.",
     "type": "SPELL"
   },
   {
@@ -89734,7 +89734,7 @@
     "name": "Dalaran Champion",
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "[x]<b>Divine Shield</b>, <b>Taunt</b>\nWhenever this gains stats,\ngain an extra +1/+1\n<i>(wherever this is).</i>",
+    "text": "[x]<b>Divine Shield</b>, <b>Taunt</b>\nAfter this gains stats,\ngain an extra +1/+1\n<i>(wherever this is).</i>",
     "type": "MINION"
   },
   {
@@ -89866,13 +89866,13 @@
   },
   {
     "artist": "James Ryman",
-    "attack": 5,
+    "attack": 4,
     "cardClass": "HUNTER",
     "collectible": true,
-    "cost": 5,
+    "cost": 4,
     "dbfId": 125934,
     "flavor": "It's Sewer Swimmer Saturday!",
-    "health": 4,
+    "health": 3,
     "id": "JAIL_395",
     "mechanics": [
       "BATTLECRY"
@@ -89960,7 +89960,7 @@
       "TAUNT"
     ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "[x]<b>Taunt</b>. <b>Deathrattle:</b>\nPut a 9/9 Demon with\n<b>Taunt</b> and <b>Lifesteal</b> on the\nbottom of your deck.",
+    "text": "[x]<b>Taunt</b>. <b>Deathrattle:</b>\nPut two 8/8 Demons with\n<b>Taunt</b> and <b>Lifesteal</b> on the\nbottom of your deck.",
     "type": "MINION"
   },
   {
@@ -89968,11 +89968,11 @@
     "attack": 4,
     "cardClass": "NEUTRAL",
     "collectible": true,
-    "cost": 6,
+    "cost": 7,
     "dbfId": 124150,
     "elite": true,
     "flavor": "You'd need at least a dozen cards doing a combination of combos. Off the top of my head, I'd say you're looking at a Gallywix, a Hooktusk, a Dungar, two Cho'galls and a Babbling Book... not to mention the biggest Questing Adventurer, ever.",
-    "health": 4,
+    "health": 3,
     "howToEarn": "Unlocked after completing the starter quests.",
     "howToEarnGolden": "Earnable after purchasing the <i>Escape from Violet Hold</i> Tavern Pass.",
     "id": "JAIL_407",
@@ -90009,7 +90009,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "[x]<b>Charge</b>. If three friendly\ncharacters take damage on\none of your turns, summon\n  this from hand or deck.",
+    "text": "[x]<b>Charge</b>. If four friendly\ncharacters take damage on\none of your turns, summon\n  this from hand or deck.",
     "type": "MINION"
   },
   {
@@ -90024,7 +90024,8 @@
     "health": 7,
     "id": "JAIL_430",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "START_OF_GAME_KEYWORD"
     ],
     "name": "Azalina Soulsever",
     "race": "UNDEAD",
@@ -90033,7 +90034,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "[x]Your deck is 20 cards, plus\n20 copied from your enemy.\n<b>Battlecry:</b> Draw until\nyour hand is full.",
+    "text": "[x]Your starting Health is 40. Your\ndeck is 20 cards, plus 20 copied\nfrom your enemy. <b>Battlecry:</b> Draw\nuntil your hand is full.",
     "type": "MINION"
   },
   {
@@ -90072,13 +90073,13 @@
   },
   {
     "artist": "Slawomir Maniak",
-    "attack": 4,
+    "attack": 3,
     "cardClass": "PRIEST",
     "collectible": true,
-    "cost": 3,
+    "cost": 2,
     "dbfId": 126127,
     "flavor": "She's a priest main at heart, but is fascinated by the other classes' cards.",
-    "health": 3,
+    "health": 2,
     "id": "JAIL_434",
     "mechanics": [
       "DEATHRATTLE"
@@ -90095,7 +90096,7 @@
   },
   {
     "artist": "Jaemin Kim",
-    "attack": 3,
+    "attack": 4,
     "cardClass": "WARRIOR",
     "collectible": true,
     "cost": 7,
@@ -90197,14 +90198,14 @@
   },
   {
     "artist": "Jakub Kasper",
-    "attack": 7,
+    "attack": 8,
     "cardClass": "DEATHKNIGHT",
     "collectible": true,
-    "cost": 7,
+    "cost": 6,
     "dbfId": 126259,
     "elite": true,
     "flavor": "\"I'm actually a nice guy when you get to know me.\" - The Living Plague",
-    "health": 7,
+    "health": 8,
     "id": "JAIL_443",
     "mechanics": [
       "CHARGE",
@@ -90227,13 +90228,13 @@
   },
   {
     "artist": "AJ Nazzaro",
-    "attack": 6,
+    "attack": 5,
     "cardClass": "DEATHKNIGHT",
     "collectible": true,
-    "cost": 6,
+    "cost": 5,
     "dbfId": 126260,
     "flavor": "Sawbones saw bones to bone saw.",
-    "health": 4,
+    "health": 3,
     "id": "JAIL_444",
     "mechanics": [
       "BATTLECRY"
@@ -90271,7 +90272,7 @@
     "attack": 4,
     "cardClass": "DEATHKNIGHT",
     "collectible": true,
-    "cost": 5,
+    "cost": 4,
     "dbfId": 126365,
     "elite": true,
     "flavor": "Blood-Princess Thal’ena has been imprisoned for longer than the archmages can remember. Posing as the prison’s doctor, Thal’ena is not content to sate her hunger. Locked in her lab, she is creating something terrifying…",
@@ -90328,12 +90329,13 @@
     "health": 6,
     "id": "JAIL_448",
     "mechanics": [
-      "DEATHRATTLE"
+      "DEATHRATTLE",
+      "TAUNT"
     ],
     "name": "Karov the Broken",
     "rarity": "LEGENDARY",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>Deathrattle:</b> Get three\n1/1 copies of random\n<b>Legendary</b> minions. They cost (1).",
+    "text": "[x]<b>Taunt </b>\n<b>Deathrattle:</b> Get three 1/1\ncopies of random <b>Legendary</b>\n  minions. They cost (1).",
     "type": "MINION"
   },
   {
@@ -90446,7 +90448,7 @@
       "unholy": 1
     },
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "[x]Choose an enemy minion.\n Summon three 3/1\nUndead with <b>Lifesteal</b>\nthat attack it.",
+    "text": "[x]Choose an enemy minion.\n Summon four 3/1\nUndead with <b>Lifesteal</b>\nthat attack it.",
     "type": "SPELL"
   },
   {
@@ -90651,7 +90653,7 @@
     "name": "Lotus Troublemaker",
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "[x]<b>Battlecry:</b> Deal 2 damage to a\nrandom enemy. Shoot 1 time!\n<i>(While holding this, play cards\n  for 2 Mana to shoot more!)</i>",
+    "text": "[x]<b>Battlecry:</b> Deal 1 damage to a\nrandom enemy. Shoot 1 time!\n<i>(While in hand or deck play cards\nfor 2 Mana to shoot more!)</i>",
     "type": "MINION"
   },
   {
@@ -90819,7 +90821,7 @@
     "artist": "Slawomir Maniak",
     "cardClass": "WARLOCK",
     "collectible": true,
-    "cost": 9,
+    "cost": 8,
     "dbfId": 126128,
     "flavor": "This is the Annihilation. This is the Annihilation now!",
     "id": "JAIL_510",
@@ -90981,7 +90983,7 @@
     "dbfId": 126211,
     "elite": true,
     "flavor": "Day 7902. I am not alone anymore. Tras’tath can help me… give Irida the strength she needs… Irida. That was my name, but it sounds so strange to me now. The walls won’t stop whispering. They won’t stop they won’t stop they won’t stop",
-    "health": 5,
+    "health": 7,
     "id": "JAIL_719",
     "mechanics": [
       "BATTLECRY",
@@ -91014,7 +91016,7 @@
   },
   {
     "artist": "Grafit",
-    "attack": 1,
+    "attack": 3,
     "cardClass": "DEMONHUNTER",
     "collectible": true,
     "cost": 6,
@@ -91022,7 +91024,7 @@
     "elite": true,
     "flavor": "Tras'tath did some deep soul searching before they found Irida.",
     "hasDiamondSkin": true,
-    "health": 1,
+    "health": 3,
     "id": "JAIL_721",
     "mechanics": [
       "RUSH",
@@ -91043,7 +91045,7 @@
     "dbfId": 126660,
     "durability": 0,
     "flavor": "Isn't ALL dust, stardust?",
-    "health": 2,
+    "health": 3,
     "id": "JAIL_730",
     "mechanics": [
       "TRIGGER_VISUAL"
@@ -91079,6 +91081,9 @@
     "flavor": "He's the bad guy, DUH!",
     "health": 4,
     "id": "JAIL_733",
+    "mechanics": [
+      "BATTLECRY"
+    ],
     "name": "Vicious Voidscale",
     "race": "NAGA",
     "races": [
@@ -91090,7 +91095,7 @@
       "TAUNT"
     ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Get\na Void Soul.",
+    "text": "[x]<b>Taunt</b>\n<b>Battlecry and Deathrattle:</b>\nGet a Void Soul.",
     "type": "MINION"
   },
   {
@@ -91534,6 +91539,9 @@
     "dbfId": 126423,
     "flavor": "What a Long, Strange Trip It's Been",
     "id": "JAIL_881",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
     "name": "Arcane Tripwire",
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
@@ -91647,7 +91655,7 @@
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "spellSchool": "SHADOW",
-    "text": "Deal $3 damage to a\nminion. If it dies,\nget a Void Soul.",
+    "text": "Deal $3 damage to a minion. If it dies,\nget a Void Soul.",
     "type": "SPELL"
   },
   {
@@ -91673,7 +91681,7 @@
     "attack": 6,
     "cardClass": "WARLOCK",
     "collectible": true,
-    "cost": 10,
+    "cost": 9,
     "dbfId": 124073,
     "elite": true,
     "flavor": "The key to a good escape plan, is to just have all of them.",
@@ -91730,7 +91738,7 @@
     "name": "Soothsayer",
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "[x]<b>Prepare</b>, <b><b>Taunt</b>.</b>\n<b>Deathrattle:</b> Restore 6\nHealth your hero. Summon a\n   random 6-Cost minion.",
+    "text": "[x]<b>Prepare</b>, <b>Taunt</b>\n<b>Deathrattle:</b> Restore 6 Health\nto your hero. Summon a\n random 6-Cost minion.",
     "type": "MINION"
   },
   {
@@ -117424,7 +117432,7 @@
     "attack": 1,
     "cardClass": "NEUTRAL",
     "collectible": true,
-    "collectionText": "[x]<b>Deathrattle:</b> If you had 7\nElwynn Boars die this game,\nequip a 15/3 Sword of a\n   Thousand Truths.",
+    "collectionText": "[x]<b>Deathrattle:</b> If you had 10\nElwynn Boars die this game,\nequip a 15/3 Sword of a\n     Thousand Truths.",
     "cost": 1,
     "dbfId": 64723,
     "flavor": "Be grateful we lowered the requirement from 65,340,285.",
@@ -117441,7 +117449,7 @@
     ],
     "rarity": "EPIC",
     "set": "STORMWIND",
-    "text": "[x]<b>Deathrattle:</b> If you had 7\nElwynn Boars die this game,\nequip a 15/3 Sword of a\n   Thousand Truths.@ <i>(@/7)</i>",
+    "text": "[x]<b>Deathrattle:</b> If you had 10\nElwynn Boars die this game,\nequip a 15/3 Sword of a\n     Thousand Truths.@ <i>(@/10)</i>    ",
     "type": "MINION"
   },
   {
@@ -134224,13 +134232,13 @@
   },
   {
     "artist": "Wayne Reynolds",
-    "attack": 2,
+    "attack": 4,
     "cardClass": "ROGUE",
     "collectible": true,
-    "cost": 4,
+    "cost": 6,
     "dbfId": 72533,
     "flavor": "If you play your cards fast enough, who's to say how much they cost?",
-    "health": 2,
+    "health": 4,
     "id": "TSC_936",
     "mechanics": [
       "BATTLECRY"

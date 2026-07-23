@@ -1347,13 +1347,11 @@
     "health": 2,
     "id": "AT_069",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "TAUNT"
     ],
     "name": "格斗陪练师",
     "rarity": "RARE",
-    "referencedTags": [
-      "TAUNT"
-    ],
     "set": "TGT",
     "targetingArrowText": "获得<b>嘲讽</b>。",
     "text": "<b>嘲讽</b>\n<b>战吼：</b>使一个随从获得<b>嘲讽</b>。",
@@ -3794,10 +3792,12 @@
     "dbfId": 67241,
     "flavor": "一步踏错，步步踏错。",
     "id": "AV_224",
+    "mechanics": [
+      "HONORABLE_KILL"
+    ],
     "name": "布置陷阱",
     "rarity": "EPIC",
     "referencedTags": [
-      "HONORABLE_KILL",
       "SECRET"
     ],
     "set": "ALTERAC_VALLEY",
@@ -5205,13 +5205,11 @@
     "health": 5,
     "id": "AV_565",
     "mechanics": [
+      "HONORABLE_KILL",
       "RUSH"
     ],
     "name": "执斧狂战士",
     "rarity": "COMMON",
-    "referencedTags": [
-      "HONORABLE_KILL"
-    ],
     "set": "ALTERAC_VALLEY",
     "text": "<b>突袭</b>，<b>荣誉消灭：</b>抽一张武器牌。",
     "type": "MINION"
@@ -5552,15 +5550,15 @@
     "flavor": "虽我之死，有子存焉。子又生孙，孙又生子，子又有子，子又有孙，孙又生子，子又有子，子又有孙，孙又生子，子又有子，子又有孙……",
     "health": 3,
     "id": "BAR_031",
+    "mechanics": [
+      "FRENZY"
+    ],
     "name": "赤鳞迅猛龙",
     "race": "BEAST",
     "races": [
       "BEAST"
     ],
     "rarity": "RARE",
-    "referencedTags": [
-      "FRENZY"
-    ],
     "set": "THE_BARRENS",
     "text": "<b>暴怒：</b>将一张赤鳞迅猛龙洗入你的牌库并使其永久获得+2/+1。",
     "type": "MINION"
@@ -5690,15 +5688,15 @@
     "flavor": "它找到了海螺，现在你来教它说话吧！",
     "health": 2,
     "id": "BAR_040",
+    "mechanics": [
+      "BATTLECRY"
+    ],
     "name": "南海岸酋长",
     "race": "MURLOC",
     "races": [
       "MURLOC"
     ],
     "rarity": "COMMON",
-    "referencedTags": [
-      "BATTLECRY"
-    ],
     "set": "THE_BARRENS",
     "targetingArrowText": "造成2点伤害。",
     "text": "<b>战吼：</b>如果你控制着其他鱼人，则造成2点伤害。",
@@ -6832,10 +6830,12 @@
     "health": 4,
     "howToEarnGolden": "完成成就“泄密特工”后解锁。",
     "id": "BAR_430",
+    "mechanics": [
+      "BATTLECRY"
+    ],
     "name": "部落特工",
     "rarity": "RARE",
     "referencedTags": [
-      "BATTLECRY",
       "SECRET"
     ],
     "set": "THE_BARRENS",
@@ -8051,6 +8051,7 @@
     "health": 3,
     "id": "BAR_916",
     "mechanics": [
+      "BATTLECRY",
       "LIFESTEAL"
     ],
     "name": "血岩碎片刺背野猪人",
@@ -8059,9 +8060,6 @@
       "QUILBOAR"
     ],
     "rarity": "RARE",
-    "referencedTags": [
-      "BATTLECRY"
-    ],
     "set": "THE_BARRENS",
     "targetingArrowText": "造成6点伤害。",
     "text": "<b>吸血</b>，<b>战吼：</b>如果你的牌库少于或等于10张，对一个随从造成6点伤害。",
@@ -8121,11 +8119,11 @@
     "flavor": "我一眼就看出他不是个好人！绝对不是！！",
     "health": 5,
     "id": "BAR_919",
-    "name": "尼尔鲁·火刃",
-    "rarity": "LEGENDARY",
-    "referencedTags": [
+    "mechanics": [
       "BATTLECRY"
     ],
+    "name": "尼尔鲁·火刃",
+    "rarity": "LEGENDARY",
     "set": "THE_BARRENS",
     "text": "<b>战吼：</b>如果你的牌库中没有牌，则打开一座传送门，每回合为你召唤数个3/2的小鬼，直到你的随从数量达到上限。",
     "type": "MINION"
@@ -15050,11 +15048,11 @@
     "flavor": "法力值这种东西，花掉就是赚到。",
     "health": 2,
     "id": "CATA_131",
-    "name": "费伍德树人",
-    "rarity": "RARE",
-    "referencedTags": [
+    "mechanics": [
       "BATTLECRY"
     ],
+    "name": "费伍德树人",
+    "rarity": "RARE",
     "set": "CATACLYSM",
     "text": "<b>战吼：</b>获得一个临时的法力水晶。如果你在本牌在你手中时消耗过4点法力值，该法力水晶变为永久获得。<i>（还剩{0}点！）</i>@<b>战吼：</b>获得一个临时的法力水晶。如果你在本牌在你手中时消耗过4点法力值，该法力水晶变为永久获得。<i>（已经就绪！）</i>@<b>战吼：</b>获得一个临时的法力水晶。如果你在本牌在你手中时消耗过4点法力值，该法力水晶变为永久获得。",
     "type": "MINION"
@@ -15070,6 +15068,9 @@
     "flavor": "护得越紧孵得越慢！",
     "health": 5,
     "id": "CATA_132",
+    "mechanics": [
+      "BATTLECRY"
+    ],
     "name": "护巢龙",
     "race": "DRAGON",
     "races": [
@@ -15077,7 +15078,6 @@
     ],
     "rarity": "EPIC",
     "referencedTags": [
-      "BATTLECRY",
       "TAUNT"
     ],
     "set": "CATACLYSM",
@@ -15095,6 +15095,7 @@
     "health": 5,
     "id": "CATA_133",
     "mechanics": [
+      "ELUSIVE",
       "TRIGGER_VISUAL"
     ],
     "name": "彩翼灵龙",
@@ -15103,9 +15104,6 @@
       "DRAGON"
     ],
     "rarity": "COMMON",
-    "referencedTags": [
-      "ELUSIVE"
-    ],
     "set": "CATACLYSM",
     "text": "<b>扰魔</b>。在你的回合结束时，使你的其他随从获得+1/+1。",
     "type": "MINION"
@@ -15207,15 +15205,15 @@
     "flavor": "我在一回合中消耗的法力值超乎你的梦想！",
     "health": 12,
     "id": "CATA_140",
+    "mechanics": [
+      "BATTLECRY"
+    ],
     "name": "梦境之龙麦琳瑟拉",
     "race": "DRAGON",
     "races": [
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "BATTLECRY"
-    ],
     "set": "CATACLYSM",
     "text": "<b>战吼：</b>用随机的龙牌填满你的手牌。如果你在本牌在你手中时消耗过25点法力值，这些龙牌的法力值消耗为（1）点。<i>（还剩{0}点！）</i>@<b>战吼：</b>用随机的龙牌填满你的手牌。如果你在本牌在你手中时消耗过25点法力值，这些龙牌的法力值消耗为（1）点。<i>（已经就绪！）</i>@<b>战吼：</b>用随机的龙牌填满你的手牌。如果你在本牌在你手中时消耗过25点法力值，这些龙牌的法力值消耗为（1）点。",
     "type": "MINION"
@@ -15288,6 +15286,7 @@
     "health": 8,
     "id": "CATA_153",
     "mechanics": [
+      "BATTLECRY",
       "COLOSSAL",
       "RUSH",
       "WINDFURY"
@@ -15298,9 +15297,6 @@
       "ELEMENTAL"
     ],
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "BATTLECRY"
-    ],
     "set": "CATACLYSM",
     "text": "<b>巨型+2\n<b>突袭。</b>风怒。</b><b>战吼：</b>获取2张法力值消耗等同于本随从攻击力的随从牌，这两张牌的法力值消耗为（1）点。",
     "type": "MINION"
@@ -15613,11 +15609,11 @@
     "dbfId": 123077,
     "flavor": "希奈丝特拉时刻提防着死亡之翼的背叛，却没能发现背后的迦罗娜。",
     "id": "CATA_203",
-    "name": "迦罗娜的奋战",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "TRADEABLE"
     ],
+    "name": "迦罗娜的奋战",
+    "rarity": "COMMON",
     "set": "CATACLYSM",
     "text": "<b>可交易</b>\n消灭一个<b>传说</b>\n随从。",
     "type": "SPELL"
@@ -16728,11 +16724,11 @@
     "flavor": "全家桶玩家可能会觉得它像萨尔纳加，而全家桶“老玩家”会跳出来说：那是“古伊尔纳加”。",
     "health": 5,
     "id": "CATA_527",
-    "name": "奈瑟匹拉，蒙难古灵",
-    "rarity": "LEGENDARY",
-    "referencedTags": [
+    "mechanics": [
       "DEATHRATTLE"
     ],
+    "name": "奈瑟匹拉，蒙难古灵",
+    "rarity": "LEGENDARY",
     "set": "CATACLYSM",
     "text": "造成1点伤害。在你施放一个邪能法术后，重新开启。<b>亡语：</b>召唤奈瑟匹拉，脱困古灵。",
     "type": "LOCATION"
@@ -16844,11 +16840,11 @@
     "flavor": "到底还有多少角色的真实身份是龙？",
     "health": 3,
     "id": "CATA_551",
-    "name": "石爪打击者",
-    "rarity": "RARE",
-    "referencedTags": [
+    "mechanics": [
       "TAUNT"
     ],
+    "name": "石爪打击者",
+    "rarity": "RARE",
     "set": "CATACLYSM",
     "text": "<b>嘲讽</b>。<i>（当本牌在你手中时，使用一张龙牌即可将本牌变为6/6的龙！）</i>",
     "type": "MINION"
@@ -16958,11 +16954,11 @@
     "flavor": "不对，这不是战棋酒馆！",
     "health": 2,
     "id": "CATA_558",
-    "name": "进击的募援官",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "ELUSIVE"
     ],
+    "name": "进击的募援官",
+    "rarity": "COMMON",
     "set": "CATACLYSM",
     "text": "<b>扰魔</b>",
     "type": "MINION"
@@ -17671,11 +17667,11 @@
     "dbfId": 123605,
     "flavor": "连击：祭祭。",
     "id": "CATA_785",
-    "name": "暮光祭礼",
-    "rarity": "RARE",
-    "referencedTags": [
+    "mechanics": [
       "COMBO"
     ],
+    "name": "暮光祭礼",
+    "rarity": "RARE",
     "set": "CATACLYSM",
     "spellSchool": "SHADOW",
     "text": "<b>兆示</b>{0}。<b>连击：</b>造成$3点伤害。",
@@ -17835,6 +17831,9 @@
     "howToEarn": "打开<i>大地的裂变</i>卡牌包后可解锁。",
     "howToEarnGolden": "打开<i>大地的裂变</i>金色包后可解锁。",
     "id": "CATA_EVENT_000",
+    "mechanics": [
+      "BATTLECRY"
+    ],
     "name": "始源领主",
     "race": "ELEMENTAL",
     "races": [
@@ -17842,7 +17841,6 @@
     ],
     "rarity": "EPIC",
     "referencedTags": [
-      "BATTLECRY",
       "COLOSSAL"
     ],
     "set": "EVENT",
@@ -19144,13 +19142,11 @@
     "health": 5,
     "id": "CFM_634",
     "mechanics": [
+      "STEALTH",
       "TRIGGER_VISUAL"
     ],
     "name": "玉莲帮刺客",
     "rarity": "EPIC",
-    "referencedTags": [
-      "STEALTH"
-    ],
     "set": "GANGS",
     "text": "<b>潜行</b>。每当本随从攻击并消灭一个随从时，便获得<b>潜行</b>。",
     "type": "MINION"
@@ -27157,11 +27153,11 @@
     "howToEarn": "与术士职业一同解锁。",
     "howToEarnGolden": "使用术士赢得500场对战后解锁。",
     "id": "CORE_EX1_323",
-    "name": "加拉克苏斯大王",
-    "rarity": "LEGENDARY",
-    "referencedTags": [
+    "mechanics": [
       "BATTLECRY"
     ],
+    "name": "加拉克苏斯大王",
+    "rarity": "LEGENDARY",
     "set": "CORE",
     "text": "<b>战吼：</b>装备一把3/8的血怒。",
     "type": "HERO"
@@ -32988,15 +32984,15 @@
     "howToEarn": "完成教学后解锁。",
     "howToEarnGolden": "总计赢得2500场对战后解锁。",
     "id": "CORE_LOOT_193",
+    "mechanics": [
+      "ELUSIVE"
+    ],
     "name": "闪光的骏马",
     "race": "BEAST",
     "races": [
       "BEAST"
     ],
     "rarity": "EPIC",
-    "referencedTags": [
-      "ELUSIVE"
-    ],
     "set": "PLACEHOLDER_202204",
     "text": "在你对手的回合<b>扰魔</b>。",
     "type": "MINION"
@@ -35476,11 +35472,11 @@
     "flavor": "园艺妙手，有时不如这双大蓝手。",
     "health": 2,
     "id": "CORE_REV_318",
-    "name": "孀花播种者",
-    "rarity": "EPIC",
-    "referencedTags": [
+    "mechanics": [
       "BATTLECRY"
     ],
+    "name": "孀花播种者",
+    "rarity": "EPIC",
     "set": "PLACEHOLDER_202204",
     "text": "<b>战吼：</b>抽一张自然法术牌。获得一个空的法力水晶。",
     "type": "MINION"
@@ -38466,11 +38462,11 @@
     "howToEarn": "与战士职业一同解锁。",
     "howToEarnGolden": "使用战士赢得50场对战后解锁。",
     "id": "CORE_SW_094",
-    "name": "厚重板甲",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "TRADEABLE"
     ],
+    "name": "厚重板甲",
+    "rarity": "COMMON",
     "set": "PLACEHOLDER_202204",
     "text": "<b>可交易</b>\n获得8点护甲值。",
     "type": "SPELL"
@@ -38485,11 +38481,11 @@
     "howToEarn": "与法师职业一同解锁。",
     "howToEarnGolden": "使用法师赢得50场对战后解锁。",
     "id": "CORE_SW_107",
-    "name": "火热促销",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "TRADEABLE"
     ],
+    "name": "火热促销",
+    "rarity": "COMMON",
     "set": "PLACEHOLDER_202204",
     "spellSchool": "FIRE",
     "text": "<b>可交易</b>\n对所有随从造成\n$3点伤害。",
@@ -38667,11 +38663,11 @@
     "howToEarn": "与牧师职业一同解锁。",
     "howToEarnGolden": "使用牧师赢得500场对战后解锁。",
     "id": "CORE_SW_448",
-    "name": "黑暗主教本尼迪塔斯",
-    "rarity": "LEGENDARY",
-    "referencedTags": [
+    "mechanics": [
       "START_OF_GAME_KEYWORD"
     ],
+    "name": "黑暗主教本尼迪塔斯",
+    "rarity": "LEGENDARY",
     "set": "PLACEHOLDER_202204",
     "text": "<b>对战开始时：</b>如果你的套牌中所有法术牌都是暗影法术牌，则进入暗影形态。",
     "type": "MINION"
@@ -39014,7 +39010,8 @@
     "howToEarnGolden": "使用猎人赢得500场对战后解锁。",
     "id": "CORE_TRL_900",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "RUSH"
     ],
     "name": "哈尔拉兹，山猫之神",
     "race": "BEAST",
@@ -39022,9 +39019,6 @@
       "BEAST"
     ],
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "RUSH"
-    ],
     "set": "CORE",
     "text": "<b>突袭</b>。<b>战吼：</b>用1/1并具有<b>突袭</b>的山猫填满你的手牌。",
     "type": "MINION"
@@ -47704,11 +47698,13 @@
     "flavor": "生的熟的半生半熟的都有。",
     "id": "DINO_136",
     "isMiniSet": true,
+    "mechanics": [
+      "OUTCAST"
+    ],
     "name": "盛宴之角",
     "rarity": "COMMON",
     "referencedTags": [
       "IMMUNE",
-      "OUTCAST",
       "RUSH"
     ],
     "set": "THE_LOST_CITY",
@@ -48718,7 +48714,8 @@
     "health": 5,
     "id": "DMF_064",
     "mechanics": [
-      "CORRUPT"
+      "CORRUPT",
+      "DIVINE_SHIELD"
     ],
     "name": "旋转木马",
     "race": "MECHANICAL",
@@ -48728,7 +48725,6 @@
     ],
     "rarity": "COMMON",
     "referencedTags": [
-      "DIVINE_SHIELD",
       "TAUNT"
     ],
     "set": "DARKMOON_FAIRE",
@@ -50090,12 +50086,12 @@
     "health": 3,
     "id": "DMF_223",
     "mechanics": [
-      "DEATHRATTLE"
+      "DEATHRATTLE",
+      "RUSH"
     ],
     "name": "知名表演者",
     "rarity": "COMMON",
     "referencedTags": [
-      "RUSH",
       "TAUNT"
     ],
     "set": "DARKMOON_FAIRE",
@@ -50206,11 +50202,11 @@
     "flavor": "听上去就像是绕了两步的伤害。",
     "health": 6,
     "id": "DMF_230",
-    "name": "伊格诺斯",
-    "rarity": "LEGENDARY",
-    "referencedTags": [
+    "mechanics": [
       "LIFESTEAL"
     ],
+    "name": "伊格诺斯",
+    "rarity": "LEGENDARY",
     "set": "DARKMOON_FAIRE",
     "text": "<b>吸血</b>\n你的<b>吸血</b>会对敌方英雄造成伤害，而非治疗你。",
     "type": "MINION"
@@ -50467,13 +50463,11 @@
     "health": 6,
     "id": "DMF_254",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "START_OF_GAME_KEYWORD"
     ],
     "name": "克苏恩，破碎之劫",
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "START_OF_GAME_KEYWORD"
-    ],
     "set": "DARKMOON_FAIRE",
     "text": "<b>对战开始时：</b>破碎成片。<b>战吼：</b>造成30点伤害，随机分配到所有敌人身上。",
     "type": "MINION"
@@ -58150,15 +58144,15 @@
     "health": 8,
     "id": "END_033",
     "isMiniSet": true,
+    "mechanics": [
+      "ELUSIVE"
+    ],
     "name": "先觉蜿变幼龙",
     "race": "DRAGON",
     "races": [
       "DRAGON"
     ],
     "rarity": "COMMON",
-    "referencedTags": [
-      "ELUSIVE"
-    ],
     "set": "TIME_TRAVEL",
     "text": "<b>扰魔</b>。如果你的手牌中有其他龙牌，本牌的法力值消耗减少（3）点。",
     "type": "MINION"
@@ -67870,12 +67864,12 @@
     "id": "GDB_103",
     "mechanics": [
       "AURA",
+      "ELUSIVE",
       "STARSHIP_PIECE"
     ],
     "name": "沙塔尔力场",
     "rarity": "COMMON",
     "referencedTags": [
-      "ELUSIVE",
       "STARSHIP"
     ],
     "set": "SPACE",
@@ -68919,13 +68913,11 @@
     "health": 7,
     "id": "GDB_234",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "START_OF_GAME_KEYWORD"
     ],
     "name": "孢子女皇摩尔达拉",
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "START_OF_GAME_KEYWORD"
-    ],
     "set": "SPACE",
     "text": "<b>对战开始时：</b>将7张\n复制孢子洗入你的牌库。<b>战吼：</b>施放其中一张。",
     "type": "MINION"
@@ -89173,16 +89165,16 @@
     "flavor": "比起牢房，这里的条件还算“正鬼”。",
     "health": 6,
     "id": "JAIL_007",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
     "name": "下水道小鬼",
     "race": "DEMON",
     "races": [
       "DEMON"
     ],
     "rarity": "COMMON",
-    "referencedTags": [
-      "DEATHRATTLE",
-      "TAUNT"
-    ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "<b>嘲讽</b>。<b>亡语：</b>对所有敌人造成2点伤害。",
     "type": "MINION"
@@ -89256,11 +89248,11 @@
     "flavor": "紫罗兰做错了什么。",
     "health": 3,
     "id": "JAIL_101",
-    "name": "紫罗兰惩戒者",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "BATTLECRY"
     ],
+    "name": "紫罗兰惩戒者",
+    "rarity": "COMMON",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "targetingArrowText": "偷取额外效果。",
     "text": "<b>战吼：</b>选择一个敌方随从，偷取其<b>额外效果</b>。每偷取一个，获得+1/+1。",
@@ -89773,11 +89765,11 @@
     "flavor": "狗头人脏鼠会打洞。打洞打洞打洞洞！",
     "health": 2,
     "id": "JAIL_380",
-    "name": "私运的铁铲",
-    "rarity": "RARE",
-    "referencedTags": [
+    "mechanics": [
       "DEATHRATTLE"
     ],
+    "name": "私运的铁铲",
+    "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "<b>亡语：</b>抽一张你的套牌之外的\n法术牌。",
     "type": "WEAPON"
@@ -89914,7 +89906,8 @@
     "health": 5,
     "id": "JAIL_399",
     "mechanics": [
-      "DEATHRATTLE"
+      "DEATHRATTLE",
+      "TAUNT"
     ],
     "name": "小鬼马仔",
     "race": "DEMON",
@@ -89923,8 +89916,7 @@
     ],
     "rarity": "COMMON",
     "referencedTags": [
-      "LIFESTEAL",
-      "TAUNT"
+      "LIFESTEAL"
     ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "<b>嘲讽</b>。<b>亡语：</b>\n将两张8/8并具有<b>嘲讽</b>和<b>吸血</b>的恶魔置于你的牌库底。",
@@ -90383,15 +90375,15 @@
     "flavor": "波利要你把午饭钱交出来。嘎！",
     "health": 4,
     "id": "JAIL_453",
+    "mechanics": [
+      "TAUNT"
+    ],
     "name": "狱中老鸟",
     "race": "BEAST",
     "races": [
       "BEAST"
     ],
     "rarity": "RARE",
-    "referencedTags": [
-      "TAUNT"
-    ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "<b>嘲讽</b>。当你在本牌在你手中时<b>预备</b>，本牌的法力值消耗也会等量减少。",
     "type": "MINION"
@@ -90707,11 +90699,11 @@
     "flavor": "硬币，链镖，可以投了。",
     "health": 2,
     "id": "JAIL_503",
-    "name": "黑掌的链镖",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "DEATHRATTLE"
     ],
+    "name": "黑掌的链镖",
+    "rarity": "COMMON",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "你手牌中每有一张幸运币，本牌的法力值消耗便减少（1）点。<b>亡语：</b>抽一张牌。",
     "type": "WEAPON"
@@ -90898,11 +90890,11 @@
     "flavor": "哦——你其实是个没穿装备的守卫啊？嗨呀，实在抱歉，我还以为你是要越狱的逃犯呢！",
     "health": 3,
     "id": "JAIL_703",
-    "name": "好骗的卫兵",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "DEATHRATTLE"
     ],
+    "name": "好骗的卫兵",
+    "rarity": "COMMON",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "<b>亡语：</b>在本局对战中，你可以发送\n抱歉。",
     "type": "MINION"
@@ -91048,7 +91040,9 @@
     "health": 4,
     "id": "JAIL_733",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "TAUNT"
     ],
     "name": "邪恶的虚鳞纳迦",
     "race": "NAGA",
@@ -91056,10 +91050,6 @@
       "NAGA"
     ],
     "rarity": "RARE",
-    "referencedTags": [
-      "DEATHRATTLE",
-      "TAUNT"
-    ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "<b>嘲讽</b>。<b>战吼，亡语：</b>获取一张虚空灵魂。",
     "type": "MINION"
@@ -91188,11 +91178,11 @@
     "dbfId": 126413,
     "flavor": "威力无穷！！",
     "id": "JAIL_805",
-    "name": "风暴怒火",
-    "rarity": "EPIC",
-    "referencedTags": [
+    "mechanics": [
       "LIFESTEAL"
     ],
+    "name": "风暴怒火",
+    "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "spellSchool": "NATURE",
     "text": "<b>吸血</b>。对所有敌方随从造成2点伤害。<i>（施放3个法术以变为随从牌！）</i>",
@@ -91447,15 +91437,15 @@
     "flavor": "挡道好狗。",
     "health": 1,
     "id": "JAIL_878",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
     "name": "警卫犬",
     "race": "BEAST",
     "races": [
       "BEAST"
     ],
     "rarity": "COMMON",
-    "referencedTags": [
-      "DEATHRATTLE"
-    ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "<b>亡语：</b>随机召唤一个法力值消耗为（1）的<b>亡语</b>随从。",
     "type": "MINION"
@@ -91527,16 +91517,16 @@
     "hasDiamondSkin": true,
     "health": 2,
     "id": "JAIL_882",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
     "name": "R4T-C4TCH3R捕鼠机",
     "race": "MECHANICAL",
     "races": [
       "MECHANICAL"
     ],
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "BATTLECRY",
-      "DEATHRATTLE"
-    ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "<b>战吼：</b>复制你牌库中的所有法术牌。<b>亡语：</b>抽一张法术牌。",
     "type": "MINION"
@@ -91573,10 +91563,12 @@
     "flavor": "干湿吸力模式启动！",
     "health": 3,
     "id": "JAIL_887",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
     "name": "祖拉玛特的牢房",
     "rarity": "LEGENDARY",
     "referencedTags": [
-      "DEATHRATTLE",
       "TAUNT"
     ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
@@ -96649,15 +96641,15 @@
     "flavor": "白马不是马，骏马更不一定是马了。她其实是一头独角兽。",
     "health": 3,
     "id": "LOOT_193",
+    "mechanics": [
+      "ELUSIVE"
+    ],
     "name": "闪光的骏马",
     "race": "BEAST",
     "races": [
       "BEAST"
     ],
     "rarity": "EPIC",
-    "referencedTags": [
-      "ELUSIVE"
-    ],
     "set": "LOOTAPALOOZA",
     "text": "在你对手的回合<b>扰魔</b>。",
     "type": "MINION"
@@ -99354,13 +99346,11 @@
     "id": "MEND_800",
     "isMiniSet": true,
     "mechanics": [
-      "DEATHRATTLE"
+      "DEATHRATTLE",
+      "RUSH"
     ],
     "name": "莽撞的战场军官",
     "rarity": "RARE",
-    "referencedTags": [
-      "RUSH"
-    ],
     "set": "CATACLYSM",
     "text": "<b>突袭</b>。<b>亡语：</b>在本局对战中，使你的白银之手新兵获得+1\n攻击力。",
     "type": "MINION"
@@ -105917,11 +105907,11 @@
     "flavor": "园艺妙手，有时不如这双大蓝手。",
     "health": 2,
     "id": "REV_318",
-    "name": "孀花播种者",
-    "rarity": "EPIC",
-    "referencedTags": [
+    "mechanics": [
       "BATTLECRY"
     ],
+    "name": "孀花播种者",
+    "rarity": "EPIC",
     "set": "REVENDRETH",
     "text": "<b>战吼：</b>抽一张自然法术牌。获得一个空的法力水晶。",
     "type": "MINION"
@@ -110980,11 +110970,11 @@
     "dbfId": 81206,
     "flavor": "待血液沸腾后，即可在锅中下入疫面。",
     "id": "RLK_730",
-    "name": "血液沸腾",
-    "rarity": "EPIC",
-    "referencedTags": [
+    "mechanics": [
       "LIFESTEAL"
     ],
+    "name": "血液沸腾",
+    "rarity": "EPIC",
     "runeCost": {
       "blood": 2,
       "frost": 0,
@@ -111436,15 +111426,15 @@
     "flavor": "没那么可怕。有一次我做梦，我的牙全都掉了，那才叫可怕。",
     "health": 3,
     "id": "RLK_822",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
     "name": "纠缠梦魇",
     "race": "UNDEAD",
     "races": [
       "UNDEAD"
     ],
     "rarity": "EPIC",
-    "referencedTags": [
-      "DEATHRATTLE"
-    ],
     "set": "RETURN_OF_THE_LICH_KING",
     "text": "<b>亡语：</b>纠缠你的一张手牌。当你使用被纠缠的牌时，召唤一个4/3的士兵。",
     "type": "MINION"
@@ -116398,11 +116388,11 @@
     "flavor": "这不是懦弱，这叫有勇有谋。",
     "health": 2,
     "id": "SW_021",
-    "name": "怯懦的步兵",
-    "rarity": "RARE",
-    "referencedTags": [
+    "mechanics": [
       "DEATHRATTLE"
     ],
+    "name": "怯懦的步兵",
+    "rarity": "RARE",
     "set": "STORMWIND",
     "text": "<b>亡语：</b>从你的牌库中召唤一个随从。",
     "type": "MINION"
@@ -116534,15 +116524,15 @@
     "flavor": "这就叫鱼木混侏……",
     "health": 2,
     "id": "SW_029",
+    "mechanics": [
+      "BATTLECRY"
+    ],
     "name": "港口匪徒",
     "race": "PIRATE",
     "races": [
       "PIRATE"
     ],
     "rarity": "COMMON",
-    "referencedTags": [
-      "BATTLECRY"
-    ],
     "set": "STORMWIND",
     "text": "<b>战吼：</b>抽一张海盗牌。",
     "type": "MINION"
@@ -116621,6 +116611,10 @@
     "flavor": "“又到周一了吗？开始划水。”",
     "health": 4,
     "id": "SW_033",
+    "mechanics": [
+      "LIFESTEAL",
+      "RUSH"
+    ],
     "name": "运河慢步者",
     "race": "ELEMENTAL",
     "races": [
@@ -116628,9 +116622,7 @@
     ],
     "rarity": "COMMON",
     "referencedTags": [
-      "LIFESTEAL",
-      "OVERLOAD",
-      "RUSH"
+      "OVERLOAD"
     ],
     "set": "STORMWIND",
     "text": "<b>突袭</b>，<b>吸血</b>\n<b>过载：</b>（1）",
@@ -116992,13 +116984,11 @@
     "health": 3,
     "id": "SW_055",
     "mechanics": [
-      "RUSH"
+      "RUSH",
+      "TRADEABLE"
     ],
     "name": "不耐烦的店长",
     "rarity": "COMMON",
-    "referencedTags": [
-      "TRADEABLE"
-    ],
     "set": "STORMWIND",
     "text": "<b>可交易</b>\n<b>突袭</b>",
     "type": "MINION"
@@ -117717,15 +117707,15 @@
     "flavor": "“别伤了他的腿！那双靴子我要了！”",
     "health": 4,
     "id": "SW_093",
+    "mechanics": [
+      "BATTLECRY"
+    ],
     "name": "暴风城海盗",
     "race": "PIRATE",
     "races": [
       "PIRATE"
     ],
     "rarity": "COMMON",
-    "referencedTags": [
-      "BATTLECRY"
-    ],
     "set": "STORMWIND",
     "text": "<b>战吼：</b>在本回合中，使你的英雄获得+2攻击力。",
     "type": "MINION"
@@ -117738,11 +117728,11 @@
     "dbfId": 65656,
     "flavor": "“是你说的，要那种护住全身，不动如山的重甲——真搞不懂你有什么不满意的。”",
     "id": "SW_094",
-    "name": "厚重板甲",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "TRADEABLE"
     ],
+    "name": "厚重板甲",
+    "rarity": "COMMON",
     "set": "STORMWIND",
     "text": "<b>可交易</b>\n获得8点护甲值。",
     "type": "SPELL"
@@ -117795,11 +117785,11 @@
     "dbfId": 64423,
     "flavor": "库房失火，五折甩卖，全场商品一律五折。",
     "id": "SW_107",
-    "name": "火热促销",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "TRADEABLE"
     ],
+    "name": "火热促销",
+    "rarity": "COMMON",
     "set": "STORMWIND",
     "spellSchool": "FIRE",
     "text": "<b>可交易</b>\n对所有随从造成\n$3点伤害。",
@@ -117994,15 +117984,15 @@
     "health": 3,
     "howToEarnGolden": "完成成就“药水还在它背上”后解锁。",
     "id": "SW_306",
+    "mechanics": [
+      "TAUNT"
+    ],
     "name": "劳累的驮骡",
     "race": "BEAST",
     "races": [
       "BEAST"
     ],
     "rarity": "RARE",
-    "referencedTags": [
-      "TAUNT"
-    ],
     "set": "STORMWIND",
     "text": "<b>嘲讽</b>\n当你抽到该牌时，将它的一张复制置入你的手牌。",
     "type": "MINION"
@@ -118775,11 +118765,11 @@
     "hasDiamondSkin": true,
     "health": 6,
     "id": "SW_448",
-    "name": "黑暗主教本尼迪塔斯",
-    "rarity": "LEGENDARY",
-    "referencedTags": [
+    "mechanics": [
       "START_OF_GAME_KEYWORD"
     ],
+    "name": "黑暗主教本尼迪塔斯",
+    "rarity": "LEGENDARY",
     "set": "STORMWIND",
     "text": "<b>对战开始时：</b>如果你的套牌中所有法术牌都是暗影法术牌，则进入暗影形态。",
     "type": "MINION"
@@ -120562,13 +120552,11 @@
     "health": 4,
     "id": "TIME_041",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "TAUNT"
     ],
     "name": "未来主义先祖",
     "rarity": "EPIC",
-    "referencedTags": [
-      "TAUNT"
-    ],
     "set": "TIME_TRAVEL",
     "text": "<b>嘲讽</b>。<b>战吼：</b>检视三张卡牌。猜中来自你对手手牌中的卡牌，则获得+4生命值。",
     "type": "MINION"
@@ -124506,11 +124494,11 @@
     "health": 2,
     "howToEarnGolden": "可以在<i>安戈洛龟途</i>奖励路线中获得该奖励。",
     "id": "TLC_465",
-    "name": "绞缠血藤",
-    "rarity": "RARE",
-    "referencedTags": [
+    "mechanics": [
       "DEATHRATTLE"
     ],
+    "name": "绞缠血藤",
+    "rarity": "RARE",
     "set": "THE_LOST_CITY",
     "text": "<b>亡语：</b>使一个随机友方随从获得一项随机<b>额外效果</b>以及此<b>亡语</b>。",
     "type": "MINION"
@@ -124907,14 +124895,12 @@
     "id": "TLC_522",
     "mechanics": [
       "BATTLECRY",
+      "COMBO",
       "DEATHRATTLE",
       "STEALTH"
     ],
     "name": "潜踪大师奥普",
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "COMBO"
-    ],
     "set": "THE_LOST_CITY",
     "text": "<b><b>潜行</b>。</b><b>战吼，连击，亡语：</b>施放刀扇。",
     "type": "MINION"
@@ -125365,15 +125351,15 @@
     "flavor": "一旦她转入小调，虚空和神圣之间就不存在什么平衡了。",
     "health": 7,
     "id": "TLC_819",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
     "name": "林歌海妖",
     "race": "NAGA",
     "races": [
       "NAGA"
     ],
     "rarity": "EPIC",
-    "referencedTags": [
-      "LIFESTEAL"
-    ],
     "set": "THE_LOST_CITY",
     "text": "<b>吸血</b>。如果你在本回合中施放过神圣和暗影法术，本牌的法力值消耗为（1）点。",
     "type": "MINION"
@@ -126343,7 +126329,8 @@
     "health": 6,
     "id": "TOY_357",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "CHARGE"
     ],
     "name": "抱龙王噗鲁什",
     "race": "BEAST",
@@ -126351,9 +126338,6 @@
       "BEAST"
     ],
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "CHARGE"
-    ],
     "set": "WHIZBANGS_WORKSHOP",
     "text": "<b>冲锋</b>。<b>战吼：</b>将所有攻击力小于本随从的随从移回其拥有者的牌库。",
     "type": "MINION"
@@ -128025,13 +128009,11 @@
     "health": 3,
     "id": "TOY_810",
     "mechanics": [
+      "LIFESTEAL",
       "TRIGGER_VISUAL"
     ],
     "name": "画师的美德",
     "rarity": "COMMON",
-    "referencedTags": [
-      "LIFESTEAL"
-    ],
     "set": "WHIZBANGS_WORKSHOP",
     "text": "<b>吸血</b>\n在你的英雄攻击后，使你手牌中的随从牌获得+1/+1。",
     "type": "WEAPON"
@@ -131683,7 +131665,8 @@
     "health": 2,
     "id": "TRL_900",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "RUSH"
     ],
     "name": "哈尔拉兹，山猫之神",
     "race": "BEAST",
@@ -131691,9 +131674,6 @@
       "BEAST"
     ],
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "RUSH"
-    ],
     "set": "TROLL",
     "text": "<b>突袭</b>。<b>战吼：</b>用1/1并具有<b>突袭</b>的山猫填满你的手牌。",
     "type": "MINION"
@@ -134842,13 +134822,11 @@
     "health": 3,
     "id": "TTN_080",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "RUSH"
     ],
     "name": "神秘动物饲养员",
     "rarity": "COMMON",
-    "referencedTags": [
-      "RUSH"
-    ],
     "set": "TITANS",
     "text": "<b>突袭</b>。<b>战吼：</b>如果你控制一个攻击力大于或等于4的随从，便获得+2/+2。",
     "type": "MINION"
@@ -161438,6 +161416,7 @@
     "health": 3,
     "id": "YOD_016",
     "mechanics": [
+      "DEATHRATTLE",
       "STEALTH"
     ],
     "name": "空中私掠者",
@@ -161446,9 +161425,6 @@
       "PIRATE"
     ],
     "rarity": "COMMON",
-    "referencedTags": [
-      "DEATHRATTLE"
-    ],
     "set": "YEAR_OF_THE_DRAGON",
     "text": "<b>潜行</b>\n<b>亡语：</b>抽一张牌。",
     "type": "MINION"

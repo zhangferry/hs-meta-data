@@ -1347,13 +1347,11 @@
     "health": 2,
     "id": "AT_069",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "TAUNT"
     ],
     "name": "Sparring Partner",
     "rarity": "RARE",
-    "referencedTags": [
-      "TAUNT"
-    ],
     "set": "TGT",
     "targetingArrowText": "Grant <b>Taunt</b>.",
     "text": "<b>Taunt</b>\n<b>Battlecry:</b> Give a\nminion <b>Taunt</b>.",
@@ -3795,10 +3793,12 @@
     "dbfId": 67241,
     "flavor": "Talk about starting off on the wrong foot.",
     "id": "AV_224",
+    "mechanics": [
+      "HONORABLE_KILL"
+    ],
     "name": "Spring the Trap",
     "rarity": "EPIC",
     "referencedTags": [
-      "HONORABLE_KILL",
       "SECRET"
     ],
     "set": "ALTERAC_VALLEY",
@@ -5207,13 +5207,11 @@
     "health": 5,
     "id": "AV_565",
     "mechanics": [
+      "HONORABLE_KILL",
       "RUSH"
     ],
     "name": "Axe Berserker",
     "rarity": "COMMON",
-    "referencedTags": [
-      "HONORABLE_KILL"
-    ],
     "set": "ALTERAC_VALLEY",
     "text": "<b>Rush</b>. <b>Honorable Kill:</b>\nDraw a weapon.",
     "type": "MINION"
@@ -5554,15 +5552,15 @@
     "flavor": "And they don't stop coming and they don't stop coming and they don't stop coming and they don't stop coming and they don't stop coming and they don't stop coming and they—",
     "health": 3,
     "id": "BAR_031",
+    "mechanics": [
+      "FRENZY"
+    ],
     "name": "Sunscale Raptor",
     "race": "BEAST",
     "races": [
       "BEAST"
     ],
     "rarity": "RARE",
-    "referencedTags": [
-      "FRENZY"
-    ],
     "set": "THE_BARRENS",
     "text": "<b>Frenzy:</b> Shuffle a Sunscale Raptor into your deck with permanent +2/+1.",
     "type": "MINION"
@@ -5692,15 +5690,15 @@
     "flavor": "It got the conch. You let it speak!",
     "health": 2,
     "id": "BAR_040",
+    "mechanics": [
+      "BATTLECRY"
+    ],
     "name": "South Coast Chieftain",
     "race": "MURLOC",
     "races": [
       "MURLOC"
     ],
     "rarity": "COMMON",
-    "referencedTags": [
-      "BATTLECRY"
-    ],
     "set": "THE_BARRENS",
     "targetingArrowText": "Deal 2 damage.",
     "text": "<b>Battlecry:</b> If you control another Murloc, deal 2 damage.",
@@ -6834,10 +6832,12 @@
     "health": 4,
     "howToEarnGolden": "Unlocked with \"Top Secret Snoop\" Achievement.",
     "id": "BAR_430",
+    "mechanics": [
+      "BATTLECRY"
+    ],
     "name": "Horde Operative",
     "rarity": "RARE",
     "referencedTags": [
-      "BATTLECRY",
       "SECRET"
     ],
     "set": "THE_BARRENS",
@@ -8053,6 +8053,7 @@
     "health": 3,
     "id": "BAR_916",
     "mechanics": [
+      "BATTLECRY",
       "LIFESTEAL"
     ],
     "name": "Blood Shard Bristleback",
@@ -8061,9 +8062,6 @@
       "QUILBOAR"
     ],
     "rarity": "RARE",
-    "referencedTags": [
-      "BATTLECRY"
-    ],
     "set": "THE_BARRENS",
     "targetingArrowText": "Deal 6 damage.",
     "text": "[x]<b>Lifesteal</b>. <b>Battlecry:</b> If your\ndeck contains 10 or fewer\ncards, deal 6 damage\nto a minion.",
@@ -8123,11 +8121,11 @@
     "flavor": "Look at this guy! He’s obviously evil! OBVIOUSLY!!!",
     "health": 5,
     "id": "BAR_919",
-    "name": "Neeru Fireblade",
-    "rarity": "LEGENDARY",
-    "referencedTags": [
+    "mechanics": [
       "BATTLECRY"
     ],
+    "name": "Neeru Fireblade",
+    "rarity": "LEGENDARY",
     "set": "THE_BARRENS",
     "text": "<b>Battlecry:</b> If your deck is empty, open a portal that fills your board with 3/2 Imps each turn.",
     "type": "MINION"
@@ -15053,11 +15051,11 @@
     "flavor": "A Mana spent is a Mana earned.",
     "health": 2,
     "id": "CATA_131",
-    "name": "Felwood Treant",
-    "rarity": "RARE",
-    "referencedTags": [
+    "mechanics": [
       "BATTLECRY"
     ],
+    "name": "Felwood Treant",
+    "rarity": "RARE",
     "set": "CATACLYSM",
     "text": "[x]<b>Battlecry:</b> Gain a temporary\nMana Crystal. If you spent 4\nMana while holding this, it's\n   permanent. <i>({0} left!)</i>@[x]<b>Battlecry:</b> Gain a temporary\nMana Crystal. If you spent 4\nMana while holding this, it's\n   permanent. <i>(Ready!)</i>@[x]<b>Battlecry:</b> Gain a temporary\nMana Crystal. If you spent\n4 Mana while holding this,\nit's permanent.",
     "type": "MINION"
@@ -15073,6 +15071,9 @@
     "flavor": "A watched brood never hatches!",
     "health": 5,
     "id": "CATA_132",
+    "mechanics": [
+      "BATTLECRY"
+    ],
     "name": "Broodwatcher",
     "race": "DRAGON",
     "races": [
@@ -15080,7 +15081,6 @@
     ],
     "rarity": "EPIC",
     "referencedTags": [
-      "BATTLECRY",
       "TAUNT"
     ],
     "set": "CATACLYSM",
@@ -15098,6 +15098,7 @@
     "health": 5,
     "id": "CATA_133",
     "mechanics": [
+      "ELUSIVE",
       "TRIGGER_VISUAL"
     ],
     "name": "Iridescent Flitterwing",
@@ -15106,9 +15107,6 @@
       "DRAGON"
     ],
     "rarity": "COMMON",
-    "referencedTags": [
-      "ELUSIVE"
-    ],
     "set": "CATACLYSM",
     "text": "<b>Elusive</b>\nAt the end of your\nturn, give your other\nminions +1/+1.",
     "type": "MINION"
@@ -15211,15 +15209,15 @@
     "flavor": "I've spent more Mana in one turn than you've ever dreamed of!",
     "health": 12,
     "id": "CATA_140",
+    "mechanics": [
+      "BATTLECRY"
+    ],
     "name": "Merithra of the Dream",
     "race": "DRAGON",
     "races": [
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "BATTLECRY"
-    ],
     "set": "CATACLYSM",
     "text": "[x]<b>Battlecry:</b> Fill your hand with\nrandom Dragons. If you spent\n25 Mana while holding this,\nthey cost (1). <i>({0} left!)</i>@[x]<b>Battlecry:</b> Fill your hand with\nrandom Dragons. If you spent\n25 Mana while holding this,\nthey cost (1). <i>(Ready!)</i>@[x]<b>Battlecry:</b> Fill your hand with\nrandom Dragons. If you spent\n25 Mana while holding\nthis, they cost (1).",
     "type": "MINION"
@@ -15292,6 +15290,7 @@
     "health": 8,
     "id": "CATA_153",
     "mechanics": [
+      "BATTLECRY",
       "COLOSSAL",
       "RUSH",
       "WINDFURY"
@@ -15302,9 +15301,6 @@
       "ELEMENTAL"
     ],
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "BATTLECRY"
-    ],
     "set": "CATACLYSM",
     "text": "[x]<b>Colossal +2, <b>Rush</b>, Windfury</b>\n<b>Battlecry:</b> Get 2 minions with\nCost equal to this minion's\nAttack. They cost (1).",
     "type": "MINION"
@@ -15617,11 +15613,11 @@
     "dbfId": 123077,
     "flavor": "Busy anticipating a betrayal by Deathwing, Sinestra never saw Garona coming.",
     "id": "CATA_203",
-    "name": "Garona's Last Stand",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "TRADEABLE"
     ],
+    "name": "Garona's Last Stand",
+    "rarity": "COMMON",
     "set": "CATACLYSM",
     "text": "[x]<b>Tradeable</b>\nDestroy a <b>Legendary</b>\nminion.",
     "type": "SPELL"
@@ -16735,11 +16731,11 @@
     "flavor": "Real fans know it as Nespirah, En-Go'el-ed.",
     "health": 5,
     "id": "CATA_527",
-    "name": "Nespirah, Enthralled",
-    "rarity": "LEGENDARY",
-    "referencedTags": [
+    "mechanics": [
       "DEATHRATTLE"
     ],
+    "name": "Nespirah, Enthralled",
+    "rarity": "LEGENDARY",
     "set": "CATACLYSM",
     "text": "[x]Deal 1 damage. After you\ncast a Fel spell, reopen.\n<b>Deathrattle:</b> Summon\nNespirah, Unshackled.",
     "type": "LOCATION"
@@ -16852,11 +16848,11 @@
     "flavor": "Are there any other secret Dragons I should know about!?",
     "health": 3,
     "id": "CATA_551",
-    "name": "Stonetalon Striker",
-    "rarity": "RARE",
-    "referencedTags": [
+    "mechanics": [
       "TAUNT"
     ],
+    "name": "Stonetalon Striker",
+    "rarity": "RARE",
     "set": "CATACLYSM",
     "text": "[x]<b>Taunt</b>\n<i>(While in hand, play\na Dragon to become\na 6/6 Dragon!)</i>",
     "type": "MINION"
@@ -16966,11 +16962,11 @@
     "flavor": "Wait a minute, this isn't Battlegrounds!",
     "health": 2,
     "id": "CATA_558",
-    "name": "Reinforcement Rallier",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "ELUSIVE"
     ],
+    "name": "Reinforcement Rallier",
+    "rarity": "COMMON",
     "set": "CATACLYSM",
     "text": "<b>Elusive</b>",
     "type": "MINION"
@@ -17679,11 +17675,11 @@
     "dbfId": 123605,
     "flavor": "Two rites definitely make a wrong.",
     "id": "CATA_785",
-    "name": "Rite of Twilight",
-    "rarity": "RARE",
-    "referencedTags": [
+    "mechanics": [
       "COMBO"
     ],
+    "name": "Rite of Twilight",
+    "rarity": "RARE",
     "set": "CATACLYSM",
     "spellSchool": "SHADOW",
     "text": "<b>Herald</b> {0}.\n<b>Combo:</b> Deal $3 damage.",
@@ -17844,6 +17840,9 @@
     "howToEarn": "Earnable after opening a <i>CATACLYSM</i> card pack.",
     "howToEarnGolden": "Earnable after opening a golden <i>CATACLYSM</i> card pack.",
     "id": "CATA_EVENT_000",
+    "mechanics": [
+      "BATTLECRY"
+    ],
     "name": "Primordial Lord",
     "race": "ELEMENTAL",
     "races": [
@@ -17851,7 +17850,6 @@
     ],
     "rarity": "EPIC",
     "referencedTags": [
-      "BATTLECRY",
       "COLOSSAL"
     ],
     "set": "EVENT",
@@ -19156,13 +19154,11 @@
     "health": 5,
     "id": "CFM_634",
     "mechanics": [
+      "STEALTH",
       "TRIGGER_VISUAL"
     ],
     "name": "Lotus Assassin",
     "rarity": "EPIC",
-    "referencedTags": [
-      "STEALTH"
-    ],
     "set": "GANGS",
     "text": "<b>Stealth</b>. Whenever this attacks and kills a minion, gain <b>Stealth</b>.",
     "type": "MINION"
@@ -27176,11 +27172,11 @@
     "howToEarn": "Unlocked with Warlock class.",
     "howToEarnGolden": "Unlocked after winning 500 games as Warlock.",
     "id": "CORE_EX1_323",
-    "name": "Lord Jaraxxus",
-    "rarity": "LEGENDARY",
-    "referencedTags": [
+    "mechanics": [
       "BATTLECRY"
     ],
+    "name": "Lord Jaraxxus",
+    "rarity": "LEGENDARY",
     "set": "CORE",
     "text": "<b>Battlecry:</b> Equip a 3/8 Blood Fury.",
     "type": "HERO"
@@ -33008,15 +33004,15 @@
     "howToEarn": "Unlocked by completing the Tutorial.",
     "howToEarnGolden": "Unlocked after 2500 total wins.",
     "id": "CORE_LOOT_193",
+    "mechanics": [
+      "ELUSIVE"
+    ],
     "name": "Shimmering Courser",
     "race": "BEAST",
     "races": [
       "BEAST"
     ],
     "rarity": "EPIC",
-    "referencedTags": [
-      "ELUSIVE"
-    ],
     "set": "PLACEHOLDER_202204",
     "text": "<b>Elusive</b> on your \nopponent's turn.",
     "type": "MINION"
@@ -35497,11 +35493,11 @@
     "flavor": "Sometimes a blue thumb is better than a green one.",
     "health": 2,
     "id": "CORE_REV_318",
-    "name": "Widowbloom Seedsman",
-    "rarity": "EPIC",
-    "referencedTags": [
+    "mechanics": [
       "BATTLECRY"
     ],
+    "name": "Widowbloom Seedsman",
+    "rarity": "EPIC",
     "set": "PLACEHOLDER_202204",
     "text": "[x]<b>Battlecry:</b> Draw a Nature\nspell. Gain an empty\n Mana Crystal.",
     "type": "MINION"
@@ -38487,11 +38483,11 @@
     "howToEarn": "Unlocked with Warrior class.",
     "howToEarnGolden": "Unlocked after winning 50 games as Warrior.",
     "id": "CORE_SW_094",
-    "name": "Heavy Plate",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "TRADEABLE"
     ],
+    "name": "Heavy Plate",
+    "rarity": "COMMON",
     "set": "PLACEHOLDER_202204",
     "text": "<b>Tradeable</b>\nGain 8 Armor.",
     "type": "SPELL"
@@ -38506,11 +38502,11 @@
     "howToEarn": "Unlocked with Mage class.",
     "howToEarnGolden": "Unlocked after winning 50 games as Mage.",
     "id": "CORE_SW_107",
-    "name": "Fire Sale",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "TRADEABLE"
     ],
+    "name": "Fire Sale",
+    "rarity": "COMMON",
     "set": "PLACEHOLDER_202204",
     "spellSchool": "FIRE",
     "text": "<b>Tradeable</b>\nDeal $3 damage\nto all minions.",
@@ -38688,11 +38684,11 @@
     "howToEarn": "Unlocked with Priest class.",
     "howToEarnGolden": "Unlocked after winning 500 games as Priest.",
     "id": "CORE_SW_448",
-    "name": "Darkbishop Benedictus",
-    "rarity": "LEGENDARY",
-    "referencedTags": [
+    "mechanics": [
       "START_OF_GAME_KEYWORD"
     ],
+    "name": "Darkbishop Benedictus",
+    "rarity": "LEGENDARY",
     "set": "PLACEHOLDER_202204",
     "text": "<b>Start of Game:</b> If the spells in your deck are all Shadow, enter Shadowform.",
     "type": "MINION"
@@ -39035,7 +39031,8 @@
     "howToEarnGolden": "Unlocked after winning 500 games as Hunter.",
     "id": "CORE_TRL_900",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "RUSH"
     ],
     "name": "Halazzi, the Lynx",
     "race": "BEAST",
@@ -39043,9 +39040,6 @@
       "BEAST"
     ],
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "RUSH"
-    ],
     "set": "CORE",
     "text": "<b>Rush</b>. <b>Battlecry:</b> Fill your hand with 1/1 Lynxes\nthat have <b>Rush</b>.",
     "type": "MINION"
@@ -47726,11 +47720,13 @@
     "flavor": "Good flavor text is a rare medium well done.",
     "id": "DINO_136",
     "isMiniSet": true,
+    "mechanics": [
+      "OUTCAST"
+    ],
     "name": "Horn of Feasting",
     "rarity": "COMMON",
     "referencedTags": [
       "IMMUNE",
-      "OUTCAST",
       "RUSH"
     ],
     "set": "THE_LOST_CITY",
@@ -48740,7 +48736,8 @@
     "health": 5,
     "id": "DMF_064",
     "mechanics": [
-      "CORRUPT"
+      "CORRUPT",
+      "DIVINE_SHIELD"
     ],
     "name": "Carousel Gryphon",
     "race": "MECHANICAL",
@@ -48750,7 +48747,6 @@
     ],
     "rarity": "COMMON",
     "referencedTags": [
-      "DIVINE_SHIELD",
       "TAUNT"
     ],
     "set": "DARKMOON_FAIRE",
@@ -50112,12 +50108,12 @@
     "health": 3,
     "id": "DMF_223",
     "mechanics": [
-      "DEATHRATTLE"
+      "DEATHRATTLE",
+      "RUSH"
     ],
     "name": "Renowned Performer",
     "rarity": "COMMON",
     "referencedTags": [
-      "RUSH",
       "TAUNT"
     ],
     "set": "DARKMOON_FAIRE",
@@ -50228,11 +50224,11 @@
     "flavor": "Well, that just sounds like damage with extra steps.",
     "health": 6,
     "id": "DMF_230",
-    "name": "Il'gynoth",
-    "rarity": "LEGENDARY",
-    "referencedTags": [
+    "mechanics": [
       "LIFESTEAL"
     ],
+    "name": "Il'gynoth",
+    "rarity": "LEGENDARY",
     "set": "DARKMOON_FAIRE",
     "text": "[x]<b>Lifesteal</b>\nYour <b>Lifesteal</b> damages\nthe enemy hero instead\nof healing you.",
     "type": "MINION"
@@ -50489,13 +50485,11 @@
     "health": 6,
     "id": "DMF_254",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "START_OF_GAME_KEYWORD"
     ],
     "name": "C'Thun, the Shattered",
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "START_OF_GAME_KEYWORD"
-    ],
     "set": "DARKMOON_FAIRE",
     "text": "[x]<b>Start of Game:</b> Break into\npieces. <b>Battlecry:</b> Deal 30\ndamage randomly split\namong all enemies.",
     "type": "MINION"
@@ -58173,15 +58167,15 @@
     "health": 8,
     "id": "END_033",
     "isMiniSet": true,
+    "mechanics": [
+      "ELUSIVE"
+    ],
     "name": "Prescient Slitherdrake",
     "race": "DRAGON",
     "races": [
       "DRAGON"
     ],
     "rarity": "COMMON",
-    "referencedTags": [
-      "ELUSIVE"
-    ],
     "set": "TIME_TRAVEL",
     "text": "[x]<b>Elusive</b>\nCosts (3) less if you're\n holding another Dragon.",
     "type": "MINION"
@@ -67901,12 +67895,12 @@
     "id": "GDB_103",
     "mechanics": [
       "AURA",
+      "ELUSIVE",
       "STARSHIP_PIECE"
     ],
     "name": "Sha'tari Cloakfield",
     "rarity": "COMMON",
     "referencedTags": [
-      "ELUSIVE",
       "STARSHIP"
     ],
     "set": "SPACE",
@@ -68951,13 +68945,11 @@
     "health": 7,
     "id": "GDB_234",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "START_OF_GAME_KEYWORD"
     ],
     "name": "Spore Empress Moldara",
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "START_OF_GAME_KEYWORD"
-    ],
     "set": "SPACE",
     "text": "<b>Start of Game:</b> Shuffle 7\nReplicating Spores\ninto your deck.\n<b>Battlecry:</b> Cast one.",
     "type": "MINION"
@@ -89206,16 +89198,16 @@
     "flavor": "Honestly compared to the prison this is actually an improvement.",
     "health": 6,
     "id": "JAIL_007",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
     "name": "Sewer Imp",
     "race": "DEMON",
     "races": [
       "DEMON"
     ],
     "rarity": "COMMON",
-    "referencedTags": [
-      "DEATHRATTLE",
-      "TAUNT"
-    ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Deal 2\n damage to all enemies.",
     "type": "MINION"
@@ -89289,11 +89281,11 @@
     "flavor": "Bad news for your flower garden.",
     "health": 3,
     "id": "JAIL_101",
-    "name": "Violet Punisher",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "BATTLECRY"
     ],
+    "name": "Violet Punisher",
+    "rarity": "COMMON",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "targetingArrowText": "Steal bonus effects.",
     "text": "[x]<b>Battlecry:</b> Choose an\nenemy minion. Steal its\n<b>Bonus Effects</b> and gain\n +1/+1 for each stolen.",
@@ -89806,11 +89798,11 @@
     "flavor": "I am a rat and I'm digging a hole. Diggy diggy hole, diggy diggy hole!",
     "health": 2,
     "id": "JAIL_380",
-    "name": "Smuggled Shovel",
-    "rarity": "RARE",
-    "referencedTags": [
+    "mechanics": [
       "DEATHRATTLE"
     ],
+    "name": "Smuggled Shovel",
+    "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "<b>Deathrattle:</b> Draw a spell that didn't start in your deck.",
     "type": "WEAPON"
@@ -89947,7 +89939,8 @@
     "health": 5,
     "id": "JAIL_399",
     "mechanics": [
-      "DEATHRATTLE"
+      "DEATHRATTLE",
+      "TAUNT"
     ],
     "name": "Imp Gang Stooge",
     "race": "DEMON",
@@ -89956,8 +89949,7 @@
     ],
     "rarity": "COMMON",
     "referencedTags": [
-      "LIFESTEAL",
-      "TAUNT"
+      "LIFESTEAL"
     ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "[x]<b>Taunt</b>. <b>Deathrattle:</b>\nPut two 8/8 Demons with\n<b>Taunt</b> and <b>Lifesteal</b> on the\nbottom of your deck.",
@@ -90416,15 +90408,15 @@
     "flavor": "Polly wants your lunch money. SQUACK!",
     "health": 4,
     "id": "JAIL_453",
+    "mechanics": [
+      "TAUNT"
+    ],
     "name": "Jailbird",
     "race": "BEAST",
     "races": [
       "BEAST"
     ],
     "rarity": "RARE",
-    "referencedTags": [
-      "TAUNT"
-    ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "[x]<b>Taunt</b>. When you\n <b>Prepare</b> while holding this,\nreduce this card's Cost by\n the same amount.",
     "type": "MINION"
@@ -90741,11 +90733,11 @@
     "flavor": "Coin-Whip-Concede.",
     "health": 2,
     "id": "JAIL_503",
-    "name": "Blackpaw's Whip",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "DEATHRATTLE"
     ],
+    "name": "Blackpaw's Whip",
+    "rarity": "COMMON",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "Costs (1) less for each Coin you're holding.  <b>Deathrattle:</b> Draw a card.",
     "type": "WEAPON"
@@ -90932,11 +90924,11 @@
     "flavor": "Ohhhh you're a guard who left their gear at home? I am SO sorry, I thought for a moment you were a prisoner trying to escape!",
     "health": 3,
     "id": "JAIL_703",
-    "name": "Gullible Guard",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "DEATHRATTLE"
     ],
+    "name": "Gullible Guard",
+    "rarity": "COMMON",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "<b>Deathrattle:</b> You can say Sorry this game.",
     "type": "MINION"
@@ -91082,7 +91074,9 @@
     "health": 4,
     "id": "JAIL_733",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "TAUNT"
     ],
     "name": "Vicious Voidscale",
     "race": "NAGA",
@@ -91090,10 +91084,6 @@
       "NAGA"
     ],
     "rarity": "RARE",
-    "referencedTags": [
-      "DEATHRATTLE",
-      "TAUNT"
-    ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "[x]<b>Taunt</b>\n<b>Battlecry and Deathrattle:</b>\nGet a Void Soul.",
     "type": "MINION"
@@ -91222,11 +91212,11 @@
     "dbfId": 126413,
     "flavor": "UNLIMITED POWER!!!",
     "id": "JAIL_805",
-    "name": "Stormfury",
-    "rarity": "EPIC",
-    "referencedTags": [
+    "mechanics": [
       "LIFESTEAL"
     ],
+    "name": "Stormfury",
+    "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "spellSchool": "NATURE",
     "text": "[x]<b>Lifesteal</b>. Deal 2 damage\nto all enemy minions.\n<i>(Cast 3 spells to turn\ninto a minion!)</i>",
@@ -91481,15 +91471,15 @@
     "flavor": "Updog",
     "health": 1,
     "id": "JAIL_878",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
     "name": "Guard Dog",
     "race": "BEAST",
     "races": [
       "BEAST"
     ],
     "rarity": "COMMON",
-    "referencedTags": [
-      "DEATHRATTLE"
-    ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "[x]<b>Deathrattle:</b> Summon\na random 1-Cost\n <b>Deathrattle</b> minion.",
     "type": "MINION"
@@ -91561,16 +91551,16 @@
     "hasDiamondSkin": true,
     "health": 2,
     "id": "JAIL_882",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
     "name": "R4T-C4TCH3R",
     "race": "MECHANICAL",
     "races": [
       "MECHANICAL"
     ],
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "BATTLECRY",
-      "DEATHRATTLE"
-    ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "[x]<b>Battlecry:</b> Copy all spells\n in your deck.\n <b>Deathrattle:</b> Draw one.",
     "type": "MINION"
@@ -91607,10 +91597,12 @@
     "flavor": "WETVAC MODE ACTIVATE!",
     "health": 3,
     "id": "JAIL_887",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
     "name": "Zuramat's Prison",
     "rarity": "LEGENDARY",
     "referencedTags": [
-      "DEATHRATTLE",
       "TAUNT"
     ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
@@ -96685,15 +96677,15 @@
     "flavor": "A courser is a courser of course, of course, she's more of a unicorn than a horse...",
     "health": 3,
     "id": "LOOT_193",
+    "mechanics": [
+      "ELUSIVE"
+    ],
     "name": "Shimmering Courser",
     "race": "BEAST",
     "races": [
       "BEAST"
     ],
     "rarity": "EPIC",
-    "referencedTags": [
-      "ELUSIVE"
-    ],
     "set": "LOOTAPALOOZA",
     "text": "<b>Elusive</b> on your \nopponent's turn.",
     "type": "MINION"
@@ -99393,13 +99385,11 @@
     "id": "MEND_800",
     "isMiniSet": true,
     "mechanics": [
-      "DEATHRATTLE"
+      "DEATHRATTLE",
+      "RUSH"
     ],
     "name": "Brash Battlemaster",
     "rarity": "RARE",
-    "referencedTags": [
-      "RUSH"
-    ],
     "set": "CATACLYSM",
     "text": "[x]<b>Rush</b>\n <b>Deathrattle:</b> Give your\nSilver Hand Recruits\n+1 Attack this game.",
     "type": "MINION"
@@ -105956,11 +105946,11 @@
     "flavor": "Sometimes a blue thumb is better than a green one.",
     "health": 2,
     "id": "REV_318",
-    "name": "Widowbloom Seedsman",
-    "rarity": "EPIC",
-    "referencedTags": [
+    "mechanics": [
       "BATTLECRY"
     ],
+    "name": "Widowbloom Seedsman",
+    "rarity": "EPIC",
     "set": "REVENDRETH",
     "text": "[x]<b>Battlecry:</b> Draw a Nature\nspell. Gain an empty\n Mana Crystal.",
     "type": "MINION"
@@ -111019,11 +111009,11 @@
     "dbfId": 81206,
     "flavor": "And once your blood is at a boil, throw in the plaguetti.",
     "id": "RLK_730",
-    "name": "Blood Boil",
-    "rarity": "EPIC",
-    "referencedTags": [
+    "mechanics": [
       "LIFESTEAL"
     ],
+    "name": "Blood Boil",
+    "rarity": "EPIC",
     "runeCost": {
       "blood": 2,
       "frost": 0,
@@ -111475,15 +111465,15 @@
     "flavor": "Not as scary as the one where all my teeth fall out.",
     "health": 3,
     "id": "RLK_822",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
     "name": "Haunting Nightmare",
     "race": "UNDEAD",
     "races": [
       "UNDEAD"
     ],
     "rarity": "EPIC",
-    "referencedTags": [
-      "DEATHRATTLE"
-    ],
     "set": "RETURN_OF_THE_LICH_KING",
     "text": "[x]<b>Deathrattle:</b> Haunt a card in\nyour hand. When you play it,\nsummon a 4/3 Soldier.",
     "type": "MINION"
@@ -116438,11 +116428,11 @@
     "flavor": "Cowardice is the wisest part of valor.",
     "health": 2,
     "id": "SW_021",
-    "name": "Cowardly Grunt",
-    "rarity": "RARE",
-    "referencedTags": [
+    "mechanics": [
       "DEATHRATTLE"
     ],
+    "name": "Cowardly Grunt",
+    "rarity": "RARE",
     "set": "STORMWIND",
     "text": "<b>Deathrattle:</b> Summon a minion from your deck.",
     "type": "MINION"
@@ -116574,15 +116564,15 @@
     "flavor": "Hey, that gnome looks awfully fishy…",
     "health": 2,
     "id": "SW_029",
+    "mechanics": [
+      "BATTLECRY"
+    ],
     "name": "Harbor Scamp",
     "race": "PIRATE",
     "races": [
       "PIRATE"
     ],
     "rarity": "COMMON",
-    "referencedTags": [
-      "BATTLECRY"
-    ],
     "set": "STORMWIND",
     "text": "<b>Battlecry:</b> Draw a Pirate.",
     "type": "MINION"
@@ -116661,6 +116651,10 @@
     "flavor": "\"Another Monday in the canals huh? What a slog.\"",
     "health": 4,
     "id": "SW_033",
+    "mechanics": [
+      "LIFESTEAL",
+      "RUSH"
+    ],
     "name": "Canal Slogger",
     "race": "ELEMENTAL",
     "races": [
@@ -116668,9 +116662,7 @@
     ],
     "rarity": "COMMON",
     "referencedTags": [
-      "LIFESTEAL",
-      "OVERLOAD",
-      "RUSH"
+      "OVERLOAD"
     ],
     "set": "STORMWIND",
     "text": "<b>Rush</b>, <b>Lifesteal</b>\n<b>Overload:</b> (1)",
@@ -117032,13 +117024,11 @@
     "health": 3,
     "id": "SW_055",
     "mechanics": [
-      "RUSH"
+      "RUSH",
+      "TRADEABLE"
     ],
     "name": "Impatient Shopkeep",
     "rarity": "COMMON",
-    "referencedTags": [
-      "TRADEABLE"
-    ],
     "set": "STORMWIND",
     "text": "<b>Tradeable</b>\n<b>Rush</b>",
     "type": "MINION"
@@ -117758,15 +117748,15 @@
     "flavor": "\"Just don't stab the ankles! I want his boots!\"",
     "health": 4,
     "id": "SW_093",
+    "mechanics": [
+      "BATTLECRY"
+    ],
     "name": "Stormwind Freebooter",
     "race": "PIRATE",
     "races": [
       "PIRATE"
     ],
     "rarity": "COMMON",
-    "referencedTags": [
-      "BATTLECRY"
-    ],
     "set": "STORMWIND",
     "text": "<b>Battlecry:</b> Give your hero +2 Attack this turn.",
     "type": "MINION"
@@ -117779,11 +117769,11 @@
     "dbfId": 65656,
     "flavor": "\"You asked for unbendable, unwavering armor–I don't see why you're upset.\"",
     "id": "SW_094",
-    "name": "Heavy Plate",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "TRADEABLE"
     ],
+    "name": "Heavy Plate",
+    "rarity": "COMMON",
     "set": "STORMWIND",
     "text": "<b>Tradeable</b>\nGain 8 Armor.",
     "type": "SPELL"
@@ -117836,11 +117826,11 @@
     "dbfId": 64423,
     "flavor": "Everything is 50% off now that our warehouse burned down.",
     "id": "SW_107",
-    "name": "Fire Sale",
-    "rarity": "COMMON",
-    "referencedTags": [
+    "mechanics": [
       "TRADEABLE"
     ],
+    "name": "Fire Sale",
+    "rarity": "COMMON",
     "set": "STORMWIND",
     "spellSchool": "FIRE",
     "text": "<b>Tradeable</b>\nDeal $3 damage\nto all minions.",
@@ -118036,15 +118026,15 @@
     "health": 3,
     "howToEarnGolden": "Unlocked with \"They Carry My Potions\" Achievement.",
     "id": "SW_306",
+    "mechanics": [
+      "TAUNT"
+    ],
     "name": "Encumbered Pack Mule",
     "race": "BEAST",
     "races": [
       "BEAST"
     ],
     "rarity": "RARE",
-    "referencedTags": [
-      "TAUNT"
-    ],
     "set": "STORMWIND",
     "text": "[x]<b>Taunt</b>\nWhen you draw this, add a\n copy of it to your hand.",
     "type": "MINION"
@@ -118817,11 +118807,11 @@
     "hasDiamondSkin": true,
     "health": 6,
     "id": "SW_448",
-    "name": "Darkbishop Benedictus",
-    "rarity": "LEGENDARY",
-    "referencedTags": [
+    "mechanics": [
       "START_OF_GAME_KEYWORD"
     ],
+    "name": "Darkbishop Benedictus",
+    "rarity": "LEGENDARY",
     "set": "STORMWIND",
     "text": "<b>Start of Game:</b> If the spells in your deck are all Shadow, enter Shadowform.",
     "type": "MINION"
@@ -120604,13 +120594,11 @@
     "health": 4,
     "id": "TIME_041",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "TAUNT"
     ],
     "name": "Futuristic Forefather",
     "rarity": "EPIC",
-    "referencedTags": [
-      "TAUNT"
-    ],
     "set": "TIME_TRAVEL",
     "text": "[x]<b>Taunt</b>. <b>Battlecry:</b> Look at 3\ncards. Guess which one is\nin your opponent's hand\nto gain +4 Health.",
     "type": "MINION"
@@ -124550,11 +124538,11 @@
     "health": 2,
     "howToEarnGolden": "Earnable on <i>The Lost City of Un'Goro</i> Reward Track.",
     "id": "TLC_465",
-    "name": "Stranglevine",
-    "rarity": "RARE",
-    "referencedTags": [
+    "mechanics": [
       "DEATHRATTLE"
     ],
+    "name": "Stranglevine",
+    "rarity": "RARE",
     "set": "THE_LOST_CITY",
     "text": "<b>Deathrattle:</b> Give a random\nfriendly minion a random\n<b>Bonus Effect</b> and this <b>Deathrattle</b>.",
     "type": "MINION"
@@ -124951,14 +124939,12 @@
     "id": "TLC_522",
     "mechanics": [
       "BATTLECRY",
+      "COMBO",
       "DEATHRATTLE",
       "STEALTH"
     ],
     "name": "Opu the Unseen",
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "COMBO"
-    ],
     "set": "THE_LOST_CITY",
     "text": "<b><b>Stealth</b>.</b> <b>Battlecry, Combo,\nand Deathrattle:</b> Cast\n'Fan of Knives'.",
     "type": "MINION"
@@ -125409,15 +125395,15 @@
     "flavor": "When she shifts into minor key she really throws the void-holy balance out of whack.",
     "health": 7,
     "id": "TLC_819",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
     "name": "Gladesong Siren",
     "race": "NAGA",
     "races": [
       "NAGA"
     ],
     "rarity": "EPIC",
-    "referencedTags": [
-      "LIFESTEAL"
-    ],
     "set": "THE_LOST_CITY",
     "text": "<b>Lifesteal</b>\nCosts (1) if you've\ncast a Holy and Shadow spell this turn.",
     "type": "MINION"
@@ -126387,7 +126373,8 @@
     "health": 6,
     "id": "TOY_357",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "CHARGE"
     ],
     "name": "King Plush",
     "race": "BEAST",
@@ -126395,9 +126382,6 @@
       "BEAST"
     ],
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "CHARGE"
-    ],
     "set": "WHIZBANGS_WORKSHOP",
     "text": "[x]<b>Charge</b>\n<b>Battlecry:</b> Return all minions\nwith less Attack than this\n  to their owner's decks.",
     "type": "MINION"
@@ -128069,13 +128053,11 @@
     "health": 3,
     "id": "TOY_810",
     "mechanics": [
+      "LIFESTEAL",
       "TRIGGER_VISUAL"
     ],
     "name": "Painter's Virtue",
     "rarity": "COMMON",
-    "referencedTags": [
-      "LIFESTEAL"
-    ],
     "set": "WHIZBANGS_WORKSHOP",
     "text": "<b>Lifesteal</b>\nAfter your hero attacks,\ngive minions in your\nhand +1/+1.",
     "type": "WEAPON"
@@ -131727,7 +131709,8 @@
     "health": 2,
     "id": "TRL_900",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "RUSH"
     ],
     "name": "Halazzi, the Lynx",
     "race": "BEAST",
@@ -131735,9 +131718,6 @@
       "BEAST"
     ],
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "RUSH"
-    ],
     "set": "TROLL",
     "text": "<b>Rush</b>. <b>Battlecry:</b> Fill your hand with 1/1 Lynxes\nthat have <b>Rush</b>.",
     "type": "MINION"
@@ -134887,13 +134867,11 @@
     "health": 3,
     "id": "TTN_080",
     "mechanics": [
-      "BATTLECRY"
+      "BATTLECRY",
+      "RUSH"
     ],
     "name": "Fable Stablehand",
     "rarity": "COMMON",
-    "referencedTags": [
-      "RUSH"
-    ],
     "set": "TITANS",
     "text": "[x]<b>Rush</b>\n<b>Battlecry:</b> If you control\na minion with 4 or more\nAttack, gain +2/+2.",
     "type": "MINION"
@@ -161497,6 +161475,7 @@
     "health": 3,
     "id": "YOD_016",
     "mechanics": [
+      "DEATHRATTLE",
       "STEALTH"
     ],
     "name": "Skyvateer",
@@ -161505,9 +161484,6 @@
       "PIRATE"
     ],
     "rarity": "COMMON",
-    "referencedTags": [
-      "DEATHRATTLE"
-    ],
     "set": "YEAR_OF_THE_DRAGON",
     "text": "<b>Stealth</b>\n<b>Deathrattle:</b> Draw a card.",
     "type": "MINION"

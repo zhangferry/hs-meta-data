@@ -17936,8 +17936,8 @@
     "dbfId": 130005,
     "flavor": "If a headache you’ve got, a headache Commissary Crook can cure. Drink this blue one.",
     "health": 3,
-    "howToEarn": "Earnable by participating in a special event.",
-    "howToEarnGolden": "Earnable by participating in a special event.",
+    "howToEarn": "Earnable after opening a <i>CATACLYSM</i> card pack.",
+    "howToEarnGolden": "Earnable after opening a golden <i>CATACLYSM</i> card pack.",
     "id": "CATA_EVENT_400",
     "mechanics": [
       "BATTLECRY"
@@ -17981,8 +17981,8 @@
     "cost": 3,
     "dbfId": 126097,
     "flavor": "A cut of the cut for the cut.",
-    "howToEarn": "Earnable by participating in a special event.",
-    "howToEarnGolden": "Earnable by participating in a special event.",
+    "howToEarn": "Earnable after opening a <i>CATACLYSM</i> card pack.",
+    "howToEarnGolden": "Earnable after opening a golden <i>CATACLYSM</i> card pack.",
     "id": "CATA_EVENT_402",
     "mechanics": [
       "COMBO"
@@ -20735,7 +20735,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Your Hero Power deals 1 extra damage.",
     "type": "MINION"
   },
@@ -20757,7 +20757,7 @@
       "DRAGON"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "You can use your Hero Power any number of times.",
     "type": "MINION"
   },
@@ -20778,7 +20778,7 @@
     ],
     "name": "Holy Champion",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Overheal:</b> Gain +2 Attack.",
     "type": "MINION"
   },
@@ -20803,7 +20803,7 @@
       "DEMON"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever you discard a card, gain +2/+1.",
     "type": "MINION"
   },
@@ -20828,7 +20828,7 @@
       "PIRATE"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever you equip a weapon, give it +1 Attack.",
     "type": "MINION"
   },
@@ -20873,7 +20873,7 @@
       "DRAENEI"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Gain +1/+1 for each friendly Totem.",
     "type": "MINION"
   },
@@ -20920,7 +20920,7 @@
     "name": "Ancestral Knowledge",
     "overload": 1,
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Draw 2 cards. <b>Overload:</b> (1)",
     "type": "SPELL"
   },
@@ -20953,7 +20953,7 @@
     "id": "CORE_AT_061",
     "name": "Lock and Load",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Each time you cast a spell this turn, get a random Hunter card.",
     "type": "SPELL"
   },
@@ -21012,7 +21012,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Your Silver Hand Recruits have +2 Attack and <b>Taunt</b>.",
     "type": "MINION"
   },
@@ -21034,7 +21034,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "MINION"
   },
   {
@@ -21084,7 +21084,7 @@
     ],
     "name": "Justicar Trueheart",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Replace your starting Hero Power with a better one.",
     "type": "MINION"
   },
@@ -21127,7 +21127,7 @@
     ],
     "name": "Ice Trap",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "<b>Secret:</b> When your opponent casts a spell, return it to their hand instead. It costs (1) more.",
     "type": "SPELL"
@@ -21155,7 +21155,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Draw a\nHoly spell and a\nShadow spell.",
     "type": "MINION"
   },
@@ -21277,7 +21277,7 @@
     ],
     "name": "Tuskpiercer",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Deathrattle:</b> Draw a\n<b>Deathrattle</b> minion.",
     "type": "WEAPON"
   },
@@ -21303,7 +21303,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Gain 5 Armor.",
     "type": "MINION"
   },
@@ -21346,7 +21346,7 @@
     ],
     "name": "Barak Kodobane",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Draw a 1, 2,\n  and 3-Cost spell.",
     "type": "MINION"
   },
@@ -21438,7 +21438,7 @@
       "MECHANICAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Magnetic</b>\n<b>Rush</b>",
     "type": "MINION"
   },
@@ -21464,7 +21464,7 @@
       "MECHANICAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Magnetic</b>\n<b>Taunt</b>",
     "type": "MINION"
   },
@@ -21485,7 +21485,7 @@
     ],
     "name": "Toxicologist",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Give your weapon +1 Attack.",
     "type": "MINION"
   },
@@ -21511,7 +21511,7 @@
       "DRAENEI"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "After you play the\nright-most card in your hand, draw a card.",
     "type": "MINION"
   },
@@ -21536,7 +21536,7 @@
       "MECHANICAL"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Deal 5 damage randomly split among all minions except Mechs.",
     "type": "MINION"
   },
@@ -21601,7 +21601,7 @@
       "MECHANICAL"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Magnetic</b>\n<b>Deathrattle:</b> Summon three 1/1 Microbots.",
     "type": "MINION"
   },
@@ -21617,7 +21617,7 @@
     "id": "CORE_BOT_420",
     "name": "Landscaping",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "Summon two 2/2 Treants.",
     "type": "SPELL"
@@ -21658,7 +21658,7 @@
     "id": "CORE_BOT_453",
     "name": "Shooting Star",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "ARCANE",
     "text": "Deal $1 damage to a minion and the minions next to it.",
     "type": "SPELL"
@@ -21684,7 +21684,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Add a random Elemental to your hand.",
     "type": "MINION"
   },
@@ -21715,7 +21715,7 @@
       "MECHANICAL"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Magnetic</b>\n<b><b>Divine Shield</b>, <b>Taunt</b>, Lifesteal, Rush</b>",
     "type": "MINION"
   },
@@ -21740,7 +21740,7 @@
       "MECHANICAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Magnetic</b>",
     "type": "MINION"
   },
@@ -21758,7 +21758,7 @@
     "id": "CORE_BOT_568",
     "name": "The Soularium",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Draw 3 cards.\nThey are <b>Temporary</b>.",
     "type": "SPELL"
@@ -21807,7 +21807,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever this minion takes damage, summon a 1/1 Imp.",
     "type": "MINION"
   },
@@ -21849,7 +21849,7 @@
     ],
     "name": "Underlight Angling Rod",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "After your Hero attacks, add a random Murloc to your hand.",
     "type": "WEAPON"
   },
@@ -21885,7 +21885,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Summon three 1/1 Illidari with <b>Rush</b>.",
     "type": "SPELL"
   },
@@ -21933,7 +21933,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> If you cast\na spell last turn,\n<b>Discover</b> a spell.",
     "type": "MINION"
   },
@@ -21949,7 +21949,7 @@
     "id": "CORE_BT_117",
     "name": "Bladestorm",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Deal $1 damage to all minions. Repeat until one dies.",
     "type": "SPELL"
   },
@@ -21988,7 +21988,7 @@
     "id": "CORE_BT_134",
     "name": "Bogbeam",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Deal $3 damage to a minion.\nCosts (0) if you have at least 7 Mana Crystals.",
     "type": "SPELL"
   },
@@ -22070,7 +22070,7 @@
       "DISCOVER",
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]After you play a <b>Secret</b>,\n<b>Discover</b> a <b>Secret</b> from\na different class.",
     "type": "MINION"
   },
@@ -22113,7 +22113,7 @@
     "id": "CORE_BT_235",
     "name": "Chaos Nova",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FEL",
     "text": "Deal $4 damage to all minions.",
     "type": "SPELL"
@@ -22136,7 +22136,7 @@
     ],
     "name": "Flamereaper",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Also damages the minions next to whomever your hero attacks.",
     "type": "WEAPON"
   },
@@ -22182,7 +22182,7 @@
     "referencedTags": [
       "LIFESTEAL"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Summon a 5/5\nDreadlord with <b>Lifesteal</b>.",
     "type": "MINION"
   },
@@ -22231,7 +22231,7 @@
       "DEMON"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Look at 3 cards in your deck. Choose one to put on top.",
     "type": "MINION"
   },
@@ -22253,7 +22253,7 @@
     ],
     "name": "Lady Liadrin",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Add a copy of\neach spell you cast on\nfriendly characters this\ngame to your hand.",
     "type": "MINION"
   },
@@ -22303,7 +22303,7 @@
       "NAGA"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "After a friendly minion dies, deal 3 damage to a random enemy.",
     "type": "MINION"
   },
@@ -22350,7 +22350,7 @@
       "DRAENEI"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Taunt</b>\n<b>Lifesteal</b>",
     "type": "MINION"
   },
@@ -22367,7 +22367,7 @@
     "id": "CORE_BT_427",
     "name": "Feast of Souls",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Draw a card for each friendly minion that died this turn.@ <i>(@)</i>",
     "type": "SPELL"
@@ -22385,7 +22385,7 @@
     "id": "CORE_BT_429",
     "name": "Metamorphosis",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FEL",
     "text": "Swap your Hero Power to \"Deal 5 damage.\" After 2 uses, swap it back.",
     "type": "SPELL"
@@ -22408,7 +22408,7 @@
     ],
     "name": "Warglaives of Azzinoth",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "After attacking a minion, your hero may attack again.",
     "type": "WEAPON"
   },
@@ -22517,7 +22517,7 @@
     "id": "CORE_BT_514",
     "name": "Immolation Aura",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FEL",
     "text": "Deal $1 damage to all minions twice.",
     "type": "SPELL"
@@ -22562,7 +22562,7 @@
     "referencedTags": [
       "POISONOUS"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Secret:</b> After your\nopponent plays a minion,\nsummon a 2/3 Ambusher\nwith <b>Poisonous</b>.",
     "type": "SPELL"
   },
@@ -22651,7 +22651,7 @@
     ],
     "name": "Umberwing",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Summon two 1/1 Felwings.",
     "type": "WEAPON"
   },
@@ -22829,7 +22829,7 @@
     "name": "Jinyu Waterspeaker",
     "overload": 1,
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Restore #6 Health.",
     "text": "[x]<b>Battlecry:</b> Restore #6 Health.\n<b>Overload:</b> (1)",
     "type": "MINION"
@@ -22855,7 +22855,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Restore #4 Health to each hero.",
     "type": "MINION"
   },
@@ -22927,7 +22927,7 @@
       "DRAGON"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> If you're holding\na Dragon, <b>Discover</b> a\ncopy of a card in your\nopponent's deck.",
     "type": "MINION"
   },
@@ -22952,7 +22952,7 @@
       "ELEMENTAL"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Overheal:</b> Summon a\n2/2 Crystal.",
     "type": "MINION"
   },
@@ -23000,7 +23000,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Deal 3 damage to all other characters.",
     "type": "MINION"
   },
@@ -23133,7 +23133,7 @@
     "id": "Core_CS2_008",
     "name": "Moonfire",
     "rarity": "FREE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "ARCANE",
     "text": "Deal $1 damage.",
     "type": "SPELL"
@@ -23170,7 +23170,7 @@
     "id": "CORE_CS2_012",
     "name": "Swipe",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Deal $4 damage to an enemy and $1 damage to all other enemies.",
     "type": "SPELL"
   },
@@ -23186,7 +23186,7 @@
     "id": "CORE_CS2_013",
     "name": "Wild Growth",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "Gain an empty Mana Crystal.",
     "type": "SPELL"
@@ -23303,7 +23303,7 @@
       "ELEMENTAL"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Freeze</b> any character damaged by this minion.",
     "type": "MINION"
   },
@@ -23322,7 +23322,7 @@
     "referencedTags": [
       "WINDFURY"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "Give a minion <b>Windfury</b>.",
     "type": "SPELL"
@@ -23365,7 +23365,7 @@
     "id": "CORE_CS2_045",
     "name": "Rockbiter Weapon",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "Give a friendly character +3 Attack this turn.",
     "type": "SPELL"
@@ -23382,7 +23382,7 @@
     "id": "CORE_CS2_046",
     "name": "Bloodlust",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Give your minions +3 Attack this turn.",
     "type": "SPELL"
   },
@@ -23440,7 +23440,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Deal 1 damage to ALL other characters.",
     "type": "MINION"
   },
@@ -23465,7 +23465,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Taunt</b>",
     "type": "MINION"
   },
@@ -23514,7 +23514,7 @@
     "id": "CORE_CS2_075",
     "name": "Sinister Strike",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Deal $3 damage to the enemy hero.",
     "type": "SPELL"
   },
@@ -23546,7 +23546,7 @@
     "id": "CORE_CS2_077",
     "name": "Sprint",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Draw 4 cards.",
     "type": "SPELL"
   },
@@ -23565,7 +23565,7 @@
     "id": "CORE_CS2_080",
     "name": "Assassin's Blade",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "WEAPON"
   },
   {
@@ -23586,7 +23586,7 @@
     ],
     "name": "Guardian of Kings",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Taunt</b>\n<b>Battlecry:</b> Restore #6 Health to your hero.",
     "type": "MINION"
   },
@@ -23602,7 +23602,7 @@
     "id": "CORE_CS2_089",
     "name": "Holy Light",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "Restore #8 Health to your hero.",
     "type": "SPELL"
@@ -23619,7 +23619,7 @@
     "id": "CORE_CS2_092",
     "name": "Blessing of Kings",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "Give a minion +4/+4. <i>(+4 Attack/+4 Health)</i>",
     "type": "SPELL"
@@ -23676,7 +23676,7 @@
     ],
     "name": "Truesilver Champion",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever your hero attacks, restore #3 Health to it.",
     "type": "WEAPON"
   },
@@ -23695,7 +23695,7 @@
     "id": "CORE_CS2_106",
     "name": "Fiery War Axe",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "WEAPON"
   },
   {
@@ -23731,7 +23731,7 @@
     ],
     "name": "Earthen Ring Farseer",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Restore #3 Health.",
     "text": "<b>Battlecry:</b> Restore #3 Health.",
     "type": "MINION"
@@ -23754,7 +23754,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "MINION"
   },
   {
@@ -23796,7 +23796,7 @@
     ],
     "name": "Kobold Geomancer",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellDamage": 1,
     "text": "<b>Spell Damage +1</b>",
     "type": "MINION"
@@ -23823,7 +23823,7 @@
     "referencedTags": [
       "CHARGE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Has <b>Charge</b> while you have a weapon equipped.",
     "type": "MINION"
   },
@@ -23867,7 +23867,7 @@
     ],
     "name": "Injured Blademaster",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Deal 4 damage to HIMSELF.",
     "type": "MINION"
   },
@@ -23885,7 +23885,7 @@
     "id": "CORE_CS2_182",
     "name": "Chillwind Yeti",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "MINION"
   },
   {
@@ -23976,7 +23976,7 @@
     "referencedTags": [
       "SILENCE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "<b>Silence</b> a minion.",
     "text": "<b>Battlecry:</b> <b>Silence</b> a minion.",
     "type": "MINION"
@@ -24022,7 +24022,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "MINION"
   },
   {
@@ -24037,7 +24037,7 @@
     "id": "CORE_CS2_234",
     "name": "Shadow Word: Pain",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Destroy a minion with 3 or less Attack.",
     "type": "SPELL"
@@ -24059,7 +24059,7 @@
     ],
     "name": "Northshire Cleric",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever a minion is healed, draw a card.",
     "type": "MINION"
   },
@@ -24075,7 +24075,7 @@
     "id": "CORE_CS3_002",
     "name": "Ritual of Doom",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Destroy a friendly minion. If you had 5 or more, summon a\n5/5 Demon.",
     "type": "SPELL"
@@ -24102,7 +24102,7 @@
       "DEMON"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Your opponent\ndiscards a minion.\n<b>Deathrattle:</b> Return it.",
     "type": "MINION"
   },
@@ -24124,7 +24124,7 @@
     ],
     "name": "Vanessa VanCleef",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Combo:</b> Add a copy of the last card your opponent played to your hand.",
     "type": "MINION"
   },
@@ -24149,7 +24149,7 @@
       "PIRATE"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> The next\nweapon you play costs\n(1) less.",
     "type": "MINION"
   },
@@ -24165,7 +24165,7 @@
     "id": "CORE_CS3_009",
     "name": "War Cache",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Add a random Warrior minion, spell, and weapon to your hand.",
     "type": "SPELL"
   },
@@ -24186,7 +24186,7 @@
     ],
     "name": "Nordrassil Druid",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> The next spell you cast this turn costs (3) less.",
     "type": "MINION"
   },
@@ -24207,7 +24207,7 @@
     ],
     "name": "Crimson Clergy",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Overheal:</b> Draw a card.",
     "type": "MINION"
   },
@@ -24226,7 +24226,7 @@
     ],
     "name": "Reckoning",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "<b>Secret:</b> After an enemy minion deals 3 or more damage, destroy it.",
     "type": "SPELL"
@@ -24254,7 +24254,7 @@
     "referencedTags": [
       "OUTCAST"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Charge</b>, <b>Lifesteal</b>\nAfter you play a card with\n<b>Outcast</b>, return this to\nyour hand.",
     "type": "MINION"
   },
@@ -24279,7 +24279,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Taunt</b>. Also damages the minions next to whomever this attacks.",
     "type": "MINION"
   },
@@ -24298,7 +24298,7 @@
     "referencedTags": [
       "SILENCE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Silence</b> a minion, then give it +3 Health.",
     "type": "SPELL"
   },
@@ -24314,7 +24314,7 @@
     "id": "CORE_CS3_029",
     "name": "Pursuit of Justice",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "Give +1 Attack to Silver Hand Recruits you summon this game.",
     "type": "SPELL"
@@ -24336,7 +24336,7 @@
     ],
     "name": "Warsong Outrider",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Rush</b>",
     "type": "MINION"
   },
@@ -24360,7 +24360,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> If you control a <b>Secret</b>, gain +1/+1.",
     "type": "MINION"
   },
@@ -24379,7 +24379,7 @@
     ],
     "name": "Marked Shot",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Deal $4 damage to a minion. <b>Discover</b> a spell.",
     "type": "SPELL"
   },
@@ -24405,7 +24405,7 @@
       "PIRATE"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> <b>Discover</b> a spell from another class.",
     "type": "MINION"
   },
@@ -24428,7 +24428,7 @@
     ],
     "name": "Arch-Villain Rafaam",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b><b>Taunt</b>\nBattlecry:</b> Replace your hand and deck with <b>Legendary</b> minions.",
     "type": "MINION"
   },
@@ -24479,7 +24479,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Your first spell each\nturn costs (0).\n<b>Battlecry:</b> <b>Discover</b>\na spell.",
     "type": "MINION"
   },
@@ -24528,7 +24528,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "At the end of your turn, resurrect another friendly Undead minion.",
     "type": "MINION"
   },
@@ -24551,7 +24551,7 @@
     ],
     "name": "Madame Lazul",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> <b>Discover</b> a\ncopy of a card in your\nopponent's hand.",
     "type": "MINION"
   },
@@ -24574,7 +24574,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Tradeable</b>\nGive a minion +2/+3.\nAfter you <b>Trade</b> this, give\na friendly minion <b>Rush</b>.",
     "type": "SPELL"
   },
@@ -24590,7 +24590,7 @@
     "id": "CORE_DMF_057",
     "name": "Lunar Eclipse",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "ARCANE",
     "text": "Deal $3 damage to a minion. Your next spell this turn costs (2) less.",
     "type": "SPELL"
@@ -24607,7 +24607,7 @@
     "id": "CORE_DMF_058",
     "name": "Solar Eclipse",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "The next spell you cast this turn casts twice.",
     "type": "SPELL"
@@ -24633,7 +24633,7 @@
       "BEAST"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Rush</b>\nCosts (1) less for each spell\nyou've cast this game.",
     "type": "MINION"
   },
@@ -24686,7 +24686,7 @@
       "MURLOC"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Draw a Dragon.",
     "type": "MINION"
   },
@@ -24705,7 +24705,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Summon seven 1/1 Illidari with <b>Rush</b>. If they all die this turn, summon seven more.",
     "type": "SPELL"
   },
@@ -24728,7 +24728,7 @@
     ],
     "name": "Zai, the Incredible",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Copy the left- and right-most cards in your hand.",
     "type": "MINION"
   },
@@ -24753,7 +24753,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Summon a 6/6 Holy Elemental with <b>Taunt</b>.",
     "type": "WEAPON"
   },
@@ -24782,7 +24782,7 @@
     "referencedTags": [
       "DIVINE_SHIELD"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> For the rest of the\ngame, after you summon\na Silver Hand Recruit,\ngive it <b>Divine Shield</b>.",
     "type": "MINION"
   },
@@ -24833,7 +24833,7 @@
       "PIRATE"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Taunt</b>\n<b>Battlecry:</b> Equip a 3/2 Sword.",
     "type": "MINION"
   },
@@ -24852,7 +24852,7 @@
     ],
     "name": "Minefield",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Deal $5 damage randomly split among all minions.",
     "type": "SPELL"
   },
@@ -24878,7 +24878,7 @@
       "TOTEM"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "At the end of your turn,\ngive +1/+1 to all other Totems in your hand, deck and battlefield.",
     "type": "MINION"
   },
@@ -24900,7 +24900,7 @@
     ],
     "name": "Kiri, Chosen of Elune",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Add a Solar Eclipse and Lunar Eclipse to your hand.",
     "type": "MINION"
   },
@@ -24923,7 +24923,7 @@
     ],
     "name": "Greybough",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Give a random\nfriendly minion \"<b>Deathrattle:</b>\nSummon Greybough.\"",
     "type": "MINION"
   },
@@ -24975,7 +24975,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Attack ALL\nother minions.",
     "type": "MINION"
   },
@@ -24997,7 +24997,7 @@
     ],
     "name": "Flik Skyshiv",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Destroy a minion and copies of it.",
     "text": "[x]<b>Battlecry:</b> Destroy a\nminion and all copies of it\n<i>(wherever they are)</i>.",
     "type": "MINION"
@@ -25051,7 +25051,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Play all cards your opponent played last turn.",
     "type": "MINION"
   },
@@ -25078,7 +25078,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Change the Health of all enemy minions to 1.",
     "type": "MINION"
   },
@@ -25130,7 +25130,7 @@
       "DRAGON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Restore #8 Health.",
     "text": "<b>Battlecry:</b> Restore #8 Health.",
     "type": "MINION"
@@ -25158,7 +25158,7 @@
       "DRAGON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Lifesteal</b>\n<b>Battlecry:</b> <b>Discover</b> a Dragon.",
     "type": "MINION"
   },
@@ -25475,7 +25475,7 @@
     ],
     "name": "Young Priestess",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "At the end of your turn, give another random friendly minion +1 Health.",
     "type": "MINION"
   },
@@ -25541,7 +25541,7 @@
     ],
     "name": "Argent Squire",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Divine Shield</b>",
     "type": "MINION"
   },
@@ -25666,7 +25666,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Take\ncontrol of a random\nenemy minion.",
     "type": "MINION"
   },
@@ -25692,7 +25692,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Stealth</b>",
     "type": "MINION"
   },
@@ -25765,7 +25765,7 @@
     ],
     "name": "Dark Iron Dwarf",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Give +2 Attack.",
     "text": "<b>Battlecry:</b> Give a minion +2 Attack this turn.",
     "type": "MINION"
@@ -25788,7 +25788,7 @@
     ],
     "name": "Youthful Brewmaster",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Return a minion to your hand.",
     "text": "<b>Battlecry:</b> Return a friendly minion from the battlefield to your hand.",
     "type": "MINION"
@@ -25814,7 +25814,7 @@
       "MURLOC"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Each player draws 2 cards.",
     "type": "MINION"
   },
@@ -25889,7 +25889,7 @@
     ],
     "name": "Acidic Swamp Ooze",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Destroy your opponent's weapon.",
     "type": "MINION"
   },
@@ -25935,7 +25935,7 @@
     "referencedTags": [
       "CHARGE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever you summon a minion with 3 or less Attack, give it <b>Charge</b>.",
     "type": "MINION"
   },
@@ -25957,7 +25957,7 @@
     ],
     "name": "Mind Control Tech",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Take control of a minion.",
     "text": "[x]<b>Battlecry:</b> If your opponent\nhas 4 or more minions,\ntake control of one.",
     "type": "MINION"
@@ -25987,7 +25987,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Give adjacent minions +1/+1 and <b>Taunt</b>.",
     "type": "MINION"
   },
@@ -26008,7 +26008,7 @@
     ],
     "name": "Gadgetzan Auctioneer",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever you cast a spell, draw a card.",
     "type": "MINION"
   },
@@ -26099,7 +26099,7 @@
       "ELEMENTAL"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Costs (1) less for each other card in your hand.",
     "type": "MINION"
   },
@@ -26147,7 +26147,7 @@
     ],
     "name": "Leeroy Jenkins",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Charge</b>. <b>Battlecry:</b> Summon two 1/1 Whelps for your opponent.",
     "type": "MINION"
   },
@@ -26166,7 +26166,7 @@
     ],
     "name": "Eviscerate",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Deal $2 damage. <b>Combo:</b> Deal $4 damage instead.",
     "type": "SPELL"
   },
@@ -26201,7 +26201,7 @@
     ],
     "name": "Noble Sacrifice",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Secret:</b> When an enemy attacks, summon a 2/1 Defender as the new target.",
     "type": "SPELL"
   },
@@ -26261,7 +26261,7 @@
     "id": "CORE_EX1_144",
     "name": "Shadowstep",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Return a friendly minion to your hand. It costs (2) less.",
     "type": "SPELL"
@@ -26317,7 +26317,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "Give your minions \"<b>Deathrattle:</b> Summon a 2/2 Treant.\"",
     "type": "SPELL"
@@ -26382,7 +26382,7 @@
     ],
     "name": "Nourish",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "<b>Choose One -</b> Gain 2 Mana Crystals; or Draw 3 cards.",
     "type": "SPELL"
@@ -26408,7 +26408,7 @@
       "RUSH",
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Choose One -</b> Transform\ninto a 7/6 with <b>Rush</b>;\nor a 4/9 with <b>Taunt</b>.",
     "type": "MINION"
   },
@@ -26449,7 +26449,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Choose One -</b>\n+5 Attack; or +5 Health and <b>Taunt</b>.",
     "type": "MINION"
   },
@@ -26473,7 +26473,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Destroy a random enemy <b>Secret</b>.",
     "type": "MINION"
   },
@@ -26498,7 +26498,7 @@
       "ELEMENTAL"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever you cast a spell, gain +2/+2.",
     "type": "MINION"
   },
@@ -26519,7 +26519,7 @@
     ],
     "name": "Barrens Stablehand",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Summon a random Beast.",
     "type": "MINION"
   },
@@ -26567,7 +26567,7 @@
     ],
     "name": "High Inquisitor Whitemane",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Summon all friendly minions that died this turn.",
     "type": "MINION"
   },
@@ -26608,7 +26608,7 @@
     "id": "CORE_EX1_194",
     "name": "Power Infusion",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "Give a minion +2/+6.",
     "type": "SPELL"
@@ -26630,7 +26630,7 @@
     ],
     "name": "Kul Tiran Chaplain",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Give +2 Health.",
     "text": "<b>Battlecry:</b> Give a friendly minion +2 Health.",
     "type": "MINION"
@@ -26735,7 +26735,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "Summon two 2/3 Spirit Wolves with <b>Taunt</b>. <b>Overload:</b> (1)",
     "type": "SPELL"
@@ -26762,7 +26762,7 @@
       "ELEMENTAL"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "At the end of your turn, deal 2 damage to ALL other characters.",
     "type": "MINION"
   },
@@ -26817,7 +26817,7 @@
     "referencedTags": [
       "OVERLOAD"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "After you play a card with <b>Overload</b>, gain +1/+1.",
     "type": "MINION"
   },
@@ -26857,7 +26857,7 @@
     ],
     "name": "Cone of Cold",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "<b>Freeze</b> a minion and the minions next to it, and deal $1 damage to them.",
     "type": "SPELL"
@@ -26891,7 +26891,7 @@
     "id": "CORE_EX1_279",
     "name": "Pyroblast",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FIRE",
     "text": "Deal $10 damage.",
     "type": "SPELL"
@@ -26918,7 +26918,7 @@
       "DRAGON"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellDamage": 1,
     "text": "<b>Spell Damage +1</b>\n<b>Battlecry:</b> Draw a card.",
     "type": "MINION"
@@ -26981,7 +26981,7 @@
     ],
     "name": "Mirror Entity",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "ARCANE",
     "text": "<b>Secret:</b> After your opponent plays a minion, summon a copy of it.",
     "type": "SPELL"
@@ -27010,7 +27010,7 @@
       "ELEMENTAL"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Can't attack. At the end of your turn, deal 8 damage to a random enemy.",
     "type": "MINION"
   },
@@ -27052,7 +27052,7 @@
       "DEMON"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Destroy both\nadjacent minions and gain\n their Attack and Health.",
     "type": "MINION"
   },
@@ -27128,7 +27128,7 @@
     "id": "CORE_EX1_316",
     "name": "Power Overwhelming",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Give a friendly minion +4/+4 until end of turn. Then, it dies. Horribly.",
     "type": "SPELL"
@@ -27199,7 +27199,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "This minion's Attack is always equal to its Health.",
     "type": "MINION"
   },
@@ -27249,7 +27249,7 @@
       "DRAENEI"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Change Attack to 1.",
     "text": "<b>Battlecry:</b> Change an enemy minion's Attack to 1.",
     "type": "MINION"
@@ -27311,7 +27311,7 @@
     ],
     "name": "Gurubashi Berserker",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever this minion takes damage, gain +3 Attack.",
     "type": "MINION"
   },
@@ -27327,7 +27327,7 @@
     "id": "CORE_EX1_400",
     "name": "Whirlwind",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Deal $1 damage to ALL minions.",
     "type": "SPELL"
   },
@@ -27348,7 +27348,7 @@
     ],
     "name": "Armorsmith",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever a friendly minion takes damage, gain 1 Armor.",
     "type": "MINION"
   },
@@ -27364,7 +27364,7 @@
     "id": "CORE_EX1_407",
     "name": "Brawl",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Destroy all minions except one. <i>(chosen randomly)</i>",
     "type": "SPELL"
   },
@@ -27383,7 +27383,7 @@
     ],
     "name": "Shield Slam",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Deal 1 damage to a minion for each Armor you have.",
     "type": "SPELL"
   },
@@ -27402,7 +27402,7 @@
     "id": "CORE_EX1_411",
     "name": "Gorehowl",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Attacking a minion costs 1 Attack instead of 1 Durability.",
     "type": "WEAPON"
   },
@@ -27522,7 +27522,7 @@
     ],
     "name": "Patient Assassin",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Stealth</b>\n <b>Poisonous</b>",
     "type": "MINION"
   },
@@ -27547,7 +27547,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever a friendly Beast dies, gain +2/+1.",
     "type": "MINION"
   },
@@ -27572,7 +27572,7 @@
       "BEAST"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Summon two 2/2 Hyenas.",
     "type": "MINION"
   },
@@ -27588,7 +27588,7 @@
     "id": "CORE_EX1_539",
     "name": "Kill Command",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Deal $3 damage. If you control a Beast, deal\n$5 damage instead.",
     "type": "SPELL"
   },
@@ -27614,7 +27614,7 @@
       "BEAST"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Charge</b>",
     "type": "MINION"
   },
@@ -27633,7 +27633,7 @@
     ],
     "name": "Snake Trap",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Secret:</b> When one of your minions is attacked, summon three 1/1 Snakes.",
     "type": "SPELL"
   },
@@ -27677,7 +27677,7 @@
     ],
     "name": "Faceless Manipulator",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Become a copy of a minion.",
     "techLevel": 6,
     "text": "<b>Battlecry:</b> Choose a minion and become a copy of it.",
@@ -27705,7 +27705,7 @@
       "TOTEM"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Adjacent minions have +2 Attack.",
     "type": "MINION"
   },
@@ -27729,7 +27729,7 @@
     "name": "Doomhammer",
     "overload": 2,
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Windfury, Overload:</b> (2)",
     "type": "WEAPON"
   },
@@ -27745,7 +27745,7 @@
     "id": "CORE_EX1_571",
     "name": "Force of Nature",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "Summon three 2/2 Treants.",
     "type": "SPELL"
@@ -27771,7 +27771,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Choose One -</b> Give your other minions +2/+2; or Summon two 2/2 Treants with <b>Taunt</b>.",
     "type": "MINION"
   },
@@ -27796,7 +27796,7 @@
       "TOTEM"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "At the end of your turn, draw a card.",
     "type": "MINION"
   },
@@ -27812,7 +27812,7 @@
     "id": "CORE_EX1_581",
     "name": "Sap",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Return an enemy minion to your opponent's hand.",
     "type": "SPELL"
   },
@@ -27830,7 +27830,7 @@
     "id": "CORE_EX1_586",
     "name": "Sea Giant",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Costs (1) less for each other minion on the battlefield.",
     "type": "MINION"
   },
@@ -27851,7 +27851,7 @@
     ],
     "name": "Cruel Taskmaster",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Deal 1 damage and grant +2 Attack.",
     "text": "<b>Battlecry:</b> Deal 1 damage to a minion and give it +2 Attack.",
     "type": "MINION"
@@ -27945,7 +27945,7 @@
     "id": "CORE_EX1_617",
     "name": "Deadly Shot",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Destroy a random enemy minion.",
     "type": "SPELL"
   },
@@ -27984,7 +27984,7 @@
       "ELEMENTAL"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Costs (1) less for\neach Health your hero\nis missing.",
     "type": "MINION"
   },
@@ -28000,7 +28000,7 @@
     "id": "CORE_EX1_622",
     "name": "Shadow Word: Death",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Destroy a minion with 5 or more Attack.",
     "type": "SPELL"
@@ -28022,7 +28022,7 @@
     ],
     "name": "Temple Enforcer",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Give +3 Health.",
     "text": "<b>Battlecry:</b> Give a friendly minion +3 Health.",
     "type": "MINION"
@@ -28039,7 +28039,7 @@
     "id": "CORE_EX1_625",
     "name": "Shadowform",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Your Hero Power becomes 'Deal 2 damage.'",
     "type": "SPELL"
@@ -28059,7 +28059,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "Summon two 3/3 Wolves. <i>(Play a <b>Secret</b> to upgrade.)</i>",
     "type": "SPELL"
@@ -28085,7 +28085,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever this attacks, deal 2 damage to your hero.",
     "type": "MINION"
   },
@@ -28106,7 +28106,7 @@
     ],
     "name": "Nerubian Egg",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Summon a 4/4 Nerubian.",
     "type": "MINION"
   },
@@ -28131,7 +28131,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Get a\nrandom Beast.",
     "type": "MINION"
   },
@@ -28150,7 +28150,7 @@
     ],
     "name": "Avenge",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "<b>Secret:</b> When one of your minions dies, give a random friendly minion +3/+2.",
     "type": "SPELL"
@@ -28176,7 +28176,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Put a random Demon from your hand into the battlefield.",
     "type": "MINION"
   },
@@ -28202,7 +28202,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Enemy spells cost (5) more next turn.",
     "type": "MINION"
   },
@@ -28231,7 +28231,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Your minions trigger their <b>Deathrattles</b> twice.",
     "type": "MINION"
   },
@@ -28253,7 +28253,7 @@
     ],
     "name": "Harth Stonebrew",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Replace your\nhand with an iconic one\nfrom Hearthstone's past.\n<i>(Once per game)</i>",
     "type": "MINION"
   },
@@ -28271,7 +28271,7 @@
     ],
     "name": "Jaina's Gift",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Discover</b> a <b>Temporary</b> Frostbolt, Arcane Intellect, or Fireball.",
     "type": "SPELL"
   },
@@ -28289,7 +28289,7 @@
     ],
     "name": "Rexxar's Gift",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Discover</b> a <b>Temporary</b>\nQuick Shot, Deadly Shot,\nor Explosive Shot.",
     "type": "SPELL"
   },
@@ -28307,7 +28307,7 @@
     ],
     "name": "Arthas's Gift",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Discover</b> a <b>Temporary</b>\nDark Transformation,\nHowling Blast, or\nDeath Strike.",
     "type": "SPELL"
   },
@@ -28325,7 +28325,7 @@
     ],
     "name": "Uther's Gift",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Discover</b> a <b>Temporary</b> Equality, Consecration, or Blessing of Kings.",
     "type": "SPELL"
   },
@@ -28343,7 +28343,7 @@
     ],
     "name": "Thrall's Gift",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Discover</b> a <b>Temporary</b> Lightning Storm, Hex,\nor Bloodlust.",
     "type": "SPELL"
   },
@@ -28361,7 +28361,7 @@
     ],
     "name": "Garrosh's Gift",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Discover</b> a <b>Temporary</b> Execute, Shield Block, or Brawl.",
     "type": "SPELL"
   },
@@ -28379,7 +28379,7 @@
     ],
     "name": "Illidan's Gift",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Discover</b> a <b>Temporary</b> Fel Barrage, Chaos Strike, or Chaos Nova.",
     "type": "SPELL"
   },
@@ -28397,7 +28397,7 @@
     ],
     "name": "Valeera's Gift",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Discover</b> a <b>Temporary</b>\nBackstab, Deadly Poison,\nor Fan of Knives.",
     "type": "SPELL"
   },
@@ -28415,7 +28415,7 @@
     ],
     "name": "Malfurion's Gift",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Discover</b> a <b>Temporary</b>\nFeral Rage, Wild Growth,\nor Swipe.",
     "type": "SPELL"
   },
@@ -28433,7 +28433,7 @@
     ],
     "name": "Gul'dan's Gift",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Discover</b> a <b>Temporary</b>\nMortal Coil, Siphon Soul,\nor Twisting Nether.",
     "type": "SPELL"
   },
@@ -28451,7 +28451,7 @@
     ],
     "name": "Anduin's Gift",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Discover</b> a <b>Temporary</b>\nPower Word: Shield,\nShadow Word: Pain,\nor Mind Control.",
     "type": "SPELL"
   },
@@ -28472,7 +28472,7 @@
     ],
     "name": "Mossy Horror",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Destroy all other minions with 2 or less Attack.",
     "type": "MINION"
   },
@@ -28488,7 +28488,7 @@
     "id": "CORE_GIL_191",
     "name": "Fiendish Circle",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FEL",
     "text": "[x]Summon four 1/1 Imps.",
     "type": "SPELL"
@@ -28564,7 +28564,7 @@
     ],
     "name": "Darius Crowley",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Rush</b>\nAfter this attacks and kills\na minion, gain +2/+2.",
     "type": "MINION"
   },
@@ -28633,7 +28633,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Draw a <b>Rush</b> minion from your deck.",
     "type": "MINION"
   },
@@ -28655,7 +28655,7 @@
     ],
     "name": "Tess Greymane",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Replay every card\nfrom another class you've\nplayed this game <i>(targets\nchosen randomly)</i>.",
     "type": "MINION"
   },
@@ -28676,7 +28676,7 @@
     "name": "Zap!",
     "overload": 1,
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "Deal $2 damage to a minion. <b>Overload:</b> (1)",
     "type": "SPELL"
@@ -28754,7 +28754,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Your other minions have\n<b>Rush</b>.",
     "type": "MINION"
   },
@@ -28776,7 +28776,7 @@
     ],
     "name": "Woodcutter's Axe",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Give +2/+1 to a random friendly minion.",
     "type": "WEAPON"
   },
@@ -28792,7 +28792,7 @@
     "id": "CORE_GIL_663",
     "name": "Witchwood Apple",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "Add two 2/2 Treants to your hand.",
     "type": "SPELL"
@@ -28819,7 +28819,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Taunt</b>\n<b>Deathrattle:</b> Restore #6 Health to your hero.",
     "type": "MINION"
   },
@@ -28841,7 +28841,7 @@
     ],
     "name": "Spectral Cutlass",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Lifesteal</b>\nWhenever you play a card\nfrom another class,\ngain +1 Durability.",
     "type": "WEAPON"
   },
@@ -28864,7 +28864,7 @@
     ],
     "name": "Genn Greymane",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Start of Game:</b>\nIf your deck has only even-\nCost cards, your starting\nHero Power costs (1).",
     "type": "MINION"
   },
@@ -28883,7 +28883,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "<b>Freeze</b> a minion.\nIf it's already <b>Frozen</b>, destroy it.",
     "type": "SPELL"
@@ -28910,7 +28910,7 @@
       "BEAST"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Start of Game:</b>\nIf your deck has only odd-\nCost cards, upgrade\nyour Hero Power.",
     "type": "MINION"
   },
@@ -28926,7 +28926,7 @@
     "id": "CORE_GIL_828",
     "name": "Dire Frenzy",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Give a Beast +3/+3. Shuffle 3 copies into your deck with +3/+3.",
     "type": "SPELL"
   },
@@ -28969,7 +28969,7 @@
     ],
     "name": "Lightbomb",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "Deal damage to each minion equal to its Attack.",
     "type": "SPELL"
@@ -28988,7 +28988,7 @@
     "id": "CORE_GVG_013",
     "name": "Cogmaster",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Has +2 Attack while you have a Mech.",
     "type": "MINION"
   },
@@ -29017,7 +29017,7 @@
     "referencedTags": [
       "IMMUNE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Your hero is <b>Immune</b>.\nYour other Demons\nhave +2/+2.",
     "type": "MINION"
   },
@@ -29039,7 +29039,7 @@
       "MECHANICAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "MINION"
   },
   {
@@ -29059,7 +29059,7 @@
     ],
     "name": "Shieldmaiden",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Gain 5 Armor.",
     "type": "MINION"
   },
@@ -29128,7 +29128,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Deal 2 damage to all minions.",
     "type": "MINION"
   },
@@ -29203,7 +29203,7 @@
     ],
     "name": "Mini-Mage",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellDamage": 1,
     "text": "<b>Stealth</b>\n<b>Spell Damage +1</b>",
     "type": "MINION"
@@ -29226,7 +29226,7 @@
     ],
     "name": "Dr. Boom",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Summon two 1/1 Boom Bots. <i>WARNING: Bots may explode.</i>",
     "type": "MINION"
   },
@@ -29275,7 +29275,7 @@
       "MECHANICAL"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Costs (1) less for each card in your opponent's hand.",
     "type": "MINION"
   },
@@ -29299,7 +29299,7 @@
       "PIRATE"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Gain stats equal to your weapon's.",
     "type": "MINION"
   },
@@ -29322,7 +29322,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> If it's your opponent's turn, summon an 8/8 Skeleton.",
     "type": "MINION"
   },
@@ -29345,7 +29345,7 @@
       "BEAST"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b>\nDeal 2 damage to all enemy minions.",
     "type": "MINION"
   },
@@ -29367,7 +29367,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "MINION"
   },
   {
@@ -29390,7 +29390,7 @@
       "UNDEAD"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Summon a\n5/5 Skeleton.\n<b>Deathrattle:</b> Summon one\nfor your opponent.",
     "type": "MINION"
   },
@@ -29415,7 +29415,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Summon two 1/1 Skeletons.",
     "type": "MINION"
   },
@@ -29439,7 +29439,7 @@
       "DRAGON"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Add a random Dragon to your hand.",
     "type": "MINION"
   },
@@ -29462,7 +29462,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Give adjacent minions +2 Health.",
     "type": "MINION"
   },
@@ -29487,7 +29487,7 @@
       "DRAGON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "At the end of your turn, give another random friendly minion +3 Attack.",
     "type": "MINION"
   },
@@ -29506,7 +29506,7 @@
     ],
     "name": "Night Howler",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever this minion takes\ndamage, gain +2 Attack.",
     "type": "MINION"
   },
@@ -29529,7 +29529,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Poisonous</b>",
     "type": "MINION"
   },
@@ -29552,7 +29552,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> If it's your opponent's turn, summon a 2/2 Ghoul.",
     "type": "MINION"
   },
@@ -29588,7 +29588,7 @@
     "id": "CORE_ICC_039",
     "name": "Dark Conviction",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Set a minion's Attack and Health to 3.",
     "type": "SPELL"
@@ -29605,7 +29605,7 @@
     "id": "CORE_ICC_041",
     "name": "Defile",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Deal $1 damage to all minions. If any die, cast this again.",
     "type": "SPELL"
@@ -29632,7 +29632,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Choose a Deathrattle (Secretly) -</b> Deal 3 damage to all minions; or Give them +2/+2.",
     "type": "MINION"
   },
@@ -29649,7 +29649,7 @@
     "referencedTags": [
       "POISONOUS"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "Deal $2 damage to a minion. If it survives, give it <b>Poisonous</b>.",
     "type": "SPELL"
@@ -29667,7 +29667,7 @@
     "referencedTags": [
       "POISONOUS"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Summon two 1/2 <b>Poisonous</b> Spiders.",
     "type": "SPELL"
@@ -29691,7 +29691,7 @@
       "POISONOUS",
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Choose One -</b> Transform into a 1/2 with <b>Poisonous</b>; or a 1/5 with <b>Taunt</b>.",
     "type": "MINION"
   },
@@ -29708,7 +29708,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Trigger a friendly minion's <b>Deathrattle</b>.",
     "type": "SPELL"
   },
@@ -29725,7 +29725,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "Summon a 1/5 Scarab with <b>Taunt</b>. If your opponent has more minions, cast this again.",
     "type": "SPELL"
@@ -29763,7 +29763,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "Give a minion +3/+3 and <b>Freeze</b> it.",
     "type": "SPELL"
@@ -29791,7 +29791,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Freeze an enemy.",
     "text": "<b>Battlecry:</b> <b>Freeze</b> an enemy.",
     "type": "MINION"
@@ -29811,7 +29811,7 @@
     ],
     "name": "Mountainfire Armor",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> If it's your opponent's turn,\ngain 6 Armor.",
     "type": "MINION"
   },
@@ -29832,7 +29832,7 @@
     ],
     "name": "Blood Razor",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry and Deathrattle:</b>\nDeal 1 damage to all minions.",
     "type": "WEAPON"
   },
@@ -29855,7 +29855,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Add two 1/1 Skeletons to your hand.",
     "type": "MINION"
   },
@@ -29878,7 +29878,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Deathrattle:</b> If it's your\nopponent's turn,\nsummon a 2/2 Ghoul.",
     "type": "MINION"
   },
@@ -29901,7 +29901,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Your Hero Power also <b><b>Freeze</b>s</b> the target.",
     "type": "MINION"
   },
@@ -29924,7 +29924,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Add a 'Mirror Image' spell to your hand.",
     "type": "MINION"
   },
@@ -29947,7 +29947,7 @@
     "referencedTags": [
       "DIVINE_SHIELD"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "After a friendly minion loses <b>Divine Shield</b>, gain +1 Attack.",
     "type": "WEAPON"
   },
@@ -29972,7 +29972,7 @@
       "DEMON"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "At the end of your turn, deal 1 damage to all enemy minions.",
     "type": "MINION"
   },
@@ -29989,7 +29989,7 @@
     ],
     "name": "Avalanche",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "<b>Freeze</b> a minion and deal $3 damage to adjacent ones.",
     "type": "SPELL"
@@ -30004,7 +30004,7 @@
     "id": "CORE_ICC_079",
     "name": "Gnash",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Give your hero +3 Attack this turn. Gain 3 Armor.",
     "type": "SPELL"
   },
@@ -30025,7 +30025,7 @@
     "name": "Drakkari Defender",
     "overload": 3,
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Taunt</b>\n<b>Overload:</b> (3)",
     "type": "MINION"
   },
@@ -30042,7 +30042,7 @@
     ],
     "name": "Frozen Clone",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "<b>Secret:</b> After your opponent plays a minion, add two copies of it to your hand.",
     "type": "SPELL"
@@ -30066,7 +30066,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Your opponent's spells cost (1) more.",
     "type": "MINION"
   },
@@ -30080,7 +30080,7 @@
     "id": "CORE_ICC_085",
     "name": "Ultimate Infestation",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Deal $5 damage. Draw\n5 cards. Gain 5 Armor.\nSummon a 5/5 Ghoul.",
     "type": "SPELL"
   },
@@ -30097,7 +30097,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "Put one of each <b>Secret</b> from your deck into\nthe battlefield.",
     "type": "SPELL"
@@ -30118,7 +30118,7 @@
     ],
     "name": "Voodoo Hexxer",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Taunt</b>\n<b>Freeze</b> any character damaged by this minion.",
     "type": "MINION"
   },
@@ -30132,7 +30132,7 @@
     "id": "CORE_ICC_089",
     "name": "Ice Fishing",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "Draw 2 Murlocs from your deck.",
     "type": "SPELL"
@@ -30156,7 +30156,7 @@
     "referencedTags": [
       "OVERLOAD"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Costs (1) less for each Mana Crystal you've <b><b>Overload</b>ed</b> this game.",
     "type": "MINION"
   },
@@ -30170,7 +30170,7 @@
     "id": "CORE_ICC_091",
     "name": "Dead Man's Hand",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Shuffle a copy of your hand into your deck.",
     "type": "SPELL"
   },
@@ -30193,7 +30193,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Give +1 Attack.",
     "text": "<b>Battlecry:</b> Give a friendly minion +1 Attack.",
     "type": "MINION"
@@ -30220,7 +30220,7 @@
     "referencedTags": [
       "SPELLPOWER"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Give Spell Damage +1.",
     "text": "<b>Battlecry:</b> Give a friendly minion <b>Spell Damage +1</b>.",
     "type": "MINION"
@@ -30244,7 +30244,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Give +1/+1.",
     "text": "<b>Battlecry:</b> Give a friendly minion +1/+1.",
     "type": "MINION"
@@ -30268,7 +30268,7 @@
       "UNDEAD"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Discard all weapons from your hand and gain their stats.",
     "type": "MINION"
   },
@@ -30292,7 +30292,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever your weapon is destroyed, gain +1/+1.",
     "type": "MINION"
   },
@@ -30318,7 +30318,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Add a random\n<b>Deathrattle</b> minion that died\nthis game to your hand.",
     "type": "MINION"
   },
@@ -30341,7 +30341,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Deal 5 damage to your minions.",
     "type": "MINION"
   },
@@ -30361,7 +30361,7 @@
     "referencedTags": [
       "POISONOUS"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Secret:</b> When one of your minions is attacked, summon a 2/3 <b>Poisonous</b> Cobra.",
     "type": "SPELL"
   },
@@ -30378,7 +30378,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Draw a card.\nIf it has <b>Deathrattle</b>, cast this again.",
     "type": "SPELL"
   },
@@ -30405,7 +30405,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "After you play a <b>Secret</b>,\nput a random Hunter <b>Secret</b> into the battlefield.",
     "type": "MINION"
   },
@@ -30419,7 +30419,7 @@
     "id": "CORE_ICC_206",
     "name": "Treachery",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Choose a friendly minion and give it to your opponent.",
     "type": "SPELL"
@@ -30434,7 +30434,7 @@
     "id": "CORE_ICC_207",
     "name": "Devour Mind",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Copy 3 cards in your opponent's deck and add them to your hand.",
     "type": "SPELL"
@@ -30483,7 +30483,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Lifesteal</b>",
     "type": "MINION"
   },
@@ -30500,7 +30500,7 @@
     ],
     "name": "Eternal Servitude",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "<b>Discover</b> a friendly minion that died this game. Summon it.",
     "type": "SPELL"
@@ -30544,7 +30544,7 @@
     ],
     "name": "Archbishop Benedictus",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Shuffle a copy of your opponent's deck into your deck.",
     "type": "MINION"
   },
@@ -30567,7 +30567,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever this minion takes damage, discard a random card.",
     "type": "MINION"
   },
@@ -30591,7 +30591,7 @@
       "MURLOC"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Lifesteal</b>",
     "type": "MINION"
   },
@@ -30608,7 +30608,7 @@
     "referencedTags": [
       "LIFESTEAL"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "Give your weapon <b>Lifesteal</b> this turn.",
     "type": "SPELL"
@@ -30626,7 +30626,7 @@
     ],
     "name": "Doomerang",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Throw your weapon at a minion. It deals its damage, then returns to your hand.",
     "type": "SPELL"
   },
@@ -30640,7 +30640,7 @@
     "id": "CORE_ICC_235",
     "name": "Shadow Essence",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Summon a 5/5 copy of a random minion in your deck.",
     "type": "SPELL"
@@ -30664,7 +30664,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Destroy any <b>Frozen</b> minion damaged by this.",
     "type": "WEAPON"
   },
@@ -30683,7 +30683,7 @@
     ],
     "name": "Animated Berserker",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "After you play a minion, deal 1 damage to it.",
     "type": "MINION"
   },
@@ -30706,7 +30706,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "During your turn, your weapon doesn't lose Durability.",
     "type": "MINION"
   },
@@ -30733,7 +30733,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Your <b>Deathrattle</b> cards cost (2) less.",
     "type": "MINION"
   },
@@ -30750,7 +30750,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "Give a minion \"<b>Deathrattle:</b> Return this to life with 1 Health.\"",
     "type": "SPELL"
@@ -30775,7 +30775,7 @@
       "DRAENEI"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever your hero is healed, deal that much damage to a random enemy minion.",
     "type": "MINION"
   },
@@ -30801,7 +30801,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> If an enemy is <b>Frozen</b>, draw a card.",
     "type": "MINION"
   },
@@ -30824,7 +30824,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Give \"Deathrattle: Resummon this minion.\"",
     "text": "[x]<b>Battlecry:</b> Give a friendly\nminion \"<b>Deathrattle:</b>\n  Resummon this minion.\"",
     "type": "MINION"
@@ -30839,7 +30839,7 @@
     "id": "CORE_ICC_281",
     "name": "Forge of Souls",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Draw 2 weapons from your deck.",
     "type": "SPELL"
   },
@@ -30862,7 +30862,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever another minion is <b>Frozen</b>, add a copy of it to your hand.",
     "type": "MINION"
   },
@@ -30887,7 +30887,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Taunt</b>\nAt the end of your turn,\nadd a random <b>Lich King</b>\ncard to your hand.",
     "type": "MINION"
   },
@@ -30911,7 +30911,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]After this minion\nsurvives damage,\nsummon a random\n<b>Legendary</b> minion.",
     "type": "MINION"
   },
@@ -30959,7 +30959,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]After this minion\nsurvives damage,\nsummon a 2/2 Ghoul.",
     "type": "MINION"
   },
@@ -30983,7 +30983,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> <b>Discover</b> a copy of a minion in your deck.",
     "type": "MINION"
   },
@@ -31009,7 +31009,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Elusive</b>",
     "type": "MINION"
   },
@@ -31032,7 +31032,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Gain +1/+1 for each damaged minion.",
     "type": "MINION"
   },
@@ -31056,7 +31056,7 @@
       "DRAENEI"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> Summon a\ncopy of this minion.",
     "type": "MINION"
   },
@@ -31082,7 +31082,7 @@
     "referencedTags": [
       "IMMUNE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Give Immune this turn.",
     "text": "<b>Battlecry:</b> Give a friendly minion <b>Immune</b> this turn.",
     "type": "MINION"
@@ -31106,7 +31106,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever this minion attacks, deal 2 damage to the enemy hero.",
     "type": "MINION"
   },
@@ -31120,7 +31120,7 @@
     "id": "CORE_ICC_469",
     "name": "Unwilling Sacrifice",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Choose a friendly minion. Destroy it and a random enemy minion.",
     "type": "SPELL"
@@ -31142,7 +31142,7 @@
     ],
     "name": "Thrall, Deathseer",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Transform your minions into random ones that cost (2) more.",
     "type": "HERO"
   },
@@ -31162,7 +31162,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Costs (0) if your hero was healed this turn.",
     "type": "MINION"
   },
@@ -31185,7 +31185,7 @@
       "UNDEAD"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Destroy all\n1-Cost spells in both hands and decks.",
     "type": "MINION"
   },
@@ -31208,7 +31208,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Add a random <b>Deathrattle</b> minion to your hand.",
     "type": "MINION"
   },
@@ -31235,7 +31235,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Give +4/+4 and Taunt.",
     "text": "<b>Battlecry:</b> Give a friendly minion +4/+4 and <b>Taunt</b>.",
     "type": "MINION"
@@ -31255,7 +31255,7 @@
     ],
     "name": "Nerubian Unraveler",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Spells cost (2) more.",
     "type": "MINION"
   },
@@ -31281,7 +31281,7 @@
     "referencedTags": [
       "DIVINE_SHIELD"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Draw a <b>Divine Shield</b> minion from your deck.",
     "type": "MINION"
   },
@@ -31298,7 +31298,7 @@
     ],
     "name": "Spirit Lash",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "<b>Lifesteal</b>\nDeal $1 damage to all minions.",
     "type": "SPELL"
@@ -31321,7 +31321,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Give your <b>Taunt</b> minions +2/+2.",
     "type": "MINION"
   },
@@ -31345,7 +31345,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Taunt</b>\nAfter you summon a minion,\n gain +1 Health.",
     "type": "MINION"
   },
@@ -31373,7 +31373,7 @@
     "referencedTags": [
       "POISONOUS"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Give Poisonous.",
     "text": "<b>Combo:</b> Give a friendly minion <b>Poisonous</b>.",
     "type": "MINION"
@@ -31400,7 +31400,7 @@
     "referencedTags": [
       "LIFESTEAL"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Give a random <b>Lifesteal</b> minion in your hand +2/+2.",
     "type": "MINION"
   },
@@ -31424,7 +31424,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Replace spells in your hand with random spells <i>(from your opponent's class).</i>",
     "type": "MINION"
   },
@@ -31447,7 +31447,7 @@
       "MECHANICAL"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Deathrattle:</b> Summon a\nminion from your deck\nwith less Attack than\nthis minion.",
     "type": "MINION"
   },
@@ -31471,7 +31471,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Charge</b>\n<b>Lifesteal</b>",
     "type": "MINION"
   },
@@ -31485,7 +31485,7 @@
     "id": "CORE_ICC_823",
     "name": "Simulacrum",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "Copy the lowest Cost minion in your hand.",
     "type": "SPELL"
@@ -31509,7 +31509,7 @@
       "UNDEAD"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Deathrattle:</b> Summon\na random friendly Beast\nthat died this game.",
     "type": "MINION"
   },
@@ -31533,7 +31533,7 @@
     "referencedTags": [
       "STEALTH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Gain <b>Stealth</b> until your next turn.",
     "type": "HERO"
   },
@@ -31554,7 +31554,7 @@
     ],
     "name": "Deathstalker Rexxar",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Deal 2 damage\nto all enemy minions.",
     "type": "HERO"
   },
@@ -31578,7 +31578,7 @@
     "referencedTags": [
       "LIFESTEAL"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Equip a 5/3 <b>Lifesteal</b> weapon.",
     "type": "HERO"
   },
@@ -31599,7 +31599,7 @@
     ],
     "name": "Shadowreaper Anduin",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Destroy all minions with 5 or more Attack.",
     "type": "HERO"
   },
@@ -31620,7 +31620,7 @@
     ],
     "name": "Bloodreaver Gul'dan",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Summon all friendly Demons that died this game.",
     "type": "HERO"
   },
@@ -31645,7 +31645,7 @@
       "POISONOUS",
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Choose One -</b>\nSummon 2 <b>Poisonous</b>\nSpiders; or 2 Scarabs\nwith <b>Taunt</b>.",
     "type": "HERO"
   },
@@ -31669,7 +31669,7 @@
     "referencedTags": [
       "LIFESTEAL"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Summon a\n3/6 Water Elemental.\nYour Elementals have\n<b>Lifesteal</b> this game.",
     "type": "HERO"
   },
@@ -31690,7 +31690,7 @@
     ],
     "name": "Scourgelord Garrosh",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry</b>: Equip a 4/3 Shadowmourne that also damages adjacent minions.",
     "type": "HERO"
   },
@@ -31717,7 +31717,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Summon your <b>Taunt</b> minions that\ndied this game.",
     "type": "MINION"
   },
@@ -31734,7 +31734,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "Deal $2 damage to a random enemy minion and <b>Freeze</b> it.",
     "type": "SPELL"
@@ -31749,7 +31749,7 @@
     "id": "CORE_ICC_837",
     "name": "Bring It On!",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Gain 10 Armor. Reduce the Cost of minions in your opponent's hand by (2).",
     "type": "SPELL"
   },
@@ -31774,7 +31774,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Summon two 0/1 Frozen Champions.",
     "type": "MINION"
   },
@@ -31798,7 +31798,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Lifesteal</b>\nHas +1 Attack for each\ncard you've discarded\nthis game.",
     "type": "MINION"
   },
@@ -31812,7 +31812,7 @@
     "id": "CORE_ICC_849",
     "name": "Embrace Darkness",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "[x]Choose an enemy minion.\nAt the start of your turn,\ngain control of it.",
     "type": "SPELL"
@@ -31836,7 +31836,7 @@
     "referencedTags": [
       "IMMUNE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Your hero is <b>Immune</b> this turn.",
     "type": "WEAPON"
   },
@@ -31860,7 +31860,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> If your deck has no 2-Cost cards, give all minions in your deck +1/+1.",
     "type": "MINION"
   },
@@ -31884,7 +31884,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Transform into a copy.",
     "text": "<b>Battlecry:</b> If your deck has no 3-Cost cards, transform into a 3/3 copy of a minion.",
     "type": "MINION"
@@ -31913,7 +31913,7 @@
       "LIFESTEAL",
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> If your deck has no 4-Cost cards, gain <b>Lifesteal</b> and <b>Taunt</b>.",
     "type": "MINION"
   },
@@ -31938,7 +31938,7 @@
       "BEAST"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Deathrattle:</b> Add a random\n<b>Lich King</b> card to your hand.",
     "type": "MINION"
   },
@@ -31960,7 +31960,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> <b>Freeze</b> your other minions.",
     "type": "MINION"
   },
@@ -31983,7 +31983,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellDamage": 1,
     "text": "<b>Spell Damage +2</b>",
     "type": "MINION"
@@ -32009,7 +32009,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Divine Shield</b>\nAfter a friendly minion loses <b>Divine Shield</b>, gain +2 Attack.",
     "type": "MINION"
   },
@@ -32032,7 +32032,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever one of your other minions dies, summon a 2/2 Ghoul.",
     "type": "MINION"
   },
@@ -32052,7 +32052,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Hero Powers are disabled.",
     "type": "MINION"
   },
@@ -32075,7 +32075,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Destroy a friendly minion.",
     "text": "<b>Battlecry:</b> Destroy a friendly minion and gain +2/+2.",
     "type": "MINION"
@@ -32099,7 +32099,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Gain +1/+1 for each minion that died this turn.",
     "type": "MINION"
   },
@@ -32122,7 +32122,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Lifesteal</b>",
     "type": "MINION"
   },
@@ -32145,7 +32145,7 @@
       "UNDEAD"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Deal 1 damage for each other card played this turn.",
     "text": "[x]<b>Combo:</b> Deal damage equal\nto the number of other cards\nyou've played this turn.",
     "type": "MINION"
@@ -32169,7 +32169,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever you play a card, remove the top 3 cards of your deck.",
     "type": "MINION"
   },
@@ -32198,7 +32198,7 @@
       "TAUNT",
       "WINDFURY"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Gain <b>Taunt</b> if your\ndeck has a <b>Taunt</b> minion.\nRepeat for <b>Divine Shield</b>,\n<b>Lifesteal</b>, <b>Windfury</b>.",
     "type": "MINION"
   },
@@ -32222,7 +32222,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellDamage": 1,
     "text": "<b>Divine Shield</b>\n<b>Spell Damage +1</b>",
     "type": "MINION"
@@ -32245,7 +32245,7 @@
     "referencedTags": [
       "STEALTH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Secret:</b> After your opponent casts a spell, summon a 4/2 Panther with <b>Stealth</b>.",
     "type": "SPELL"
   },
@@ -32266,7 +32266,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Your <b>Secrets</b> cost (0).",
     "type": "MINION"
   },
@@ -32287,7 +32287,7 @@
     ],
     "name": "Babbling Book",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Add a random Mage spell to your hand.",
     "type": "MINION"
   },
@@ -32312,7 +32312,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "After you cast a spell, give this minion +1 Health.",
     "type": "MINION"
   },
@@ -32408,7 +32408,7 @@
     "referencedTags": [
       "SPELLPOWER"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Has +2 Attack while you\nhave <b>Spell Damage</b>.",
     "type": "WEAPON"
   },
@@ -32429,7 +32429,7 @@
     ],
     "name": "Menagerie Warden",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Summon a copy.",
     "text": "<b>Battlecry:</b> Choose a friendly Beast. Summon a copy of it.",
     "type": "MINION"
@@ -32471,7 +32471,7 @@
     "id": "CORE_KAR_073",
     "name": "Maelstrom Portal",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "Deal $1 damage to all enemy minions. Summon a random\n1-Cost minion.",
     "type": "SPELL"
@@ -32488,7 +32488,7 @@
     "id": "CORE_KAR_076",
     "name": "Firelands Portal",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FIRE",
     "text": "Deal $6 damage. Summon a random\n6-Cost minion.",
     "type": "SPELL"
@@ -32528,7 +32528,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "MINION"
   },
   {
@@ -32549,7 +32549,7 @@
     ],
     "name": "Ethereal Conjurer",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry: Discover</b> a spell.",
     "type": "MINION"
   },
@@ -32572,7 +32572,7 @@
     ],
     "name": "Reno Jackson",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> If your deck has no duplicates, fully heal your hero.",
     "type": "MINION"
   },
@@ -32597,7 +32597,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Get a Coin.",
     "type": "MINION"
   },
@@ -32649,7 +32649,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Summon a random 1-Cost minion.",
     "type": "MINION"
   },
@@ -32676,7 +32676,7 @@
       "MURLOC"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> <b>Discover</b> a new basic Hero Power.",
     "type": "MINION"
   },
@@ -32701,7 +32701,7 @@
     "referencedTags": [
       "BATTLECRY"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Your <b>Battlecries</b> trigger twice.",
     "type": "MINION"
   },
@@ -32723,7 +32723,7 @@
     ],
     "name": "Elise Starseeker",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Shuffle the 'Map to the Golden Monkey'   into your deck.",
     "type": "MINION"
   },
@@ -32765,7 +32765,7 @@
       "MURLOC"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "MINION"
   },
   {
@@ -32813,7 +32813,7 @@
     ],
     "name": "Fal'dorei Strider",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Shuffle 3\nAmbushes into your deck.\nWhen drawn, summon\na 4/4 Spider.",
     "type": "MINION"
   },
@@ -32832,7 +32832,7 @@
     ],
     "name": "Lesser Amethyst Spellstone",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "<b>Lifesteal.</b> Deal $3 damage to a minion. <i>(Take damage from your cards to upgrade.)</i>",
     "type": "SPELL"
@@ -32870,7 +32870,7 @@
     "id": "CORE_LOOT_051",
     "name": "Lesser Jasper Spellstone",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "Deal $2 damage to a minion.",
     "type": "SPELL"
@@ -32890,7 +32890,7 @@
     ],
     "name": "Wandering Monster",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Secret:</b> When an enemy attacks your hero, summon a 3-Cost minion as the new target.",
     "type": "SPELL"
   },
@@ -32936,7 +32936,7 @@
       "DIVINE_SHIELD",
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> If you control no other minions, gain <b>Taunt</b> and <b>Divine Shield</b>.",
     "type": "MINION"
   },
@@ -32962,7 +32962,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Divine Shield</b>\n <b>Poisonous</b>",
     "type": "MINION"
   },
@@ -33013,7 +33013,7 @@
       "BEAST"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Elusive</b> on your \nopponent's turn.",
     "type": "MINION"
   },
@@ -33032,7 +33032,7 @@
     ],
     "name": "[CORE 2024] Cheat Death",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Secret:</b> When a friendly minion dies, return it to your hand.\nIt costs (2) less.",
     "type": "SPELL"
   },
@@ -33053,7 +33053,7 @@
     ],
     "name": "Elven Minstrel",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Combo:</b> Draw 2 minions from your deck.",
     "type": "MINION"
   },
@@ -33075,7 +33075,7 @@
     "referencedTags": [
       "IMMUNE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Your hero is <b>Immune</b> while attacking.",
     "type": "WEAPON"
   },
@@ -33100,7 +33100,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever you cast a spell, gain Armor equal to its Cost.",
     "type": "MINION"
   },
@@ -33207,7 +33207,7 @@
     "id": "CORE_LOOT_507",
     "name": "Lesser Diamond Spellstone",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "Resurrect 2 different friendly minions.",
     "type": "SPELL"
@@ -33235,7 +33235,7 @@
       "NAGA"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Add a Golden copy to your hand.",
     "text": "<b>Battlecry:</b> Choose a friendly minion. Add a Golden copy of it to your hand.",
     "type": "MINION"
@@ -33261,7 +33261,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Choose a friendly Imp. Transform into a copy of it.",
     "text": "<b>Battlecry:</b> Choose a friendly Imp. Transform into a copy of it.",
     "type": "MINION"
@@ -33280,7 +33280,7 @@
     "isMiniSet": true,
     "name": "Arson Accusation",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FIRE",
     "text": "Choose a minion. Destroy it after your hero takes damage.",
     "type": "SPELL"
@@ -33305,7 +33305,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "<b>Discover</b> a friendly minion to resurrect and give it <b>Rush</b>.\nIt dies at the end of turn.",
     "type": "SPELL"
@@ -33327,7 +33327,7 @@
     ],
     "name": "Totemic Evidence",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Choose a basic Totem and summon it.\n<b>Infuse (3 Totems):</b>\nSummon all 4 instead.",
     "type": "SPELL"
   },
@@ -33350,7 +33350,7 @@
     ],
     "name": "Soul Seeker",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Swap this with a random minion from your opponent's deck.",
     "type": "MINION"
   },
@@ -33376,7 +33376,7 @@
     "referencedTags": [
       "OVERLOAD"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Shuffle 3 'Framed'\ncards into the opponent's\ndeck. When drawn, they\n<b>Overload</b> for (2).",
     "type": "MINION"
   },
@@ -33400,7 +33400,7 @@
     "referencedTags": [
       "COUNTER"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Secret:</b> When your opponent plays a\n minion, <b>Counter</b> it.",
     "type": "SPELL"
   },
@@ -33423,7 +33423,7 @@
     ],
     "name": "Sightless Magistrate",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Both players draw\nuntil they have 5 cards.",
     "type": "MINION"
   },
@@ -33454,7 +33454,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Whenever this attacks, give\nyour other Beasts +2/+2.\n<b>Infuse (3 Beasts):</b>\nGain <b>Rush</b>.",
     "type": "MINION"
   },
@@ -33475,7 +33475,7 @@
     ],
     "name": "Motion Denied",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Secret:</b> After your\nopponent plays three cards\nin a turn, deal $6 damage\nto the enemy hero.",
     "type": "SPELL"
   },
@@ -33507,7 +33507,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> <b>Discover</b> a friendly\n<b>Deathrattle</b> minion that died\nthis game. Gain its <b>Deathrattle</b>\nand then trigger it.",
     "type": "MINION"
   },
@@ -33528,7 +33528,7 @@
     "referencedTags": [
       "INFUSE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FEL",
     "text": "[x]Summon a friendly Demon\nthat died this game.\n<b>Infuse (3 Demons):</b>\nSummon three instead.",
     "type": "SPELL"
@@ -33547,7 +33547,7 @@
     "isMiniSet": true,
     "name": "Life Sentence",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Remove a minion\nfrom the game.",
     "type": "SPELL"
   },
@@ -33573,7 +33573,7 @@
       "DEMON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Your opponent\ncan only play their left- \nand right-most cards on \ntheir next turn.",
     "type": "MINION"
   },
@@ -33591,7 +33591,7 @@
     "isMiniSet": true,
     "name": "Jury Duty",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Summon two\nSilver Hand Recruits.\nGive your Silver Hand\nRecruits +1/+1.",
     "type": "SPELL"
   },
@@ -33609,7 +33609,7 @@
     "isMiniSet": true,
     "name": "Order in the Court",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Reorder your deck from\n highest Cost to lowest\nCost. Draw a card.",
     "type": "SPELL"
   },
@@ -33632,7 +33632,7 @@
     ],
     "name": "Class Action Lawyer",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Set stats to 1/1.",
     "text": "[x]<b>Battlecry:</b> If your deck\nhas no Neutral cards, set\n a minion's stats to 1/1.",
     "type": "MINION"
@@ -33655,7 +33655,7 @@
     ],
     "name": "Perjury",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Secret:</b> When your\nturn starts, <b>Discover</b>\nand cast a <b>Secret</b> from\nanother class.",
     "type": "SPELL"
   },
@@ -33673,7 +33673,7 @@
     "isMiniSet": true,
     "name": "Murder Accusation",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Choose a minion. Destroy it after another enemy minion dies.",
     "type": "SPELL"
   },
@@ -33696,7 +33696,7 @@
     ],
     "name": "Scribbling Stenographer",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Rush</b>. Costs (1) less for each card you've played this turn.",
     "type": "MINION"
   },
@@ -33717,7 +33717,7 @@
     "referencedTags": [
       "ELUSIVE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "Give a friendly minion +2/+3 and \"<b>Elusive</b> on your opponent's turn.\"",
     "type": "SPELL"
@@ -33746,7 +33746,7 @@
       "DRAGON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Taunt</b>\n <b>Deathrattle:</b> Copy two\n random cards from your\nopponent's hand.",
     "type": "MINION"
   },
@@ -33764,7 +33764,7 @@
     "isMiniSet": true,
     "name": "Theft Accusation",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "[x]Choose a minion.\nDestroy it after you play\na card copied from\nthe opponent.",
     "type": "SPELL"
@@ -33783,7 +33783,7 @@
     "isMiniSet": true,
     "name": "Dew Process",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "[x]For the rest of the game,\nplayers draw an extra card\nat the start of their turn.",
     "type": "SPELL"
@@ -33811,7 +33811,7 @@
       "IMMUNE",
       "SILENCE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Choose One -</b> <b>Silence</b>\na minion; or Give a minion <b>Immune</b> this turn.",
     "type": "MINION"
   },
@@ -33829,7 +33829,7 @@
     "isMiniSet": true,
     "name": "Incarceration",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Choose a minion.\nIt goes <b>Dormant</b>\nfor 3 turns.",
     "type": "SPELL"
   },
@@ -33847,7 +33847,7 @@
     "isMiniSet": true,
     "name": "Call to the Stand",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Your opponent summons a random minion from their hand.",
     "type": "SPELL"
   },
@@ -33870,7 +33870,7 @@
     ],
     "name": "Weapons Expert",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> If you have a weapon equipped, give it +1/+1. Otherwise, draw a weapon.",
     "type": "MINION"
   },
@@ -33898,7 +33898,7 @@
       "RUSH",
       "WINDFURY"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> For each\nenemy minion, randomly\ngain <b>Rush</b>, <b>Divine Shield</b>,\nor <b>Windfury</b>.",
     "type": "MINION"
   },
@@ -33922,7 +33922,7 @@
     ],
     "name": "Afterlife Attendant",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Your <b>Infuse</b> cards also <b>Infuse</b> while in your deck.",
     "type": "MINION"
   },
@@ -33952,7 +33952,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Secrets</b> can't be revealed.",
     "type": "MINION"
   },
@@ -33981,7 +33981,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Destroy an enemy minion.",
     "text": "[x]<b>Battlecry:</b> Destroy\nan enemy minion.\n<b>Infuse (7):</b> Take control\nof it instead.",
     "type": "MINION"
@@ -34009,7 +34009,7 @@
     "referencedTags": [
       "IMMUNE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Destroy your deck. This minion\ngains <b>Immune</b>.",
     "type": "MINION"
   },
@@ -34032,7 +34032,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Costs (3) less for each <b>Secret</b> you control.",
     "type": "MINION"
   },
@@ -34053,7 +34053,7 @@
     ],
     "name": "Ancient of Lore",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Choose One -</b> Draw 2 cards; or Restore #7 Health.",
     "type": "MINION"
   },
@@ -34082,7 +34082,7 @@
       "ELEMENTAL"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Charge, Divine Shield, Taunt, Windfury</b>",
     "type": "MINION"
   },
@@ -34224,7 +34224,7 @@
     ],
     "name": "Violet Teacher",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever you cast a spell, summon a 1/1 Violet Apprentice.",
     "type": "MINION"
   },
@@ -34314,7 +34314,7 @@
     ],
     "name": "Thing from Below",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Taunt</b>\nCosts (1) less for each\nTotem you've summoned\nthis game.",
     "type": "MINION"
   },
@@ -34402,7 +34402,7 @@
     ],
     "name": "Bladed Cultist",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Combo:</b> Gain +1/+1.",
     "type": "MINION"
   },
@@ -34424,7 +34424,7 @@
     ],
     "name": "Darkshire Librarian",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b>\nDiscard a random card. <b>Deathrattle:</b>\nDraw a card.",
     "type": "MINION"
   },
@@ -34515,7 +34515,7 @@
       "ELEMENTAL"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "At the end of your turn, restore #8 Health to a damaged friendly character.",
     "type": "MINION"
   },
@@ -34536,7 +34536,7 @@
     ],
     "name": "Possessed Villager",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Summon a 1/1 Shadowbeast.",
     "type": "MINION"
   },
@@ -34560,7 +34560,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Destroy all enemy <b>Secrets</b>. Gain +1/+1 for each.",
     "type": "MINION"
   },
@@ -34576,7 +34576,7 @@
     "id": "CORE_OG_273",
     "name": "Stand Against Darkness",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Summon five {0} Silver Hand Recruits.",
     "type": "SPELL"
   },
@@ -34602,7 +34602,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Get a\nrandom card <i>(from your\nopponent's class)</i>.",
     "type": "MINION"
   },
@@ -34680,7 +34680,7 @@
       "DRAGON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Deal damage equal to your Armor to an enemy minion.",
     "text": "[x]<b>Taunt</b>\n <b>Battlecry:</b> Deal damage\nequal to your Armor to\nan enemy minion.",
     "type": "MINION"
@@ -34702,7 +34702,7 @@
     ],
     "name": "Suspicious Alchemist",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> <b>Discover</b> a\nspell. If your opponent\nguesses your choice,\nthey get a copy.",
     "type": "MINION"
   },
@@ -34723,7 +34723,7 @@
     ],
     "name": "Suspicious Usher",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> <b>Discover</b> a\n<b>Legendary</b> minion. If your\nopponent guesses your\n  choice, they get a copy.",
     "type": "MINION"
   },
@@ -34748,7 +34748,7 @@
       "PIRATE"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> <b>Discover</b> a weapon. If your opponent guesses your choice, they get a copy.",
     "type": "MINION"
   },
@@ -34769,7 +34769,7 @@
     ],
     "name": "The Harvester of Envy",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "After you play a card copied from the opponent, steal the original.",
     "type": "MINION"
   },
@@ -34790,7 +34790,7 @@
     ],
     "name": "Bog Beast",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b><b>Taunt</b></b> \n<b>Deathrattle:</b> Summon a 2/4 \nMuckmare with <b>Taunt</b>.",
     "type": "MINION"
   },
@@ -34813,7 +34813,7 @@
     "referencedTags": [
       "BATTLECRY"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Infuse (5):</b> Gain\n\"<b>Battlecry:</b> Deal 5\ndamage.\"",
     "type": "MINION"
   },
@@ -34841,7 +34841,7 @@
     "referencedTags": [
       "STEALTH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Taunt</b>\nYour non-Red Herring\nminions have <b>Stealth</b>.",
     "type": "MINION"
   },
@@ -34862,7 +34862,7 @@
     ],
     "name": "Masked Reveler",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Rush</b>\n<b>Deathrattle:</b> Summon\na 2/2 copy of another\nminion in your deck.",
     "type": "MINION"
   },
@@ -34882,7 +34882,7 @@
     ],
     "name": "Crooked Cook",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]At the end of your turn, \nif you dealt 3 or more \ndamage to the enemy \nhero, draw a card.",
     "type": "MINION"
   },
@@ -34903,7 +34903,7 @@
     ],
     "name": "Insatiable Devourer",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Devour an enemy minion and gain its stats.",
     "text": "[x]<b>Battlecry:</b> Devour an enemy \nminion and gain its stats. \n <b>Infuse (5):</b> And its neighbors.",
     "type": "MINION"
@@ -34923,7 +34923,7 @@
     "id": "CORE_REV_018",
     "name": "Prince Renathal",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Your deck size and\nstarting Health are 40.",
     "type": "MINION"
   },
@@ -34944,7 +34944,7 @@
     ],
     "name": "Famished Fool",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Draw a card.\n<b>Infuse (4):</b> Draw 3 instead.",
     "type": "MINION"
   },
@@ -34964,7 +34964,7 @@
     ],
     "name": "Dinner Performer",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Summon a\nrandom minion from\nyour deck that you\ncan afford to play.",
     "type": "MINION"
   },
@@ -34986,7 +34986,7 @@
     ],
     "name": "Kael'thas Sinstrider",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Every third minion you play each turn costs (0).",
     "type": "MINION"
   },
@@ -35012,7 +35012,7 @@
       "MURLOC"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Solve 3 Clues \nabout your opponent's cards \nto get copies of them.",
     "type": "MINION"
   },
@@ -35058,7 +35058,7 @@
     ],
     "name": "Theotar, the Mad Duke",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> <b>Discover</b> a\ncard in each player's hand and swap them.",
     "type": "MINION"
   },
@@ -35076,7 +35076,7 @@
     ],
     "name": "Suffocating Shadows",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "[x]When you play or \ndiscard this, destroy a \nrandom enemy minion.",
     "type": "SPELL"
@@ -35092,7 +35092,7 @@
     "id": "CORE_REV_240",
     "name": "Tome Tampering",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Shuffle 1-Cost \ncopies of cards in your \nhand into your deck, \nthen discard your hand.",
     "type": "SPELL"
   },
@@ -35109,7 +35109,7 @@
     "id": "CORE_REV_242",
     "name": "Flustered Librarian",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Has +1 Attack for each\nImp you control.",
     "type": "MINION"
   },
@@ -35134,7 +35134,7 @@
       "DEMON"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Summon a copy of this. <b>Infuse (3):</b> Summon two copies instead.",
     "type": "MINION"
   },
@@ -35149,7 +35149,7 @@
     "id": "CORE_REV_245",
     "name": "Impending Catastrophe",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Draw a card. Repeat for each Imp you control.",
     "type": "SPELL"
@@ -35170,7 +35170,7 @@
     ],
     "name": "Mysterious Visitor",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Reduce the Cost of cards copied from your opponent by (3).",
     "type": "MINION"
   },
@@ -35190,7 +35190,7 @@
     ],
     "name": "Partner in Crime",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Summon a \ncopy of this minion at \nthe end of your turn.",
     "type": "MINION"
   },
@@ -35208,7 +35208,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "Give a minion +2 Health. Summon a Kyrian with its stats and <b>Taunt</b>.",
     "type": "SPELL"
@@ -35227,7 +35227,7 @@
     ],
     "name": "The Light! It Burns!",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "[x]Deal damage to a minion\n equal to its Attack.",
     "type": "SPELL"
@@ -35249,7 +35249,7 @@
     ],
     "name": "Pelagos",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]After you cast a spell \non a friendly minion, set \nits Attack and Health to \nthe higher of the two.",
     "type": "MINION"
   },
@@ -35274,7 +35274,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Destroy a random enemy minion.",
     "type": "MINION"
   },
@@ -35292,7 +35292,7 @@
     ],
     "name": "Clean the Scene",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "Destroy all minions with 3 or less Attack. <b>Infuse (3):</b> 6 or less.",
     "type": "SPELL"
@@ -35311,7 +35311,7 @@
     ],
     "name": "Identity Theft",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "<b>Discover</b> a copy of a card from your opponent's hand and deck.",
     "type": "SPELL"
@@ -35328,7 +35328,7 @@
     "id": "CORE_REV_290",
     "name": "Cathedral of Atonement",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Give a minion +2/+1 and draw a card.",
     "type": "LOCATION"
   },
@@ -35343,7 +35343,7 @@
     "id": "CORE_REV_307",
     "name": "Natural Causes",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "Deal $2 damage. Summon a 2/2 Treant.",
     "type": "SPELL"
@@ -35389,7 +35389,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Draw a <b>Deathrattle</b> minion and gain its <b>Deathrattle.</b>",
     "type": "MINION"
   },
@@ -35408,7 +35408,7 @@
     ],
     "name": "Nightshade Bud",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "<b>Choose One - </b><b>Discover</b> a minion from your deck to summon;\nor a spell to cast.",
     "type": "SPELL"
@@ -35427,7 +35427,7 @@
     ],
     "name": "Planted Evidence",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "<b>Discover</b> a spell. It costs (2) less this turn.",
     "type": "SPELL"
@@ -35456,7 +35456,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> For the rest of\nthe game, after you cast a\nNature spell, summon a\n3/3 Whelp with <b>Rush</b>.",
     "type": "MINION"
   },
@@ -35478,7 +35478,7 @@
     ],
     "name": "Remornia, Living Blade",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Rush</b>\nAfter this attacks, equip it.",
     "type": "MINION"
   },
@@ -35498,7 +35498,7 @@
     ],
     "name": "Widowbloom Seedsman",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Draw a Nature\nspell. Gain an empty\n Mana Crystal.",
     "type": "MINION"
   },
@@ -35522,7 +35522,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Taunt</b>\n<b>Deathrattle</b>: Draw a minion.\nReduce its Cost by (8).",
     "type": "MINION"
   },
@@ -35542,7 +35542,7 @@
     ],
     "name": "Anima Extractor",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Whenever a friendly\nminion takes damage,\ngive a random minion in\nyour hand +1/+1.",
     "type": "MINION"
   },
@@ -35561,7 +35561,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Trigger a friendly minion's <b>Deathrattle</b>.",
     "type": "LOCATION"
   },
@@ -35579,7 +35579,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Summon three 1/3\nJailers with <b>Taunt</b>. If you\nhave 20 or less Health,\ngive them +1/+1.",
     "type": "SPELL"
   },
@@ -35597,7 +35597,7 @@
     ],
     "name": "Plot of Sin",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "[x]Summon two 2/2 \nTreants. <b>Infuse (5):</b> Two \n5/5 Ancients instead.",
     "type": "SPELL"
@@ -35613,7 +35613,7 @@
     "id": "CORE_REV_337",
     "name": "Riot!",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Your minions can't be \nreduced below 1 Health \nthis turn. They each attack \na random enemy minion.",
     "type": "SPELL"
   },
@@ -35633,7 +35633,7 @@
     ],
     "name": "Dredger Staff",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Give minions \nin your hand +1 Health.",
     "type": "MINION"
   },
@@ -35651,7 +35651,7 @@
     ],
     "name": "Frenzied Fangs",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Summon two 2/1 Bats.\n<b>Infuse (3):</b> Give them +1/+2.",
     "type": "SPELL"
   },
@@ -35671,7 +35671,7 @@
     ],
     "name": "Roosting Gargoyle",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Give a friendly Beast +2 Attack.",
     "text": "<b>Battlecry:</b> Give a friendly Beast +2 Attack.",
     "type": "MINION"
@@ -35697,7 +35697,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Rush</b>\n<b>Infuse (3):</b> Also damages\nthe minions next to\n  whomever this attacks.",
     "type": "MINION"
   },
@@ -35719,7 +35719,7 @@
     ],
     "name": "Huntsman Altimor",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Summon a\nGargon Companion.\n<b>Infuse ({0}):</b> Summon another.\n <b>Infuse ({1}):</b> And another!",
     "type": "MINION"
   },
@@ -35739,7 +35739,7 @@
     ],
     "name": "Batty Guest",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Summon a 2/1 Bat.",
     "type": "MINION"
   },
@@ -35759,7 +35759,7 @@
     ],
     "name": "Spirit Poacher",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Summon a random <b>Dormant</b> Wildseed.",
     "type": "MINION"
   },
@@ -35774,7 +35774,7 @@
     "id": "CORE_REV_361",
     "name": "Wild Spirits",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "[x]Summon two different \n<b>Dormant</b> Wildseeds. \nMake your Wildseeds \nawaken 1 turn sooner.",
     "type": "SPELL"
@@ -35794,7 +35794,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Give a friendly minion \n+2 Attack. If it's a \nBeast, give it <b>Rush</b>.",
     "type": "LOCATION"
   },
@@ -35815,7 +35815,7 @@
     ],
     "name": "Ara'lon",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Summon one of each <b>Dormant</b> Wildseed.",
     "type": "MINION"
   },
@@ -35830,7 +35830,7 @@
     "id": "CORE_REV_364",
     "name": "Stag Charge",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Deal $3 damage. Summon a random <b>Dormant</b> Wildseed.",
     "type": "SPELL"
   },
@@ -35845,7 +35845,7 @@
     "id": "CORE_REV_365",
     "name": "Convoke the Spirits",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "[x]Cast 8 random\nDruid spells <i>(targets\nchosen randomly)</i>.",
     "type": "SPELL"
@@ -35864,7 +35864,7 @@
     ],
     "name": "Collateral Damage",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Deal $6 damage to three \nrandom enemy minions. \nExcess damage hits \nthe enemy hero.",
     "type": "SPELL"
   },
@@ -35884,7 +35884,7 @@
     ],
     "name": "Party Crasher",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Choose an enemy minion. Throw a random minion from your hand at it.",
     "text": "[x]<b>Battlecry:</b> Choose an\nenemy minion. Throw a\nrandom minion from\nyour hand at it.",
     "type": "MINION"
@@ -35901,7 +35901,7 @@
     "id": "CORE_REV_371",
     "name": "Vile Library",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Give a friendly minion +1/+1. Repeat for each Imp you control.",
     "type": "LOCATION"
   },
@@ -35919,7 +35919,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Summon a 3/5 Shadow with <b>Taunt</b>. If a minion died this turn, summon another.",
     "type": "SPELL"
@@ -35944,7 +35944,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Summon two\n2/1 Shades. Each gains\na <b>Deathrattle</b> to cast your \nlast Shadow spell.",
     "type": "MINION"
   },
@@ -35969,7 +35969,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Reduce the Cost of the highest Cost Shadow spell in your hand by (3).",
     "type": "MINION"
   },
@@ -35990,7 +35990,7 @@
     ],
     "name": "Stoneborn General",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Rush</b> \n  <b>Deathrattle:</b> Summon an \n   8/8 Gravewing with <b>Rush</b>. ",
     "type": "MINION"
   },
@@ -36010,7 +36010,7 @@
     ],
     "name": "Invitation Courier",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "After a card is added to your hand from another class, copy it.",
     "type": "MINION"
   },
@@ -36030,7 +36030,7 @@
     ],
     "name": "Forensic Duster",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Your \nopponent's minions \ncost (1) more next turn.",
     "type": "MINION"
   },
@@ -36045,7 +36045,7 @@
     "id": "CORE_REV_504",
     "name": "Solid Alibi",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "Until your next turn, your hero can only take 1 damage at a time.",
     "type": "SPELL"
@@ -36061,7 +36061,7 @@
     "id": "CORE_REV_505",
     "name": "Cold Case",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "Summon two 2/2 Volatile Skeletons. Gain 4 Armor.",
     "type": "SPELL"
@@ -36077,7 +36077,7 @@
     "id": "CORE_REV_506",
     "name": "Sinful Brand",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Brand an enemy minion.\nWhenever it takes\ndamage, deal 1 damage\nto the enemy hero.",
     "type": "SPELL"
   },
@@ -36092,7 +36092,7 @@
     "id": "CORE_REV_507",
     "name": "Dispose of Evidence",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Give your hero +3 Attack this turn. Pick from 3 cards in your hand to shuffle into your deck.",
     "type": "SPELL"
   },
@@ -36107,7 +36107,7 @@
     "id": "CORE_REV_508",
     "name": "Relic of Dimensions",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Draw two cards \nand reduce their Cost \nby (1). Improve your \nfuture Relics.",
     "type": "SPELL"
   },
@@ -36127,7 +36127,7 @@
     ],
     "name": "Magnifying Glaive",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]After your hero attacks,\ndraw until you have\n3 cards.",
     "type": "WEAPON"
   },
@@ -36149,7 +36149,7 @@
     ],
     "name": "Kryxis the Voracious",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry</b>: Discard\nyour hand. <b>Deathrattle:</b>\nDraw 3 cards.",
     "type": "MINION"
   },
@@ -36169,7 +36169,7 @@
     ],
     "name": "Bibliomite",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry</b>: Choose a card\n in your hand to shuffle\n into your deck.",
     "type": "MINION"
   },
@@ -36192,7 +36192,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]At the end of your turn,\nif you control a <b>Secret</b>,\ndeal 2 damage to\nall enemies.",
     "type": "MINION"
   },
@@ -36217,7 +36217,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Resurrect your \nVolatile Skeletons. Any that \ncan't fit on the battlefield \ninstantly explode! 0",
     "type": "MINION"
   },
@@ -36241,7 +36241,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "After a friendly <b>Secret</b> is revealed, cast a different Mage <b>Secret</b> and gain +2/+2.",
     "type": "MINION"
   },
@@ -36259,7 +36259,7 @@
     ],
     "name": "Vengeful Visage",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Secret:</b> After an enemy\nminion attacks your hero,\nsummon a copy of it to\nattack the enemy hero.",
     "type": "SPELL"
   },
@@ -36278,7 +36278,7 @@
     "name": "Criminal Lineup",
     "overload": 2,
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Choose a friendly minion.\nSummon 3 copies of it.\n<b>Overload:</b> (2)",
     "type": "SPELL"
   },
@@ -36296,7 +36296,7 @@
     ],
     "name": "Frozen Touch",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "Deal $3 damage.\n<b>Infuse (3):</b> Add a Frozen Touch to your hand.",
     "type": "SPELL"
@@ -36316,7 +36316,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Freeze</b> a minion. Summon a 2/2 Volatile Skeleton.",
     "type": "LOCATION"
   },
@@ -36332,7 +36332,7 @@
     "id": "CORE_REV_750",
     "name": "Sinstone Graveyard",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Summon a 1/1 Ghost.\n<i>(Has +1/+1 for each other\ncard you played this turn!)</i>",
     "type": "LOCATION"
   },
@@ -36350,7 +36350,7 @@
     ],
     "name": "Double Cross",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Secret:</b> When your opponent spends all their Mana, draw two cards.",
     "type": "SPELL"
   },
@@ -36374,7 +36374,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Cast a <b>Secret</b>\nfrom your deck.\n <b>Combo:</b> Cast 2 instead.",
     "type": "MINION"
   },
@@ -36395,7 +36395,7 @@
     "referencedTags": [
       "STEALTH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Secret:</b> After your opponent casts a spell, summon a 3/4 Spider with <b>Stealth</b>.",
     "type": "SPELL"
   },
@@ -36413,7 +36413,7 @@
     ],
     "name": "Kidnap",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Secret:</b> After your opponent plays a minion, stuff it in a 0/4 Sack.",
     "type": "SPELL"
   },
@@ -36442,7 +36442,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Stealth</b>. <b>Deathrattle:</b> Store\nHalkias's soul inside of a\nfriendly <b>Secret</b>. It resummons\nHalkias when triggered.",
     "type": "MINION"
   },
@@ -36457,7 +36457,7 @@
     "id": "CORE_REV_834",
     "name": "Relic of Extinction",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Deal $1 damage to a random enemy minion, twice. Improve your future Relics.",
     "type": "SPELL"
   },
@@ -36479,7 +36479,7 @@
     ],
     "name": "Imp King Rafaam",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Resurrect\nfour friendly Imps.\n<b>Infuse (5):</b> Give your\nImps +2/+2.",
     "type": "MINION"
   },
@@ -36499,7 +36499,7 @@
     ],
     "name": "Muck Plumber",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "ALL minions cost (2) more.",
     "type": "MINION"
   },
@@ -36520,7 +36520,7 @@
       "TOTEM"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Costs (1) less for each Totem you've summoned this game.",
     "type": "MINION"
   },
@@ -36544,7 +36544,7 @@
       "TOTEM"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "At the end of your turn, gain +1 Health.",
     "type": "MINION"
   },
@@ -36559,7 +36559,7 @@
     "id": "CORE_REV_840",
     "name": "Deathborne",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "Deal $2 damage to all minions. Summon a 2/2 Volatile Skeleton \nfor each killed.",
     "type": "SPELL"
@@ -36583,7 +36583,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> The next <b>Secret</b> you play costs (0).",
     "type": "MINION"
   },
@@ -36601,7 +36601,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Give a Silver Hand\nRecruit +3/+3\nand <b>Taunt</b>.",
     "type": "SPELL"
   },
@@ -36621,7 +36621,7 @@
     ],
     "name": "Sinfueled Golem",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Infuse (3):</b> Gain stats equal to the Attack of the minions that <b>Infused</b> this.",
     "type": "MINION"
   },
@@ -36645,7 +36645,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Deal 2 damage to a random enemy.",
     "type": "MINION"
   },
@@ -36669,7 +36669,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> If you control\na <b>Secret</b>, summon a\ncopy of this.",
     "type": "MINION"
   },
@@ -36694,7 +36694,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> If you control a location, <b>Discover</b> a copy of a card in your deck.",
     "type": "MINION"
   },
@@ -36717,7 +36717,7 @@
     ],
     "name": "Sire Denathrius",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b><b>Lifesteal</b>.</b> <b>Battlecry:</b> Deal 5 damage amongst enemies. <b>Endlessly Infuse (2):</b> Deal 1 more.",
     "type": "MINION"
   },
@@ -36737,7 +36737,7 @@
     ],
     "name": "Creepy Painting",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "After another minion dies, become a copy of it.",
     "type": "MINION"
   },
@@ -36757,7 +36757,7 @@
     ],
     "name": "Carving Chisel",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "After your hero attacks, summon a random basic Totem.",
     "type": "WEAPON"
   },
@@ -36775,7 +36775,7 @@
     ],
     "name": "Convincing Disguise",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Transform a friendly minion\ninto one that costs (2) more.\n<b>Infuse (4):</b> Transform all\nfriendly minions instead.",
     "type": "SPELL"
   },
@@ -36796,7 +36796,7 @@
     ],
     "name": "The Stonewright",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> For the rest of the game, your Totems have +2 Attack.",
     "type": "MINION"
   },
@@ -36813,7 +36813,7 @@
     "id": "CORE_REV_923",
     "name": "Muck Pools",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Transform a friendly minion into one that costs (1) more.",
     "type": "LOCATION"
   },
@@ -36828,7 +36828,7 @@
     "id": "CORE_REV_924",
     "name": "Primordial Wave",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "[x]Transform enemy minions \ninto ones that cost (1) less \nand friendly minions into \nones that cost (1) more.",
     "type": "SPELL"
@@ -36852,7 +36852,7 @@
     "referencedTags": [
       "CHARGE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Has +2 Attack and <b>Charge</b> while damaged.",
     "type": "MINION"
   },
@@ -36867,7 +36867,7 @@
     "id": "CORE_REV_931",
     "name": "Conqueror's Banner",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Reveal a card from each player's deck, three times. Draw any of yours that cost more.",
     "type": "SPELL"
   },
@@ -36888,7 +36888,7 @@
     ],
     "name": "Imbued Axe",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]After your hero attacks,\ngive your damaged minions\n+1/+2. <b>Infuse (2):</b>\n+2/+2 instead.",
     "type": "WEAPON"
   },
@@ -36910,7 +36910,7 @@
     ],
     "name": "Decimator Olgra",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Gain +1/+1\nfor each damaged minion,\n then attack all enemies.",
     "type": "MINION"
   },
@@ -36935,7 +36935,7 @@
       "TOTEM"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]At the end of your turn, \nsummon a random basic \nTotem. <b>Infuse (2):</b> \nSummon two instead.",
     "type": "MINION"
   },
@@ -36958,7 +36958,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry</b>: Summon a 3/5 Elemental with <b>Taunt</b>.",
     "type": "MINION"
   },
@@ -36981,7 +36981,7 @@
     ],
     "name": "Artificer Xy'mox",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> <b>Discover</b> and \ncast a Relic. <b>Infuse (5):</b> \nCast all three instead.",
     "type": "MINION"
   },
@@ -36999,7 +36999,7 @@
     ],
     "name": "Door of Shadows",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "[x]Draw a spell. <b>Infuse (2):</b>\nAdd a <b>Temporary</b> copy\nof it to your hand.",
     "type": "SPELL"
@@ -37015,7 +37015,7 @@
     "id": "CORE_REV_939",
     "name": "Serrated Bone Spike",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Deal $3 damage to a \nminion. If it dies, your \nnext card this turn \ncosts (2) less.",
     "type": "SPELL"
   },
@@ -37036,7 +37036,7 @@
     ],
     "name": "Necrolord Draka",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Equip a 1/3\nDagger. <i>(+1 Attack for\neach other card you played\nthis turn, up to 10!)</i>",
     "type": "MINION"
   },
@@ -37052,7 +37052,7 @@
     "id": "CORE_REV_942",
     "name": "Relic Vault",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "The next Relic you play this turn casts twice.",
     "type": "LOCATION"
   },
@@ -37067,7 +37067,7 @@
     "id": "CORE_REV_943",
     "name": "Relic of Phantasms",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Summon two 1/1\nSpirits. Improve your future Relics.",
     "type": "SPELL"
   },
@@ -37091,7 +37091,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> <b>Discover</b> a <b>Secret</b> from another class.",
     "type": "MINION"
   },
@@ -37139,7 +37139,7 @@
     ],
     "name": "Muckborn Servant",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Taunt</b>\n<b>Battlecry:</b> <b>Discover</b> a Paladin card.",
     "type": "MINION"
   },
@@ -37157,7 +37157,7 @@
     ],
     "name": "Service Bell",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Discover</b> a Class card from your deck and draw all copies of it.",
     "type": "SPELL"
   },
@@ -37172,7 +37172,7 @@
     "id": "CORE_REV_950",
     "name": "Divine Toll",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "[x]Shoot 5 rays at random\nminions. They give friendly\nminions +2/+2, and deal $2\ndamage to enemy minions.",
     "type": "SPELL"
@@ -37194,7 +37194,7 @@
     ],
     "name": "The Countess",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> If your deck \nhas no Neutral cards, add \n3 <b>Legendary </b>Invitations \nto your hand.",
     "type": "MINION"
   },
@@ -37218,7 +37218,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Add 2\nSilver Hand Recruits\nto your hand.",
     "type": "MINION"
   },
@@ -37239,7 +37239,7 @@
     ],
     "name": "Stewart the Steward",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Deathrattle:</b> Give the next\nSilver Hand Recruit you\nsummon +3/+3 and\nthis <b>Deathrattle</b>.",
     "type": "MINION"
   },
@@ -37260,7 +37260,7 @@
     ],
     "name": "Priest of the Deceased",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Taunt</b>\n<b>Infuse (3):</b> Gain +2/+2.",
     "type": "MINION"
   },
@@ -37286,7 +37286,7 @@
       "MURLOC"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Lifesteal</b>\n<b>Infuse (4):</b> This costs (0).",
     "type": "MINION"
   },
@@ -37310,7 +37310,7 @@
     "referencedTags": [
       "DIVINE_SHIELD"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Summon two Silver \nHand Recruits. <b>Infuse (3):</b> \nGive them +2 Attack \nand <b>Divine Shield</b>.",
     "type": "MINION"
   },
@@ -37333,7 +37333,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> If you control a\n<b>Secret</b>, choose a card in\nyour opponent's hand to\n shuffle into their deck.",
     "type": "MINION"
   },
@@ -37357,7 +37357,7 @@
       "ELEMENTAL"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Whenever your\nopponent draws a card next\nturn, they take 2 damage.",
     "type": "MINION"
   },
@@ -37383,7 +37383,7 @@
       "RUSH",
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> For each Paladin\ncard in your hand, randomly \ngain <b>Divine Shield</b>, <b>Lifesteal</b>, \n<b>Rush</b>, or <b>Taunt</b>.",
     "type": "MINION"
   },
@@ -37399,7 +37399,7 @@
     "id": "CORE_REV_983",
     "name": "Great Hall",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Set a minion's Attack and Health to 3.",
     "type": "LOCATION"
   },
@@ -37443,7 +37443,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "After your hero attacks and kills a minion, gain 2 <b>Corpses</b>.",
     "type": "WEAPON"
   },
@@ -37464,7 +37464,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Detonate a <b>Corpse</b> to deal $1 damage to all minions. If any are still alive, repeat this.",
     "type": "SPELL"
@@ -37486,7 +37486,7 @@
       "frost": 2,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "Refresh 2 Mana Crystals.",
     "type": "SPELL"
@@ -37508,7 +37508,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Give your hero +5 Health.\nSpend 3 <b>Corpses</b> to gain\n5 more and draw a card.",
     "type": "SPELL"
   },
@@ -37758,7 +37758,7 @@
       "frost": 0,
       "unholy": 2
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Fill your board with random Undead.",
     "type": "SPELL"
@@ -37787,7 +37787,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Spend up to 10\n <b>Corpses</b> to summon a Risen \nGroom with <b>Taunt</b> and that\n much Attack and Health.",
     "type": "MINION"
   },
@@ -37981,7 +37981,7 @@
       "frost": 2,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Spend\nup to 3 <b>Corpses</b>.\n<b>Freeze</b> that many\nenemy minions.",
     "type": "WEAPON"
   },
@@ -38011,7 +38011,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Destroy all other\nminions. Gain 1 <b>Corpse</b> for\neach enemy destroyed.",
     "type": "MINION"
   },
@@ -38087,7 +38087,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Send all\nother minions 2 turns\ninto the future.",
     "type": "MINION"
   },
@@ -38106,7 +38106,7 @@
     ],
     "name": "Demonic Studies",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "<b>Discover</b> a Demon. Your next one costs (1) less.",
     "type": "SPELL"
@@ -38128,7 +38128,7 @@
     ],
     "name": "Wandmaker",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Add a 1-Cost spell from your class to your hand.",
     "type": "MINION"
   },
@@ -38172,7 +38172,7 @@
     ],
     "name": "Tour Guide",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Your next Hero Power costs (0).",
     "type": "MINION"
   },
@@ -38232,7 +38232,7 @@
     ],
     "name": "Plagiarize",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Secret:</b> At the end of your opponent's turn, add copies of the cards they played to your hand.",
     "type": "SPELL"
   },
@@ -38301,7 +38301,7 @@
       "PIRATE"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "At the end of your turn, gain 3 Armor.",
     "type": "MINION"
   },
@@ -38428,7 +38428,7 @@
     ],
     "name": "Cornelius Roame",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]At the start and end\n of each player's turn,\ndraw a card.",
     "type": "MINION"
   },
@@ -38447,7 +38447,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Summon a Fiend with <b>Taunt</b> and stats equal to your hand size.",
     "type": "SPELL"
@@ -38488,7 +38488,7 @@
     ],
     "name": "Heavy Plate",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Tradeable</b>\nGain 8 Armor.",
     "type": "SPELL"
   },
@@ -38507,7 +38507,7 @@
     ],
     "name": "Fire Sale",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FIRE",
     "text": "<b>Tradeable</b>\nDeal $3 damage\nto all minions.",
     "type": "SPELL"
@@ -38549,7 +38549,7 @@
     "referencedTags": [
       "OVERLOAD"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Tradeable</b>\nUnlock your <b>Overloaded</b>\nMana Crystals to deal\nthat much damage.",
     "type": "SPELL"
   },
@@ -38597,7 +38597,7 @@
       "BEAST"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Rush</b>. Whenever this\nattacks, give your hero\n+3 Attack this turn.",
     "type": "MINION"
   },
@@ -38645,7 +38645,7 @@
     "referencedTags": [
       "SILENCE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "<b>Tradeable</b>\n<b>Silence</b> all enemy minions.",
     "type": "SPELL"
@@ -38689,7 +38689,7 @@
     ],
     "name": "Darkbishop Benedictus",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Start of Game:</b> If the spells in your deck are all Shadow, enter Shadowform.",
     "type": "MINION"
   },
@@ -38730,7 +38730,7 @@
     ],
     "name": "Gnomelia, S.A.F.E. Pilot",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Rush</b>. Also damages minions\nnext to whomever this attacks.\n<b>Deathrattle:</b> Deal 2 damage\nto all enemies.",
     "type": "MINION"
   },
@@ -38751,7 +38751,7 @@
     ],
     "name": "Night Elf Huntress",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Deal 3 damage. (@ left!)",
     "text": "[x]<b>Battlecry:</b> Deal 3 damage\nto three different enemies.\n<i>(You pick the targets!)</i>",
     "type": "MINION"
@@ -38777,7 +38777,7 @@
     "referencedTags": [
       "IMMUNE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Taunt</b>\nAdjacent minions are <b>Immune</b> while attacking.",
     "type": "MINION"
   },
@@ -38799,7 +38799,7 @@
     ],
     "name": "Warsong Grunt",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Rush</b>. After this attacks and kills a minion, it may attack again.",
     "type": "MINION"
   },
@@ -38840,7 +38840,7 @@
     ],
     "name": "Raiding Party",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Draw 2 Pirates from your deck.\n<b>Combo:</b> And a weapon.",
     "type": "SPELL"
   },
@@ -38879,7 +38879,7 @@
     "id": "CORE_TRL_243",
     "name": "Pounce",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Give your hero +2 Attack this turn.",
     "type": "SPELL"
   },
@@ -38903,7 +38903,7 @@
     ],
     "name": "High Priestess Jeklik",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Taunt</b>, <b>Lifesteal</b>\nWhen you discard this,\nadd 2 copies of it to\nyour hand.",
     "type": "MINION"
   },
@@ -38941,7 +38941,7 @@
     ],
     "name": "Pyromaniac",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever your Hero Power kills a minion, draw a card.",
     "type": "MINION"
   },
@@ -38960,7 +38960,7 @@
     ],
     "name": "Master's Call",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Discover</b> a minion from your deck. If all\n3 are Beasts, draw\nthem all instead.",
     "type": "SPELL"
   },
@@ -39012,7 +39012,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Rush</b>\n<b>Battlecry:</b> Add a 1/1 Lynx\nwith <b>Rush</b> to your hand.",
     "type": "MINION"
   },
@@ -39086,7 +39086,7 @@
       "NAGA"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Outcast:</b> Reduce the Cost\nof the left and right-most\n cards in your hand by (1).",
     "type": "MINION"
   },
@@ -39136,7 +39136,7 @@
       "NAGA"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]After you cast a spell,\ngain +1 Attack until\nyour next turn.",
     "type": "MINION"
   },
@@ -39161,7 +39161,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "techLevel": 3,
     "text": "Whenever a minion dies, gain +1 Attack.",
     "type": "MINION"
@@ -39315,7 +39315,7 @@
       "BEAST"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Deathrattle:</b> Draw 8 cards.",
     "type": "MINION"
   },
@@ -39392,7 +39392,7 @@
     ],
     "name": "Frightened Flunky",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Taunt</b>\n<b>Battlecry:</b> <b>Discover</b> a <b>Taunt</b> minion.",
     "type": "MINION"
   },
@@ -39414,7 +39414,7 @@
     ],
     "name": "Vulpera Scoundrel",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry</b>: <b>Discover</b> a spell or pick a mystery choice.",
     "type": "MINION"
   },
@@ -39441,7 +39441,7 @@
       "BEAST"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Taunt</b>\nAt the end of your turn,\ngive all <b>Taunt</b> minions\nin your hand +2/+2.",
     "type": "MINION"
   },
@@ -39505,7 +39505,7 @@
     "id": "CORE_ULD_707",
     "name": "Plague of Wrath",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Destroy all damaged minions.",
     "type": "SPELL"
   },
@@ -39547,7 +39547,7 @@
     "id": "CORE_UNG_018",
     "name": "Flame Geyser",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FIRE",
     "text": "Deal $2 damage.\nAdd a 1/2 Elemental to your hand.",
     "type": "SPELL"
@@ -39574,7 +39574,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Elusive</b>",
     "type": "MINION"
   },
@@ -39598,7 +39598,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Draw a <b>Secret</b>.",
     "type": "MINION"
   },
@@ -39623,7 +39623,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Your spells cost (1) less\n<i>(but not less than 1)</i>.",
     "type": "MINION"
   },
@@ -39690,7 +39690,7 @@
     "id": "CORE_UNG_108",
     "name": "Earthen Scales",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "targetingArrowText": "Give +1/+1.",
     "text": "Give a friendly minion +1/+1, then gain Armor equal to its Attack.",
@@ -39747,7 +39747,7 @@
       "ELEMENTAL"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> If you played an\nElemental last turn, cast an\nElemental Invocation.",
     "type": "MINION"
   },
@@ -39772,7 +39772,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Trigger a Deathrattle.",
     "text": "<b>Battlecry:</b> Trigger a friendly minion's <b>Deathrattle</b>.",
     "type": "MINION"
@@ -39824,7 +39824,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Windfury</b>",
     "type": "MINION"
   },
@@ -39843,7 +39843,7 @@
     ],
     "name": "Tidal Surge",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "<b>Lifesteal</b>\nDeal $5 damage to a minion.",
     "type": "SPELL"
@@ -39870,7 +39870,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Taunt</b>\n<b>Battlecry:</b> Discard your two lowest-Cost cards.",
     "type": "MINION"
   },
@@ -39892,7 +39892,7 @@
     ],
     "name": "Humongous Razorleaf",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Can't attack.",
     "type": "MINION"
   },
@@ -39987,7 +39987,7 @@
     ],
     "name": "Primordial Glyph",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "ARCANE",
     "text": "<b>Discover</b> a spell. Reduce its Cost by (2).",
     "type": "SPELL"
@@ -40034,7 +40034,7 @@
       "ELEMENTAL"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Whenever you cast a spell, add a random Priest spell to your hand.",
     "type": "MINION"
   },
@@ -40060,7 +40060,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Set Health to 15.",
     "text": "<b>Battlecry:</b> Set a hero's remaining Health to 15.",
     "type": "MINION"
@@ -40087,7 +40087,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "At the end of your turn, get two random Dream cards.",
     "type": "MINION"
   },
@@ -40168,7 +40168,7 @@
       "PIRATE"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "After you summon a minion, give it +1 Health.",
     "type": "MINION"
   },
@@ -40239,7 +40239,7 @@
     ],
     "name": "Menagerie Jug",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Give 3 random\nfriendly minions of different\nminion types +2/+2.",
     "type": "MINION"
   },
@@ -40401,7 +40401,7 @@
       "BEAST"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Stealth</b>\nWhenever this attacks,\ngain 1 Mana Crystal\nthis turn only.",
     "type": "MINION"
   },
@@ -40473,7 +40473,7 @@
     ],
     "name": "Armor Vendor",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Give 4 Armor to each hero.",
     "type": "MINION"
   },
@@ -42533,7 +42533,7 @@
     ],
     "name": "Aegwynn, the Guardian",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellDamage": 1,
     "text": "<b>Spell Damage +2</b>\n<b>Deathrattle:</b> The next minion you draw inherits these powers.",
     "type": "MINION"
@@ -42698,7 +42698,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Deathrattle:</b> Deal 3\ndamage to the\nenemy hero.",
     "type": "MINION"
   },
@@ -42739,7 +42739,7 @@
     ],
     "name": "Selective Breeder",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> <b>Discover</b> a copy of a Beast in your deck.",
     "type": "MINION"
   },
@@ -42782,7 +42782,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Outcast:</b> Give your hero +3 Attack this turn.",
     "type": "MINION"
   },
@@ -42965,7 +42965,7 @@
     ],
     "name": "Thrive in the Shadows",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "<b>Discover</b> a spell from your deck.",
     "type": "SPELL"
@@ -43026,7 +43026,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Restore #8 Health or deal 8 damage.",
     "text": "[x]<b>Battlecry</b>: Choose a\ncharacter. If it's friendly,\nrestore #8 Health. If it's an\n   enemy, deal 8 damage.",
     "type": "MINION"
@@ -43053,7 +43053,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "At the end of each turn, fill your board with 1/1 Whelps.",
     "type": "MINION"
   },
@@ -43079,7 +43079,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Add one of each Dream card to your hand.",
     "type": "MINION"
   },
@@ -43105,7 +43105,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Draw spells until your hand is full.",
     "type": "MINION"
   },
@@ -43157,7 +43157,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Destroy all other minions. Discard a card for each destroyed.",
     "type": "MINION"
   },
@@ -43183,7 +43183,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Rush</b>",
     "type": "MINION"
   },
@@ -79912,6 +79912,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Mooncolony",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "dbfId": 131081,
+    "health": 30,
+    "heroPowerDbfId": 131082,
+    "id": "HERO_04cb",
+    "name": "Arator the Redeemer",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "James Ryman",
     "cardClass": "PALADIN",
     "collectible": true,
@@ -80767,6 +80780,19 @@
     "heroPowerDbfId": 65540,
     "id": "HERO_05bu",
     "name": "Prison Break Mukla",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Thunder Fire Studio",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "dbfId": 131078,
+    "health": 30,
+    "heroPowerDbfId": 131079,
+    "id": "HERO_05bz",
+    "name": "Qixi Alleria",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -82566,6 +82592,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Thunder Fire Studio & HS Art Team",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "dbfId": 131844,
+    "health": 30,
+    "heroPowerDbfId": 131845,
+    "id": "HERO_07ca",
+    "name": "Qixi Turalyon",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Alex Horley Orlandelli",
     "cardClass": "WARLOCK",
     "collectible": true,
@@ -83601,6 +83640,19 @@
     "heroPowerDbfId": 64973,
     "id": "HERO_08cl",
     "name": "Dalaran Aegwynn",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "dbfId": 131089,
+    "health": 30,
+    "heroPowerDbfId": 64973,
+    "id": "HERO_08cr",
+    "name": "Escape Artist Millhouse",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -85295,6 +85347,19 @@
     "heroPowerDbfId": 66907,
     "id": "HERO_10bs",
     "name": "Unchained Omen",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Wayne Wu",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "dbfId": 131087,
+    "health": 30,
+    "heroPowerDbfId": 66907,
+    "id": "HERO_10bx",
+    "name": "Lovestruck Illidan",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -90102,6 +90167,7 @@
     "name": "Rampaging Hound",
     "race": "BEAST",
     "races": [
+      "ELEMENTAL",
       "BEAST"
     ],
     "rarity": "EPIC",
@@ -91074,7 +91140,6 @@
     "health": 4,
     "id": "JAIL_733",
     "mechanics": [
-      "BATTLECRY",
       "DEATHRATTLE",
       "TAUNT"
     ],
@@ -91085,7 +91150,7 @@
     ],
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "[x]<b>Taunt</b>\n<b>Battlecry and Deathrattle:</b>\nGet a Void Soul.",
+    "text": "<b>Taunt</b>\n<b>Deathrattle:</b> Get\na Void Soul.",
     "type": "MINION"
   },
   {
@@ -91219,7 +91284,7 @@
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "spellSchool": "NATURE",
-    "text": "[x]<b>Lifesteal</b>. Deal 2 damage\nto all enemy minions.\n<i>(Cast 3 spells to turn\ninto a minion!)</i>",
+    "text": "[x]<b>Lifesteal</b>. Deal $2 damage\nto all enemy minions.\n<i>(Cast 3 spells to turn\ninto a minion!)</i>",
     "type": "SPELL"
   },
   {
@@ -91900,6 +91965,66 @@
     "targetingArrowText": "Give +2 Attack and Rush.",
     "text": "<b>Prepare</b>. <b>Battlecry:</b>\nGive a friendly minion\n+2 Attack and <b>Rush</b>.",
     "type": "MINION"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129959,
+    "elite": true,
+    "flavor": "Welcome to \"Do You Know Hearthstone?\"",
+    "health": 2,
+    "howToEarn": "Obtainable by participating in a special event.",
+    "howToEarnGolden": "Obtainable by participating in a special event.",
+    "id": "JAIL_EVENT_100",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "Watfin",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EVENT",
+    "text": "<b>Battlecry:</b> <b>Discover</b> a minion. Pick the <i>suspicious</i> one to gain +1/+1.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 130086,
+    "flavor": "Is that a Soul Fragment? I haven't seen one of those since college!",
+    "howToEarn": "Obtainable by participating in a special event.",
+    "howToEarnGolden": "Obtainable by participating in a special event.",
+    "id": "JAIL_EVENT_101",
+    "name": "Soul Immolation",
+    "rarity": "EPIC",
+    "set": "EVENT",
+    "spellSchool": "SHADOW",
+    "text": "[x]Your Hero Power becomes\n'Collapsing Star'.\nIf it already is, increase\nits damage by 1.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 130087,
+    "flavor": "TAKE MY MONEY!!!",
+    "howToEarn": "Obtainable by participating in a special event.",
+    "howToEarnGolden": "Obtainable by participating in a special event.",
+    "id": "JAIL_EVENT_102",
+    "name": "Desperate Bribe",
+    "rarity": "EPIC",
+    "set": "EVENT",
+    "text": "Summon two 2-Cost minions for each player. Transform your minions into ones that cost (1) more.",
+    "type": "SPELL"
   },
   {
     "artist": "Mooncolony",
@@ -94095,7 +94220,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Lifesteal</b>",
     "type": "WEAPON"
   },
@@ -107967,7 +108092,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Deal $3 damage to a minion. If it dies, gain a <b>Corpse</b>.",
     "type": "SPELL"
   },
@@ -108026,7 +108151,7 @@
       "frost": 0,
       "unholy": 2
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Gain 4 <b>Corpses</b>. Shuffle four Crates into your deck that summon a 2/2 Undead when drawn.",
     "type": "SPELL"
   },
@@ -108338,7 +108463,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Destroy a random\nminion in your opponent's\n hand, deck, and battlefield. ",
     "type": "MINION"
   },
@@ -108368,7 +108493,7 @@
       "frost": 0,
       "unholy": 1
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Summon two 1/1 Fighters with <b>Rush</b> and <b>Reborn</b>.",
     "type": "MINION"
   },
@@ -108393,7 +108518,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "Deal $2 damage to an enemy and your hero.",
     "text": "[x]<b>Battlecry</b>: Deal 2 damage\nto an enemy and your hero.",
     "type": "MINION"
@@ -108427,7 +108552,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Taunt</b>\n<b>Deathrattle:</b> Return this to\nyour hand. It costs Health\ninstead of Mana.",
     "type": "MINION"
   },
@@ -108487,7 +108612,7 @@
       "frost": 0,
       "unholy": 3
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Raise ALL of your\n<b>Corpses</b> as 1/1 Risen Golems\nwith <b>Rush</b>. For each that can't\nfit, give one +2/+2.",
     "type": "MINION"
   },
@@ -108544,7 +108669,7 @@
       "frost": 1,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "Draw a card.\nSpend 2 <b>Corpses</b> to draw another.",
     "type": "SPELL"
@@ -108641,7 +108766,7 @@
       "frost": 1,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Enemy characters\ncan't be healed.",
     "type": "MINION"
   },
@@ -108860,7 +108985,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "Destroy a minion. Deal 3 damage to your hero.",
     "type": "SPELL"
   },
@@ -109287,7 +109412,7 @@
       "frost": 2,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Draw 2 spells.\nIf they're both Frost spells, deal 2 damage to all enemies.",
     "type": "MINION"
   },
@@ -109350,7 +109475,7 @@
       "frost": 0,
       "unholy": 2
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Taunt</b>. <b>Deathrattle:</b> Spend 3\n<b>Corpses</b> to summon a 3/3\nRisen Ymirjar with <b>Taunt</b>.",
     "type": "MINION"
   },
@@ -110747,7 +110872,7 @@
       "frost": 0,
       "unholy": 1
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Summon two 1/1\nZombies with <b>Reborn</b>.",
     "type": "SPELL"
   },
@@ -110874,7 +110999,7 @@
       "frost": 2,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]After your hero attacks,\nreduce the Cost of a spell\nin your hand by (1).",
     "type": "WEAPON"
   },
@@ -110969,7 +111094,7 @@
     "id": "RLK_715",
     "name": "Runeforging",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "Draw a weapon.\nSpend a <b>Corpse</b> to reduce its Cost by (1).",
     "type": "SPELL"
@@ -111131,7 +111256,7 @@
       "frost": 0,
       "unholy": 1
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]Costs (1) less for each\n<b>Corpse</b> you've spent\nthis game.",
     "type": "MINION"
   },
@@ -111188,7 +111313,7 @@
       "frost": 1,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "[x]<b>Battlecry:</b> Summon two\n2/1 Rime Elementals with\n\"<b>Deathrattle:</b> Deal 2 damage\nto a random enemy.\"",
     "type": "MINION"
   },
@@ -111218,7 +111343,7 @@
       "frost": 0,
       "unholy": 1
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>Battlecry:</b> Spend a <b>Corpse</b> to gain +1/+2.",
     "type": "MINION"
   },
@@ -137395,7 +137520,7 @@
     "id": "TTN_908",
     "name": "Crusader Aura",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "Whenever a friendly minion attacks, give it +2/+1. Lasts 3 turns.",
     "type": "SPELL"

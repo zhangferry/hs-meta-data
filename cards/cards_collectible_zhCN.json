@@ -17927,8 +17927,8 @@
     "dbfId": 130005,
     "flavor": "只需一瓶，百病百灵。喝这个蓝色的就对了。",
     "health": 3,
-    "howToEarn": "可以通过参与特殊活动获得。",
-    "howToEarnGolden": "可以通过参与特殊活动获得。",
+    "howToEarn": "打开<i>大地的裂变</i>卡牌包后可解锁。",
+    "howToEarnGolden": "打开<i>大地的裂变</i>金色包后可解锁。",
     "id": "CATA_EVENT_400",
     "mechanics": [
       "BATTLECRY"
@@ -17972,8 +17972,8 @@
     "cost": 3,
     "dbfId": 126097,
     "flavor": "一点小意思。没别的意思。别不够意思。",
-    "howToEarn": "可以通过参与特殊活动获得。",
-    "howToEarnGolden": "可以通过参与特殊活动获得。",
+    "howToEarn": "打开<i>大地的裂变</i>卡牌包后可解锁。",
+    "howToEarnGolden": "打开<i>大地的裂变</i>金色包后可解锁。",
     "id": "CATA_EVENT_402",
     "mechanics": [
       "COMBO"
@@ -20717,7 +20717,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你的英雄技能会额外造成1点伤害。",
     "type": "MINION"
   },
@@ -20739,7 +20739,7 @@
       "DRAGON"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你可以使用任意次数的英雄技能。",
     "type": "MINION"
   },
@@ -20760,7 +20760,7 @@
     ],
     "name": "神圣勇士",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>过量治疗：</b>获得+2攻击力。",
     "type": "MINION"
   },
@@ -20785,7 +20785,7 @@
       "DEMON"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当你弃掉一张牌时，便获得+2/+1。",
     "type": "MINION"
   },
@@ -20810,7 +20810,7 @@
       "PIRATE"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当你装备一把武器，使武器获得+1攻击力。",
     "type": "MINION"
   },
@@ -20855,7 +20855,7 @@
       "DRAENEI"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>每有一个友方图腾，便获得+1/+1。",
     "type": "MINION"
   },
@@ -20902,7 +20902,7 @@
     "name": "先祖知识",
     "overload": 1,
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "抽两张牌。<b>过载：</b>（1）",
     "type": "SPELL"
   },
@@ -20935,7 +20935,7 @@
     "id": "CORE_AT_061",
     "name": "子弹上膛",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在本回合中，每当你施放一个法术，随机获取一张\n猎人卡牌。",
     "type": "SPELL"
   },
@@ -20994,7 +20994,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你的白银之手新兵拥有+2攻击力和<b>嘲讽</b>。",
     "type": "MINION"
   },
@@ -21016,7 +21016,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "MINION"
   },
   {
@@ -21066,7 +21066,7 @@
     ],
     "name": "裁决者图哈特",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>以更强的英雄技能来替换你的初始英雄技能。",
     "type": "MINION"
   },
@@ -21109,7 +21109,7 @@
     ],
     "name": "冰霜陷阱",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "<b>奥秘：</b>当你的对手施放一个法术时，改为将其移回拥有者的手牌，并且法力值消耗增加（1）点。",
     "type": "SPELL"
@@ -21137,7 +21137,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>，<b>亡语：</b>抽一张神圣法术牌和一张暗影法术牌。",
     "type": "MINION"
   },
@@ -21259,7 +21259,7 @@
     ],
     "name": "獠牙锥刃",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>抽一张<b>亡语</b>随从牌。",
     "type": "WEAPON"
   },
@@ -21285,7 +21285,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>，<b>亡语：</b>获得5点护甲值。",
     "type": "MINION"
   },
@@ -21328,7 +21328,7 @@
     ],
     "name": "巴拉克·科多班恩",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n抽取法力值消耗为（1），（2）和（3）点的法术牌各一张。",
     "type": "MINION"
   },
@@ -21420,7 +21420,7 @@
       "MECHANICAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>磁力</b>\n<b>突袭</b>",
     "type": "MINION"
   },
@@ -21446,7 +21446,7 @@
       "MECHANICAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>磁力</b>\n<b>嘲讽</b>",
     "type": "MINION"
   },
@@ -21467,7 +21467,7 @@
     ],
     "name": "毒物学家",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>使你的武器获得+1攻击力。",
     "type": "MINION"
   },
@@ -21493,7 +21493,7 @@
       "DRAENEI"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你使用最右边的一张手牌后，抽\n一张牌。",
     "type": "MINION"
   },
@@ -21518,7 +21518,7 @@
       "MECHANICAL"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>造成5点伤害，随机分配到所有非机械随从身上。",
     "type": "MINION"
   },
@@ -21583,7 +21583,7 @@
       "MECHANICAL"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>磁力</b>\n<b>亡语：</b>召唤三个1/1的微型机器人。",
     "type": "MINION"
   },
@@ -21599,7 +21599,7 @@
     "id": "CORE_BOT_420",
     "name": "植树造林",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "召唤两个2/2的树人。",
     "type": "SPELL"
@@ -21640,7 +21640,7 @@
     "id": "CORE_BOT_453",
     "name": "迸射流星",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "ARCANE",
     "text": "对一个随从及其相邻的随从造成$1点伤害。",
     "type": "SPELL"
@@ -21666,7 +21666,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>随机将一张元素牌置入你的手牌。",
     "type": "MINION"
   },
@@ -21697,7 +21697,7 @@
       "MECHANICAL"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>磁力，圣盾，嘲讽，吸血，突袭</b>",
     "type": "MINION"
   },
@@ -21722,7 +21722,7 @@
       "MECHANICAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>磁力</b>",
     "type": "MINION"
   },
@@ -21740,7 +21740,7 @@
     "id": "CORE_BOT_568",
     "name": "莫瑞甘的灵界",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "抽三张牌。这些牌为<b>临时</b>牌。",
     "type": "SPELL"
@@ -21789,7 +21789,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当本随从受到伤害，召唤一个1/1的\n小鬼。",
     "type": "MINION"
   },
@@ -21831,7 +21831,7 @@
     ],
     "name": "幽光鱼竿",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的英雄攻击后，随机将一张鱼人牌置入你的手牌。",
     "type": "WEAPON"
   },
@@ -21867,7 +21867,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "召唤三个1/1并具有<b>突袭</b>的伊利达雷。",
     "type": "SPELL"
   },
@@ -21915,7 +21915,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>如果你在上回合施放过法术，<b>发现</b>一张法术牌。",
     "type": "MINION"
   },
@@ -21931,7 +21931,7 @@
     "id": "CORE_BT_117",
     "name": "剑刃风暴",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "对所有随从造成$1点伤害。重复此效果，直到某个随从\n死亡。",
     "type": "SPELL"
   },
@@ -21970,7 +21970,7 @@
     "id": "CORE_BT_134",
     "name": "沼泽射线",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "对一个随从造成$3点伤害。如果你拥有至少七个法力水晶，则法力值消耗为（0）点。",
     "type": "SPELL"
   },
@@ -22052,7 +22052,7 @@
       "DISCOVER",
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你使用一张<b>奥秘</b>牌后，<b>发现</b>一张不同职业的<b>奥秘</b>牌。",
     "type": "MINION"
   },
@@ -22095,7 +22095,7 @@
     "id": "CORE_BT_235",
     "name": "混乱新星",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FEL",
     "text": "对所有随从造成$4点伤害。",
     "type": "SPELL"
@@ -22118,7 +22118,7 @@
     ],
     "name": "斩炎",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "同时对其攻击目标相邻的随从\n造成伤害。",
     "type": "WEAPON"
   },
@@ -22164,7 +22164,7 @@
     "referencedTags": [
       "LIFESTEAL"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽，亡语：</b>召唤一个5/5并具有<b>吸血</b>的恐惧魔王。",
     "type": "MINION"
   },
@@ -22213,7 +22213,7 @@
       "DEMON"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>检视你牌库中的三张牌。选择一张置于牌库顶。",
     "type": "MINION"
   },
@@ -22235,7 +22235,7 @@
     ],
     "name": "女伯爵莉亚德琳",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>将你在本局对战中施放在友方角色上的所有法术的复制置入你的手牌。",
     "type": "MINION"
   },
@@ -22285,7 +22285,7 @@
       "NAGA"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在一个友方随从死亡后，随机对一个敌人造成3点伤害。",
     "type": "MINION"
   },
@@ -22332,7 +22332,7 @@
       "DRAENEI"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽，吸血</b>",
     "type": "MINION"
   },
@@ -22348,7 +22348,7 @@
     "id": "CORE_BT_427",
     "name": "灵魂盛宴",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "在本回合中每有一个友方随从死亡，抽一张牌。0<i>（抽0张牌）</i>",
     "type": "SPELL"
@@ -22366,7 +22366,7 @@
     "id": "CORE_BT_429",
     "name": "恶魔变形",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FEL",
     "text": "将你的英雄技能替换为“造成5点伤害。”使用两次后，换回原技能。",
     "type": "SPELL"
@@ -22389,7 +22389,7 @@
     ],
     "name": "埃辛诺斯战刃",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在攻击一个随从后，你的英雄可以再次攻击。",
     "type": "WEAPON"
   },
@@ -22498,7 +22498,7 @@
     "id": "CORE_BT_514",
     "name": "献祭光环",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FEL",
     "text": "对所有随从造成$1点伤害两次。",
     "type": "SPELL"
@@ -22543,7 +22543,7 @@
     "referencedTags": [
       "POISONOUS"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，召唤一个2/3并具有<b>剧毒</b>的伏击者。",
     "type": "SPELL"
   },
@@ -22632,7 +22632,7 @@
     ],
     "name": "棕红之翼",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>召唤两只1/1的邪翼蝠。",
     "type": "WEAPON"
   },
@@ -22810,7 +22810,7 @@
     "name": "锦鱼人水语者",
     "overload": 1,
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "恢复#6点生命值。",
     "text": "<b>战吼：</b>恢复#6点生命值。<b>过载：</b>（1）",
     "type": "MINION"
@@ -22836,7 +22836,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>为每个英雄恢复#4点生命值。",
     "type": "MINION"
   },
@@ -22908,7 +22908,7 @@
       "DRAGON"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n如果你的手牌中有龙牌，便<b>发现</b>你对手牌库中一张牌的复制。",
     "type": "MINION"
   },
@@ -22933,7 +22933,7 @@
       "ELEMENTAL"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>过量治疗：</b>召唤一个2/2的水晶。",
     "type": "MINION"
   },
@@ -22981,7 +22981,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>对所有其他角色造成3点伤害。",
     "type": "MINION"
   },
@@ -23114,7 +23114,7 @@
     "id": "Core_CS2_008",
     "name": "月火术",
     "rarity": "FREE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "ARCANE",
     "text": "造成$1点伤害。",
     "type": "SPELL"
@@ -23151,7 +23151,7 @@
     "id": "CORE_CS2_012",
     "name": "横扫",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "对一个敌人造成$4点伤害，并对所有其他敌人\n造成$1点伤害。",
     "type": "SPELL"
   },
@@ -23167,7 +23167,7 @@
     "id": "CORE_CS2_013",
     "name": "野性成长",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "获得一个空的法力水晶。",
     "type": "SPELL"
@@ -23284,7 +23284,7 @@
       "ELEMENTAL"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>冻结</b>任何受到本随从伤害的角色。",
     "type": "MINION"
   },
@@ -23303,7 +23303,7 @@
     "referencedTags": [
       "WINDFURY"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "使一个随从获得<b>风怒</b>。",
     "type": "SPELL"
@@ -23346,7 +23346,7 @@
     "id": "CORE_CS2_045",
     "name": "石化武器",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "在本回合中，使一个友方角色获得+3攻击力。",
     "type": "SPELL"
@@ -23363,7 +23363,7 @@
     "id": "CORE_CS2_046",
     "name": "嗜血",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在本回合中，使你的所有随从获得+3攻击力。",
     "type": "SPELL"
   },
@@ -23421,7 +23421,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>对所有其他角色造成1点伤害。",
     "type": "MINION"
   },
@@ -23446,7 +23446,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>",
     "type": "MINION"
   },
@@ -23495,7 +23495,7 @@
     "id": "CORE_CS2_075",
     "name": "影袭",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "对敌方英雄造成$3点伤害。",
     "type": "SPELL"
   },
@@ -23527,7 +23527,7 @@
     "id": "CORE_CS2_077",
     "name": "疾跑",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "抽四张牌。",
     "type": "SPELL"
   },
@@ -23546,7 +23546,7 @@
     "id": "CORE_CS2_080",
     "name": "刺客之刃",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "WEAPON"
   },
   {
@@ -23567,7 +23567,7 @@
     ],
     "name": "列王守卫",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>，<b>战吼：</b>为你的英雄恢复#6点生命值。",
     "type": "MINION"
   },
@@ -23583,7 +23583,7 @@
     "id": "CORE_CS2_089",
     "name": "圣光术",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "为你的英雄恢复#8点生命值。",
     "type": "SPELL"
@@ -23600,7 +23600,7 @@
     "id": "CORE_CS2_092",
     "name": "王者祝福",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "使一个随从获得+4/+4。<i>（+4攻击力/+4生命值）</i>",
     "type": "SPELL"
@@ -23657,7 +23657,7 @@
     ],
     "name": "真银圣剑",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当你的英雄进攻，便为其恢复#3点生命值。",
     "type": "WEAPON"
   },
@@ -23676,7 +23676,7 @@
     "id": "CORE_CS2_106",
     "name": "炽炎战斧",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "WEAPON"
   },
   {
@@ -23712,7 +23712,7 @@
     ],
     "name": "大地之环先知",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "恢复#3点生命值。",
     "text": "<b>战吼：</b>\n恢复#3点生命值。",
     "type": "MINION"
@@ -23735,7 +23735,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "MINION"
   },
   {
@@ -23777,7 +23777,7 @@
     ],
     "name": "狗头人地卜师",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellDamage": 1,
     "text": "<b>法术伤害+1</b>",
     "type": "MINION"
@@ -23804,7 +23804,7 @@
     "referencedTags": [
       "CHARGE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "如果你装备着武器，本随从拥有\n<b>冲锋</b>。",
     "type": "MINION"
   },
@@ -23848,7 +23848,7 @@
     ],
     "name": "负伤剑圣",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>对自身造成4点伤害。",
     "type": "MINION"
   },
@@ -23866,7 +23866,7 @@
     "id": "CORE_CS2_182",
     "name": "冰风雪人",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "MINION"
   },
   {
@@ -23957,7 +23957,7 @@
     "referencedTags": [
       "SILENCE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "<b>沉默</b>一个随从。",
     "text": "<b>战吼：</b>\n<b>沉默</b>一个随从。",
     "type": "MINION"
@@ -24003,7 +24003,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "MINION"
   },
   {
@@ -24018,7 +24018,7 @@
     "id": "CORE_CS2_234",
     "name": "暗言术：痛",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "消灭一个攻击力小于或等于3的随从。",
     "type": "SPELL"
@@ -24040,7 +24040,7 @@
     ],
     "name": "北郡牧师",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当一个随从获得治疗时，抽一张牌。",
     "type": "MINION"
   },
@@ -24056,7 +24056,7 @@
     "id": "CORE_CS3_002",
     "name": "末日仪式",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "消灭一个友方随从。如果你拥有5个或更多随从，召唤一个5/5的恶魔。",
     "type": "SPELL"
@@ -24083,7 +24083,7 @@
       "DEMON"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>使你的对手弃掉一张随从牌。<b>亡语：</b>移回弃掉的牌。",
     "type": "MINION"
   },
@@ -24105,7 +24105,7 @@
     ],
     "name": "梵妮莎·范克里夫",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>连击：</b>将你对手使用的上一张牌的一张复制置入你的手牌。",
     "type": "MINION"
   },
@@ -24130,7 +24130,7 @@
       "PIRATE"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>你的下一张武器牌的法力值消耗减少（1）点。",
     "type": "MINION"
   },
@@ -24146,7 +24146,7 @@
     "id": "CORE_CS3_009",
     "name": "战争储备箱",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "随机将一张战士随从牌，法术牌和武器牌分别置入你的\n手牌。",
     "type": "SPELL"
   },
@@ -24167,7 +24167,7 @@
     ],
     "name": "诺达希尔德鲁伊",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>在本回合中，你施放的下一个法术的法力值消耗减少（3）点。",
     "type": "MINION"
   },
@@ -24188,7 +24188,7 @@
     ],
     "name": "赤红教士",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>过量治疗：</b>抽一张牌。",
     "type": "MINION"
   },
@@ -24207,7 +24207,7 @@
     ],
     "name": "清算",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "<b>奥秘：</b>在一个敌方随从造成3点或以上伤害后，将其消灭。",
     "type": "SPELL"
@@ -24235,7 +24235,7 @@
     "referencedTags": [
       "OUTCAST"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>冲锋</b>，<b>吸血</b>\n在你使用一张<b>流放</b>牌后，将本随从移回你的手牌。",
     "type": "MINION"
   },
@@ -24260,7 +24260,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>\n同时对其攻击目标相邻的随从造成伤害。",
     "type": "MINION"
   },
@@ -24279,7 +24279,7 @@
     "referencedTags": [
       "SILENCE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>沉默</b>一个随从，然后使其获得+3生命值。",
     "type": "SPELL"
   },
@@ -24295,7 +24295,7 @@
     "id": "CORE_CS3_029",
     "name": "正义追击",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "使你本局对战中召唤的白银之手新兵获得+1攻击力。",
     "type": "SPELL"
@@ -24317,7 +24317,7 @@
     ],
     "name": "战歌侦察骑兵",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>突袭</b>",
     "type": "MINION"
   },
@@ -24341,7 +24341,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>如果你控制一个<b>奥秘</b>，便获得+1/+1。",
     "type": "MINION"
   },
@@ -24360,7 +24360,7 @@
     ],
     "name": "标记射击",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "对一个随从造成$4点伤害。<b>发现</b>一张法术牌。",
     "type": "SPELL"
   },
@@ -24386,7 +24386,7 @@
       "PIRATE"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b><b>发现</b>一张另一职业的法术牌。",
     "type": "MINION"
   },
@@ -24409,7 +24409,7 @@
     ],
     "name": "至尊盗王拉法姆",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>\n<b>战吼：</b>将你的手牌和牌库里的卡牌替换为<b>传说</b>随从。",
     "type": "MINION"
   },
@@ -24460,7 +24460,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你每个回合使用的第一张法术牌的法力值消耗为（0）点。<b>战吼：</b><b>发现</b>一张法术牌。",
     "type": "MINION"
   },
@@ -24509,7 +24509,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的回合结束时，复活另一个友方亡灵随从。",
     "type": "MINION"
   },
@@ -24532,7 +24532,7 @@
     ],
     "name": "拉祖尔女士",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b><b>发现</b>一张你的对手手牌的复制。",
     "type": "MINION"
   },
@@ -24555,7 +24555,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>可交易</b>\n使一个随从获得+2/+3。在你<b>交易</b>此牌后，使一个友方随从获得<b>突袭</b>。",
     "type": "SPELL"
   },
@@ -24571,7 +24571,7 @@
     "id": "CORE_DMF_057",
     "name": "月蚀",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "ARCANE",
     "text": "对一个随从造成$3点伤害。在本回合中，你施放的下一个法术的法力值消耗减少（2）点。",
     "type": "SPELL"
@@ -24588,7 +24588,7 @@
     "id": "CORE_DMF_058",
     "name": "日蚀",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "在本回合中，你施放的下一个法术将施放两次。",
     "type": "SPELL"
@@ -24614,7 +24614,7 @@
       "BEAST"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>突袭</b>\n在本局对战中，你每施放一个法术，本牌的法力值消耗便减少（1）点。",
     "type": "MINION"
   },
@@ -24667,7 +24667,7 @@
       "MURLOC"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>抽一张龙牌。",
     "type": "MINION"
   },
@@ -24686,7 +24686,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "召唤七个1/1并具有<b>突袭</b>的伊利达雷。在本回合中，如果他们全部死亡，再召唤七个。",
     "type": "SPELL"
   },
@@ -24709,7 +24709,7 @@
     ],
     "name": "扎依，出彩艺人",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n复制你手牌中最左边和最右边的牌。",
     "type": "MINION"
   },
@@ -24734,7 +24734,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>召唤一个6/6并具有<b>嘲讽</b>的神圣元素。",
     "type": "WEAPON"
   },
@@ -24763,7 +24763,7 @@
     "referencedTags": [
       "DIVINE_SHIELD"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>在本局对战的剩余时间内，在你召唤一个白银之手新兵后，使其获得<b>圣盾</b>。",
     "type": "MINION"
   },
@@ -24814,7 +24814,7 @@
       "PIRATE"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽，战吼：</b>装备一把3/2的剑。",
     "type": "MINION"
   },
@@ -24833,7 +24833,7 @@
     ],
     "name": "雷区挑战",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "造成$5点伤害，随机分配到所有随从身上。",
     "type": "SPELL"
   },
@@ -24859,7 +24859,7 @@
       "TOTEM"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的回合结束时，使你手牌，牌库和战场上的所有其他图腾获得+1/+1。",
     "type": "MINION"
   },
@@ -24881,7 +24881,7 @@
     ],
     "name": "基利，艾露恩之眷",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n将一张日蚀和一张月蚀置入你的手牌。",
     "type": "MINION"
   },
@@ -24904,7 +24904,7 @@
     ],
     "name": "格雷布",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>，<b>亡语：</b>随机使一个友方随从获得“<b>亡语：</b>召唤格雷布。”",
     "type": "MINION"
   },
@@ -24956,7 +24956,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>攻击所有其他随从。",
     "type": "MINION"
   },
@@ -24978,7 +24978,7 @@
     ],
     "name": "菲里克·飞刺",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "消灭一个随从及其复制。",
     "text": "<b>战吼：</b>消灭一个随从及其所有的复制<i>（无论它们在哪）</i>。",
     "type": "MINION"
@@ -25032,7 +25032,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>使用你的对手上个回合使用的所有卡牌。",
     "type": "MINION"
   },
@@ -25059,7 +25059,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>将所有敌方随从的生命值变为1。",
     "type": "MINION"
   },
@@ -25111,7 +25111,7 @@
       "DRAGON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "恢复#8点生命值。",
     "text": "<b>战吼：</b>\n恢复#8点生命值。",
     "type": "MINION"
@@ -25139,7 +25139,7 @@
       "DRAGON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>吸血</b>\n<b>战吼：</b><b>发现</b>一张\n龙牌。",
     "type": "MINION"
   },
@@ -25456,7 +25456,7 @@
     ],
     "name": "年轻的女祭司",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的回合结束时，随机使另一个友方随从获得+1生命值。",
     "type": "MINION"
   },
@@ -25522,7 +25522,7 @@
     ],
     "name": "银色侍从",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>圣盾</b>",
     "type": "MINION"
   },
@@ -25647,7 +25647,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>随机夺取一个敌方随从的控制权。",
     "type": "MINION"
   },
@@ -25673,7 +25673,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>潜行</b>",
     "type": "MINION"
   },
@@ -25746,7 +25746,7 @@
     ],
     "name": "黑铁矮人",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "获得+2攻击力。",
     "text": "<b>战吼：</b>在本回合中，使一个随从获得+2攻击力。",
     "type": "MINION"
@@ -25769,7 +25769,7 @@
     ],
     "name": "年轻的酒仙",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "将一个随从移回你的手牌。",
     "text": "<b>战吼：</b>使一个友方随从从战场上移回你的手牌。",
     "type": "MINION"
@@ -25795,7 +25795,7 @@
       "MURLOC"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>每个玩家抽两张牌。",
     "type": "MINION"
   },
@@ -25870,7 +25870,7 @@
     ],
     "name": "酸性沼泽软泥怪",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n摧毁对手的武器。",
     "type": "MINION"
   },
@@ -25916,7 +25916,7 @@
     "referencedTags": [
       "CHARGE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当你召唤一个攻击力小于或等于3的随从，使其获得<b>冲锋</b>。",
     "type": "MINION"
   },
@@ -25938,7 +25938,7 @@
     ],
     "name": "精神控制技师",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "夺取一个随从的控制权。",
     "text": "<b>战吼：</b>如果你的对手有4个或者更多随从，夺取其中一个的控制权。",
     "type": "MINION"
@@ -25968,7 +25968,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>使相邻的随从获得+1/+1和<b>嘲讽</b>。",
     "type": "MINION"
   },
@@ -25989,7 +25989,7 @@
     ],
     "name": "加基森拍卖师",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当你施放一个法术，抽一张牌。",
     "type": "MINION"
   },
@@ -26080,7 +26080,7 @@
       "ELEMENTAL"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你每有一张其他手牌，本牌的法力值消耗便减少（1）点。",
     "type": "MINION"
   },
@@ -26128,7 +26128,7 @@
     ],
     "name": "火车王里诺艾",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>冲锋</b>，<b>战吼：</b>\n为你的对手召唤两条1/1的雏龙。",
     "type": "MINION"
   },
@@ -26147,7 +26147,7 @@
     ],
     "name": "刺骨",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "造成$2点伤害。<b>连击：</b>改为造成$4点伤害。",
     "type": "SPELL"
   },
@@ -26182,7 +26182,7 @@
     ],
     "name": "崇高牺牲",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>奥秘：</b>当一个敌人攻击时，召唤一个2/1的防御者，并使其成为攻击的目标。",
     "type": "SPELL"
   },
@@ -26242,7 +26242,7 @@
     "id": "CORE_EX1_144",
     "name": "暗影步",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "将一个友方随从移回你的手牌，它的法力值消耗减少\n（2）点。",
     "type": "SPELL"
@@ -26298,7 +26298,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "使你的所有随从获得“<b>亡语：</b>召唤一个2/2的树人”。",
     "type": "SPELL"
@@ -26363,7 +26363,7 @@
     ],
     "name": "滋养",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "<b>抉择：</b>获得两个法力水晶；或者抽三张牌。",
     "type": "SPELL"
@@ -26389,7 +26389,7 @@
       "RUSH",
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>抉择：</b>变形成为7/6并具有<b>突袭</b>；或者变形成为4/9并具有<b>嘲讽</b>。",
     "type": "MINION"
   },
@@ -26430,7 +26430,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>抉择：</b>\n+5攻击力；或者+5生命值并具有<b>嘲讽</b>。",
     "type": "MINION"
   },
@@ -26454,7 +26454,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>随机摧毁一个敌方<b>奥秘</b>。",
     "type": "MINION"
   },
@@ -26479,7 +26479,7 @@
       "ELEMENTAL"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当你施放一个法术，便获得+2/+2。",
     "type": "MINION"
   },
@@ -26500,7 +26500,7 @@
     ],
     "name": "贫瘠之地饲养员",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>随机召唤一只野兽。",
     "type": "MINION"
   },
@@ -26548,7 +26548,7 @@
     ],
     "name": "大检察官怀特迈恩",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>召唤所有在本回合中死亡的友方\n随从。",
     "type": "MINION"
   },
@@ -26589,7 +26589,7 @@
     "id": "CORE_EX1_194",
     "name": "能量灌注",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "使一个随从获得+2/+6。",
     "type": "SPELL"
@@ -26611,7 +26611,7 @@
     ],
     "name": "库尔提拉斯教士",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "获得+2生命值。",
     "text": "<b>战吼：</b>使一个友方随从获得+2生命值。",
     "type": "MINION"
@@ -26716,7 +26716,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "召唤两只2/3并具有<b>嘲讽</b>的幽灵狼。<b>过载：</b>（1）",
     "type": "SPELL"
@@ -26743,7 +26743,7 @@
       "ELEMENTAL"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的回合结束时，对所有其他角色造成2点伤害。",
     "type": "MINION"
   },
@@ -26798,7 +26798,7 @@
     "referencedTags": [
       "OVERLOAD"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你使用一张具有<b>过载</b>的牌后，便获得+1/+1。",
     "type": "MINION"
   },
@@ -26838,7 +26838,7 @@
     ],
     "name": "冰锥术",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "<b>冻结</b>一个随从和其相邻的随从，并对它们造成$1点伤害。",
     "type": "SPELL"
@@ -26872,7 +26872,7 @@
     "id": "CORE_EX1_279",
     "name": "炎爆术",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FIRE",
     "text": "造成$10点伤害。",
     "type": "SPELL"
@@ -26899,7 +26899,7 @@
       "DRAGON"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellDamage": 1,
     "text": "<b>法术伤害+1</b>，<b>战吼：</b>抽一张牌。",
     "type": "MINION"
@@ -26962,7 +26962,7 @@
     ],
     "name": "镜像实体",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "ARCANE",
     "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，召唤一个该随从的复制。",
     "type": "SPELL"
@@ -26991,7 +26991,7 @@
       "ELEMENTAL"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "无法攻击。在你的回合结束时，随机对一个敌人造成8点伤害。",
     "type": "MINION"
   },
@@ -27033,7 +27033,7 @@
       "DEMON"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>消灭两侧相邻的随从，并获得他们的攻击力和生命值。",
     "type": "MINION"
   },
@@ -27109,7 +27109,7 @@
     "id": "CORE_EX1_316",
     "name": "力量的代价",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "使一个友方随从获得+4/+4，该随从会在回合结束时死亡。死得很惨。",
     "type": "SPELL"
@@ -27180,7 +27180,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "本随从的攻击力始终等同于其生命值。",
     "type": "MINION"
   },
@@ -27230,7 +27230,7 @@
       "DRAENEI"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "使其攻击力变为1。",
     "text": "<b>战吼：</b>使一个敌方随从的攻击力变为1。",
     "type": "MINION"
@@ -27292,7 +27292,7 @@
     ],
     "name": "古拉巴什狂暴者",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当本随从受到伤害，获得+3攻击力。",
     "type": "MINION"
   },
@@ -27308,7 +27308,7 @@
     "id": "CORE_EX1_400",
     "name": "旋风斩",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "对所有随从造成$1点伤害。",
     "type": "SPELL"
   },
@@ -27329,7 +27329,7 @@
     ],
     "name": "铸甲师",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当一个友方随从受到伤害，便获得1点护甲值。",
     "type": "MINION"
   },
@@ -27345,7 +27345,7 @@
     "id": "CORE_EX1_407",
     "name": "绝命乱斗",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "随机选择一个随从，消灭除了该随从外的所有其他随从。",
     "type": "SPELL"
   },
@@ -27364,7 +27364,7 @@
     ],
     "name": "盾牌猛击",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你每有1点护甲值，便对一个随从造成1点伤害。",
     "type": "SPELL"
   },
@@ -27383,7 +27383,7 @@
     "id": "CORE_EX1_411",
     "name": "血吼",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "攻击随从不会消耗耐久度，改为降低1点攻击力。",
     "type": "WEAPON"
   },
@@ -27503,7 +27503,7 @@
     ],
     "name": "耐心的刺客",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>潜行</b>\n<b>剧毒</b>",
     "type": "MINION"
   },
@@ -27528,7 +27528,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当一个友方野兽死亡，便获得+2/+1。",
     "type": "MINION"
   },
@@ -27553,7 +27553,7 @@
       "BEAST"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>召唤两只2/2的土狼。",
     "type": "MINION"
   },
@@ -27569,7 +27569,7 @@
     "id": "CORE_EX1_539",
     "name": "杀戮命令",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "造成$3点伤害。如果你控制一个野兽，则改为造成\n$5点伤害。",
     "type": "SPELL"
   },
@@ -27595,7 +27595,7 @@
       "BEAST"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>冲锋</b>",
     "type": "MINION"
   },
@@ -27614,7 +27614,7 @@
     ],
     "name": "毒蛇陷阱",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>奥秘：</b>当你的随从受到攻击时，召唤三条1/1的蛇。",
     "type": "SPELL"
   },
@@ -27658,7 +27658,7 @@
     ],
     "name": "无面操纵者",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "成为一个随从的复制。",
     "techLevel": 6,
     "text": "<b>战吼：</b>选择一个随从，成为它的复制。",
@@ -27686,7 +27686,7 @@
       "TOTEM"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "相邻的随从拥有+2攻击力。",
     "type": "MINION"
   },
@@ -27710,7 +27710,7 @@
     "name": "毁灭之锤",
     "overload": 2,
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>风怒，过载：</b>（2）",
     "type": "WEAPON"
   },
@@ -27726,7 +27726,7 @@
     "id": "CORE_EX1_571",
     "name": "自然之力",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "召唤三个2/2的树人。",
     "type": "SPELL"
@@ -27752,7 +27752,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>抉择：</b>使你的所有其他随从获得+2/+2；或者召唤两个2/2并具有<b>嘲讽</b>的树人。",
     "type": "MINION"
   },
@@ -27777,7 +27777,7 @@
       "TOTEM"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的回合结束时，抽一张牌。",
     "type": "MINION"
   },
@@ -27793,7 +27793,7 @@
     "id": "CORE_EX1_581",
     "name": "闷棍",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "将一个敌方随从移回你对手的\n手牌。",
     "type": "SPELL"
   },
@@ -27811,7 +27811,7 @@
     "id": "CORE_EX1_586",
     "name": "海巨人",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "战场上每有一个其他随从，本牌的法力值消耗便减少（1）点。",
     "type": "MINION"
   },
@@ -27832,7 +27832,7 @@
     ],
     "name": "严酷的监工",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "造成1点伤害并使其获得+2攻击力。",
     "text": "<b>战吼：</b>对一个随从造成1点伤害，并使其获得+2攻击力。",
     "type": "MINION"
@@ -27926,7 +27926,7 @@
     "id": "CORE_EX1_617",
     "name": "致命射击",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "随机消灭一个敌方随从。",
     "type": "SPELL"
   },
@@ -27965,7 +27965,7 @@
       "ELEMENTAL"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你的英雄每缺失一点生命值，本牌的法力值消耗便减少（1）点。",
     "type": "MINION"
   },
@@ -27981,7 +27981,7 @@
     "id": "CORE_EX1_622",
     "name": "暗言术：灭",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "消灭一个攻击力大于或等于5的随从。",
     "type": "SPELL"
@@ -28003,7 +28003,7 @@
     ],
     "name": "圣殿执行者",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "获得+3生命值。",
     "text": "<b>战吼：</b>使一个友方随从获得+3生命值。",
     "type": "MINION"
@@ -28020,7 +28020,7 @@
     "id": "CORE_EX1_625",
     "name": "暗影形态",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "你的英雄技能变为“造成2点伤害”。",
     "type": "SPELL"
@@ -28040,7 +28040,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "召唤两只3/3的狼。<i>（使用一个<b>奥秘</b>后升级。）</i>",
     "type": "SPELL"
@@ -28066,7 +28066,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当本随从攻击时，对你的英雄造成2点伤害。",
     "type": "MINION"
   },
@@ -28087,7 +28087,7 @@
     ],
     "name": "蛛魔之卵",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>召唤一个4/4的蛛魔。",
     "type": "MINION"
   },
@@ -28112,7 +28112,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>随机获取一张野兽牌。",
     "type": "MINION"
   },
@@ -28131,7 +28131,7 @@
     ],
     "name": "复仇",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "<b>奥秘：</b>当你的随从死亡时，随机使一个友方随从获得+3/+2。",
     "type": "SPELL"
@@ -28157,7 +28157,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>\n随机将一张恶魔牌从你的手牌置入战场。",
     "type": "MINION"
   },
@@ -28183,7 +28183,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>下个回合敌方法术的法力值消耗增加（5）点。",
     "type": "MINION"
   },
@@ -28212,7 +28212,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你的随从的<b>亡语</b>将触发两次。",
     "type": "MINION"
   },
@@ -28234,7 +28234,7 @@
     ],
     "name": "哈斯·石酒",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>将你的手牌替换为炉石传说史上知名的一副手牌。<i>（每局对战限一次）</i>",
     "type": "MINION"
   },
@@ -28252,7 +28252,7 @@
     ],
     "name": "吉安娜的礼物",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>发现</b>一张<b>临时</b>的寒冰箭，奥术智慧或火球术。",
     "type": "SPELL"
   },
@@ -28270,7 +28270,7 @@
     ],
     "name": "雷克萨的礼物",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>发现</b>一张<b>临时</b>的快速射击，致命射击或爆炸射击。",
     "type": "SPELL"
   },
@@ -28288,7 +28288,7 @@
     ],
     "name": "阿尔萨斯的礼物",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>发现</b>一张<b>临时</b>的黑暗突变，凛风冲击或灵界打击。",
     "type": "SPELL"
   },
@@ -28306,7 +28306,7 @@
     ],
     "name": "乌瑟尔的礼物",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>发现</b>一张<b>临时</b>的生而平等，奉献或王者祝福。",
     "type": "SPELL"
   },
@@ -28324,7 +28324,7 @@
     ],
     "name": "萨尔的礼物",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>发现</b>一张<b>临时</b>的闪电风暴，妖术或嗜血。",
     "type": "SPELL"
   },
@@ -28342,7 +28342,7 @@
     ],
     "name": "加尔鲁什的礼物",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>发现</b>一张<b>临时</b>的斩杀，盾牌格挡或绝命乱斗。",
     "type": "SPELL"
   },
@@ -28360,7 +28360,7 @@
     ],
     "name": "伊利丹的礼物",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>发现</b>一张<b>临时</b>的邪能弹幕，混乱打击或混乱新星。",
     "type": "SPELL"
   },
@@ -28378,7 +28378,7 @@
     ],
     "name": "瓦莉拉的礼物",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>发现</b>一张<b>临时</b>的背刺，致命药膏或刀扇。",
     "type": "SPELL"
   },
@@ -28396,7 +28396,7 @@
     ],
     "name": "玛法里奥的礼物",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>发现</b>一张<b>临时</b>的野性之怒，野性成长或横扫。",
     "type": "SPELL"
   },
@@ -28414,7 +28414,7 @@
     ],
     "name": "古尔丹的礼物",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>发现</b>一张<b>临时</b>的死亡缠绕，灵魂虹吸或扭曲虚空。",
     "type": "SPELL"
   },
@@ -28432,7 +28432,7 @@
     ],
     "name": "安度因的礼物",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>发现</b>一张<b>临时</b>的真言术：盾，暗言术：痛或精神控制。",
     "type": "SPELL"
   },
@@ -28453,7 +28453,7 @@
     ],
     "name": "苔藓恐魔",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>消灭所有其他攻击力小于或等于2的随从。",
     "type": "MINION"
   },
@@ -28469,7 +28469,7 @@
     "id": "CORE_GIL_191",
     "name": "恶魔法阵",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FEL",
     "text": "召唤四个1/1的小鬼。",
     "type": "SPELL"
@@ -28545,7 +28545,7 @@
     ],
     "name": "达利乌斯·克罗雷",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>突袭</b>\n在克罗雷攻击并消灭一个随从后，获得+2/+2。",
     "type": "MINION"
   },
@@ -28614,7 +28614,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>从你的牌库中抽一张具有<b>突袭</b>的随从牌。",
     "type": "MINION"
   },
@@ -28636,7 +28636,7 @@
     ],
     "name": "苔丝·格雷迈恩",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>重新使用在本局对战中你所使用过的另一职业的卡牌<i>（目标随机而定）</i>。",
     "type": "MINION"
   },
@@ -28657,7 +28657,7 @@
     "name": "电击",
     "overload": 1,
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "对一个随从造成$2点伤害。<b>过载：</b>（1）",
     "type": "SPELL"
@@ -28735,7 +28735,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你的其他随从拥有<b>突袭</b>。",
     "type": "MINION"
   },
@@ -28757,7 +28757,7 @@
     ],
     "name": "樵夫之斧",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>随机使一个友方随从获得+2/+1。",
     "type": "WEAPON"
   },
@@ -28773,7 +28773,7 @@
     "id": "CORE_GIL_663",
     "name": "女巫森林苹果",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "将两张2/2的树人置入你的手牌。",
     "type": "SPELL"
@@ -28800,7 +28800,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>。<b>亡语：</b>为你的英雄恢复#6点生命值。",
     "type": "MINION"
   },
@@ -28822,7 +28822,7 @@
     ],
     "name": "幽灵弯刀",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>吸血</b>\n每当你使用一张另一职业的卡牌时，获得+1耐久度。",
     "type": "WEAPON"
   },
@@ -28845,7 +28845,7 @@
     ],
     "name": "吉恩·格雷迈恩",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>对战开始时：</b>如果你的套牌中只有法力值消耗为偶数的牌，你的初始英雄技能的法力值消耗变为（1）点。",
     "type": "MINION"
   },
@@ -28864,7 +28864,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "<b>冻结</b>一个随从。如果该随从已被<b>冻结</b>，则将其消灭。",
     "type": "SPELL"
@@ -28891,7 +28891,7 @@
       "BEAST"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>对战开始时：</b>如果你的套牌中只有法力值消耗为奇数的牌，升级你的英雄技能。",
     "type": "MINION"
   },
@@ -28907,7 +28907,7 @@
     "id": "CORE_GIL_828",
     "name": "凶猛狂暴",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "使一个野兽获得+3/+3。将它的三张复制洗入你的牌库，且这些复制都具有+3/+3。",
     "type": "SPELL"
   },
@@ -28950,7 +28950,7 @@
     ],
     "name": "圣光炸弹",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "对所有随从造成等同于其攻击力的伤害。",
     "type": "SPELL"
@@ -28969,7 +28969,7 @@
     "id": "CORE_GVG_013",
     "name": "齿轮大师",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "如果你控制任何机械，便拥有\n+2攻击力。",
     "type": "MINION"
   },
@@ -28998,7 +28998,7 @@
     "referencedTags": [
       "IMMUNE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你的英雄<b>免疫</b>。你的其他恶魔拥有+2/+2。",
     "type": "MINION"
   },
@@ -29020,7 +29020,7 @@
       "MECHANICAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "MINION"
   },
   {
@@ -29040,7 +29040,7 @@
     ],
     "name": "盾甲侍女",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n获得5点护甲值。",
     "type": "MINION"
   },
@@ -29109,7 +29109,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>对所有随从造成2点伤害。",
     "type": "MINION"
   },
@@ -29184,7 +29184,7 @@
     ],
     "name": "小个子法师",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellDamage": 1,
     "text": "<b>潜行，法术伤害+1</b>",
     "type": "MINION"
@@ -29207,7 +29207,7 @@
     ],
     "name": "砰砰博士",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n召唤两个1/1的砰砰机器人。<i>警告：该机器人随时可能爆炸。</i>",
     "type": "MINION"
   },
@@ -29256,7 +29256,7 @@
       "MECHANICAL"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你的对手每有一张手牌，本牌的法力值消耗便减少（1）点。",
     "type": "MINION"
   },
@@ -29280,7 +29280,7 @@
       "PIRATE"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n获得等同于你的武器属性的属性值。",
     "type": "MINION"
   },
@@ -29303,7 +29303,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>如果此时是你对手的回合，则召唤一个8/8的骷髅。",
     "type": "MINION"
   },
@@ -29326,7 +29326,7 @@
       "BEAST"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>对所有敌方随从造成2点伤害。",
     "type": "MINION"
   },
@@ -29348,7 +29348,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "MINION"
   },
   {
@@ -29371,7 +29371,7 @@
       "UNDEAD"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>召唤一个5/5的骷髅。\n<b>亡语：</b>为你的对手召唤一个5/5的骷髅。",
     "type": "MINION"
   },
@@ -29396,7 +29396,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>召唤两个1/1的骷髅。",
     "type": "MINION"
   },
@@ -29420,7 +29420,7 @@
       "DRAGON"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>随机将一张龙牌置入你的手牌。",
     "type": "MINION"
   },
@@ -29443,7 +29443,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>使相邻的随从获得+2生命值。",
     "type": "MINION"
   },
@@ -29468,7 +29468,7 @@
       "DRAGON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的回合结束时，随机使另一个友方随从获得+3攻击力。",
     "type": "MINION"
   },
@@ -29487,7 +29487,7 @@
     ],
     "name": "暗夜嗥狼",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当本随从受到伤害，获得+2攻击力。",
     "type": "MINION"
   },
@@ -29510,7 +29510,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>剧毒</b>",
     "type": "MINION"
   },
@@ -29533,7 +29533,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>如果此时是你对手的回合，则召唤一个2/2的食尸鬼。",
     "type": "MINION"
   },
@@ -29569,7 +29569,7 @@
     "id": "CORE_ICC_039",
     "name": "黑暗裁决",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "将一个随从的攻击力和生命值变为3。",
     "type": "SPELL"
@@ -29586,7 +29586,7 @@
     "id": "CORE_ICC_041",
     "name": "亵渎",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "对所有随从造成$1点伤害，如果有随从死亡，则再次施放该法术。",
     "type": "SPELL"
@@ -29613,7 +29613,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>秘密亡语：</b>\n<b>抉择：</b>对所有随从造成3点伤害；或者使所有随从获得+2/+2。",
     "type": "MINION"
   },
@@ -29630,7 +29630,7 @@
     "referencedTags": [
       "POISONOUS"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "对一个随从造成$2点伤害，如果它依然存活，则使其获得<b>剧毒</b>。",
     "type": "SPELL"
@@ -29648,7 +29648,7 @@
     "referencedTags": [
       "POISONOUS"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "召唤两只1/2并具有<b>剧毒</b>的\n蜘蛛。",
     "type": "SPELL"
@@ -29672,7 +29672,7 @@
       "POISONOUS",
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>抉择：</b>变形成为1/2并具有<b>剧毒</b>；或者变形成为1/5并具有<b>嘲讽</b>。",
     "type": "MINION"
   },
@@ -29689,7 +29689,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "触发一个友方随从的<b>亡语</b>。",
     "type": "SPELL"
   },
@@ -29706,7 +29706,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "召唤一只1/5并具有<b>嘲讽</b>的甲虫。如果你的对手拥有的随从更多，则再次施放该法术。",
     "type": "SPELL"
@@ -29744,7 +29744,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "使一个随从获得+3/+3，并使其<b>冻结</b>。",
     "type": "SPELL"
@@ -29772,7 +29772,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "冻结一个敌人。",
     "text": "<b>战吼：</b>\n<b>冻结</b>一个敌人。",
     "type": "MINION"
@@ -29792,7 +29792,7 @@
     ],
     "name": "熔甲卫士",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>如果此时是你对手的回合，则获得\n6点护甲值。",
     "type": "MINION"
   },
@@ -29813,7 +29813,7 @@
     ],
     "name": "血刃剃刀",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼，亡语：</b>\n对所有随从造成1点伤害。",
     "type": "WEAPON"
   },
@@ -29836,7 +29836,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>\n将两张1/1的“骷髅”置入你的手牌。",
     "type": "MINION"
   },
@@ -29859,7 +29859,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>如果此时是你对手的回合，则召唤一个2/2的食尸鬼。",
     "type": "MINION"
   },
@@ -29882,7 +29882,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你的英雄技能还会\n<b>冻结</b>目标。",
     "type": "MINION"
   },
@@ -29905,7 +29905,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>将一张“镜像”法术牌置入你的手牌。",
     "type": "MINION"
   },
@@ -29928,7 +29928,7 @@
     "referencedTags": [
       "DIVINE_SHIELD"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在一个友方随从失去<b>圣盾</b>后，获得+1攻击力。",
     "type": "WEAPON"
   },
@@ -29953,7 +29953,7 @@
       "DEMON"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的回合结束时，对所有敌方随从造成1点伤害。",
     "type": "MINION"
   },
@@ -29970,7 +29970,7 @@
     ],
     "name": "雪崩",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "<b>冻结</b>一个随从，并对其相邻的随从造成$3点伤害。",
     "type": "SPELL"
@@ -29985,7 +29985,7 @@
     "id": "CORE_ICC_079",
     "name": "铁齿铜牙",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "使你的英雄获得3点护甲值，并在本回合中获得\n+3攻击力。",
     "type": "SPELL"
   },
@@ -30006,7 +30006,7 @@
     "name": "达卡莱防御者",
     "overload": 3,
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>，<b>过载：</b>（3）",
     "type": "MINION"
   },
@@ -30023,7 +30023,7 @@
     ],
     "name": "寒冰克隆",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，将两张该随从的复制置入你的手牌。",
     "type": "SPELL"
@@ -30047,7 +30047,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你对手法术的法力值消耗增加（1）点。",
     "type": "MINION"
   },
@@ -30061,7 +30061,7 @@
     "id": "CORE_ICC_085",
     "name": "终极感染",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "造成$5点伤害。抽五张牌。获得5点护甲值。召唤一个5/5的食尸鬼。",
     "type": "SPELL"
   },
@@ -30078,7 +30078,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "将每种不同的<b>奥秘</b>从你的牌库中置入战场。",
     "type": "SPELL"
@@ -30099,7 +30099,7 @@
     ],
     "name": "巫毒妖术师",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>\n<b>冻结</b>任何受到本随从伤害的角色。",
     "type": "MINION"
   },
@@ -30113,7 +30113,7 @@
     "id": "CORE_ICC_089",
     "name": "冰钓术",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "从你的牌库中抽两张鱼人牌。",
     "type": "SPELL"
@@ -30137,7 +30137,7 @@
     "referencedTags": [
       "OVERLOAD"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在本局对战中，你每<b>过载</b>一个法力水晶，本牌的法力值消耗便减少（1）点。",
     "type": "MINION"
   },
@@ -30151,7 +30151,7 @@
     "id": "CORE_ICC_091",
     "name": "亡者之牌",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "复制你的手牌并洗入你的牌库。",
     "type": "SPELL"
   },
@@ -30174,7 +30174,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "获得+1攻击力。",
     "text": "<b>战吼：</b>使一个友方随从获得+1攻击力。",
     "type": "MINION"
@@ -30201,7 +30201,7 @@
     "referencedTags": [
       "SPELLPOWER"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "获得<b>法术伤害+1</b>。",
     "text": "<b>战吼：</b>使一个友方随从获得<b>法术伤害+1</b>。",
     "type": "MINION"
@@ -30225,7 +30225,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "使其获得+1/+1。",
     "text": "<b>战吼：</b>使一个友方随从获得+1/+1。",
     "type": "MINION"
@@ -30249,7 +30249,7 @@
       "UNDEAD"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>弃掉你手牌中所有的武器牌，并获得这些武器的属性值。",
     "type": "MINION"
   },
@@ -30273,7 +30273,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当你的武器被摧毁时，便获得+1/+1。",
     "type": "MINION"
   },
@@ -30299,7 +30299,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>随机将一个在本局对战中死亡并具有<b>亡语</b>的随从置入你的手牌。",
     "type": "MINION"
   },
@@ -30322,7 +30322,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>对你所有的随从造成5点伤害。",
     "type": "MINION"
   },
@@ -30342,7 +30342,7 @@
     "referencedTags": [
       "POISONOUS"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>奥秘：</b>当你的随从受到攻击时，召唤一条2/3并具有<b>剧毒</b>的眼镜蛇。",
     "type": "SPELL"
   },
@@ -30359,7 +30359,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "抽一张牌。如果这张牌有<b>亡语</b>，则再次施放本法术。",
     "type": "SPELL"
   },
@@ -30386,7 +30386,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你使用一个<b>奥秘</b>后，随机将一个猎人的<b>奥秘</b>置入战场。",
     "type": "MINION"
   },
@@ -30400,7 +30400,7 @@
     "id": "CORE_ICC_206",
     "name": "变节",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "选择一个友方随从，交给你的\n对手。",
     "type": "SPELL"
@@ -30415,7 +30415,7 @@
     "id": "CORE_ICC_207",
     "name": "吞噬意志",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "复制你对手的牌库中的三张牌，并将其置入你的手牌。",
     "type": "SPELL"
@@ -30464,7 +30464,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>吸血</b>",
     "type": "MINION"
   },
@@ -30481,7 +30481,7 @@
     ],
     "name": "永恒奴役",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "<b>发现</b>一个在本局对战中死亡的友方随从，并召唤该随从。",
     "type": "SPELL"
@@ -30525,7 +30525,7 @@
     ],
     "name": "大主教本尼迪塔斯",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>复制你对手的牌库，并洗入你的\n牌库。",
     "type": "MINION"
   },
@@ -30548,7 +30548,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当本随从受到伤害，随机弃掉\n一张牌。",
     "type": "MINION"
   },
@@ -30572,7 +30572,7 @@
       "MURLOC"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>吸血</b>",
     "type": "MINION"
   },
@@ -30589,7 +30589,7 @@
     "referencedTags": [
       "LIFESTEAL"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "在本回合中，你的武器获得\n<b>吸血</b>。",
     "type": "SPELL"
@@ -30607,7 +30607,7 @@
     ],
     "name": "末日回旋镖",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "对一个随从投掷你的武器。武器会造成伤害，然后移回你的手牌。",
     "type": "SPELL"
   },
@@ -30621,7 +30621,7 @@
     "id": "CORE_ICC_235",
     "name": "暗影精华",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "随机挑选你牌库里的一个随从，召唤一个5/5的复制。",
     "type": "SPELL"
@@ -30645,7 +30645,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "消灭所有受到该武器伤害的被<b>冻结</b>的随从。",
     "type": "WEAPON"
   },
@@ -30664,7 +30664,7 @@
     ],
     "name": "活化狂战士",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你使用一张随从牌后，对其造成1点\n伤害。",
     "type": "MINION"
   },
@@ -30687,7 +30687,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的回合时，你的武器不会失去\n耐久度。",
     "type": "MINION"
   },
@@ -30714,7 +30714,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你的<b>亡语</b>牌的法力值消耗减少（2）点。",
     "type": "MINION"
   },
@@ -30731,7 +30731,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "使一个随从获得“<b>亡语：</b>回到战场，并具有1点生命值。”",
     "type": "SPELL"
@@ -30756,7 +30756,7 @@
       "DRAENEI"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当你的英雄获得治疗时，便随机对一个敌方随从造成等量的\n伤害。",
     "type": "MINION"
   },
@@ -30782,7 +30782,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>如果有敌人被<b>冻结</b>，抽一张牌。",
     "type": "MINION"
   },
@@ -30805,7 +30805,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "获得“<b>亡语：</b>再次召唤该随从。”",
     "text": "<b>战吼：</b>使一个友方随从获得“<b>亡语：</b>再次召唤该随从。”",
     "type": "MINION"
@@ -30820,7 +30820,7 @@
     "id": "CORE_ICC_281",
     "name": "灵魂洪炉",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "从你的牌库中抽两张武器牌。",
     "type": "SPELL"
   },
@@ -30843,7 +30843,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当有其他随从被<b>冻结</b>，将一张被<b>冻结</b>随从的复制置入你的\n手牌。",
     "type": "MINION"
   },
@@ -30868,7 +30868,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>\n在你的回合结束时，随机将一张<b>巫妖王</b>牌置入你的手牌。",
     "type": "MINION"
   },
@@ -30892,7 +30892,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在本随从受到伤害并存活下来后，随机召唤一个<b>传说</b>随从。",
     "type": "MINION"
   },
@@ -30940,7 +30940,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在本随从受到伤害并存活下来后，召唤一个2/2的食尸鬼。",
     "type": "MINION"
   },
@@ -30964,7 +30964,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n从你的牌库中<b>发现</b>一张随从牌的复制。",
     "type": "MINION"
   },
@@ -30990,7 +30990,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>扰魔</b>",
     "type": "MINION"
   },
@@ -31013,7 +31013,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>每有一个受伤的随从，便获得+1/+1。",
     "type": "MINION"
   },
@@ -31037,7 +31037,7 @@
       "DRAENEI"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>\n<b>战吼：</b>召唤一个本随从的复制。",
     "type": "MINION"
   },
@@ -31063,7 +31063,7 @@
     "referencedTags": [
       "IMMUNE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "在本回合中获得<b>免疫</b>。",
     "text": "<b>战吼：</b>在本回合中，使一个友方随从获得<b>免疫</b>。",
     "type": "MINION"
@@ -31087,7 +31087,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当本随从攻击时，对敌方英雄造成2点伤害。",
     "type": "MINION"
   },
@@ -31101,7 +31101,7 @@
     "id": "CORE_ICC_469",
     "name": "强制牺牲",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "选择一个友方随从，消灭该随从和一个随机敌方随从。",
     "type": "SPELL"
@@ -31123,7 +31123,7 @@
     ],
     "name": "死亡先知萨尔",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>随机将你的所有随从变形成为法力值消耗增加（2）点的随从。",
     "type": "HERO"
   },
@@ -31143,7 +31143,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在本回合中，如果你的英雄受到治疗，则\n法力值消耗为（0）点。",
     "type": "MINION"
   },
@@ -31166,7 +31166,7 @@
       "UNDEAD"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>摧毁双方手牌中和牌库中所有法力值消耗为（1）的\n法术牌。",
     "type": "MINION"
   },
@@ -31189,7 +31189,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>随机将一个具有<b>亡语</b>的随从置入你的手牌。",
     "type": "MINION"
   },
@@ -31216,7 +31216,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "获得+4/+4和嘲讽。",
     "text": "<b>战吼：</b>使一个友方随从获得+4/+4和<b>嘲讽</b>。",
     "type": "MINION"
@@ -31236,7 +31236,7 @@
     ],
     "name": "蛛魔拆解者",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "法术的法力值消耗增加（2）点。",
     "type": "MINION"
   },
@@ -31262,7 +31262,7 @@
     "referencedTags": [
       "DIVINE_SHIELD"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>从你的牌库中抽一张具有<b>圣盾</b>的随从牌。",
     "type": "MINION"
   },
@@ -31279,7 +31279,7 @@
     ],
     "name": "灵魂鞭笞",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "<b>吸血</b>\n对所有随从造成\n$1点伤害。",
     "type": "SPELL"
@@ -31302,7 +31302,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>使你具有<b>嘲讽</b>的随从获得+2/+2。",
     "type": "MINION"
   },
@@ -31326,7 +31326,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>\n在你召唤一个随从后，获得+1生命值。",
     "type": "MINION"
   },
@@ -31354,7 +31354,7 @@
     "referencedTags": [
       "POISONOUS"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "获得<b>剧毒</b>。",
     "text": "<b>连击：</b>使一个友方随从获得<b>剧毒</b>。",
     "type": "MINION"
@@ -31381,7 +31381,7 @@
     "referencedTags": [
       "LIFESTEAL"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>随机使你手牌中一个具有<b>吸血</b>的随从获得+2/+2。",
     "type": "MINION"
   },
@@ -31405,7 +31405,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>随机将你手牌中所有的法术牌替换成<i>（你对手职业的）</i>法术牌。",
     "type": "MINION"
   },
@@ -31428,7 +31428,7 @@
       "MECHANICAL"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>从你的牌库中召唤一个攻击力小于本随从攻击力的随从。",
     "type": "MINION"
   },
@@ -31452,7 +31452,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>冲锋，吸血</b>",
     "type": "MINION"
   },
@@ -31466,7 +31466,7 @@
     "id": "CORE_ICC_823",
     "name": "模拟幻影",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "复制你手牌中法力值消耗最低的随从牌。",
     "type": "SPELL"
@@ -31490,7 +31490,7 @@
       "UNDEAD"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>随机召唤一个在本局对战中死亡的友方野兽。",
     "type": "MINION"
   },
@@ -31514,7 +31514,7 @@
     "referencedTags": [
       "STEALTH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>获得<b>潜行</b>直到你的下个回合。",
     "type": "HERO"
   },
@@ -31535,7 +31535,7 @@
     ],
     "name": "死亡猎手雷克萨",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n对所有敌方随从造成2点伤害。",
     "type": "HERO"
   },
@@ -31559,7 +31559,7 @@
     "referencedTags": [
       "LIFESTEAL"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n装备一把5/3并具有<b>吸血</b>的武器。",
     "type": "HERO"
   },
@@ -31580,7 +31580,7 @@
     ],
     "name": "暗影收割者安度因",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>消灭所有攻击力大于或等于5的随从。",
     "type": "HERO"
   },
@@ -31601,7 +31601,7 @@
     ],
     "name": "鲜血掠夺者古尔丹",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>召唤所有在本局对战中死亡的友方恶魔。",
     "type": "HERO"
   },
@@ -31626,7 +31626,7 @@
       "POISONOUS",
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>抉择：</b>召唤两只具有<b>剧毒</b>的蜘蛛；或者召唤两只具有<b>嘲讽</b>的甲虫。",
     "type": "HERO"
   },
@@ -31650,7 +31650,7 @@
     "referencedTags": [
       "LIFESTEAL"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>召唤一个3/6的水元素。在本局对战中，你的所有元素拥有<b>吸血</b>。",
     "type": "HERO"
   },
@@ -31671,7 +31671,7 @@
     ],
     "name": "天灾领主加尔鲁什",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>装备一把4/3的影之哀伤，影之哀伤同时对其攻击目标相邻的随从造成伤害。",
     "type": "HERO"
   },
@@ -31698,7 +31698,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>召唤所有你在本局对战中死亡的，并具有<b>嘲讽</b>的随从。",
     "type": "MINION"
   },
@@ -31715,7 +31715,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "随机对一个敌方随从造成$2点伤害，并使其<b>冻结</b>。",
     "type": "SPELL"
@@ -31730,7 +31730,7 @@
     "id": "CORE_ICC_837",
     "name": "放马过来",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "获得10点护甲值。使你对手的手牌中所有随从牌的法力值消耗减少（2）点。",
     "type": "SPELL"
   },
@@ -31755,7 +31755,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>召唤两个0/1的被冰封的勇士。",
     "type": "MINION"
   },
@@ -31779,7 +31779,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>吸血</b>\n在本局对战中，你每弃掉一张牌，便拥有+1攻击力。",
     "type": "MINION"
   },
@@ -31793,7 +31793,7 @@
     "id": "CORE_ICC_849",
     "name": "拥抱黑暗",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "选择一个敌方随从。在你的回合开始时，获得该随从的\n控制权。",
     "type": "SPELL"
@@ -31817,7 +31817,7 @@
     "referencedTags": [
       "IMMUNE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>在本回合中，你的英雄<b>免疫</b>。",
     "type": "WEAPON"
   },
@@ -31841,7 +31841,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>如果你的牌库里没有法力值消耗为（2）的牌，则使你牌库里所有随从牌获得+1/+1。",
     "type": "MINION"
   },
@@ -31865,7 +31865,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "变形成为一个复制。",
     "text": "<b>战吼：</b>如果你的牌库里没有法力值消耗为（3）的牌，则变形成为一个随从的3/3的复制。",
     "type": "MINION"
@@ -31894,7 +31894,7 @@
       "LIFESTEAL",
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>如果你的牌库里没有法力值消耗为（4）的牌，则获得<b>吸血</b>和<b>嘲讽</b>。",
     "type": "MINION"
   },
@@ -31919,7 +31919,7 @@
       "BEAST"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>随机将一张<b>巫妖王</b>牌置入你的\n手牌。",
     "type": "MINION"
   },
@@ -31941,7 +31941,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b><b>冻结</b>你的其他随从。",
     "type": "MINION"
   },
@@ -31964,7 +31964,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellDamage": 1,
     "text": "<b>法术伤害+2</b>",
     "type": "MINION"
@@ -31990,7 +31990,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>圣盾</b>\n在一个友方随从失去<b>圣盾</b>后，获得+2攻击力。",
     "type": "MINION"
   },
@@ -32013,7 +32013,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当你的其他随从死亡时，召唤一个2/2的食尸鬼。",
     "type": "MINION"
   },
@@ -32033,7 +32033,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "双方英雄技能均无法使用。",
     "type": "MINION"
   },
@@ -32056,7 +32056,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "消灭一个友方随从。",
     "text": "<b>战吼：</b>消灭一个友方随从，并获得+2/+2。",
     "type": "MINION"
@@ -32080,7 +32080,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>在本回合中每有一个随从死亡，便获得+1/+1。",
     "type": "MINION"
   },
@@ -32103,7 +32103,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>吸血</b>",
     "type": "MINION"
   },
@@ -32126,7 +32126,7 @@
       "UNDEAD"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "在本回合中，你每使用一张其他牌，便造成1点伤害。",
     "text": "<b>连击：</b>造成伤害，数值等同于在本回合中你使用的其他牌的\n数量。",
     "type": "MINION"
@@ -32150,7 +32150,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当你使用一张牌，便移除你的牌库顶的三张牌。",
     "type": "MINION"
   },
@@ -32179,7 +32179,7 @@
       "TAUNT",
       "WINDFURY"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n如果你的牌库里有<b>嘲讽</b>随从牌，则获得<b>嘲讽</b>。依此法检定是否可获得<b>圣盾</b>，<b>吸血</b>和<b>风怒</b>。",
     "type": "MINION"
   },
@@ -32203,7 +32203,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellDamage": 1,
     "text": "<b>圣盾</b>\n<b>法术伤害+1</b>",
     "type": "MINION"
@@ -32226,7 +32226,7 @@
     "referencedTags": [
       "STEALTH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>奥秘：</b>在你的对手施放一个法术后，召唤一只4/2并具有<b>潜行</b>的猎豹。",
     "type": "SPELL"
   },
@@ -32247,7 +32247,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你的<b>奥秘</b>牌法力值消耗为（0）点。",
     "type": "MINION"
   },
@@ -32268,7 +32268,7 @@
     ],
     "name": "呓语魔典",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>随机将一张法师法术牌置入你的\n手牌。",
     "type": "MINION"
   },
@@ -32293,7 +32293,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你施放一个法术后，使本随从获得+1生命值。",
     "type": "MINION"
   },
@@ -32389,7 +32389,7 @@
     "referencedTags": [
       "SPELLPOWER"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "当你拥有<b>法术伤害</b>时，拥有\n+2攻击力。",
     "type": "WEAPON"
   },
@@ -32410,7 +32410,7 @@
     ],
     "name": "展览馆守卫",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "召唤一个复制。",
     "text": "<b>战吼：</b>选择一个友方野兽，召唤一个它的复制。",
     "type": "MINION"
@@ -32452,7 +32452,7 @@
     "id": "CORE_KAR_073",
     "name": "大漩涡传送门",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "对所有敌方随从造成$1点伤害。随机召唤一个法力值消耗为（1）的随从。",
     "type": "SPELL"
@@ -32469,7 +32469,7 @@
     "id": "CORE_KAR_076",
     "name": "火焰之地传送门",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FIRE",
     "text": "造成$6点伤害。随机召唤一个法力值消耗为（6）的随从。",
     "type": "SPELL"
@@ -32509,7 +32509,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "MINION"
   },
   {
@@ -32530,7 +32530,7 @@
     ],
     "name": "虚灵巫师",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：\n发现</b>一张法术牌。",
     "type": "MINION"
   },
@@ -32553,7 +32553,7 @@
     ],
     "name": "雷诺·杰克逊",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则为你的英雄恢复所有生命值。",
     "type": "MINION"
   },
@@ -32578,7 +32578,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>获取一张\n幸运币。",
     "type": "MINION"
   },
@@ -32630,7 +32630,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>随机召唤一个法力值消耗为（1）的随从。",
     "type": "MINION"
   },
@@ -32657,7 +32657,7 @@
       "MURLOC"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b><b>发现</b>一个新的基础英雄技能。",
     "type": "MINION"
   },
@@ -32682,7 +32682,7 @@
     "referencedTags": [
       "BATTLECRY"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你的<b>战吼</b>会触发\n两次。",
     "type": "MINION"
   },
@@ -32704,7 +32704,7 @@
     ],
     "name": "伊莉斯·逐星",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>将“黄金猿藏宝图”洗入你的牌库。",
     "type": "MINION"
   },
@@ -32746,7 +32746,7 @@
       "MURLOC"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "type": "MINION"
   },
   {
@@ -32794,7 +32794,7 @@
     ],
     "name": "法多雷突袭者",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n将三张伏击牌洗入你的牌库。 当抽到伏击牌时，召唤一只4/4的蜘蛛。",
     "type": "MINION"
   },
@@ -32813,7 +32813,7 @@
     ],
     "name": "小型法术紫水晶",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "<b>吸血</b>\n对一个随从造成$3点伤害。<i>（受到来自你的卡牌的伤害后升级。）</i>",
     "type": "SPELL"
@@ -32850,7 +32850,7 @@
     "id": "CORE_LOOT_051",
     "name": "小型法术玉石",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "对一个随从造成$2点伤害。0<i>（获得3点护甲值后升级。）</i>",
     "type": "SPELL"
@@ -32870,7 +32870,7 @@
     ],
     "name": "游荡怪物",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>奥秘：</b>\n当一个敌人攻击你的英雄时，随机召唤一个法力值消耗为（3）的随从，并使其成为攻击的目标。",
     "type": "SPELL"
   },
@@ -32916,7 +32916,7 @@
       "DIVINE_SHIELD",
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>如果你没有控制其他随从，则获得<b>嘲讽</b>和<b>圣盾</b>。",
     "type": "MINION"
   },
@@ -32942,7 +32942,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>圣盾</b>\n<b>剧毒</b>",
     "type": "MINION"
   },
@@ -32993,7 +32993,7 @@
       "BEAST"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你对手的回合<b>扰魔</b>。",
     "type": "MINION"
   },
@@ -33012,7 +33012,7 @@
     ],
     "name": "诈死",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>奥秘：</b>当一个友方随从死亡时，将其移回你的手牌，它的法力值消耗减少（2）点。",
     "type": "SPELL"
   },
@@ -33033,7 +33033,7 @@
     ],
     "name": "精灵咏唱者",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>连击：</b>从你的牌库中抽两张随从牌。",
     "type": "MINION"
   },
@@ -33055,7 +33055,7 @@
     "referencedTags": [
       "IMMUNE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你的英雄在攻击时<b>免疫</b>。",
     "type": "WEAPON"
   },
@@ -33080,7 +33080,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当你施放一个法术，便获得等同于其法力值消耗的护甲值。",
     "type": "MINION"
   },
@@ -33186,7 +33186,7 @@
     "id": "CORE_LOOT_507",
     "name": "小型法术钻石",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "复活两个不同的友方随从。0<i>（施放四个法术后升级。）</i>",
     "type": "SPELL"
@@ -33214,7 +33214,7 @@
       "NAGA"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "将一张金色复制置入你的手牌。",
     "text": "<b>战吼：</b>选择一个友方随从。将它的金色复制置入你的手牌。",
     "type": "MINION"
@@ -33240,7 +33240,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "选择一个友方小鬼，变形成为一个它的复制。",
     "text": "<b>战吼：</b>选择一个友方小鬼，变形成为一个它的复制。",
     "type": "MINION"
@@ -33259,7 +33259,7 @@
     "isMiniSet": true,
     "name": "纵火指控",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FIRE",
     "text": "选择一个随从，在你的英雄受到伤害后将其消灭。",
     "type": "SPELL"
@@ -33284,7 +33284,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "<b>发现</b>并复活一个友方随从，使其获得<b>突袭</b>。该随从会在回合结束时死亡。",
     "type": "SPELL"
@@ -33306,7 +33306,7 @@
     ],
     "name": "图腾物证",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "选择一个基础图腾并召唤它。\n<b>注能（3个图腾）：</b>改为召唤全部4个。",
     "type": "SPELL"
   },
@@ -33329,7 +33329,7 @@
     ],
     "name": "搜魂者",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>将本随从与你对手牌库中的一个随机随从互换。",
     "type": "MINION"
   },
@@ -33355,7 +33355,7 @@
     "referencedTags": [
       "OVERLOAD"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>将3张栽赃牌洗入你对手的牌库。当抽到栽赃牌时，使其<b>过载</b>（2）。",
     "type": "MINION"
   },
@@ -33379,7 +33379,7 @@
     "referencedTags": [
       "COUNTER"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>奥秘：</b>当你的对手使用一张随从牌时，<b>反制</b>该随从。",
     "type": "SPELL"
   },
@@ -33402,7 +33402,7 @@
     ],
     "name": "盲眼法官",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>双方玩家抽若干数量的牌，直到拥有5张手牌。",
     "type": "MINION"
   },
@@ -33433,7 +33433,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当本随从攻击时，使你的其他野兽获得+2/+2。\n<b>注能（3只野兽）：</b>\n获得<b>突袭</b>。",
     "type": "MINION"
   },
@@ -33454,7 +33454,7 @@
     ],
     "name": "否决动议",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>奥秘：</b>在你的对手在一回合中使用三张牌后，对敌方英雄造成$6点伤害。",
     "type": "SPELL"
   },
@@ -33486,7 +33486,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b><b>发现</b>一个在本局对战中死亡的友方<b>亡语</b>随从，获得其<b>亡语</b>，然后触发。",
     "type": "MINION"
   },
@@ -33507,7 +33507,7 @@
     "referencedTags": [
       "INFUSE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FEL",
     "text": "召唤一个在本局对战中死亡的友方恶魔。\n<b>注能（3个恶魔）：</b>改为召唤三个。",
     "type": "SPELL"
@@ -33526,7 +33526,7 @@
     "isMiniSet": true,
     "name": "终身刑罚",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "将一个随从移出对战。",
     "type": "SPELL"
   },
@@ -33552,7 +33552,7 @@
       "DEMON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>你的对手在其下回合中只能使用最左边和最右边的牌。",
     "type": "MINION"
   },
@@ -33570,7 +33570,7 @@
     "isMiniSet": true,
     "name": "陪审义务",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "召唤两个白银之手新兵。使你的白银之手新兵获得+1/+1。",
     "type": "SPELL"
   },
@@ -33588,7 +33588,7 @@
     "isMiniSet": true,
     "name": "法庭秩序",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "将你的牌库按法力值消耗由高到低重新排序。抽一张牌。",
     "type": "SPELL"
   },
@@ -33611,7 +33611,7 @@
     ],
     "name": "集体诉讼律师",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "属性值变为1/1。",
     "text": "<b>战吼：</b>如果你的牌库中没有中立卡牌，将一个随从的属性值变为1/1。",
     "type": "MINION"
@@ -33634,7 +33634,7 @@
     ],
     "name": "伪证",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>奥秘：</b>当你的回合开始时，<b>发现</b>并施放另一职业的一个<b>奥秘</b>。",
     "type": "SPELL"
   },
@@ -33652,7 +33652,7 @@
     "isMiniSet": true,
     "name": "谋杀指控",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "选择一个随从，在另一个敌方随从死亡后将其消灭。",
     "type": "SPELL"
   },
@@ -33675,7 +33675,7 @@
     ],
     "name": "潦草的书记员",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>突袭</b>。在本回合中你每使用过一张牌，本牌的法力值消耗便减少（1）点。",
     "type": "MINION"
   },
@@ -33696,7 +33696,7 @@
     "referencedTags": [
       "ELUSIVE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "使一个友方随从获得+2/+3和“在你对手的回合<b>扰魔</b>。”",
     "type": "SPELL"
@@ -33725,7 +33725,7 @@
       "DRAGON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>。<b>亡语：</b>随机复制你对手的两张手牌。",
     "type": "MINION"
   },
@@ -33743,7 +33743,7 @@
     "isMiniSet": true,
     "name": "盗窃指控",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "选择一个随从。在你使用一张从对手处复制的卡牌后，将其消灭。",
     "type": "SPELL"
@@ -33762,7 +33762,7 @@
     "isMiniSet": true,
     "name": "私法程序",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "在本局对战的剩余时间内，玩家会在其回合开始时额外抽一张牌。",
     "type": "SPELL"
@@ -33790,7 +33790,7 @@
       "IMMUNE",
       "SILENCE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>抉择：</b><b>沉默</b>一个随从；或者使一个随从在本回合中获得<b>免疫</b>。",
     "type": "MINION"
   },
@@ -33808,7 +33808,7 @@
     "isMiniSet": true,
     "name": "监禁",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "选择一个随从。使其<b>休眠</b>3回合。",
     "type": "SPELL"
   },
@@ -33826,7 +33826,7 @@
     "isMiniSet": true,
     "name": "传唤出庭",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "使你的对手随机从手牌中召唤一个随从。",
     "type": "SPELL"
   },
@@ -33849,7 +33849,7 @@
     ],
     "name": "武器专家",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>如果你装备着武器，使其获得+1/+1。否则，抽一张武器牌。",
     "type": "MINION"
   },
@@ -33877,7 +33877,7 @@
       "RUSH",
       "WINDFURY"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n每有一个敌方随从，随机从<b>突袭</b>，<b>圣盾</b>或<b>风怒</b>中获得一项。",
     "type": "MINION"
   },
@@ -33901,7 +33901,7 @@
     ],
     "name": "冥界侍从",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你的<b>注能</b>牌在牌库中也会<b>注能</b>。",
     "type": "MINION"
   },
@@ -33931,7 +33931,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>奥秘</b>不会被揭示。",
     "type": "MINION"
   },
@@ -33960,7 +33960,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "消灭一个敌方随从。",
     "text": "<b>战吼：</b>消灭一个敌方随从。<b>注能（7）：</b>改为夺取其控制权。",
     "type": "MINION"
@@ -33988,7 +33988,7 @@
     "referencedTags": [
       "IMMUNE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>摧毁你的牌库。本随从获得<b>免疫</b>。",
     "type": "MINION"
   },
@@ -34011,7 +34011,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你每控制一个<b>奥秘</b>，本牌的法力值消耗便减少（3）点。",
     "type": "MINION"
   },
@@ -34032,7 +34032,7 @@
     ],
     "name": "知识古树",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>抉择：</b>抽两张牌；或者恢复#7点生命值。",
     "type": "MINION"
   },
@@ -34061,7 +34061,7 @@
       "ELEMENTAL"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>冲锋，圣盾，嘲讽，风怒</b>",
     "type": "MINION"
   },
@@ -34203,7 +34203,7 @@
     ],
     "name": "紫罗兰教师",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当你施放一个法术，召唤一个1/1的紫罗兰学徒。",
     "type": "MINION"
   },
@@ -34293,7 +34293,7 @@
     ],
     "name": "深渊魔物",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>\n在本局对战中，你每召唤一个图腾，本牌的法力值消耗便减少（1）点。",
     "type": "MINION"
   },
@@ -34381,7 +34381,7 @@
     ],
     "name": "执刃教徒",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>连击：</b>获得+1/+1。",
     "type": "MINION"
   },
@@ -34403,7 +34403,7 @@
     ],
     "name": "夜色镇图书管理员",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n随机弃一张牌。\n<b>亡语：</b>\n抽一张牌。",
     "type": "MINION"
   },
@@ -34494,7 +34494,7 @@
       "ELEMENTAL"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的回合结束时，为一个受伤的友方角色恢复#8点生命值。",
     "type": "MINION"
   },
@@ -34515,7 +34515,7 @@
     ],
     "name": "着魔村民",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>召唤一个1/1的暗影兽。",
     "type": "MINION"
   },
@@ -34539,7 +34539,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>摧毁所有敌方<b>奥秘</b>。每摧毁一个，便获得+1/+1。",
     "type": "MINION"
   },
@@ -34555,7 +34555,7 @@
     "id": "CORE_OG_273",
     "name": "惩黑除恶",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "召唤五个{0}的白银之手新兵。",
     "type": "SPELL"
   },
@@ -34581,7 +34581,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>\n随机获取一张<i>（你对手职业的）</i>卡牌。",
     "type": "MINION"
   },
@@ -34659,7 +34659,7 @@
       "DRAGON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "对一个敌方随从造成等同于你护甲值的伤害。",
     "text": "<b>嘲讽</b>，<b>战吼：</b>对一个敌方随从造成等同于你的护甲值的伤害。",
     "type": "MINION"
@@ -34681,7 +34681,7 @@
     ],
     "name": "可疑的炼金师",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b><b>发现</b>一张法术牌。你的对手如果猜中了你的选择，即可获取一张复制。",
     "type": "MINION"
   },
@@ -34702,7 +34702,7 @@
     ],
     "name": "可疑的侍应",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b><b>发现</b>一张<b>传说</b>随从牌。你的对手如果猜中了你的选择，即可获取一张复制。",
     "type": "MINION"
   },
@@ -34727,7 +34727,7 @@
       "PIRATE"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b><b>发现</b>一张武器牌。你的对手如果猜中了你的选择，即可获取一张复制。",
     "type": "MINION"
   },
@@ -34748,7 +34748,7 @@
     ],
     "name": "嫉妒收割者",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你使用一张对手的卡牌的复制后，偷取本体。",
     "type": "MINION"
   },
@@ -34769,7 +34769,7 @@
     ],
     "name": "沼泽兽",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>，<b>亡语：</b>召唤一滩2/4并具有<b>嘲讽</b>的泥浆。",
     "type": "MINION"
   },
@@ -34792,7 +34792,7 @@
     "referencedTags": [
       "BATTLECRY"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>注能（5）：</b>获得“<b>战吼：</b>造成5点伤害。”",
     "type": "MINION"
   },
@@ -34820,7 +34820,7 @@
     "referencedTags": [
       "STEALTH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>。你的非红鲱鱼随从拥有<b>潜行</b>。",
     "type": "MINION"
   },
@@ -34841,7 +34841,7 @@
     ],
     "name": "假面狂欢者",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>突袭</b>，<b>亡语：</b>召唤你牌库中另一个随从的2/2的复制。",
     "type": "MINION"
   },
@@ -34861,7 +34861,7 @@
     ],
     "name": "邪恶的厨师",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的回合结束时，如果你已对敌方英雄造成3点或更多伤害，抽一张牌。",
     "type": "MINION"
   },
@@ -34882,7 +34882,7 @@
     ],
     "name": "贪食的吞噬者",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "吞食一个敌方随从并获得其属性值。",
     "text": "<b>战吼：</b>吞食一个敌方随从并获得其属性值。<b>注能（5）：</b>还会吞食相邻随从。",
     "type": "MINION"
@@ -34902,7 +34902,7 @@
     "id": "CORE_REV_018",
     "name": "雷纳索尔王子",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你的套牌容量和初始生命值为40。",
     "type": "MINION"
   },
@@ -34923,7 +34923,7 @@
     ],
     "name": "饥饿的愚人",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>抽一张牌。<b>注能（4）：</b>改为抽三张牌。",
     "type": "MINION"
   },
@@ -34943,7 +34943,7 @@
     ],
     "name": "晚宴表演者",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>随机从你的牌库中召唤一个你有足够的法力值使用的随从。",
     "type": "MINION"
   },
@@ -34965,7 +34965,7 @@
     ],
     "name": "逐罪者凯尔萨斯",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在每回合中，你每使用三张随从牌，第三张随从牌的法力值消耗为（0）点。",
     "type": "MINION"
   },
@@ -34991,7 +34991,7 @@
       "MURLOC"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>破解你对手卡牌的3条线索，即可获取其复制。",
     "type": "MINION"
   },
@@ -35037,7 +35037,7 @@
     ],
     "name": "癫狂公爵西塔尔",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>从每个玩家的手牌中各<b>发现</b>一张牌并交换。",
     "type": "MINION"
   },
@@ -35055,7 +35055,7 @@
     ],
     "name": "窒息暗影",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "当你使用或弃掉这张牌时，随机消灭一个敌方随从。",
     "type": "SPELL"
@@ -35071,7 +35071,7 @@
     "id": "CORE_REV_240",
     "name": "篡改卷宗",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "将你手牌的复制洗入你的牌库，其法力值消耗为（1）点。然后弃掉你的手牌。",
     "type": "SPELL"
   },
@@ -35088,7 +35088,7 @@
     "id": "CORE_REV_242",
     "name": "慌乱的图书管理员",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你每控制一个小鬼，拥有+1攻击力。",
     "type": "MINION"
   },
@@ -35113,7 +35113,7 @@
       "DEMON"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>召唤一个本随从的复制。<b>注能（3）：</b>改为召唤两个复制。",
     "type": "MINION"
   },
@@ -35128,7 +35128,7 @@
     "id": "CORE_REV_245",
     "name": "灾祸降临",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "抽一张牌。你每控制一个小鬼，重复一次。",
     "type": "SPELL"
@@ -35149,7 +35149,7 @@
     ],
     "name": "神秘访客",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>使你从对手处复制的卡牌的法力值消耗减少（3）点。",
     "type": "MINION"
   },
@@ -35169,7 +35169,7 @@
     ],
     "name": "共犯",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>在你的回合结束时，召唤一个本随从的复制。",
     "type": "MINION"
   },
@@ -35187,7 +35187,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "使一个随从获得+2生命值。召唤一个具有该随从属性值和<b>嘲讽</b>的格里恩。",
     "type": "SPELL"
@@ -35206,7 +35206,7 @@
     ],
     "name": "炽燃圣光",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "对一个随从造成等同于其攻击力的伤害。",
     "type": "SPELL"
@@ -35228,7 +35228,7 @@
     ],
     "name": "裴拉戈斯",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你对一个友方随从施放法术后，将其生命值和攻击力变为两者中的高值。",
     "type": "MINION"
   },
@@ -35253,7 +35253,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>随机消灭一个敌方随从。",
     "type": "MINION"
   },
@@ -35271,7 +35271,7 @@
     ],
     "name": "净场",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "消灭所有攻击力小于或等于3的随从。<b>注能（3）：</b>改为小于或等于6。",
     "type": "SPELL"
@@ -35290,7 +35290,7 @@
     ],
     "name": "盗用身份",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "<b>发现</b>你对手的手牌和牌库中各一张牌的复制。",
     "type": "SPELL"
@@ -35307,7 +35307,7 @@
     "id": "CORE_REV_290",
     "name": "赎罪教堂",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "使一个随从获得+2/+1。抽一张牌。",
     "type": "LOCATION"
   },
@@ -35322,7 +35322,7 @@
     "id": "CORE_REV_307",
     "name": "自然死亡",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "造成$2点伤害。召唤一个2/2的树人。",
     "type": "SPELL"
@@ -35368,7 +35368,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>抽一张<b>亡语</b>随从牌并获得其<b>亡语</b>。",
     "type": "MINION"
   },
@@ -35387,7 +35387,7 @@
     ],
     "name": "夜影花蕾",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "<b>抉择：</b>从你的牌库中<b>发现</b>一张随从牌并召唤；或者一张法术牌并施放。",
     "type": "SPELL"
@@ -35406,7 +35406,7 @@
     ],
     "name": "安插证据",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "<b>发现</b>一张法术牌。在本回合中，其法力值消耗减少（2）点。",
     "type": "SPELL"
@@ -35435,7 +35435,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>在本局对战的剩余时间内，在你施放一个自然法术后，召唤一条3/3并具有<b>突袭</b>的雏龙。",
     "type": "MINION"
   },
@@ -35457,7 +35457,7 @@
     ],
     "name": "活体利刃蕾茉妮雅",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>突袭</b>\n在本随从攻击后，装备它。",
     "type": "MINION"
   },
@@ -35477,7 +35477,7 @@
     ],
     "name": "孀花播种者",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>抽一张自然法术牌。获得一个空的法力水晶。",
     "type": "MINION"
   },
@@ -35501,7 +35501,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>，<b>亡语：</b>抽一张随从牌，并使其法力值消耗减少（8）点。",
     "type": "MINION"
   },
@@ -35521,7 +35521,7 @@
     ],
     "name": "心能提取者",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当一个友方随从受到伤害，随机使你手牌中的一张随从牌获得+1/+1。",
     "type": "MINION"
   },
@@ -35540,7 +35540,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "触发一个友方随从的<b>亡语</b>。",
     "type": "LOCATION"
   },
@@ -35558,7 +35558,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "召唤三个1/3并具有<b>嘲讽</b>的狱卒。如果你的生命值小于或等于20点，使其获得+1/+1。",
     "type": "SPELL"
   },
@@ -35576,7 +35576,7 @@
     ],
     "name": "罪恶谋划",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "召唤两个2/2的树人。<b>注能（5）：</b>改为两个5/5的古树。",
     "type": "SPELL"
@@ -35592,7 +35592,7 @@
     "id": "CORE_REV_337",
     "name": "动乱",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在本回合中，你的随从的生命值无法被降到1点以下。使其分别随机攻击一个敌方随从。",
     "type": "SPELL"
   },
@@ -35612,7 +35612,7 @@
     ],
     "name": "泥仆员工",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>使你手牌中的随从牌获得+1生命值。",
     "type": "MINION"
   },
@@ -35630,7 +35630,7 @@
     ],
     "name": "狂暴利齿",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "召唤两只2/1的蝙蝠。<b>注能（3）：</b>使其获得+1/+2。",
     "type": "SPELL"
   },
@@ -35650,7 +35650,7 @@
     ],
     "name": "栖巢石像鬼",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "使一只友方野兽获得+2攻击力。",
     "text": "<b>战吼：</b>使一只友方野兽获得+2攻击力。",
     "type": "MINION"
@@ -35676,7 +35676,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>突袭</b>，<b>注能（3）：</b>同时对其攻击目标相邻的随从造成伤害。",
     "type": "MINION"
   },
@@ -35698,7 +35698,7 @@
     ],
     "name": "猎手阿尔迪莫",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>召唤一个加尔贡伙伴。<b>注能（{0}）：</b>再召唤一个。<b>注能（{1}）：</b>再召唤一个！",
     "type": "MINION"
   },
@@ -35718,7 +35718,7 @@
     ],
     "name": "狂蝠来宾",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>召唤一只2/1的蝙蝠。",
     "type": "MINION"
   },
@@ -35738,7 +35738,7 @@
     ],
     "name": "灵体偷猎者",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>随机召唤一个<b>休眠</b>的灵种。",
     "type": "MINION"
   },
@@ -35753,7 +35753,7 @@
     "id": "CORE_REV_361",
     "name": "野性之魂",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "召唤两个不同的<b>休眠</b>灵种。使你的灵种提前1回合唤醒。",
     "type": "SPELL"
@@ -35773,7 +35773,7 @@
     "referencedTags": [
       "RUSH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "使一个友方随从获得+2攻击力。如果是野兽，还会使其获得<b>突袭</b>。",
     "type": "LOCATION"
   },
@@ -35794,7 +35794,7 @@
     ],
     "name": "艾拉隆",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>召唤每种<b>休眠</b>灵种各一个。",
     "type": "MINION"
   },
@@ -35809,7 +35809,7 @@
     "id": "CORE_REV_364",
     "name": "雄鹿冲锋",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "造成$3点伤害。随机召唤一个<b>休眠</b>的灵种。",
     "type": "SPELL"
   },
@@ -35824,7 +35824,7 @@
     "id": "CORE_REV_365",
     "name": "万灵之召",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "随机施放8个德鲁伊法术<i>（目标随机而定）</i>。",
     "type": "SPELL"
@@ -35843,7 +35843,7 @@
     ],
     "name": "间接伤害",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "随机对三个敌方随从造成$6点伤害。超过目标生命值的伤害会命中敌方英雄。",
     "type": "SPELL"
   },
@@ -35863,7 +35863,7 @@
     ],
     "name": "派对捣蛋鬼",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "选择一个敌方随从。随机将你手牌中的一个随从投向选中的随从。",
     "text": "<b>战吼：</b>选择一个敌方随从。随机将你手牌中的一个随从投向选中的随从。",
     "type": "MINION"
@@ -35880,7 +35880,7 @@
     "id": "CORE_REV_371",
     "name": "邪恶图书馆",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "使一个友方随从获得+1/+1。你每控制一个小鬼，重复一次。",
     "type": "LOCATION"
   },
@@ -35898,7 +35898,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "召唤一个3/5并具有<b>嘲讽</b>的影子。如果在本回合中有随从死亡，再召唤一个。",
     "type": "SPELL"
@@ -35923,7 +35923,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>召唤两个2/1的阴影。每个阴影获得一个<b>亡语</b>以施放你的上一个暗影法术。",
     "type": "MINION"
   },
@@ -35948,7 +35948,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>使你手牌中法力值消耗最高的暗影法术牌的法力值消耗减少（3）点。",
     "type": "MINION"
   },
@@ -35969,7 +35969,7 @@
     ],
     "name": "石裔干将",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>突袭</b>，<b>亡语：</b>召唤一只8/8并具有<b>突袭</b>的墓翼蝠。",
     "type": "MINION"
   },
@@ -35989,7 +35989,7 @@
     ],
     "name": "邀请函信使",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在另一职业的卡牌被置入你的手牌后，复制置入的牌。",
     "type": "MINION"
   },
@@ -36009,7 +36009,7 @@
     ],
     "name": "涂粉取证师",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>下个回合你的对手随从牌的法力值消耗增加（1）点。",
     "type": "MINION"
   },
@@ -36024,7 +36024,7 @@
     "id": "CORE_REV_504",
     "name": "脱罪力证",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "直到你的下个回合，你的英雄每次只会受到1点伤害。",
     "type": "SPELL"
@@ -36040,7 +36040,7 @@
     "id": "CORE_REV_505",
     "name": "冰冷案例",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "召唤两个2/2的不稳定的骷髅。获得4点护甲值。",
     "type": "SPELL"
@@ -36056,7 +36056,7 @@
     "id": "CORE_REV_506",
     "name": "罪孽烙印",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "标记一个敌方随从。每当该随从受到伤害，对敌方英雄造成1点伤害。",
     "type": "SPELL"
   },
@@ -36071,7 +36071,7 @@
     "id": "CORE_REV_507",
     "name": "处理证据",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在本回合中，使你的英雄获得+3攻击力。从你的3张手牌中选择一张洗入你的牌库。",
     "type": "SPELL"
   },
@@ -36086,7 +36086,7 @@
     "id": "CORE_REV_508",
     "name": "次元圣物",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "抽两张牌并使其法力值消耗降低（1）点。提升你此后的圣物效果。",
     "type": "SPELL"
   },
@@ -36106,7 +36106,7 @@
     ],
     "name": "放大战刃",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的英雄攻击后，抽牌，直到你拥有三张牌。",
     "type": "WEAPON"
   },
@@ -36128,7 +36128,7 @@
     ],
     "name": "贪食的克里克西斯",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>弃掉你的手牌。<b>亡语：</b>抽三张牌。",
     "type": "MINION"
   },
@@ -36148,7 +36148,7 @@
     ],
     "name": "案卷书虫",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>选择一张你的手牌洗入你的牌库。",
     "type": "MINION"
   },
@@ -36171,7 +36171,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的回合结束时，如果你控制一个<b>奥秘</b>，对所有敌人造成2点伤害。",
     "type": "MINION"
   },
@@ -36196,7 +36196,7 @@
       "UNDEAD"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>复活你的不稳定的骷髅。战场上放不下的骷髅会立即爆炸。0<i>（复活0个）</i>",
     "type": "MINION"
   },
@@ -36220,7 +36220,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在一个友方<b>奥秘</b>被揭示后，施放一个不同的法师<b>奥秘</b>并获得+2/+2。",
     "type": "MINION"
   },
@@ -36238,7 +36238,7 @@
     ],
     "name": "复仇之像",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>奥秘：</b>在一个敌方随从攻击你的英雄后，召唤一个它的复制并使其攻击敌方英雄。",
     "type": "SPELL"
   },
@@ -36257,7 +36257,7 @@
     "name": "罪犯列队",
     "overload": 2,
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "选择一个友方随从。召唤3个它的复制。<b>过载：</b>（2）",
     "type": "SPELL"
   },
@@ -36275,7 +36275,7 @@
     ],
     "name": "冰冻之触",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "造成$3点伤害。<b>注能（3）：</b>将一张冰冻之触置入你的\n手牌。",
     "type": "SPELL"
@@ -36295,7 +36295,7 @@
     "referencedTags": [
       "FREEZE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>冻结</b>一个随从。召唤一个2/2的不稳定的骷髅。",
     "type": "LOCATION"
   },
@@ -36311,7 +36311,7 @@
     "id": "CORE_REV_750",
     "name": "罪碑坟场",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "召唤一个1/1的幽灵。<i>（在本回合中每有一张其他牌被使用，拥有+1/+1！）</i>",
     "type": "LOCATION"
   },
@@ -36329,7 +36329,7 @@
     ],
     "name": "双面生意",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>奥秘：</b>当你的对手消耗了其所有法力值时，抽两张牌。",
     "type": "SPELL"
   },
@@ -36353,7 +36353,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>从你的牌库中施放一个<b>奥秘</b>。<b>连击：</b>改为施放2个。",
     "type": "MINION"
   },
@@ -36374,7 +36374,7 @@
     "referencedTags": [
       "STEALTH"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>奥秘：</b>在你的对手施放一个法术后，召唤一只3/4并具有<b>潜行</b>的蜘蛛。",
     "type": "SPELL"
   },
@@ -36392,7 +36392,7 @@
     ],
     "name": "绑架",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，将其装入一个0/4的袋子。",
     "type": "SPELL"
   },
@@ -36421,7 +36421,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>潜行</b>。<b>亡语：</b>将哈尔吉亚斯的灵魂储存在一个友方<b>奥秘</b>中。当其被触发时，重新召唤哈尔吉亚斯。",
     "type": "MINION"
   },
@@ -36436,7 +36436,7 @@
     "id": "CORE_REV_834",
     "name": "灭绝圣物",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "随机对一个敌方随从造成$1点伤害，触发两次。提升你此后的圣物效果。",
     "type": "SPELL"
   },
@@ -36458,7 +36458,7 @@
     ],
     "name": "小鬼大王拉法姆",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>复活四个友方小鬼。<b>注能（5）：</b>使你的小鬼获得+2/+2。",
     "type": "MINION"
   },
@@ -36478,7 +36478,7 @@
     ],
     "name": "淤泥水管工",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "所有随从牌的法力值消耗增加（2）点。",
     "type": "MINION"
   },
@@ -36499,7 +36499,7 @@
       "TOTEM"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在本局对战中，你每召唤一个图腾，本牌的法力值消耗便减少（1）点。",
     "type": "MINION"
   },
@@ -36523,7 +36523,7 @@
       "TOTEM"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的回合结束时，获得+1生命值。",
     "type": "MINION"
   },
@@ -36538,7 +36538,7 @@
     "id": "CORE_REV_840",
     "name": "死神之躯",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "对所有随从造成$2点伤害。每消灭一个随从，召唤一个2/2的不稳定的骷髅。",
     "type": "SPELL"
@@ -36562,7 +36562,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>你使用的下一张<b>奥秘</b>牌的法力值消耗为（0）点。",
     "type": "MINION"
   },
@@ -36580,7 +36580,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "使一个白银之手新兵获得+3/+3和<b>嘲讽</b>。",
     "type": "SPELL"
   },
@@ -36600,7 +36600,7 @@
     ],
     "name": "罪能魔像",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>注能（3）：</b>获得属性值，数值等同于为本随从<b>注能</b>的随从的攻击力。",
     "type": "MINION"
   },
@@ -36624,7 +36624,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>随机对一个敌人造成2点伤害。",
     "type": "MINION"
   },
@@ -36648,7 +36648,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>。<b>战吼：</b>如果你控制一个<b>奥秘</b>，便召唤一个本随从的复制。",
     "type": "MINION"
   },
@@ -36673,7 +36673,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>如果你控制一个地标，<b>发现</b>你牌库中一张牌的复制。",
     "type": "MINION"
   },
@@ -36696,7 +36696,7 @@
     ],
     "name": "德纳修斯大帝",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>吸血</b>，<b>战吼：</b>对所有敌人造成总计5点伤害。<b>无限注能（2）：</b>伤害增加1点。",
     "type": "MINION"
   },
@@ -36716,7 +36716,7 @@
     ],
     "name": "诡异的画像",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在另一个随从死亡后，成为它的复制。",
     "type": "MINION"
   },
@@ -36736,7 +36736,7 @@
     ],
     "name": "石雕凿刀",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的英雄攻击后，随机召唤一个基础图腾。",
     "type": "WEAPON"
   },
@@ -36754,7 +36754,7 @@
     ],
     "name": "可信的伪装",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "将一个友方随从变形成为法力值消耗增加（2）点的随从。<b>注能（4）：</b>改为变形所有友方随从。",
     "type": "SPELL"
   },
@@ -36775,7 +36775,7 @@
     ],
     "name": "锻石师",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>在本局对战的剩余时间内，你的图腾拥有+2攻击力。",
     "type": "MINION"
   },
@@ -36792,7 +36792,7 @@
     "id": "CORE_REV_923",
     "name": "淤泥之池",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "将一个友方随从变形成为法力值消耗增加（1）点的随从。",
     "type": "LOCATION"
   },
@@ -36807,7 +36807,7 @@
     "id": "CORE_REV_924",
     "name": "始源之潮",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "将敌方随从变形成为法力值消耗减少（1）点的随从，将友方随从变形成为法力值消耗增加（1）点的随从。",
     "type": "SPELL"
@@ -36831,7 +36831,7 @@
     "referencedTags": [
       "CHARGE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "受伤时拥有+2攻击力和<b>冲锋</b>。",
     "type": "MINION"
   },
@@ -36846,7 +36846,7 @@
     "id": "CORE_REV_931",
     "name": "征服者战旗",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "揭示每个玩家牌库中的一张牌，如果你的牌法力值消耗较大，抽取你的牌。揭示三次。",
     "type": "SPELL"
   },
@@ -36867,7 +36867,7 @@
     ],
     "name": "灌能战斧",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的英雄攻击后，使你受伤的随从获得+1/+2。<b>注能（2）：</b>改为+2/+2。",
     "type": "WEAPON"
   },
@@ -36889,7 +36889,7 @@
     ],
     "name": "屠戮者奥格拉",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>每有一个受伤的随从，便获得+1/+1，然后攻击所有敌人。",
     "type": "MINION"
   },
@@ -36914,7 +36914,7 @@
       "TOTEM"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的回合结束时，随机召唤一个基础图腾。<b>注能（2）：</b>改为召唤两个。",
     "type": "MINION"
   },
@@ -36937,7 +36937,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>召唤一个3/5并具有<b>嘲讽</b>的元素。",
     "type": "MINION"
   },
@@ -36960,7 +36960,7 @@
     ],
     "name": "圣物匠赛·墨克斯",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b><b>发现</b>并施放一个圣物。<b>注能（5）：</b>改为施放全部三个。",
     "type": "MINION"
   },
@@ -36978,7 +36978,7 @@
     ],
     "name": "暗影之门",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "抽一张法术牌。<b>注能（2）：</b>将它的一张<b>临时</b>复制置入你的手牌。",
     "type": "SPELL"
@@ -36994,7 +36994,7 @@
     "id": "CORE_REV_939",
     "name": "锯齿骨刺",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "对一个随从造成$3点伤害。如果该随从死亡，在本回合中，你的下一张牌法力值消耗减少（2）点。",
     "type": "SPELL"
   },
@@ -37015,7 +37015,7 @@
     ],
     "name": "通灵领主德拉卡",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>装备一把1/3的匕首。<i>（在本回合中你每使用一张其他牌便+1攻击力，\n最高10点！）</i>",
     "type": "MINION"
   },
@@ -37031,7 +37031,7 @@
     "id": "CORE_REV_942",
     "name": "圣物仓库",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在本回合中你使用的下一个圣物将施放两次。",
     "type": "LOCATION"
   },
@@ -37046,7 +37046,7 @@
     "id": "CORE_REV_943",
     "name": "幻灭心能圣物",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "召唤两个1/1的灵魂。提升你此后的圣物效果。",
     "type": "SPELL"
   },
@@ -37070,7 +37070,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b><b>发现</b>一张另一职业的<b>奥秘</b>牌。",
     "type": "MINION"
   },
@@ -37118,7 +37118,7 @@
     ],
     "name": "污泥仆从",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>，<b>战吼：</b><b>发现</b>一张圣骑士牌。",
     "type": "MINION"
   },
@@ -37136,7 +37136,7 @@
     ],
     "name": "服务呼叫铃",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "从你的牌库中<b>发现</b>一张职业牌，抽取它的所有复制。",
     "type": "SPELL"
   },
@@ -37151,7 +37151,7 @@
     "id": "CORE_REV_950",
     "name": "圣洁鸣钟",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "随机向随从发射5道射线。射线可使友方随从获得+2/+2，或对敌方随从造成$2点伤害。",
     "type": "SPELL"
@@ -37173,7 +37173,7 @@
     ],
     "name": "女伯爵",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>如果你的牌库中没有中立卡牌，将3张<b>传说</b>邀请函置入你的手牌。",
     "type": "MINION"
   },
@@ -37197,7 +37197,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>\n将2张“白银之手新兵”置入你的手牌。",
     "type": "MINION"
   },
@@ -37218,7 +37218,7 @@
     ],
     "name": "执事者斯图尔特",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>\n使你召唤的下一个白银之手新兵获得+3/+3以及此<b>亡语</b>。",
     "type": "MINION"
   },
@@ -37239,7 +37239,7 @@
     ],
     "name": "亡者牧师",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>，<b>注能（3）：</b>获得+2/+2。",
     "type": "MINION"
   },
@@ -37265,7 +37265,7 @@
       "MURLOC"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>吸血</b>，<b>注能（4）：</b>法力值消耗为（0）点。",
     "type": "MINION"
   },
@@ -37289,7 +37289,7 @@
     "referencedTags": [
       "DIVINE_SHIELD"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>召唤两个白银之手新兵。<b>注能（3）：</b>使其获得+2攻击力和<b>圣盾</b>。",
     "type": "MINION"
   },
@@ -37312,7 +37312,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>如果你控制一个<b>奥秘</b>，选择你的对手的一张手牌洗入其牌库。",
     "type": "MINION"
   },
@@ -37336,7 +37336,7 @@
       "ELEMENTAL"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>下个回合，每当你的对手抽牌时，对手会受到2点伤害。",
     "type": "MINION"
   },
@@ -37362,7 +37362,7 @@
       "RUSH",
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>你手牌中每有一张圣骑士牌，便从<b>圣盾</b>，<b>吸血</b>，<b>突袭</b>或<b>嘲讽</b>中获得一项。",
     "type": "MINION"
   },
@@ -37378,7 +37378,7 @@
     "id": "CORE_REV_983",
     "name": "大厅",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "将一个随从的攻击力和生命值变为3。",
     "type": "LOCATION"
   },
@@ -37422,7 +37422,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的英雄攻击并消灭一个随从后，获得2份\n<b>残骸</b>。",
     "type": "WEAPON"
   },
@@ -37443,7 +37443,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "引爆一份<b>残骸</b>，对所有随从造成$1点伤害。如果有随从存活，重复此效果。",
     "type": "SPELL"
@@ -37465,7 +37465,7 @@
       "frost": 2,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "复原两个法力水晶。",
     "type": "SPELL"
@@ -37487,7 +37487,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "使你的英雄获得+5生命值。消耗3份<b>残骸</b>，多获得5点并抽一张牌。",
     "type": "SPELL"
   },
@@ -37737,7 +37737,7 @@
       "frost": 0,
       "unholy": 2
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "用随机亡灵填满你的面板。",
     "type": "SPELL"
@@ -37766,7 +37766,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>消耗最多10份<b>残骸</b>，召唤一个攻击力和生命值等同于消耗残骸数并具有<b>嘲讽</b>的复活的新郎。",
     "type": "MINION"
   },
@@ -37960,7 +37960,7 @@
       "frost": 2,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>消耗最多3份<b>残骸</b>，<b>冻结</b>等量的敌方随从。",
     "type": "WEAPON"
   },
@@ -37990,7 +37990,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n消灭所有其他随从。每消灭一个敌方随从，获得1份<b>残骸</b>。",
     "type": "MINION"
   },
@@ -38066,7 +38066,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n将所有其他随从送入2回合后的未来。",
     "type": "MINION"
   },
@@ -38085,7 +38085,7 @@
     ],
     "name": "恶魔研习",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "<b>发现</b>一张恶魔牌。你的下一张恶魔牌法力值消耗减少（1）点。",
     "type": "SPELL"
@@ -38107,7 +38107,7 @@
     ],
     "name": "魔杖工匠",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>随机将一张你职业的法力值消耗为（1）的法术牌置入你的手牌。",
     "type": "MINION"
   },
@@ -38151,7 +38151,7 @@
     ],
     "name": "巡游向导",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n你的下一个英雄技能的法力值消耗为（0）点。",
     "type": "MINION"
   },
@@ -38211,7 +38211,7 @@
     ],
     "name": "抄袭",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>奥秘：</b>在你对手的回合结束时，将其使用的卡牌的复制置入你的手牌。",
     "type": "SPELL"
   },
@@ -38280,7 +38280,7 @@
       "PIRATE"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的回合结束时，获得3点护甲值。",
     "type": "MINION"
   },
@@ -38407,7 +38407,7 @@
     ],
     "name": "考内留斯·罗姆",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在每个玩家的回合开始和结束时，\n抽一张牌。",
     "type": "MINION"
   },
@@ -38426,7 +38426,7 @@
     "referencedTags": [
       "TAUNT"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "召唤一个属性值等同于你的手牌数量并具有<b>嘲讽</b>的邪魔。",
     "type": "SPELL"
@@ -38467,7 +38467,7 @@
     ],
     "name": "厚重板甲",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>可交易</b>\n获得8点护甲值。",
     "type": "SPELL"
   },
@@ -38486,7 +38486,7 @@
     ],
     "name": "火热促销",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FIRE",
     "text": "<b>可交易</b>\n对所有随从造成\n$3点伤害。",
     "type": "SPELL"
@@ -38528,7 +38528,7 @@
     "referencedTags": [
       "OVERLOAD"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>可交易</b>\n解锁你<b>过载</b>的法力水晶，并造成等量的\n伤害。",
     "type": "SPELL"
   },
@@ -38576,7 +38576,7 @@
       "BEAST"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>突袭</b>\n每当本随从攻击时，使你的英雄在本回合中获得+3攻击力。",
     "type": "MINION"
   },
@@ -38624,7 +38624,7 @@
     "referencedTags": [
       "SILENCE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "<b>可交易</b>\n<b>沉默</b>所有敌方随从。",
     "type": "SPELL"
@@ -38668,7 +38668,7 @@
     ],
     "name": "黑暗主教本尼迪塔斯",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>对战开始时：</b>如果你的套牌中所有法术牌都是暗影法术牌，则进入暗影形态。",
     "type": "MINION"
   },
@@ -38709,7 +38709,7 @@
     ],
     "name": "侏儒飞行员诺莉亚",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>突袭</b>。同时对其攻击目标相邻的随从造成伤害。<b>亡语：</b>对所有敌人造成2点伤害。",
     "type": "MINION"
   },
@@ -38730,7 +38730,7 @@
     ],
     "name": "暗夜精灵女猎手",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "造成3点伤害。（还剩@次！）",
     "text": "<b>战吼：</b>对三个不同的敌人各造成3点伤害。<i>（目标由你选定！）</i>",
     "type": "MINION"
@@ -38756,7 +38756,7 @@
     "referencedTags": [
       "IMMUNE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>。相邻随从在攻击时<b>免疫</b>。",
     "type": "MINION"
   },
@@ -38778,7 +38778,7 @@
     ],
     "name": "战歌步兵",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>突袭</b>\n在本随从攻击并消灭一个随从后，可再次攻击。",
     "type": "MINION"
   },
@@ -38819,7 +38819,7 @@
     ],
     "name": "团伙劫掠",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "从你的牌库中抽两张海盗牌。\n<b>连击：</b>并抽一张\n武器牌。",
     "type": "SPELL"
   },
@@ -38858,7 +38858,7 @@
     "id": "CORE_TRL_243",
     "name": "飞扑",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在本回合中，使你的英雄获得+2攻击力。",
     "type": "SPELL"
   },
@@ -38882,7 +38882,7 @@
     ],
     "name": "高阶祭司耶克里克",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽，吸血</b>\n当你弃掉这张牌时，将这张牌的两张复制置入你的手牌。",
     "type": "MINION"
   },
@@ -38920,7 +38920,7 @@
     ],
     "name": "火焰狂人",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当你的英雄技能消灭一个随从，抽\n一张牌。",
     "type": "MINION"
   },
@@ -38939,7 +38939,7 @@
     ],
     "name": "主人的召唤",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "从你的牌库中<b>发现</b>一张随从牌。如果三张牌都是野兽，改为抽取全部三张牌。",
     "type": "SPELL"
   },
@@ -38991,7 +38991,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>突袭，战吼：</b>将一张1/1并具有<b>突袭</b>的山猫置入你的手牌。",
     "type": "MINION"
   },
@@ -39065,7 +39065,7 @@
       "NAGA"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>流放：</b>使你最左边和最右边的手牌法力值消耗减少（1）点。",
     "type": "MINION"
   },
@@ -39115,7 +39115,7 @@
       "NAGA"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你施放一个法术后，直到你的下个回合，获得+1攻击力。",
     "type": "MINION"
   },
@@ -39140,7 +39140,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "techLevel": 3,
     "text": "每当一个随从死亡，便获得+1攻击力。",
     "type": "MINION"
@@ -39294,7 +39294,7 @@
       "BEAST"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>抽八张牌。",
     "type": "MINION"
   },
@@ -39371,7 +39371,7 @@
     ],
     "name": "惊恐的仆从",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽，战吼：</b>\n<b>发现</b>一张具有<b>嘲讽</b>的随从牌。",
     "type": "MINION"
   },
@@ -39393,7 +39393,7 @@
     ],
     "name": "狐人恶棍",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：发现</b>一张法术牌或选择一个\n神秘选项。",
     "type": "MINION"
   },
@@ -39420,7 +39420,7 @@
       "BEAST"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>\n在你的回合结束时，使你手牌中所有<b>嘲讽</b>随从牌获得+2/+2。",
     "type": "MINION"
   },
@@ -39484,7 +39484,7 @@
     "id": "CORE_ULD_707",
     "name": "愤怒之灾祸",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "消灭所有受伤的随从。",
     "type": "SPELL"
   },
@@ -39526,7 +39526,7 @@
     "id": "CORE_UNG_018",
     "name": "烈焰喷涌",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FIRE",
     "text": "造成$2点伤害。\n将一张1/2的元素牌置入你的手牌。",
     "type": "SPELL"
@@ -39553,7 +39553,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>扰魔</b>",
     "type": "MINION"
   },
@@ -39577,7 +39577,7 @@
     "referencedTags": [
       "SECRET"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>抽一张<b>奥秘</b>牌。",
     "type": "MINION"
   },
@@ -39602,7 +39602,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "你的法术的法力值消耗减少（1）点<i>（但不能少于1点）</i>。",
     "type": "MINION"
   },
@@ -39669,7 +39669,7 @@
     "id": "CORE_UNG_108",
     "name": "大地之鳞",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "targetingArrowText": "使其获得+1/+1。",
     "text": "使一个友方随从获得+1/+1，然后获得等同于其攻击力的\n护甲值。",
@@ -39726,7 +39726,7 @@
       "ELEMENTAL"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则施放一个元素祈咒。",
     "type": "MINION"
   },
@@ -39751,7 +39751,7 @@
     "referencedTags": [
       "DEATHRATTLE"
     ],
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "触发一个亡语。",
     "text": "<b>战吼：</b>触发一个友方随从的<b>亡语</b>。",
     "type": "MINION"
@@ -39803,7 +39803,7 @@
       "ELEMENTAL"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>风怒</b>",
     "type": "MINION"
   },
@@ -39822,7 +39822,7 @@
     ],
     "name": "海潮涌动",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "NATURE",
     "text": "<b>吸血</b>\n对一个随从造成$5点伤害。",
     "type": "SPELL"
@@ -39849,7 +39849,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>，<b>战吼：</b>弃掉你手牌中法力值消耗最低的两张牌。",
     "type": "MINION"
   },
@@ -39871,7 +39871,7 @@
     ],
     "name": "巨齿刀叶",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "无法攻击。",
     "type": "MINION"
   },
@@ -39966,7 +39966,7 @@
     ],
     "name": "远古雕文",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "ARCANE",
     "text": "<b>发现</b>一张法术牌，使其法力值消耗减少（2）点。",
     "type": "SPELL"
@@ -40013,7 +40013,7 @@
       "ELEMENTAL"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "每当你施放一个法术，随机将一张牧师法术牌置入你的手牌。",
     "type": "MINION"
   },
@@ -40039,7 +40039,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "将生命值变为15点。",
     "text": "<b>战吼：</b>\n将一方英雄的剩余生命值变为15。",
     "type": "MINION"
@@ -40066,7 +40066,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的回合结束时，随机获取两张梦境牌。",
     "type": "MINION"
   },
@@ -40147,7 +40147,7 @@
       "PIRATE"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你召唤一个随从后，使其获\n得+1生命值。",
     "type": "MINION"
   },
@@ -40218,7 +40218,7 @@
     ],
     "name": "展馆茶壶",
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>随机使三个不同类型的友方随从获得+2/+2。",
     "type": "MINION"
   },
@@ -40380,7 +40380,7 @@
       "BEAST"
     ],
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>潜行</b>\n每当本随从攻击，便获得一个仅限本回合可用的法力水晶。",
     "type": "MINION"
   },
@@ -40452,7 +40452,7 @@
     ],
     "name": "护甲商贩",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>使每个英雄获得4点护甲值。",
     "type": "MINION"
   },
@@ -42512,7 +42512,7 @@
     ],
     "name": "守护者艾格文",
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellDamage": 1,
     "text": "<b>法术伤害+2</b>，<b>亡语：</b>你抽到的下一张随从牌会继承这些能力。",
     "type": "MINION"
@@ -42677,7 +42677,7 @@
       "UNDEAD"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>亡语：</b>对敌方英雄造成3点伤害。",
     "type": "MINION"
   },
@@ -42718,7 +42718,7 @@
     ],
     "name": "选种饲养员",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n从你的牌库中<b>发现</b>一张野兽牌的复制。",
     "type": "MINION"
   },
@@ -42761,7 +42761,7 @@
       "DEMON"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>流放：</b>在本回合中，使你的英雄获得+3攻击力。",
     "type": "MINION"
   },
@@ -42944,7 +42944,7 @@
     ],
     "name": "暗中生长",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "从你的牌库中<b>发现</b>一张法术牌。",
     "type": "SPELL"
@@ -43005,7 +43005,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "恢复#8点生命值或造成8点伤害。",
     "text": "<b>战吼：</b>选择一个角色。如果是友方角色，为其恢复#8点生命值；如果是敌方角色，对其造成8点伤害。",
     "type": "MINION"
@@ -43032,7 +43032,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在每个回合结束时，用1/1的雏龙填满你的面板。",
     "type": "MINION"
   },
@@ -43058,7 +43058,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>将每种\n梦境牌各一张置\n入你的手牌。",
     "type": "MINION"
   },
@@ -43084,7 +43084,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n抽取法术牌直到达到你的手牌上限。",
     "type": "MINION"
   },
@@ -43136,7 +43136,7 @@
       "DRAGON"
     ],
     "rarity": "LEGENDARY",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>消灭所有其他随从。每消灭一个随从，便弃一张牌。",
     "type": "MINION"
   },
@@ -43162,7 +43162,7 @@
       "BEAST"
     ],
     "rarity": "COMMON",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>突袭</b>",
     "type": "MINION"
   },
@@ -74854,7 +74854,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "GVG",
-    "text": "<b>战吼：</b>随机将四张鱼人牌置入你的手牌，<b>过载：</b>（3）",
+    "text": "<b>战吼：</b>随机将四张鱼人牌置入你的手牌。<b>过载：</b>（3）",
     "type": "MINION"
   },
   {
@@ -79879,6 +79879,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Mooncolony",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "dbfId": 131081,
+    "health": 30,
+    "heroPowerDbfId": 131082,
+    "id": "HERO_04cb",
+    "name": "救赎者阿拉托尔",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "James Ryman",
     "cardClass": "PALADIN",
     "collectible": true,
@@ -80734,6 +80747,19 @@
     "heroPowerDbfId": 65540,
     "id": "HERO_05bu",
     "name": "越狱的穆克拉",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Thunder Fire Studio",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "dbfId": 131078,
+    "health": 30,
+    "heroPowerDbfId": 131079,
+    "id": "HERO_05bz",
+    "name": "七夕奥蕾莉亚",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -82533,6 +82559,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Thunder Fire Studio & HS Art Team",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "dbfId": 131844,
+    "health": 30,
+    "heroPowerDbfId": 131845,
+    "id": "HERO_07ca",
+    "name": "七夕图拉扬",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Alex Horley Orlandelli",
     "cardClass": "WARLOCK",
     "collectible": true,
@@ -83568,6 +83607,19 @@
     "heroPowerDbfId": 64973,
     "id": "HERO_08cl",
     "name": "达拉然的艾格文",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "dbfId": 131089,
+    "health": 30,
+    "heroPowerDbfId": 64973,
+    "id": "HERO_08cr",
+    "name": "逃命专家米尔豪斯",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -85262,6 +85314,19 @@
     "heroPowerDbfId": 66907,
     "id": "HERO_10bs",
     "name": "冲破束缚的年兽",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Wayne Wu",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "dbfId": 131087,
+    "health": 30,
+    "heroPowerDbfId": 66907,
+    "id": "HERO_10bx",
+    "name": "痴情的伊利丹",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -90069,6 +90134,7 @@
     "name": "狂乱的猎犬",
     "race": "BEAST",
     "races": [
+      "ELEMENTAL",
       "BEAST"
     ],
     "rarity": "EPIC",
@@ -91040,7 +91106,6 @@
     "health": 4,
     "id": "JAIL_733",
     "mechanics": [
-      "BATTLECRY",
       "DEATHRATTLE",
       "TAUNT"
     ],
@@ -91051,7 +91116,7 @@
     ],
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>嘲讽</b>。<b>战吼，亡语：</b>获取一张虚空灵魂。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>获取一张虚空灵魂。",
     "type": "MINION"
   },
   {
@@ -91185,7 +91250,7 @@
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "spellSchool": "NATURE",
-    "text": "<b>吸血</b>。对所有敌方随从造成2点伤害。<i>（施放3个法术以变为随从牌！）</i>",
+    "text": "<b>吸血</b>。对所有敌方随从造成$2点伤害。<i>（施放3个法术以变为随从牌！）</i>",
     "type": "SPELL"
   },
   {
@@ -91864,6 +91929,66 @@
     "targetingArrowText": "获得+2攻击力和突袭。",
     "text": "<b>预备</b>。<b>战吼：</b>使一个友方随从获得+2攻击力和<b>突袭</b>。",
     "type": "MINION"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129959,
+    "elite": true,
+    "flavor": "欢迎来到真假卡牌竞猜问答！",
+    "health": 2,
+    "howToEarn": "参与特殊活动以获得该奖励。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "JAIL_EVENT_100",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "蛙生",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EVENT",
+    "text": "<b>战吼：</b><b>发现</b>一张随从牌。选中<i>可疑</i>的随从，即可获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 130086,
+    "flavor": "这是灵魂残片吗？自从在学园毕业之后就再没见过了！",
+    "howToEarn": "参与特殊活动以获得该奖励。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "JAIL_EVENT_101",
+    "name": "灵魂献祭",
+    "rarity": "EPIC",
+    "set": "EVENT",
+    "spellSchool": "SHADOW",
+    "text": "你的英雄技能变为坍缩之星。如果你的技能已经为坍缩之星，其伤害提高1点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 130087,
+    "flavor": "这笔钱您收好！！",
+    "howToEarn": "参与特殊活动以获得该奖励。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "JAIL_EVENT_102",
+    "name": "绝境贿赂",
+    "rarity": "EPIC",
+    "set": "EVENT",
+    "text": "为每个玩家召唤两个法力值消耗为（2）的随从。将你的随从变形成为法力值消耗增加（1）点的\n随从。",
+    "type": "SPELL"
   },
   {
     "artist": "Mooncolony",
@@ -94059,7 +94184,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>吸血</b>",
     "type": "WEAPON"
   },
@@ -107928,7 +108053,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "对一个随从造成$3点伤害。如果该随从死亡，获得一份<b>残骸</b>。",
     "type": "SPELL"
   },
@@ -107987,7 +108112,7 @@
       "frost": 0,
       "unholy": 2
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "获得4份<b>残骸</b>。将四个谷物箱洗入你的牌库，当抽到谷物箱时，召唤一个2/2的亡灵。",
     "type": "SPELL"
   },
@@ -108299,7 +108424,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>随机消灭你对手手牌，牌库和战场上的各一个随从。",
     "type": "MINION"
   },
@@ -108329,7 +108454,7 @@
       "frost": 0,
       "unholy": 1
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>\n召唤两个1/1并具有<b>突袭</b>和<b>复生</b>的斗士。",
     "type": "MINION"
   },
@@ -108354,7 +108479,7 @@
       "UNDEAD"
     ],
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "targetingArrowText": "对一个敌人和你的英雄造成$2点伤害。",
     "text": "<b>战吼：</b>\n对一个敌人和你的英雄造成2点伤害。",
     "type": "MINION"
@@ -108388,7 +108513,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>。<b>亡语：</b>将本随从移回你的手牌，且本牌消耗生命值，而非法力值。",
     "type": "MINION"
   },
@@ -108448,7 +108573,7 @@
       "frost": 0,
       "unholy": 3
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>将你的所有<b>残骸</b>复活为1/1并具有<b>突袭</b>的复活的傀儡。每有一个放不下的傀儡，使一个傀儡获得+2/+2。",
     "type": "MINION"
   },
@@ -108505,7 +108630,7 @@
       "frost": 1,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "FROST",
     "text": "抽一张牌。消耗2份<b>残骸</b>，再抽一张。",
     "type": "SPELL"
@@ -108602,7 +108727,7 @@
       "frost": 1,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "敌方角色无法被治疗。",
     "type": "MINION"
   },
@@ -108821,7 +108946,7 @@
       "frost": 0,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "消灭一个随从。对你的英雄造成3点伤害。",
     "type": "SPELL"
   },
@@ -109248,7 +109373,7 @@
       "frost": 2,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>抽两张法术牌。如果两张都是冰霜法术牌，对所有敌人造成2点伤害。",
     "type": "MINION"
   },
@@ -109311,7 +109436,7 @@
       "frost": 0,
       "unholy": 2
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>嘲讽</b>。<b>亡语：</b>消耗3份<b>残骸</b>，召唤一个3/3并具有<b>嘲讽</b>的复活的伊米亚人。",
     "type": "MINION"
   },
@@ -110708,7 +110833,7 @@
       "frost": 0,
       "unholy": 1
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "召唤两个1/1并具有<b>复生</b>的僵尸。",
     "type": "SPELL"
   },
@@ -110835,7 +110960,7 @@
       "frost": 2,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在你的英雄攻击后，使你手牌中一张法术牌的法力值消耗减少（1）点。",
     "type": "WEAPON"
   },
@@ -110930,7 +111055,7 @@
     "id": "RLK_715",
     "name": "符文熔铸",
     "rarity": "RARE",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "SHADOW",
     "text": "抽一张武器牌。消耗一份<b>残骸</b>，使其法力值消耗减少（1）点。",
     "type": "SPELL"
@@ -111092,7 +111217,7 @@
       "frost": 0,
       "unholy": 1
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "在本局对战中，你每消耗过一份<b>残骸</b>，本牌的法力值消耗便减少（1）点。",
     "type": "MINION"
   },
@@ -111149,7 +111274,7 @@
       "frost": 1,
       "unholy": 0
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>召唤两个2/1且具有“<b>亡语：</b>随机对一个敌人造成2点伤害。”的白霜元素。",
     "type": "MINION"
   },
@@ -111179,7 +111304,7 @@
       "frost": 0,
       "unholy": 1
     },
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "text": "<b>战吼：</b>消耗一份<b>残骸</b>，获得+1/+2。",
     "type": "MINION"
   },
@@ -117384,7 +117509,7 @@
     "collectible": true,
     "cost": 1,
     "dbfId": 64723,
-    "flavor": "集齐七笼猪，就能实现愿望。",
+    "flavor": "知足吧，原本需求的数量高多了。",
     "health": 1,
     "howToEarnGolden": "完成成就“斯人已逝”后解锁。",
     "id": "SW_075",
@@ -137348,7 +137473,7 @@
     "id": "TTN_908",
     "name": "十字军光环",
     "rarity": "EPIC",
-    "set": "PLACEHOLDER_202204",
+    "set": "CORE_HIDDEN",
     "spellSchool": "HOLY",
     "text": "每当一个友方随从攻击时，使其获得+2/+1。持续3回合。",
     "type": "SPELL"
@@ -153708,10 +153833,10 @@
     "collectible": true,
     "cost": 1,
     "dbfId": 63359,
-    "flavor": "美味风蛇这道菜里没有风蛇，正好比炉石传说里没有……",
+    "flavor": "终于变回了正常的变异鱼……",
     "id": "WC_017",
     "isMiniSet": true,
-    "name": "美味风蛇",
+    "name": "美味变异鱼",
     "rarity": "RARE",
     "referencedTags": [
       "STEALTH"

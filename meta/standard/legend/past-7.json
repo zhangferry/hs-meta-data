@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-09T05:59:28.000Z",
+  "lastUpdated": "2026-08-10T05:59:20.000Z",
   "rankBracket": "legend",
   "timePeriod": "past-7",
   "format": "standard",
-  "dataPoints": 112395,
+  "dataPoints": 112597,
   "deckStats": [
     {
       "heroCardIds": [
@@ -8172,45 +8172,51 @@
     },
     {
       "heroCardIds": [
-        "HERO_04br",
-        "HERO_04bw",
-        "HERO_04at",
-        "HERO_04h",
+        "HERO_04al_Uther",
+        "HERO_04e",
+        "HERO_04",
+        "HERO_04bn",
+        "HERO_04ap_Leeroy",
+        "HERO_04b",
+        "HERO_04d",
         "HERO_04a",
         "HERO_04i",
-        "HERO_04",
-        "HERO_04b",
-        "HERO_04al_Uther",
-        "HERO_04d",
         "HERO_04bb",
         "HERO_04bh",
         "HERO_04as",
         "HERO_04w",
+        "HERO_04bw",
         "HERO_04bq",
         "HERO_04ar_Yrel_hls",
         "HERO_04p",
         "HERO_04l",
-        "HERO_04bn",
         "HERO_04bo",
         "HERO_04bf",
-        "HERO_04e",
         "HERO_04g",
         "HERO_04au",
-        "HERO_04ap_Leeroy",
         "HERO_04c",
         "HERO_04v",
-        "HERO_04y"
+        "HERO_04y",
+        "HERO_04br",
+        "HERO_04h",
+        "HERO_04at",
+        "HERO_04am_Uther",
+        "HERO_04be",
+        "HERO_04ah",
+        "HERO_04aq_AnnoyO_hls",
+        "HERO_04ae",
+        "HERO_04q"
       ],
       "archetypeId": 825,
       "decklist": "AAECAZ8FAuXBB53dBw69nwSRoATJoASe1ATTngbUngbt5gbP/ga6lgfXlwfOmwe1wAeDwgeE6AcAAQGI3Qed3QcAAA==",
       "format": "standard",
-      "lastUpdate": "2026-08-09T05:15:04.000Z",
+      "lastUpdate": "2026-08-10T05:59:20.000Z",
       "playerClass": "paladin",
       "rankBracket": "legend",
       "timePeriod": "past-7",
-      "totalGames": 296,
+      "totalGames": 291,
       "totalWins": 153,
-      "winrate": 0.5169,
+      "winrate": 0.5258,
       "archetypeCoreCards": [
         "CATA_479",
         "CATA_479",
@@ -8226,6 +8232,7 @@
         "CORE_UNG_809",
         "CORE_UNG_809",
         "EDR_251",
+        "EDR_849",
         "JAIL_397",
         "JAIL_460",
         "TLC_249",
@@ -8233,8 +8240,7 @@
         "TLC_438",
         "TLC_438",
         "TLC_603",
-        "TLC_603",
-        "EDR_849"
+        "TLC_603"
       ],
       "cardVariations": {
         "added": [
@@ -8256,12 +8262,11 @@
     {
       "heroCardIds": [
         "HERO_04b",
-        "HERO_04bw",
-        "HERO_04ap_Leeroy",
+        "HERO_04h",
         "HERO_04w",
-        "HERO_04d",
         "HERO_04y",
         "HERO_04l",
+        "HERO_04d",
         "HERO_04",
         "HERO_04i",
         "HERO_04a",
@@ -8274,18 +8279,21 @@
         "HERO_04bb",
         "HERO_04az",
         "HERO_04bs",
-        "HERO_04be"
+        "HERO_04be",
+        "HERO_04ap_Leeroy",
+        "HERO_04bw",
+        "HERO_04at"
       ],
       "archetypeId": 637,
       "decklist": "AAECAZ8FBvD+Bu6oB++oB/CoB+XBB53dBwzJoAS6lgfLqQfErge+sgfiwQfowQfqwQeDwgfc1QeZ3QfX4gcAAQGa3Qed3QcAAA==",
       "format": "standard",
-      "lastUpdate": "2026-08-09T05:54:45.000Z",
+      "lastUpdate": "2026-08-10T05:18:21.000Z",
       "playerClass": "paladin",
       "rankBracket": "legend",
       "timePeriod": "past-7",
-      "totalGames": 227,
-      "totalWins": 128,
-      "winrate": 0.5639,
+      "totalGames": 277,
+      "totalWins": 155,
+      "winrate": 0.5596,
       "archetypeCoreCards": [
         "CATA_472",
         "CATA_473",
@@ -8293,6 +8301,7 @@
         "CATA_475",
         "CATA_479",
         "CATA_479",
+        "CORE_ICC_038",
         "CORE_ICC_038",
         "EDR_258",
         "END_011",
@@ -8302,12 +8311,12 @@
         "TIME_019",
         "TLC_438",
         "JAIL_327",
+        "JAIL_397",
         "JAIL_516",
         "TIME_700"
       ],
       "cardVariations": {
         "added": [
-          "CORE_ICC_038",
           "TLC_438",
           "TIME_009",
           "TIME_009t1",
@@ -8318,7 +8327,6 @@
           "CATA_475",
           "JAIL_035",
           "JAIL_327",
-          "JAIL_397",
           "JAIL_516"
         ],
         "removed": []
@@ -8327,25 +8335,24 @@
     },
     {
       "heroCardIds": [
-        "HERO_04ba",
-        "HERO_04br",
-        "HERO_04ak_Uther",
         "HERO_04",
         "HERO_04w",
         "HERO_04bw",
         "HERO_04i",
-        "HERO_04bo"
+        "HERO_04bo",
+        "HERO_04bq",
+        "HERO_04d"
       ],
       "archetypeId": 637,
       "decklist": "AAECAZ8FBvD+Bu6oB++oB/CoB+XBB53dBwzJoATLqQfErge+sgfiwQfowQfqwQeDwgerxgfc1QeZ3QfX4gcAAQGa3Qed3QcAAA==",
       "format": "standard",
-      "lastUpdate": "2026-08-08T12:54:56.000Z",
+      "lastUpdate": "2026-08-10T05:59:01.000Z",
       "playerClass": "paladin",
       "rankBracket": "legend",
       "timePeriod": "past-7",
-      "totalGames": 67,
-      "totalWins": 28,
-      "winrate": 0.4179,
+      "totalGames": 78,
+      "totalWins": 34,
+      "winrate": 0.4359,
       "archetypeCoreCards": [
         "CATA_472",
         "CATA_473",
@@ -8353,6 +8360,7 @@
         "CATA_475",
         "CATA_479",
         "CATA_479",
+        "CORE_ICC_038",
         "CORE_ICC_038",
         "EDR_258",
         "END_011",
@@ -8362,12 +8370,12 @@
         "TIME_019",
         "TLC_438",
         "JAIL_327",
+        "JAIL_397",
         "JAIL_516",
         "TIME_700"
       ],
       "cardVariations": {
         "added": [
-          "CORE_ICC_038",
           "TIME_009",
           "TIME_009t1",
           "TIME_009t2",
@@ -8379,7 +8387,6 @@
           "CATA_480",
           "JAIL_035",
           "JAIL_327",
-          "JAIL_397",
           "JAIL_516"
         ],
         "removed": [
@@ -21073,33 +21080,33 @@
     },
     {
       "heroCardIds": [
-        "HERO_01bt",
-        "HERO_01bo",
-        "HERO_01bx",
         "HERO_01",
-        "HERO_01b",
         "HERO_01a",
+        "HERO_01b",
         "HERO_01am_Garrosh",
         "HERO_01bn",
         "HERO_01bw",
+        "HERO_01bt",
+        "HERO_01bo",
         "HERO_01f",
         "HERO_01bg",
         "HERO_01h",
-        "HERO_01ac"
+        "HERO_01ac",
+        "HERO_01bx",
+        "HERO_01ad"
       ],
       "archetypeId": 984,
       "decklist": "AAECAQcC69YHstgHDuPmBqr8Bqv8BveDB6WFB+iHB9KXB7etB+yyB4S9B7XAB5XCB5vCB5zCBwAA",
       "format": "standard",
-      "lastUpdate": "2026-08-09T03:29:43.000Z",
+      "lastUpdate": "2026-08-10T02:56:49.000Z",
       "playerClass": "warrior",
       "rankBracket": "legend",
       "timePeriod": "past-7",
-      "totalGames": 314,
-      "totalWins": 169,
-      "winrate": 0.5382,
+      "totalGames": 375,
+      "totalWins": 197,
+      "winrate": 0.5253,
       "archetypeCoreCards": [
         "CATA_556",
-        "CATA_582",
         "CATA_585",
         "CATA_585",
         "CORE_REV_990",
@@ -21128,6 +21135,7 @@
           "CATA_111",
           "CATA_556",
           "CATA_582",
+          "CATA_582",
           "CATA_584",
           "CATA_584",
           "JAIL_421",
@@ -21141,24 +21149,30 @@
     },
     {
       "heroCardIds": [
-        "HERO_01e",
+        "HERO_01bn",
         "HERO_01a",
         "HERO_01o",
         "HERO_01aw",
-        "HERO_01bn",
         "HERO_01al_Garrosh",
-        "HERO_01w"
+        "HERO_01w",
+        "HERO_01e",
+        "HERO_01u",
+        "HERO_01bf",
+        "HERO_01n",
+        "HERO_01h",
+        "HERO_01av",
+        "HERO_01g"
       ],
       "archetypeId": 40963,
       "decklist": "AAECAQcE9ZgH150HstgHlNkHDYagBI7UBJzUBOPmBsyPB9OXB+CdB+qnB/yvB9CyB7DBB5zCB8XXBwAA",
       "format": "standard",
-      "lastUpdate": "2026-08-09T04:53:58.000Z",
+      "lastUpdate": "2026-08-10T02:54:54.000Z",
       "playerClass": "warrior",
       "rankBracket": "legend",
       "timePeriod": "past-7",
-      "totalGames": 83,
-      "totalWins": 41,
-      "winrate": 0.494,
+      "totalGames": 106,
+      "totalWins": 51,
+      "winrate": 0.4811,
       "archetypeCoreCards": [
         "CATA_581",
         "CATA_585",
@@ -21183,12 +21197,12 @@
         "TIME_873",
         "TLC_106",
         "TLC_478",
+        "TLC_601",
         "TLC_601"
       ],
       "cardVariations": {
         "added": [
           "CORE_EX1_007",
-          "TLC_601",
           "TIME_873",
           "CATA_581",
           "JAIL_386",
@@ -21203,8 +21217,6 @@
     },
     {
       "heroCardIds": [
-        "HERO_01ac",
-        "HERO_01",
         "HERO_01bf",
         "HERO_01a",
         "HERO_01w",
@@ -21212,7 +21224,9 @@
         "HERO_01v",
         "HERO_01g",
         "HERO_01p",
-        "HERO_01o"
+        "HERO_01o",
+        "HERO_01ac",
+        "HERO_01"
       ],
       "archetypeId": 40963,
       "decklist": "AAECAQcEn58E9ZgH150HstgHDYagBI7UBJzUBOPmBsyPB9OXB+CdB9WmB+qnB/yvB9CyB7DBB5zCBwAA",
@@ -21248,13 +21262,13 @@
         "TIME_873",
         "TLC_106",
         "TLC_478",
+        "TLC_601",
         "TLC_601"
       ],
       "cardVariations": {
         "added": [
           "CORE_CS2_108",
           "CORE_EX1_007",
-          "TLC_601",
           "TLC_478",
           "TIME_873",
           "CATA_581"
@@ -21270,16 +21284,15 @@
       "archetypeId": 984,
       "decklist": "AAECAQcIi6AEzp4Gq/wG8a8H0LIH1rIHtcAHm8IHC+PmBqr8BuiHB9KXB7etB4+xB+yyB4S9B5XCB5zCB/nDBwAA",
       "format": "standard",
-      "lastUpdate": "2026-08-08T22:55:54.000Z",
+      "lastUpdate": "2026-08-10T01:44:36.000Z",
       "playerClass": "warrior",
       "rankBracket": "legend",
       "timePeriod": "past-7",
-      "totalGames": 59,
-      "totalWins": 28,
-      "winrate": 0.4746,
+      "totalGames": 90,
+      "totalWins": 45,
+      "winrate": 0.5,
       "archetypeCoreCards": [
         "CATA_556",
-        "CATA_582",
         "CATA_585",
         "CATA_585",
         "CORE_REV_990",
@@ -21308,6 +21321,7 @@
           "END_033",
           "CATA_111",
           "CATA_582",
+          "CATA_582",
           "CATA_584",
           "CATA_614",
           "CATA_614"
@@ -21326,16 +21340,15 @@
       "archetypeId": 984,
       "decklist": "AAECAQcIm6UHnaUHnqUH1rIH0L8HzskHm9QHstgHC5zUBKv8BsSBB/eDB8GPB9KXB+2sB9OyB7XAB6/BB6DFBwAA",
       "format": "standard",
-      "lastUpdate": "2026-08-09T05:56:32.000Z",
+      "lastUpdate": "2026-08-10T05:57:37.000Z",
       "playerClass": "warrior",
       "rankBracket": "legend",
       "timePeriod": "past-7",
-      "totalGames": 175,
-      "totalWins": 71,
-      "winrate": 0.4057,
+      "totalGames": 202,
+      "totalWins": 81,
+      "winrate": 0.401,
       "archetypeCoreCards": [
         "CATA_556",
-        "CATA_582",
         "CATA_585",
         "CATA_585",
         "CORE_REV_990",
@@ -21380,7 +21393,6 @@
           "JAIL_384"
         ],
         "removed": [
-          "CATA_582",
           "CATA_585",
           "CATA_585",
           "CORE_REV_990",
@@ -21413,7 +21425,6 @@
       "winrate": 0.4049,
       "archetypeCoreCards": [
         "CATA_556",
-        "CATA_582",
         "CATA_585",
         "CATA_585",
         "CORE_REV_990",
@@ -21457,7 +21468,6 @@
           "JAIL_384"
         ],
         "removed": [
-          "CATA_582",
           "CATA_585",
           "CATA_585",
           "CORE_REV_990",
@@ -21473,23 +21483,27 @@
     },
     {
       "heroCardIds": [
-        "HERO_01ad",
-        "HERO_01bn",
         "HERO_01al_Garrosh",
         "HERO_01",
         "HERO_01bk",
-        "HERO_01e"
+        "HERO_01e",
+        "HERO_01ad",
+        "HERO_01bn",
+        "HERO_01a",
+        "HERO_01g",
+        "HERO_01bo",
+        "HERO_01bx"
       ],
       "archetypeId": 41142,
       "decklist": "AAECAQcIn58EhqAEw4MHm6UHnaUHnqUH69YHstgHC47UBJzUBOPmBqWFB+iHB9WmB4+xB9CyB5XCB5vCB5zCBwAA",
       "format": "standard",
-      "lastUpdate": "2026-08-09T05:49:15.000Z",
+      "lastUpdate": "2026-08-09T20:10:49.000Z",
       "playerClass": "warrior",
       "rankBracket": "legend",
       "timePeriod": "past-7",
-      "totalGames": 71,
-      "totalWins": 38,
-      "winrate": 0.5352,
+      "totalGames": 75,
+      "totalWins": 40,
+      "winrate": 0.5333,
       "archetypeCoreCards": [
         "CATA_585",
         "CATA_585",
@@ -21511,7 +21525,6 @@
         "TIME_850t",
         "TIME_850t1",
         "TLC_478",
-        "JAIL_307",
         "FIR_939"
       ],
       "cardVariations": {
@@ -21530,8 +21543,7 @@
         ],
         "removed": [
           "JAIL_386",
-          "TIME_715",
-          "JAIL_307"
+          "TIME_715"
         ]
       },
       "archetypeName": "logosh-warrior"
@@ -21574,13 +21586,13 @@
         "TIME_873",
         "TLC_106",
         "TLC_478",
+        "TLC_601",
         "TLC_601"
       ],
       "cardVariations": {
         "added": [
           "CORE_EX1_007",
           "EDR_856",
-          "TLC_601",
           "TLC_478",
           "TIME_873",
           "TIME_750",

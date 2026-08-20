@@ -16477,7 +16477,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "CATACLYSM",
-    "text": "<b>巨型+2</b>\n在你的回合结束时，对所有其他随从造成2点伤害。",
+    "text": "<b>巨型+2</b>\n在你的回合结束时，对所有其他随从造成3点伤害。",
     "type": "MINION"
   },
   {
@@ -16967,7 +16967,7 @@
     "artist": "Luca Zontini",
     "cardClass": "HUNTER",
     "collectible": true,
-    "cost": 5,
+    "cost": 4,
     "dbfId": 122939,
     "flavor": "当心，不然我就放出我的迷你部队了！",
     "howToEarnGolden": "可以在<i>大地的裂变</i>奖励路线中获得该奖励。",
@@ -16975,7 +16975,7 @@
     "name": "直面托维尔",
     "rarity": "EPIC",
     "set": "CATACLYSM",
-    "text": "再次使用你在本局对战中使用过的每一张法力值消耗为（1）的牌<i>（尽可能以敌人为目标）</i>。",
+    "text": "召唤你在本局对战中使用过的每个法力值消耗为（1）的\n随从。",
     "type": "SPELL"
   },
   {
@@ -28932,7 +28932,7 @@
     ],
     "set": "CORE",
     "spellSchool": "FIRE",
-    "text": "<b>发现</b>一张<b>战吼</b>随从牌。",
+    "text": "<b>发现</b>一张<b>战吼</b>随从牌，其法力值消耗减少（1）点。",
     "type": "SPELL"
   },
   {
@@ -73873,7 +73873,7 @@
     ],
     "set": "GILNEAS",
     "spellSchool": "FIRE",
-    "text": "<b>发现</b>一张<b>战吼</b>随从牌。",
+    "text": "<b>发现</b>一张<b>战吼</b>随从牌，其法力值消耗减少（1）点。",
     "type": "SPELL"
   },
   {
@@ -89406,14 +89406,14 @@
     "artist": "Mooncolony",
     "cardClass": "DRUID",
     "collectible": true,
-    "cost": 4,
+    "cost": 5,
     "dbfId": 127815,
     "flavor": "别让它们做饭！",
     "id": "JAIL_200",
     "name": "污染厨房",
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "随机召唤一个法力值消耗为（4）的随从。<i>（在本局对战中你的英雄每攻击一次都会提升。）</i>",
+    "text": "随机召唤两个法力值消耗为（3）的随从。<i>（在本局对战中你的英雄每攻击一次都会提升。）</i>",
     "type": "SPELL"
   },
   {
@@ -89551,7 +89551,7 @@
     "artist": "Alex Stone",
     "cardClass": "WARRIOR",
     "collectible": true,
-    "cost": 3,
+    "cost": 5,
     "dbfId": 126100,
     "flavor": "怎么控？晕？睡？还是羊？",
     "id": "JAIL_307",
@@ -89559,7 +89559,7 @@
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "spellSchool": "FIRE",
-    "text": "对所有随从造成$2点伤害。如果你的牌库中有25张或以上的牌，再造成$2点。",
+    "text": "对所有随从造成$2点伤害，触发两次。如果你的牌库中有25张或以上的牌，本牌的法力值消耗减少（2）点。",
     "type": "SPELL"
   },
   {
@@ -89657,10 +89657,10 @@
     "attack": 4,
     "cardClass": "MAGE",
     "collectible": true,
-    "cost": 4,
+    "cost": 5,
     "dbfId": 126253,
     "flavor": "欢迎来到达拉然！法术随意编造，其他都不重要！",
-    "health": 4,
+    "health": 3,
     "id": "JAIL_321",
     "mechanics": [
       "BATTLECRY"
@@ -89668,7 +89668,7 @@
     "name": "机灵的即兴舞者",
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>预备</b>。<b>战吼：</b>如果你在本回合中施放过法术，随机施放一个法师<b>奥秘</b>。",
+    "text": "<b>预备</b>。<b>战吼：</b>如果你在本回合中施放过法术，随机施放两个法师<b>奥秘</b>。",
     "type": "MINION"
   },
   {
@@ -90685,7 +90685,7 @@
     "artist": "James Ryman",
     "cardClass": "ROGUE",
     "collectible": true,
-    "cost": 3,
+    "cost": 5,
     "dbfId": 130021,
     "flavor": "仔细想想，我还是回牢房去吧……",
     "id": "JAIL_474",
@@ -90791,7 +90791,7 @@
     "name": "艾雅，玉莲帮主",
     "rarity": "LEGENDARY",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "你始终为后手。<b>战吼：</b>在本局对战中，将你的幸运币替换为所选的升级后的伪造幸运币，并获取两张。",
+    "text": "你始终为后手。<b>战吼：</b>在本局对战中，将你的幸运币替换为所选的升级后的伪造幸运币，并获取3张。",
     "type": "MINION"
   },
   {
@@ -91016,7 +91016,7 @@
     "name": "伊莉达·寻罪",
     "rarity": "LEGENDARY",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>吸血</b>。<b>战吼：</b>将你的牌库送入虚空。在你的回合开始时，从虚空中获取两张牌。",
+    "text": "<b>吸血</b>。<b>战吼：</b>除1张牌外，将你的牌库送入虚空。在你的回合开始时，从虚空中获取两张牌。",
     "type": "MINION"
   },
   {
@@ -91131,12 +91131,13 @@
     "id": "JAIL_734",
     "mechanics": [
       "BATTLECRY",
-      "DISCOVER"
+      "DISCOVER",
+      "TAUNT"
     ],
     "name": "魂狱破坏者",
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>战吼：</b>从你的牌库中<b>发现</b>一张牌。如果你的牌库已空，改为获得+4/+4。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>从你的牌库中<b>发现</b>一张牌。如果你的牌库已空，改为获得+4/+4。",
     "type": "MINION"
   },
   {
@@ -91192,10 +91193,10 @@
   },
   {
     "artist": "Mauricio Herrera",
-    "attack": 1,
+    "attack": 2,
     "cardClass": "SHAMAN",
     "collectible": true,
-    "cost": 1,
+    "cost": 2,
     "dbfId": 126409,
     "flavor": "没错，指虎确实没什么必要。可是多帅啊！",
     "health": 3,
@@ -91307,7 +91308,7 @@
     "dbfId": 126600,
     "elite": true,
     "flavor": "玛维坚持采用禁闭威吓手段管理囚犯。对于大多数随从来说，一回合就够了。",
-    "health": 4,
+    "health": 3,
     "howToEarn": "可以在<i>逃离紫罗兰监狱</i>奖励路线中获得该奖励。",
     "howToEarnGolden": "购买<i>逃离紫罗兰监狱</i>炉石通行证后开放解锁。",
     "id": "JAIL_850",
@@ -91445,7 +91446,7 @@
     "durability": 0,
     "elite": true,
     "flavor": "大力才能出诡计！",
-    "health": 3,
+    "health": 4,
     "id": "JAIL_875",
     "mechanics": [
       "DISCOVER",
@@ -91567,7 +91568,7 @@
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "spellSchool": "ARCANE",
-    "text": "造成$5点伤害，随机分配到所有敌人身上。将两张法术牌洗入你的牌库，抽到该法术时会再造成一次。",
+    "text": "造成$4点伤害，随机分配到所有敌人身上。将两张法术牌洗入你的牌库，抽到该法术时会再造成一次。",
     "type": "SPELL"
   },
   {
@@ -91961,7 +91962,7 @@
     "artist": "Alex Stone",
     "cardClass": "DEMONHUNTER",
     "collectible": true,
-    "cost": 3,
+    "cost": 2,
     "dbfId": 130086,
     "flavor": "这是灵魂残片吗？自从在学园毕业之后就再没见过了！",
     "howToEarn": "参与特殊活动以获得该奖励。",

@@ -16483,7 +16483,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "CATACLYSM",
-    "text": "[x]<b>Colossal +2</b>\nAt the end of your turn,\ndeal 2 damage to all\nother minions.",
+    "text": "[x]<b>Colossal +2</b>\nAt the end of your turn,\ndeal 3 damage to all\nother minions.",
     "type": "MINION"
   },
   {
@@ -16975,7 +16975,7 @@
     "artist": "Luca Zontini",
     "cardClass": "HUNTER",
     "collectible": true,
-    "cost": 5,
+    "cost": 4,
     "dbfId": 122939,
     "flavor": "You better be careful or else I'll unleash my tiny army!",
     "howToEarnGolden": "Earnable on <i>CATACLYSM</i> Reward Track.",
@@ -16983,7 +16983,7 @@
     "name": "Confront the Tol'vir",
     "rarity": "EPIC",
     "set": "CATACLYSM",
-    "text": "[x]Replay each 1-Cost\ncard you've played\nthis game <i>(targeting\nenemies if possible.)</i>",
+    "text": "Summon each 1-Cost minion you've played this game.",
     "type": "SPELL"
   },
   {
@@ -28951,7 +28951,7 @@
     ],
     "set": "CORE",
     "spellSchool": "FIRE",
-    "text": "[x]<b>Discover</b> a <b>Battlecry</b>\nminion.",
+    "text": "[x]<b>Discover</b> a <b>Battlecry</b>\nminion. It costs (1) less.",
     "type": "SPELL"
   },
   {
@@ -73906,7 +73906,7 @@
     ],
     "set": "GILNEAS",
     "spellSchool": "FIRE",
-    "text": "[x]<b>Discover</b> a <b>Battlecry</b>\nminion.",
+    "text": "[x]<b>Discover</b> a <b>Battlecry</b>\nminion. It costs (1) less.",
     "type": "SPELL"
   },
   {
@@ -89439,14 +89439,14 @@
     "artist": "Mooncolony",
     "cardClass": "DRUID",
     "collectible": true,
-    "cost": 4,
+    "cost": 5,
     "dbfId": 127815,
     "flavor": "Do NOT let them cook!",
     "id": "JAIL_200",
     "name": "Infest the Scullery",
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "Summon a random\n 4-Cost minion.\n<i>(Improved by your hero attacks this game.)</i>",
+    "text": "[x]Summon two random\n3-Cost minions.\n<i>(Improved by your hero\nattacks this game.)</i>",
     "type": "SPELL"
   },
   {
@@ -89584,7 +89584,7 @@
     "artist": "Alex Stone",
     "cardClass": "WARRIOR",
     "collectible": true,
-    "cost": 3,
+    "cost": 5,
     "dbfId": 126100,
     "flavor": "What type? Stun? Sleep? Sheep?",
     "id": "JAIL_307",
@@ -89592,7 +89592,7 @@
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "spellSchool": "FIRE",
-    "text": "[x]Deal $2 damage\nto all minions.\nIf your deck has 25 or\nmore cards, deal $2 more.",
+    "text": "Deal $2 damage to all minions twice. If your deck has 25 or more cards, this costs (2) less.",
     "type": "SPELL"
   },
   {
@@ -89690,10 +89690,10 @@
     "attack": 4,
     "cardClass": "MAGE",
     "collectible": true,
-    "cost": 4,
+    "cost": 5,
     "dbfId": 126253,
     "flavor": "Welcome to Dalaran, where the spells are made up and the points don't matter!",
-    "health": 4,
+    "health": 3,
     "id": "JAIL_321",
     "mechanics": [
       "BATTLECRY"
@@ -89701,7 +89701,7 @@
     "name": "Tricksy Improviser",
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "[x]<b>Prepare</b>\n<b>Battlecry:</b> If you've cast\na spell this turn, cast a\n random Mage <b>Secret</b>.",
+    "text": "[x]<b>Prepare</b>\n<b>Battlecry:</b> If you've cast a\nspell this turn, cast two\n  random Mage <b>Secrets</b>.",
     "type": "MINION"
   },
   {
@@ -90719,7 +90719,7 @@
     "cardClass": "ROGUE",
     "collectible": true,
     "collectionText": "[x]Get two random 8-Cost\nminions. They cost (1) less\nfor each card you played\nfor 2 Mana this game.",
-    "cost": 3,
+    "cost": 5,
     "dbfId": 130021,
     "flavor": "On second thought! I am going back to my cell...",
     "id": "JAIL_474",
@@ -90825,7 +90825,7 @@
     "name": "Aya, Lotus Kingpin",
     "rarity": "LEGENDARY",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "[x]You always go second.\n<b>Battlecry:</b> Pick an upgraded\ncounterfeit to replace your\n    Coins this game. Get two.  ",
+    "text": "[x]You always go second.\n<b>Battlecry:</b> Pick an upgraded\ncounterfeit to replace your\n  Coins this game. Get 3.",
     "type": "MINION"
   },
   {
@@ -91050,7 +91050,7 @@
     "name": "Irida Sinseeker",
     "rarity": "LEGENDARY",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "[x]<b>Lifesteal</b>. <b>Battlecry:</b> Send\nyour deck to the Void. At the\nstart of your turns, get two\ncards from the Void.",
+    "text": "[x]<b>Lifesteal</b>. <b>Battlecry:</b> Send your\ndeck to the Void, except 1 card.\nAt the start of your turns, get\ntwo cards from the Void.",
     "type": "MINION"
   },
   {
@@ -91165,12 +91165,13 @@
     "id": "JAIL_734",
     "mechanics": [
       "BATTLECRY",
-      "DISCOVER"
+      "DISCOVER",
+      "TAUNT"
     ],
     "name": "Hellraiser",
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "[x]<b>Battlecry:</b> <b>Discover</b> a card\nin your deck. If it's empty,\ngain +4/+4 instead.",
+    "text": "[x]<b>Taunt</b>\n<b>Battlecry:</b> <b>Discover</b> a card\nin your deck. If it's empty,\ngain +4/+4 instead.",
     "type": "MINION"
   },
   {
@@ -91226,10 +91227,10 @@
   },
   {
     "artist": "Mauricio Herrera",
-    "attack": 1,
+    "attack": 2,
     "cardClass": "SHAMAN",
     "collectible": true,
-    "cost": 1,
+    "cost": 2,
     "dbfId": 126409,
     "flavor": "Sure the knuckle dusters are kind of redundant but look how cool they look!",
     "health": 3,
@@ -91341,7 +91342,7 @@
     "dbfId": 126600,
     "elite": true,
     "flavor": "Maiev believes in scared straight tactics. For most minions, one turn is enough.",
-    "health": 4,
+    "health": 3,
     "howToEarn": "Earnable on <i>Escape from Violet Hold</i> Reward Track.",
     "howToEarnGolden": "Earnable after purchasing the <i>Escape from Violet Hold</i> Tavern Pass.",
     "id": "JAIL_850",
@@ -91479,7 +91480,7 @@
     "durability": 0,
     "elite": true,
     "flavor": "It's tricky to get a 'vate, to get a 'vate that's not too late - it's tricky!",
-    "health": 3,
+    "health": 4,
     "id": "JAIL_875",
     "mechanics": [
       "DISCOVER",
@@ -91601,7 +91602,7 @@
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "spellSchool": "ARCANE",
-    "text": "[x]Deal $5 damage split\namong all enemies. Shuffle\n2 spells into your deck that\ndo it again when drawn.",
+    "text": "[x]Deal $4 damage split\namong all enemies. Shuffle\n2 spells into your deck that\ndo it again when drawn.",
     "type": "SPELL"
   },
   {
@@ -91997,7 +91998,7 @@
     "artist": "Alex Stone",
     "cardClass": "DEMONHUNTER",
     "collectible": true,
-    "cost": 3,
+    "cost": 2,
     "dbfId": 130086,
     "flavor": "Is that a Soul Fragment? I haven't seen one of those since college!",
     "howToEarn": "Obtainable by participating in a special event.",

@@ -14994,6 +14994,592 @@
     "type": "MINION"
   },
   {
+    "artist": "Juan Calle",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 127011,
+    "flavor": "Raining wolf from a lacerated sky.",
+    "health": 2,
+    "id": "CAP_000",
+    "isMiniSet": true,
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "SI:7 Slayer",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b><b>Stealth</b>.</b> Whenever a\nfriendly <b><b>Stealth</b>ed</b> minion\nattacks, give it +2/+2.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127028,
+    "flavor": "Be very very quiet... I'm hunting Defias.",
+    "id": "CAP_001",
+    "isMiniSet": true,
+    "name": "Silent Strike",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "Give a minion +3 Attack. If it's <b><b>Stealth</b>ed</b>, deal its Attack damage to a random enemy minion.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 127041,
+    "flavor": "Big Foot Hunter",
+    "id": "CAP_002",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "Follow the Footsteps",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Discover</b> a <b>Stealth</b>\nminion. Give it this\neffect for a turn.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127054,
+    "flavor": "\"Where did I get this crate? Well I got it from uhh- Granny Smith...\"",
+    "health": 3,
+    "id": "CAP_003",
+    "isMiniSet": true,
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "SI:7 Supplier",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Stealth</b>\nAfter this attacks,\ndraw a card.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 127055,
+    "flavor": "He's a Disguised Operator\nDisguiiiised Operator...",
+    "health": 2,
+    "id": "CAP_004",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "Disguised Operator",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x] Can be played on either side.\n<b>Rush</b>. <b>Deathrattle:</b> Your\nopponent draws 2 cards.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 127056,
+    "elite": true,
+    "flavor": "One night, when Mathias had nearly given up on finding Vancleef, there was a sharp tap on his door. An unearthly raven, shimmering violet, looked up at the SI:7 leader and spoke: “Moonbrook. She won’t know you’re coming.”",
+    "health": 4,
+    "id": "CAP_005",
+    "isMiniSet": true,
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Mathias Shaw",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b><b>Stealth</b>.</b> Whenever a friendly\n<b><b>Stealth</b>ed</b> minion attacks,\nreduce the Cost of a random\n   card in your hand by (3).",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 127073,
+    "flavor": "Go go gadget dagger!",
+    "id": "CAP_006",
+    "isMiniSet": true,
+    "name": "Tricks of the Trade",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Deal $1 damage.\nIf a <b><b>Stealth</b>ed</b> minion\nattacked while holding\nthis, deal $3 instead.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gabor Szikszai",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 127013,
+    "flavor": "Wound up being a dead end.",
+    "id": "CAP_101",
+    "isMiniSet": true,
+    "name": "Follow the Fuse",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Deal $2 damage to a\nrandom enemy. Give a\nplayable Pirate in your\nhand this effect for a turn.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 127014,
+    "flavor": "After long months at sea, it's comforting to have solid earth to shoot at.",
+    "id": "CAP_102",
+    "isMiniSet": true,
+    "name": "Land Ho!",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Draw 2 cards.\nSummon two 1/1\nCannoneers.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 127015,
+    "durability": 0,
+    "flavor": "The precursor to Finger Guns.",
+    "health": 2,
+    "id": "CAP_103",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Hand Cannon",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]After your hero attacks,\nyour Cannoneers FIRE!",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Kati Sarin",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127016,
+    "flavor": "She's got that boom, boom pow.",
+    "health": 3,
+    "id": "CAP_104",
+    "isMiniSet": true,
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "Blastpowder Engineer",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]On your turn, friendly\nPirates deal 1 more\ndamage.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Joseph Weston",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127017,
+    "flavor": "Was the door locked or something?",
+    "id": "CAP_105",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "Hook n' Heave",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Discover</b> a Pirate.\nSummon two 1/1 Cannoneers.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Leroy Steinmann",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 127019,
+    "elite": true,
+    "flavor": "The coward Godfrey had hidden in Shadowfang Keep for long enough. Darius didn’t care whom he had to work with. Mercenaries… pirates… all that mattered was justice.",
+    "health": 5,
+    "id": "CAP_106",
+    "isMiniSet": true,
+    "mechanics": [
+      "AURA",
+      "BATTLECRY"
+    ],
+    "name": "Captain Crowley",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Your Cannoneers fire\nan additional shot.\n<b>Battlecry</b>: Summon\n two 1/1 Cannoneers.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 127099,
+    "flavor": "Just watch his hour long video to understand all the Hearthstone lore.",
+    "health": 1,
+    "id": "CAP_107",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Cannonmaster",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE",
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Battlecry:</b> Get a 1/1\nCannoneer that deals\n1 damage to a random\nenemy at end of turn.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127033,
+    "flavor": "Doing the Kabal's dirty work for the last 10 years.",
+    "health": 3,
+    "id": "CAP_400",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "Kabal Conspirator",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Deathrattle:</b> Put two\n3/3 Imp-formants into the\nenemy deck. They summon\nfor YOU when drawn.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 127037,
+    "flavor": "\"In spite of the rumors, we continue in our proud tradition of not having a functioning justice system in the city of Gadgetzan.\" - Mayor Noggenfogger",
+    "health": 5,
+    "id": "CAP_401",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Corrupt Constable",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Battlecry:</b> If the enemy deck has any Imp-formants, move one to the top and give it +2/+2.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 127051,
+    "flavor": "We're dealing with a serious monster. Who eats everything BUT the marshmallows?!",
+    "id": "CAP_402",
+    "isMiniSet": true,
+    "name": "Follow the Evidence",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Put a 3/3 Imp-formant\ninto the enemy deck. Give\na playable card in your\nhand this effect for a turn.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 127057,
+    "flavor": "Forensics shows that the victim was struck by a 2-mana 2/2 weapon with <b>Overload:</b> (1).",
+    "id": "CAP_403",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "Frame Job",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Destroy two random\nenemy minions. <b>Discover</b>\na minion in the enemy\ndeck to put on top.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127058,
+    "flavor": "\"Parole. Can you use it in a sentence?\"\n\"Sigh- By order of the court you are hereby sentenced to 76 years in The Violet Hold with no chance of PAROLE!\"",
+    "id": "CAP_404",
+    "isMiniSet": true,
+    "name": "Harsh Sentence",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]Enemy minions cost\n(2) more next turn. Put\ntwo 3/3 Imp-formants\ninto the enemy deck.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 127067,
+    "elite": true,
+    "flavor": "There was a good reason the gangs of Gadgetzan never worked together. It was Kazakus who planned the heist… but it was always going to be Blackpaw who took the fall.",
+    "health": 3,
+    "id": "CAP_405",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Godfather Kazakus",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Battlecry:</b> Plot a custom sham trial! Then choose the trial's length.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 127090,
+    "flavor": "We are not the gang you are looking for.",
+    "health": 5,
+    "id": "CAP_406",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "Kabal Mastermind",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Taunt</b>. <b>Battlecry:</b>\nWhenever you summon an\nImp-formant this game,\ngive it +2/+2.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dmitry Bolotov",
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129888,
+    "flavor": "\"Aww, they messed up my nose!\"",
+    "id": "CAP_407",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "Wanted Poster",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Discover</b> a minion\n that costs (5) or more.\nGive it <b>Prepare</b>.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 127060,
+    "flavor": "A kingdom, a kingdom... literally anything for my horse.",
+    "health": 3,
+    "id": "CAP_800",
+    "isMiniSet": true,
+    "mechanics": [
+      "REBORN"
+    ],
+    "name": "Sinful Steed",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>Reborn</b>. This is <b>Reborn</b> with full Health and enchantments.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 127061,
+    "flavor": "That hay ain't gonna toss itself!",
+    "id": "CAP_801",
+    "isMiniSet": true,
+    "name": "Haunt",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN",
+      "TAUNT"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "Give a minion +2/+3,\n<b>Reborn</b>, and <b>Taunt</b>.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127062,
+    "flavor": "\"I will NOT be following any ghosts, like no thank you.\"\n\"Would you do it for a Spooky Snack?\"",
+    "id": "CAP_802",
+    "isMiniSet": true,
+    "name": "Follow the Ghosts",
+    "rarity": "RARE",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "[x]Summon a 2/1 Ghost\nwith <b>Reborn</b>. Give a\nplayable card in your hand\nthis effect for a turn.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 127064,
+    "flavor": "\"Back in my day...\"\n\"Okay, ghost grandpa, we get it!\"",
+    "health": 3,
+    "id": "CAP_803",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "REBORN"
+    ],
+    "name": "Lingering Spirit",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Reborn</b>\n<b>Deathrattle:</b> Restore #3 Health\nto your hero. Excess healing\n     damages a random enemy.  ",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 127065,
+    "flavor": "She ain't afraid of no ghosts!",
+    "health": 2,
+    "id": "CAP_804",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Specter Specialist",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Battlecry:</b> Give a\nfriendly minion <b>Reborn</b>.\nIf it already has <b>Reborn</b>,\n summon a copy of it.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 127092,
+    "flavor": "\"Hell... it's about slime!\"",
+    "id": "CAP_805",
+    "isMiniSet": true,
+    "name": "Slime 'em!",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "[x]Destroy all minions.\nEach player gets a\n3-Cost spell that\nresummons theirs.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sonderflex",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 127068,
+    "elite": true,
+    "flavor": "Azalina Soulthief has haunted the Witchwood for generations. But no longer - Gilneas has called upon the realm’s greatest ghost hunter to cleanse the forest, once and for all.",
+    "health": 5,
+    "id": "CAP_806",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Raith Van Geist",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "[x]<b>Battlecry:</b> Resurrect your\nminions that were <b>Reborn</b>\nthis game. They attack\n   random enemy minions.",
+    "type": "MINION"
+  },
+  {
     "artist": "Sergey Tsvelykh",
     "attack": 4,
     "cardClass": "NEUTRAL",
@@ -27028,7 +27614,7 @@
     "rarity": "COMMON",
     "set": "CORE",
     "spellSchool": "SHADOW",
-    "text": "[x]Deal $1 damage to a minion.\n If it dies, draw a card.",
+    "text": "Deal $1 damage to a minion. If it dies,\ndraw a card.",
     "type": "SPELL"
   },
   {
@@ -54904,7 +55490,7 @@
     ],
     "set": "EMERALD_DREAM",
     "spellSchool": "NATURE",
-    "text": "Deal $3 damage to a minion. If it dies, summon a 3/2 Wolf with <b>Rush</b>.",
+    "text": "[x]Deal $3 damage\n to a minion. If it dies,\nsummon a 3/2 Wolf\nwith <b>Rush</b>.",
     "type": "SPELL"
   },
   {
@@ -58693,7 +59279,7 @@
     "rarity": "RARE",
     "set": "BATTLE_OF_THE_BANDS",
     "spellSchool": "SHADOW",
-    "text": "[x]Deal $3 damage to a\ncharacter. If it dies,\nsummon a Demon from\nyour deck.",
+    "text": "[x]Deal $3 damage to a\ncharacter. If it dies,\nsummon a Demon\nfrom your deck.",
     "type": "SPELL"
   },
   {
@@ -63995,7 +64581,7 @@
     "rarity": "FREE",
     "set": "LEGACY",
     "spellSchool": "SHADOW",
-    "text": "[x]Deal $1 damage to a minion.\n If it dies, draw a card.",
+    "text": "Deal $1 damage to a minion. If it dies,\ndraw a card.",
     "type": "SPELL"
   },
   {
@@ -78885,6 +79471,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Mooncolony & The Hearthstone Art Team",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "dbfId": 123698,
+    "health": 30,
+    "heroPowerDbfId": 134891,
+    "id": "HERO_03bi",
+    "name": "Mob Boss Valeera",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Grafit Studio",
     "cardClass": "ROGUE",
     "collectible": true,
@@ -78997,6 +79596,19 @@
     "heroPowerDbfId": 131085,
     "id": "HERO_03by",
     "name": "Aya Blackpaw",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Thunder Fire Studio",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "dbfId": 133205,
+    "health": 30,
+    "heroPowerDbfId": 66931,
+    "id": "HERO_03cd",
+    "name": "Bounty Hunter Edwin",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -79925,6 +80537,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Kevin Sidharta",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "dbfId": 134651,
+    "health": 30,
+    "heroPowerDbfId": 65542,
+    "id": "HERO_04ck",
+    "name": "Tavern-Keeper Nozdormu",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "James Ryman",
     "cardClass": "PALADIN",
     "collectible": true,
@@ -80806,6 +81431,19 @@
     "heroPowerDbfId": 60336,
     "id": "HERO_05c",
     "name": "Sylvanas Windrunner",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Tee Fuyan",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "dbfId": 131097,
+    "health": 30,
+    "heroPowerDbfId": 65540,
+    "id": "HERO_05ca",
+    "name": "Bounty Hunter Vivian",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -82579,6 +83217,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Cole Eastburn",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "dbfId": 131094,
+    "health": 30,
+    "heroPowerDbfId": 131095,
+    "id": "HERO_07by",
+    "name": "Zuramat the Obliterator",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Alex Horley Orlandelli",
     "cardClass": "WARLOCK",
     "collectible": true,
@@ -83653,6 +84304,32 @@
     "heroPowerDbfId": 64973,
     "id": "HERO_08cr",
     "name": "Escape Artist Millhouse",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Mooncolony & The Hearthstone Art Team",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "dbfId": 131091,
+    "health": 30,
+    "heroPowerDbfId": 131092,
+    "id": "HERO_08cs",
+    "name": "Lich Lord Kel'Thuzad",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Mooncolony & The Hearthstone Art Team",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "dbfId": 133684,
+    "health": 30,
+    "heroPowerDbfId": 133686,
+    "id": "HERO_08cs_necro",
+    "name": "Lich Lord Kel'Thuzad",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -85378,6 +86055,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Angelina Chernyak",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "dbfId": 134652,
+    "health": 30,
+    "heroPowerDbfId": 66907,
+    "id": "HERO_10cg",
+    "name": "Dance-Off Aranna",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "L. Lullabi & A. Zemskov",
     "cardClass": "DEMONHUNTER",
     "collectible": true,
@@ -85971,6 +86661,32 @@
     "heroPowerDbfId": 130960,
     "id": "HERO_11bd",
     "name": "Prison Doctor Thal'ena",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Mooncolony & The Hearthstone Art Team",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "dbfId": 133683,
+    "health": 30,
+    "heroPowerDbfId": 133688,
+    "id": "HERO_11be",
+    "name": "Lich Lord Kel'Thuzad",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Mooncolony & The Hearthstone Art Team",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "dbfId": 133685,
+    "health": 30,
+    "heroPowerDbfId": 133690,
+    "id": "HERO_11be_necro",
+    "name": "Lich Lord Kel'Thuzad",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -89700,6 +90416,9 @@
     ],
     "name": "Tricksy Improviser",
     "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "[x]<b>Prepare</b>\n<b>Battlecry:</b> If you've cast a\nspell this turn, cast two\n  random Mage <b>Secrets</b>.",
     "type": "MINION"
@@ -91796,7 +92515,7 @@
     "name": "Soothsayer",
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "[x]<b>Prepare</b>, <b>Taunt</b>\n<b>Deathrattle:</b> Restore 6 Health\nto your hero. Summon a\n random 6-Cost minion.",
+    "text": "[x]<b>Prepare</b>, <b>Taunt</b>\n<b>Deathrattle:</b> Restore #6 Health\nto your hero. Summon a\n random 6-Cost minion.",
     "type": "MINION"
   },
   {
@@ -91977,8 +92696,8 @@
     "elite": true,
     "flavor": "Welcome to \"Do You Know Hearthstone?\"",
     "health": 2,
-    "howToEarn": "Obtainable by participating in a special event.",
-    "howToEarnGolden": "Obtainable by participating in a special event.",
+    "howToEarn": "Earnable after opening a <i>Escape from Violet Hold</i> card pack.",
+    "howToEarnGolden": "Earnable after opening a golden <i>Escape from Violet Hold</i> card pack.",
     "id": "JAIL_EVENT_100",
     "mechanics": [
       "BATTLECRY",
@@ -92001,8 +92720,8 @@
     "cost": 2,
     "dbfId": 130086,
     "flavor": "Is that a Soul Fragment? I haven't seen one of those since college!",
-    "howToEarn": "Obtainable by participating in a special event.",
-    "howToEarnGolden": "Obtainable by participating in a special event.",
+    "howToEarn": "Earnable after opening a <i>Escape from Violet Hold</i> card pack.",
+    "howToEarnGolden": "Earnable after opening a golden <i>Escape from Violet Hold</i> card pack.",
     "id": "JAIL_EVENT_101",
     "name": "Soul Immolation",
     "rarity": "EPIC",
@@ -92018,8 +92737,8 @@
     "cost": 3,
     "dbfId": 130087,
     "flavor": "TAKE MY MONEY!!!",
-    "howToEarn": "Obtainable by participating in a special event.",
-    "howToEarnGolden": "Obtainable by participating in a special event.",
+    "howToEarn": "Earnable after opening a <i>Escape from Violet Hold</i> card pack.",
+    "howToEarnGolden": "Earnable after opening a golden <i>Escape from Violet Hold</i> card pack.",
     "id": "JAIL_EVENT_102",
     "name": "Desperate Bribe",
     "rarity": "EPIC",
@@ -94177,7 +94896,7 @@
       "unholy": 0
     },
     "set": "LEGACY",
-    "text": "Deal $3 damage to a minion. If it dies, gain a <b>Corpse</b>.",
+    "text": "Deal $3 damage to\n a minion. If it dies,\ngain a <b>Corpse</b>.",
     "type": "SPELL"
   },
   {
@@ -108000,7 +108719,7 @@
     },
     "set": "PATH_OF_ARTHAS",
     "spellSchool": "SHADOW",
-    "text": "Deal $3 damage to a minion. If it dies, summon a 2/2 Zombie with <b>Rush</b>.",
+    "text": "[x]Deal $3 damage\nto a minion. If it dies,\nsummon a 2/2 Zombie\nwith <b>Rush</b>.",
     "type": "SPELL"
   },
   {
@@ -108049,7 +108768,7 @@
     },
     "set": "CORE",
     "spellSchool": "FROST",
-    "text": "[x]Deal $3 damage to a\n minion. If it dies, <b>Discover</b> a\nFrost Rune card.",
+    "text": "Deal $3 damage to a minion. If it dies, <b>Discover</b> a Frost\nRune card.",
     "type": "SPELL"
   },
   {
@@ -108094,7 +108813,7 @@
       "unholy": 0
     },
     "set": "CORE_HIDDEN",
-    "text": "Deal $3 damage to a minion. If it dies, gain a <b>Corpse</b>.",
+    "text": "Deal $3 damage to\n a minion. If it dies,\ngain a <b>Corpse</b>.",
     "type": "SPELL"
   },
   {
@@ -150828,7 +151547,7 @@
     "name": "Mortal Coil",
     "rarity": "FREE",
     "set": "VANILLA",
-    "text": "[x]Deal $1 damage to a minion.\n If it dies, draw a card.",
+    "text": "Deal $1 damage to a minion. If it dies,\ndraw a card.",
     "type": "SPELL"
   },
   {

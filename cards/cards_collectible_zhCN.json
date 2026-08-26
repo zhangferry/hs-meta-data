@@ -14991,6 +14991,592 @@
     "type": "MINION"
   },
   {
+    "artist": "Juan Calle",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 127011,
+    "flavor": "夜，是狼深邃眼睛。",
+    "health": 2,
+    "id": "CAP_000",
+    "isMiniSet": true,
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "军情七处杀手",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b><b>潜行</b>。</b>每当一个<b><b>潜行</b>的</b>友方随从攻击，使其获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127028,
+    "flavor": "务必安静……我在追猎迪菲亚。",
+    "id": "CAP_001",
+    "isMiniSet": true,
+    "name": "静默打击",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从\n获得+3攻击力。如果该随从<b><b>潜行</b></b>，随机对一个敌方随从造成等同于该潜行随从攻击力的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 127041,
+    "flavor": "大脚怪猎人",
+    "id": "CAP_002",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "跟随足迹",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>发现</b>一张<b>潜行</b>随从牌。使该牌在一回合内获得此效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127054,
+    "flavor": "“箱子从哪拿的？呃，我从，嗯——史密斯奶奶……”",
+    "health": 3,
+    "id": "CAP_003",
+    "isMiniSet": true,
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "军情七处补给官",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>潜行</b>。在本随从攻击后，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 127055,
+    "flavor": "他是个伪装的特工，伪——装——的特工……",
+    "health": 2,
+    "id": "CAP_004",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "伪装的特工",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "可以使用在对战面板的任意一侧。<b>突袭</b>。<b>亡语：</b>你的对手抽两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 127056,
+    "elite": true,
+    "flavor": "某夜，就在马迪亚斯行将放弃追查范克里夫的时候，一阵急促的敲门声传来。一只散发着紫色微光的诡异渡鸦站在他门外，盯着这位军情七处的首领，开口说道：“月溪镇。她不会发现你的。”",
+    "health": 4,
+    "id": "CAP_005",
+    "isMiniSet": true,
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "马迪亚斯·肖尔",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b><b>潜行</b>。</b>每当一个<b><b>潜行</b>的</b>友方随从攻击，随机使你手牌中一张牌的法力值消耗减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 127073,
+    "flavor": "用刀的秘诀就是鞘。",
+    "id": "CAP_006",
+    "isMiniSet": true,
+    "name": "嫁祸诀窍",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "造成$1点伤害。如果在本牌在你手中时有<b><b>潜行</b>的</b>随从攻击过，改为造成$3点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gabor Szikszai",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 127013,
+    "flavor": "追进了一条死路。",
+    "id": "CAP_101",
+    "isMiniSet": true,
+    "name": "跟随引线",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "随机对一个敌人造成$2点伤害。使你手牌中一张可用的海盗牌在一回合内获得此效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 127014,
+    "flavor": "在海上几个月之后，发现一块陆地可太爽了，必须轰它几炮。",
+    "id": "CAP_102",
+    "isMiniSet": true,
+    "name": "眺望陆地",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "抽两张牌。\n召唤两个1/1的\n火炮手。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 127015,
+    "durability": 0,
+    "flavor": "手指火枪的前身。",
+    "health": 2,
+    "id": "CAP_103",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "手持火炮",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "在你的英雄\n攻击后，你的\n火炮手开火！",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Kati Sarin",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127016,
+    "flavor": "爆发力十足。",
+    "health": 3,
+    "id": "CAP_104",
+    "isMiniSet": true,
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "炸药工程师",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "在你的回合，\n友方海盗造成的伤害增加1点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Joseph Weston",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127017,
+    "flavor": "门锁上了吗？还是什么情况？",
+    "id": "CAP_105",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "钩手拖曳",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>发现</b>一张海盗牌。召唤两个1/1的火炮手。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Leroy Steinmann",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 127019,
+    "elite": true,
+    "flavor": "那个懦弱的高弗雷躲在影牙城堡里太久了。达利乌斯不在乎他的合作伙伴都是谁，佣兵也好，海盗也好……只要他能够伸张正义。",
+    "health": 5,
+    "id": "CAP_106",
+    "isMiniSet": true,
+    "mechanics": [
+      "AURA",
+      "BATTLECRY"
+    ],
+    "name": "克罗雷船长",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "你的火炮手额外开火一次。<b>战吼：</b>召唤两个1/1的火炮手。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 127099,
+    "flavor": "一个“长”视频，带你了解《炉石传说》全剧情。",
+    "health": 1,
+    "id": "CAP_107",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "火炮长",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE",
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>战吼：</b>获取一张1/1的火炮手。火炮手能在回合结束时随机对一个敌人造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127033,
+    "flavor": "参与暗金教的肮脏勾当已有十年。",
+    "health": 3,
+    "id": "CAP_400",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "暗金教密谋者",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>亡语：</b>将两张3/3的卧底小鬼置入敌方牌库。当抽到卧底小鬼时，为你召唤。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 127037,
+    "flavor": "“目前虽然流言众多，但我们加基森值得骄傲的传统不会变：这里绝对不会有正常的司法系统。”——诺格弗格市长",
+    "health": 5,
+    "id": "CAP_401",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "腐败警员",
+    "rarity": "COMMON",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>战吼：</b>如果敌方牌库中有卧底小鬼，将其中一张移至敌方牌库顶并使其获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 127051,
+    "flavor": "这次的目标不一般。到底是谁把东西全吃了，只留下棉花糖？！",
+    "id": "CAP_402",
+    "isMiniSet": true,
+    "name": "跟随证据",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "将一张3/3的卧底小鬼置入敌方牌库。使你手牌中一张可用的卡牌在一回合内获得此效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 127057,
+    "flavor": "证据表明，击中受害者的是一把法力值消耗为（2）的2/2并具有<b>过载：</b>（1）的武器。",
+    "id": "CAP_403",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "陷害",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "随机消灭两个敌方随从。从敌方牌库中<b>发现</b>一张随从牌并置于其牌库顶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127058,
+    "flavor": "“你能把‘假释’写进判词吗？”“好吧。本庭宣判：判处你徒刑76年，押入紫罗兰监狱，不得假释！”",
+    "id": "CAP_404",
+    "isMiniSet": true,
+    "name": "强力裁决",
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "下个回合，敌方随从牌的法力值消耗增加（2）点。将两张3/3的卧底小鬼置入敌方牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 127067,
+    "elite": true,
+    "flavor": "加基森的各大帮派从不合作。至于原因嘛。谋划犯罪的明明是卡扎库斯……可背锅的永远都是黑掌家族。",
+    "health": 3,
+    "id": "CAP_405",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "教父卡扎库斯",
+    "rarity": "LEGENDARY",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>战吼：</b>谋划一场自定义的黑幕庭审，然后选择庭审的长度！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 127090,
+    "flavor": "我们不是你要找的那个帮派。",
+    "health": 5,
+    "id": "CAP_406",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "暗金教主谋",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>在本局对战中，每当你召唤一个卧底小鬼，使其获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dmitry Bolotov",
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129888,
+    "flavor": "“啊，他们把我的鼻子画崩了！”",
+    "id": "CAP_407",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "通缉海报",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>发现</b>一张法力值消耗大于或等于（5）点的随从牌，使其获得<b>预备</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 127060,
+    "flavor": "王国，江山……什么都可以付出，只要能换回我的战马。",
+    "health": 3,
+    "id": "CAP_800",
+    "isMiniSet": true,
+    "mechanics": [
+      "REBORN"
+    ],
+    "name": "罪孽战马",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>复生</b>。本随从<b>复生</b>时会具有所有生命值和附加效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 127061,
+    "flavor": "干草堆不会自己翻好！",
+    "id": "CAP_801",
+    "isMiniSet": true,
+    "name": "幽魂不散",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN",
+      "TAUNT"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得+2/+3，<b>复生</b>和<b>嘲讽</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 127062,
+    "flavor": "“什么鬼，我才不会跟着幽灵关注你们的。”“那再送您一份鬼怪小零食怎么样？”",
+    "id": "CAP_802",
+    "isMiniSet": true,
+    "name": "跟随幽灵",
+    "rarity": "RARE",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "召唤一个2/1并具有<b>复生</b>的幽灵。使你手牌中一张可用的卡牌在一回合内获得此效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 127064,
+    "flavor": "“想当年……”“行了，幽灵爷爷，知道了！”",
+    "health": 3,
+    "id": "CAP_803",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "REBORN"
+    ],
+    "name": "游荡之魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>复生</b>。<b>亡语：</b>为你的英雄恢复#3点生命值，超过生命值上限的治疗会对一个随机敌人造成等量伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 127065,
+    "flavor": "她一点也不怕鬼！",
+    "health": 2,
+    "id": "CAP_804",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "捉鬼专家",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>战吼：</b>使一个友方随从获得<b>复生</b>。如果其已经拥有<b>复生</b>，召唤一个它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 127092,
+    "flavor": "“天呐……太灵了！”",
+    "id": "CAP_805",
+    "isMiniSet": true,
+    "name": "灵质处决",
+    "rarity": "EPIC",
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "spellSchool": "SHADOW",
+    "text": "消灭所有随从。每个\n玩家各获取一张法力值消耗\n为（3）的法术牌，该法术可以重新召唤其\n被消灭的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sonderflex",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 127068,
+    "elite": true,
+    "flavor": "窃魂者阿扎莉娜盘踞在女巫森林历时已久，但她的肆虐到此为止了——吉尔尼斯人请来了全国最强的捉鬼猎人，意在彻底扫清这片森林。",
+    "health": 5,
+    "id": "CAP_806",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "雷斯·范盖斯特",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "ESCAPEFROM_VIOLET_HOLD",
+    "text": "<b>战吼：</b>复活在本局对战中你的<b>复生</b>过的随从，并使其攻击随机敌方随从。",
+    "type": "MINION"
+  },
+  {
     "artist": "Sergey Tsvelykh",
     "attack": 4,
     "cardClass": "NEUTRAL",
@@ -78852,6 +79438,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Mooncolony & The Hearthstone Art Team",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "dbfId": 123698,
+    "health": 30,
+    "heroPowerDbfId": 134891,
+    "id": "HERO_03bi",
+    "name": "黑帮老大瓦莉拉",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Grafit Studio",
     "cardClass": "ROGUE",
     "collectible": true,
@@ -78964,6 +79563,19 @@
     "heroPowerDbfId": 131085,
     "id": "HERO_03by",
     "name": "艾雅·黑掌",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Thunder Fire Studio",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "dbfId": 133205,
+    "health": 30,
+    "heroPowerDbfId": 66931,
+    "id": "HERO_03cd",
+    "name": "赏金猎人艾德温",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -79892,6 +80504,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Kevin Sidharta",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "dbfId": 134651,
+    "health": 30,
+    "heroPowerDbfId": 65542,
+    "id": "HERO_04ck",
+    "name": "酒馆守护者诺兹多姆",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "James Ryman",
     "cardClass": "PALADIN",
     "collectible": true,
@@ -80773,6 +81398,19 @@
     "heroPowerDbfId": 60336,
     "id": "HERO_05c",
     "name": "希尔瓦娜斯·风行者",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Tee Fuyan",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "dbfId": 131097,
+    "health": 30,
+    "heroPowerDbfId": 65540,
+    "id": "HERO_05ca",
+    "name": "赏金猎人薇薇安",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -82546,6 +83184,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Cole Eastburn",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "dbfId": 131094,
+    "health": 30,
+    "heroPowerDbfId": 131095,
+    "id": "HERO_07by",
+    "name": "湮灭者祖拉玛特",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Alex Horley Orlandelli",
     "cardClass": "WARLOCK",
     "collectible": true,
@@ -83620,6 +84271,32 @@
     "heroPowerDbfId": 64973,
     "id": "HERO_08cr",
     "name": "逃命专家米尔豪斯",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Mooncolony & The Hearthstone Art Team",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "dbfId": 131091,
+    "health": 30,
+    "heroPowerDbfId": 131092,
+    "id": "HERO_08cs",
+    "name": "巫妖领主克尔苏加德",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Mooncolony & The Hearthstone Art Team",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "dbfId": 133684,
+    "health": 30,
+    "heroPowerDbfId": 133686,
+    "id": "HERO_08cs_necro",
+    "name": "巫妖领主克尔苏加德",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -85345,6 +86022,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Angelina Chernyak",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "dbfId": 134652,
+    "health": 30,
+    "heroPowerDbfId": 66907,
+    "id": "HERO_10cg",
+    "name": "劲歌热舞阿兰娜",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "L. Lullabi & A. Zemskov",
     "cardClass": "DEMONHUNTER",
     "collectible": true,
@@ -85938,6 +86628,32 @@
     "heroPowerDbfId": 130960,
     "id": "HERO_11bd",
     "name": "监狱医师萨安娜",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Mooncolony & The Hearthstone Art Team",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "dbfId": 133683,
+    "health": 30,
+    "heroPowerDbfId": 133688,
+    "id": "HERO_11be",
+    "name": "巫妖领主克尔苏加德",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Mooncolony & The Hearthstone Art Team",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "dbfId": 133685,
+    "health": 30,
+    "heroPowerDbfId": 133690,
+    "id": "HERO_11be_necro",
+    "name": "巫妖领主克尔苏加德",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -89667,6 +90383,9 @@
     ],
     "name": "机灵的即兴舞者",
     "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "text": "<b>预备</b>。<b>战吼：</b>如果你在本回合中施放过法术，随机施放两个法师<b>奥秘</b>。",
     "type": "MINION"
@@ -91761,7 +92480,7 @@
     "name": "预言师",
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>预备</b>。<b>嘲讽</b>。<b>亡语：</b>为你的英雄恢复6点生命值。随机召唤一个法力值消耗为（6）的随从。",
+    "text": "<b>预备</b>。<b>嘲讽</b>。<b>亡语：</b>为你的英雄恢复#6点生命值。随机召唤一个法力值消耗为（6）的随从。",
     "type": "MINION"
   },
   {
@@ -91941,8 +92660,8 @@
     "elite": true,
     "flavor": "欢迎来到真假卡牌竞猜问答！",
     "health": 2,
-    "howToEarn": "参与特殊活动以获得该奖励。",
-    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "howToEarn": "打开<i>逃离紫罗兰监狱</i>卡牌包后可解锁。",
+    "howToEarnGolden": "打开<i>逃离紫罗兰监狱</i>金色包后可解锁。",
     "id": "JAIL_EVENT_100",
     "mechanics": [
       "BATTLECRY",
@@ -91965,8 +92684,8 @@
     "cost": 2,
     "dbfId": 130086,
     "flavor": "这是灵魂残片吗？自从在学园毕业之后就再没见过了！",
-    "howToEarn": "参与特殊活动以获得该奖励。",
-    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "howToEarn": "打开<i>逃离紫罗兰监狱</i>卡牌包后可解锁。",
+    "howToEarnGolden": "打开<i>逃离紫罗兰监狱</i>金色包后可解锁。",
     "id": "JAIL_EVENT_101",
     "name": "灵魂献祭",
     "rarity": "EPIC",
@@ -91982,10 +92701,10 @@
     "cost": 3,
     "dbfId": 130087,
     "flavor": "这笔钱您收好！！",
-    "howToEarn": "参与特殊活动以获得该奖励。",
-    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "howToEarn": "打开<i>逃离紫罗兰监狱</i>卡牌包后可解锁。",
+    "howToEarnGolden": "打开<i>逃离紫罗兰监狱</i>金色包后可解锁。",
     "id": "JAIL_EVENT_102",
-    "name": "绝境贿赂",
+    "name": "Desperate Bribe",
     "rarity": "EPIC",
     "set": "EVENT",
     "text": "为每个玩家召唤两个法力值消耗为（2）的随从。将你的随从变形成为法力值消耗增加（1）点的\n随从。",

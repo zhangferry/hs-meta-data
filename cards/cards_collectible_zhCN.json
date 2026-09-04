@@ -18043,13 +18043,13 @@
   },
   {
     "artist": "Mike Sass",
-    "attack": 9,
+    "attack": 8,
     "cardClass": "DEMONHUNTER",
     "collectible": true,
     "cost": 9,
     "dbfId": 123539,
     "flavor": "可是一般来说海兽并不可怕呀！",
-    "health": 6,
+    "health": 8,
     "id": "CATA_699",
     "mechanics": [
       "BATTLECRY",
@@ -48756,13 +48756,13 @@
   },
   {
     "artist": "Todd Harris",
-    "attack": 9,
+    "attack": 8,
     "cardClass": "DRUID",
     "collectible": true,
-    "cost": 9,
+    "cost": 8,
     "dbfId": 118617,
     "flavor": "地雷？什么地雷？",
-    "health": 9,
+    "health": 8,
     "id": "DINO_421",
     "isMiniSet": true,
     "mechanics": [
@@ -56280,7 +56280,7 @@
   },
   {
     "artist": "Alex Horley Orlandelli",
-    "attack": 8,
+    "attack": 9,
     "cardClass": "WARLOCK",
     "collectible": true,
     "cost": 10,
@@ -90157,7 +90157,7 @@
     "cost": 1,
     "dbfId": 127946,
     "flavor": "遵命，大厨！",
-    "health": 3,
+    "health": 2,
     "id": "JAIL_202",
     "mechanics": [
       "AURA"
@@ -92704,7 +92704,7 @@
     "howToEarn": "打开<i>逃离紫罗兰监狱</i>卡牌包后可解锁。",
     "howToEarnGolden": "打开<i>逃离紫罗兰监狱</i>金色包后可解锁。",
     "id": "JAIL_EVENT_102",
-    "name": "Desperate Bribe",
+    "name": "绝境贿赂",
     "rarity": "EPIC",
     "set": "EVENT",
     "text": "为每个玩家召唤两个法力值消耗为（2）的随从。将你的随从变形成为法力值消耗增加（1）点的\n随从。",
@@ -125245,7 +125245,7 @@
       "DISCOVER"
     ],
     "set": "THE_LOST_CITY",
-    "text": "<b>任务：</b><b>发现</b>7张牌。<b>奖励：</b>源生之石。",
+    "text": "<b>任务：</b><b>发现</b>8张牌。<b>奖励：</b>源生之石。",
     "type": "SPELL"
   },
   {

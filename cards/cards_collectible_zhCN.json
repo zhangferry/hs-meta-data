@@ -8129,6 +8129,140 @@
     "type": "MINION"
   },
   {
+    "artist": "Kevin Sidharta",
+    "attack": 12,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 132339,
+    "elite": true,
+    "flavor": "黑暗帝国降临之际，便是趣文揭晓之时。",
+    "health": 12,
+    "id": "BE_013",
+    "name": "克苏恩，帝国之眼",
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "<b>古神</b>\n如果你在本局对战中触发了克苏恩的全部4个技能，本随从的技能效果变为三倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 9,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 128132,
+    "elite": true,
+    "flavor": "圣母来了！",
+    "health": 7,
+    "howToEarn": "完成起始任务后解锁。",
+    "howToEarnGolden": "购买<i>黑暗帝国的统治</i>炉石通行证后开放解锁。",
+    "id": "BE_036",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "纯净圣母",
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "<b>战吼：</b>使你手牌中一张牌的法力值消耗减少（5）点。向左侧和右侧继续此效果，每次减少的量降低（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 129851,
+    "elite": true,
+    "flavor": "凭空创造星体需要巨大的能量。伊希斯特就此诞生，成为了无尽的魔法源泉，这样她就能更好地照料那座群星之园。",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "id": "BE_259",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "伊希斯特",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "BE",
+    "text": "<b>战吼：</b>召唤两个10/10的构造体。这些构造体被<b>冻结</b>，直到你消耗15点法力值用于法术牌上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tee Fuyuan",
+    "attack": 6,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 129945,
+    "elite": true,
+    "flavor": "瞪眼大赛，启动！",
+    "health": 4,
+    "id": "BE_703",
+    "name": "德雷阿佳丝",
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "<b>亡语：</b>抽一张<b>古神</b>牌。如果无法抽取，随机获取一张<b>古神</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 132669,
+    "flavor": "起初，虚空造物暗藏着邪恶，附着上了她的星球。如今，她的世界笼罩在虚空势力之下；而她，绝非普通的新星。她是艾泽拉斯。",
+    "howToEarn": "参与特殊活动以获得该奖励。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "BE_EVENT_100",
+    "name": "古神降临",
+    "rarity": "EPIC",
+    "set": "EVENT",
+    "spellSchool": "SHADOW",
+    "text": "抽两张随从牌。复原五个法力水晶。在本回合的剩余时间内，你只能使用随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 132671,
+    "flavor": "“快来看呐，他们连输了五局了！”",
+    "howToEarn": "参与特殊活动以获得该奖励。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "BE_EVENT_101",
+    "name": "泰坦降临",
+    "rarity": "EPIC",
+    "set": "EVENT",
+    "spellSchool": "ARCANE",
+    "text": "抽两张法术牌。复原六个法力水晶。在本回合的剩余时间内，你只能使用法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ian Ameling",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 132673,
+    "flavor": "嗯……你知道还缺了点什么吗？那边那个角上还缺一座方尖碑。",
+    "howToEarn": "参与特殊活动以获得该奖励。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "BE_EVENT_102",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "裂地黑暗",
+    "rarity": "EPIC",
+    "set": "EVENT",
+    "spellSchool": "SHADOW",
+    "text": "对一个随从造成$5点伤害。向左侧和右侧继续此效果，每次伤害减少1点。",
+    "type": "SPELL"
+  },
+  {
     "artist": "Alex Horley Orlandelli",
     "attack": 4,
     "cardClass": "NEUTRAL",
@@ -77774,6 +77908,19 @@
     "type": "HERO"
   },
   {
+    "artist": "N. Saviori & Mooncolony",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "dbfId": 134869,
+    "health": 30,
+    "heroPowerDbfId": 84157,
+    "id": "HERO_01cg",
+    "name": "蝙蝠德纳修斯大帝",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Cole Eastburn",
     "cardClass": "WARRIOR",
     "collectible": true,
@@ -78710,6 +78857,19 @@
     "type": "HERO"
   },
   {
+    "artist": "N. Saviori & Mooncolony",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "dbfId": 134867,
+    "health": 30,
+    "heroPowerDbfId": 127939,
+    "id": "HERO_02ck",
+    "name": "子弹风暴奥拉基尔",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Glenn Rane",
     "cardClass": "SHAMAN",
     "collectible": true,
@@ -79563,6 +79723,19 @@
     "heroPowerDbfId": 131085,
     "id": "HERO_03by",
     "name": "艾雅·黑掌",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "dbfId": 131111,
+    "health": 30,
+    "heroPowerDbfId": 66931,
+    "id": "HERO_03bz",
+    "name": "小毛贼艾德温",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -80499,6 +80672,19 @@
     "heroPowerDbfId": 131082,
     "id": "HERO_04cb",
     "name": "救赎者阿拉托尔",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "dbfId": 131099,
+    "health": 30,
+    "heroPowerDbfId": 131100,
+    "id": "HERO_04cc",
+    "name": "探险者莉亚德琳",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -82248,6 +82434,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Wayne Wu",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "dbfId": 131102,
+    "health": 30,
+    "heroPowerDbfId": 131103,
+    "id": "HERO_06bv",
+    "name": "艾欧娜尔",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Thunder Fire Studio & Hearthstone Art Team",
     "cardClass": "DRUID",
     "collectible": true,
@@ -83197,6 +83396,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Eric Braddock",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "dbfId": 131105,
+    "health": 30,
+    "heroPowerDbfId": 131106,
+    "id": "HERO_07bz",
+    "name": "宠物伴侣玛尔加尼斯",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Alex Horley Orlandelli",
     "cardClass": "WARLOCK",
     "collectible": true,
@@ -83218,6 +83430,19 @@
     "heroPowerDbfId": 131845,
     "id": "HERO_07ca",
     "name": "七夕图拉扬",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "dbfId": 134868,
+    "health": 30,
+    "heroPowerDbfId": 66935,
+    "id": "HERO_07cl",
+    "name": "巨龙盟誓塔姆辛",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -84342,6 +84567,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Grace Liu",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "dbfId": 134392,
+    "health": 30,
+    "heroPowerDbfId": 64973,
+    "id": "HERO_08de",
+    "name": "尤格-拉面",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "James Ryman",
     "cardClass": "MAGE",
     "collectible": true,
@@ -85185,6 +85423,19 @@
     "heroPowerDbfId": 479,
     "id": "HERO_09c",
     "name": "安度因国王",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Cole Eastburn",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "dbfId": 131108,
+    "health": 30,
+    "heroPowerDbfId": 131109,
+    "id": "HERO_09cb",
+    "name": "泽克沃兹",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -90949,6 +91200,7 @@
     "dbfId": 126259,
     "elite": true,
     "flavor": "“如果你深入地了解我，就会发现我其实很不错。”——活体疫病",
+    "hasDiamondSkin": true,
     "health": 8,
     "id": "JAIL_443",
     "mechanics": [

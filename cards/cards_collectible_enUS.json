@@ -8131,6 +8131,140 @@
     "type": "MINION"
   },
   {
+    "artist": "Kevin Sidharta",
+    "attack": 12,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 132339,
+    "elite": true,
+    "flavor": "Flavor Text to be revealed at the arrival of The Black Empire.",
+    "health": 12,
+    "id": "BE_013",
+    "name": "C'Thun, Eye of the Empire",
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "<b>Old God.</b> If you've triggered all 4 C'Thun abilities this game, this minion's abilities are tripled.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 9,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 128132,
+    "elite": true,
+    "flavor": "M.O.T.H.E.R HAS ARRIVED!",
+    "health": 7,
+    "howToEarn": "Unlocked after completing the starter quests.",
+    "howToEarnGolden": "Earnable after purchasing the <i>Reign of the Black Empire</i> Tavern Pass.",
+    "id": "BE_036",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "M.O.T.H.E.R.",
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "[x]<b>Battlecry:</b> Reduce the Cost of\na card in your hand by (5). This\ncontinues to the left and right\nwith (1) less reduction.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 129851,
+    "elite": true,
+    "flavor": "To craft a star from nothing would require tremendous power. Thus, Isiset was created as a font of limitless magic so she may further tend to the celestial garden.",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "id": "BE_259",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "Isiset",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "BE",
+    "text": "[x]<b>Battlecry:</b> Summon two\n10/10 Constructs. They\nare <b>Frozen</b> until you spend\n15 Mana on spells.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tee Fuyuan",
+    "attack": 6,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 129945,
+    "elite": true,
+    "flavor": "Staring contest, go!",
+    "health": 4,
+    "id": "BE_703",
+    "name": "Drest’agath",
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "<b>Deathrattle:</b> Draw an <b>Old God</b>. If you can't, get a random <b>Old God</b>.",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 132669,
+    "flavor": "It started when a Void creation did what it did.\nAnd stuck itself upon her planet with evil that it hid.\nNow her worlds under their powers, she's no ordinary kid.\nShe's Azeroth.",
+    "howToEarn": "Obtainable by participating in a special event.",
+    "howToEarnGolden": "Obtainable by participating in a special event.",
+    "id": "BE_EVENT_100",
+    "name": "Arrival of the Old Gods",
+    "rarity": "EPIC",
+    "set": "EVENT",
+    "spellSchool": "SHADOW",
+    "text": "Draw 2 minions. Refresh 5 Mana Crystals. You can only play minions for the rest of the turn.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 132671,
+    "flavor": "\"Hey guys check this out, they just lost their fifth game in a row!\"",
+    "howToEarn": "Obtainable by participating in a special event.",
+    "howToEarnGolden": "Obtainable by participating in a special event.",
+    "id": "BE_EVENT_101",
+    "name": "Arrival of the Titans",
+    "rarity": "EPIC",
+    "set": "EVENT",
+    "spellSchool": "ARCANE",
+    "text": "Draw 2 spells. Refresh 6 Mana Crystals. You can only play spells for the rest of the turn.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ian Ameling",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 132673,
+    "flavor": "Hmm, you know what it's missing? Another Obelisk right in that corner over there.",
+    "howToEarn": "Obtainable by participating in a special event.",
+    "howToEarnGolden": "Obtainable by participating in a special event.",
+    "id": "BE_EVENT_102",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "Dark Terraforming",
+    "rarity": "EPIC",
+    "set": "EVENT",
+    "spellSchool": "SHADOW",
+    "text": "Deal $5 damage to a minion. This continues to the left and right with\n1 less damage.",
+    "type": "SPELL"
+  },
+  {
     "artist": "Alex Horley Orlandelli",
     "attack": 4,
     "cardClass": "NEUTRAL",
@@ -70184,7 +70318,7 @@
       "BATTLECRY"
     ],
     "set": "SPACE",
-    "text": "Your <b>Battlecry</b> minions costs (1), but immediately die after being played.",
+    "text": "Your <b>Battlecry</b> minions cost (1), but immediately die after being played.",
     "type": "MINION"
   },
   {
@@ -77807,6 +77941,19 @@
     "type": "HERO"
   },
   {
+    "artist": "N. Saviori & Mooncolony",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "dbfId": 134869,
+    "health": 30,
+    "heroPowerDbfId": 84157,
+    "id": "HERO_01cg",
+    "name": "Sire Denathrius Bat",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Cole Eastburn",
     "cardClass": "WARRIOR",
     "collectible": true,
@@ -78743,6 +78890,19 @@
     "type": "HERO"
   },
   {
+    "artist": "N. Saviori & Mooncolony",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "dbfId": 134867,
+    "health": 30,
+    "heroPowerDbfId": 127939,
+    "id": "HERO_02ck",
+    "name": "Bulletstorm Al'Akir",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Glenn Rane",
     "cardClass": "SHAMAN",
     "collectible": true,
@@ -79596,6 +79756,19 @@
     "heroPowerDbfId": 131085,
     "id": "HERO_03by",
     "name": "Aya Blackpaw",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "dbfId": 131111,
+    "health": 30,
+    "heroPowerDbfId": 66931,
+    "id": "HERO_03bz",
+    "name": "Cat Burglar Edwin",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -80532,6 +80705,19 @@
     "heroPowerDbfId": 131082,
     "id": "HERO_04cb",
     "name": "Arator the Redeemer",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "dbfId": 131099,
+    "health": 30,
+    "heroPowerDbfId": 131100,
+    "id": "HERO_04cc",
+    "name": "Explorer Liadrin",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -82281,6 +82467,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Wayne Wu",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "dbfId": 131102,
+    "health": 30,
+    "heroPowerDbfId": 131103,
+    "id": "HERO_06bv",
+    "name": "Eonar",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Thunder Fire Studio & Hearthstone Art Team",
     "cardClass": "DRUID",
     "collectible": true,
@@ -83230,6 +83429,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Eric Braddock",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "dbfId": 131105,
+    "health": 30,
+    "heroPowerDbfId": 131106,
+    "id": "HERO_07bz",
+    "name": "Pet-sitting Mal'Ganis",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Alex Horley Orlandelli",
     "cardClass": "WARLOCK",
     "collectible": true,
@@ -83251,6 +83463,19 @@
     "heroPowerDbfId": 131845,
     "id": "HERO_07ca",
     "name": "Qixi Turalyon",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "dbfId": 134868,
+    "health": 30,
+    "heroPowerDbfId": 66935,
+    "id": "HERO_07cl",
+    "name": "Dragonsworn Tamsin",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -84375,6 +84600,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Grace Liu",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "dbfId": 134392,
+    "health": 30,
+    "heroPowerDbfId": 64973,
+    "id": "HERO_08de",
+    "name": "Yogg-Ramen",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "James Ryman",
     "cardClass": "MAGE",
     "collectible": true,
@@ -85218,6 +85456,19 @@
     "heroPowerDbfId": 479,
     "id": "HERO_09c",
     "name": "King Anduin",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Cole Eastburn",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "dbfId": 131108,
+    "health": 30,
+    "heroPowerDbfId": 131109,
+    "id": "HERO_09cb",
+    "name": "Zek'voz",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -90308,7 +90559,7 @@
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "spellSchool": "FIRE",
-    "text": "Deal $2 damage to all minions twice. If your deck has 25 or more cards, this costs (2) less.",
+    "text": "Deal $2 damage to all minions, twice. If your deck has 25 or more cards, this costs (2) less.",
     "type": "SPELL"
   },
   {
@@ -90982,6 +91233,7 @@
     "dbfId": 126259,
     "elite": true,
     "flavor": "\"I'm actually a nice guy when you get to know me.\" - The Living Plague",
+    "hasDiamondSkin": true,
     "health": 8,
     "id": "JAIL_443",
     "mechanics": [

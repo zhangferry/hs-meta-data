@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T13:04:50.570991+00:00Z",
+  "lastUpdated": "2026-09-16T13:02:12.554238+00:00Z",
   "version": "1.0.0",
   "sources": {
     "hearthstone_json": "https://api.hearthstonejson.com",
@@ -8,10 +8,10 @@
     "vicious_syndicate": "https://www.vicioussyndicate.com"
   },
   "stats": {
-    "cards_zhCN": 8154,
-    "cards_enUS": 8154,
+    "cards_zhCN": 8170,
+    "cards_enUS": 8170,
     "archetypes": 765,
-    "meta_deck_entries": 22141,
+    "meta_deck_entries": 21262,
     "matchup_quality": "none",
     "matchup_report": 357
   }

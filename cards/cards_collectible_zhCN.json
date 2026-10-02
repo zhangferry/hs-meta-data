@@ -8130,19 +8130,19 @@
   },
   {
     "artist": "Kevin Sidharta",
-    "attack": 12,
+    "attack": 6,
     "cardClass": "NEUTRAL",
     "collectible": true,
     "cost": 10,
     "dbfId": 132339,
     "elite": true,
     "flavor": "黑暗帝国降临之际，便是趣文揭晓之时。",
-    "health": 12,
+    "health": 6,
     "id": "BE_013",
     "name": "克苏恩，帝国之眼",
     "rarity": "LEGENDARY",
     "set": "BE",
-    "text": "<b>古神</b>\n如果你在本局对战中触发了克苏恩的全部4个技能，本随从的技能效果变为三倍。",
+    "text": "<b>古神</b>\n在本局对战中，当你使用了克苏恩的全部4个技能后，本随从的效果变为三倍。",
     "type": "MINION"
   },
   {
@@ -8169,10 +8169,10 @@
   },
   {
     "artist": "Mooncolony",
-    "attack": 5,
+    "attack": 3,
     "cardClass": "MAGE",
     "collectible": true,
-    "cost": 6,
+    "cost": 7,
     "dbfId": 129851,
     "elite": true,
     "flavor": "凭空创造星体需要巨大的能量。伊希斯特就此诞生，成为了无尽的魔法源泉，这样她就能更好地照料那座群星之园。",
@@ -90380,7 +90380,7 @@
     "name": "污染厨房",
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "随机召唤两个法力值消耗为（3）的随从。<i>（在本局对战中你的英雄每攻击一次都会提升。）</i>",
+    "text": "随机召唤两个法力值消耗为（2）的随从。<i>（在本局对战中你的英雄每攻击一次都会提升。）</i>",
     "type": "SPELL"
   },
   {
@@ -91785,7 +91785,7 @@
     ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
     "targetingArrowText": "对一个敌方随从造成5点伤害。",
-    "text": "<b>战吼：</b>召唤一个法力值消耗为（2）的<b>嘲讽</b>随从。如果你拥有至少10点法力值，改为召唤法力值消耗为（6）的嘲讽随从。",
+    "text": "<b>战吼：</b>召唤一个法力值消耗为（2）的<b>嘲讽</b>随从。如果你拥有至少10点法力值，改为召唤法力值消耗为（6）的<b>嘲讽</b>随从。",
     "type": "MINION"
   },
   {
@@ -126023,7 +126023,7 @@
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
     "targetingArrowText": "造成5点伤害。",
-    "text": "<b>战吼：</b>造成5点伤害，获得5点护甲值。<b>延系：</b>法力值消耗减少（3）点。",
+    "text": "<b>战吼：</b>造成5点伤害，获得5点护甲值。<b>延系：</b>法力值消耗减少（2）点。",
     "type": "MINION"
   },
   {

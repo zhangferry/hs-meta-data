@@ -8132,19 +8132,19 @@
   },
   {
     "artist": "Kevin Sidharta",
-    "attack": 12,
+    "attack": 6,
     "cardClass": "NEUTRAL",
     "collectible": true,
     "cost": 10,
     "dbfId": 132339,
     "elite": true,
     "flavor": "Flavor Text to be revealed at the arrival of The Black Empire.",
-    "health": 12,
+    "health": 6,
     "id": "BE_013",
     "name": "C'Thun, Eye of the Empire",
     "rarity": "LEGENDARY",
     "set": "BE",
-    "text": "<b>Old God.</b> If you've triggered all 4 C'Thun abilities this game, this minion's abilities are tripled.",
+    "text": "[x]<b>Old God.</b> When you use all 4\nC'Thun abilities this game,\ntriple this minion's effects.",
     "type": "MINION"
   },
   {
@@ -8171,10 +8171,10 @@
   },
   {
     "artist": "Mooncolony",
-    "attack": 5,
+    "attack": 3,
     "cardClass": "MAGE",
     "collectible": true,
-    "cost": 6,
+    "cost": 7,
     "dbfId": 129851,
     "elite": true,
     "flavor": "To craft a star from nothing would require tremendous power. Thus, Isiset was created as a font of limitless magic so she may further tend to the celestial garden.",
@@ -90413,7 +90413,7 @@
     "name": "Infest the Scullery",
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "[x]Summon two random\n3-Cost minions.\n<i>(Improved by your hero\nattacks this game.)</i>",
+    "text": "[x]Summon two random\n2-Cost minions.\n<i>(Improved by your hero\nattacks this game.)</i>",
     "type": "SPELL"
   },
   {
@@ -126067,7 +126067,7 @@
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
     "targetingArrowText": "Deal 5 damage.",
-    "text": "[x]<b>Battlecry:</b> Deal 5 damage\nand gain 5 Armor.\n<b>Kindred:</b> Costs (3) less.",
+    "text": "[x]<b>Battlecry:</b> Deal 5 damage\nand gain 5 Armor.\n<b>Kindred:</b> Costs (2) less.",
     "type": "MINION"
   },
   {

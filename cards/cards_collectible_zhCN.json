@@ -2437,7 +2437,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "TGT",
-    "text": "<b>嘲讽，亡语：</b>\n如果你的手牌中有龙牌，则对所有随从造成3点伤害。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>\n如果你的手牌中有龙牌，则对所有随从造成3点伤害。",
     "type": "MINION"
   },
   {
@@ -4920,7 +4920,7 @@
     ],
     "rarity": "COMMON",
     "set": "ALTERAC_VALLEY",
-    "text": "<b>嘲讽</b>，<b>亡语：</b>召唤两只2/4并具有<b>嘲讽</b>的山熊宝宝。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&召唤两只2/4并具有<b>嘲讽</b>的山熊宝宝。",
     "type": "MINION"
   },
   {
@@ -6363,7 +6363,7 @@
     ],
     "rarity": "RARE",
     "set": "THE_BARRENS",
-    "text": "<b>嘲讽</b>，<b>亡语：</b>为所有友方角色恢复#8点生命值。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&为所有友方角色恢复#8点生命值。",
     "type": "MINION"
   },
   {
@@ -6421,7 +6421,7 @@
     "name": "安瑟祭司",
     "rarity": "EPIC",
     "set": "THE_BARRENS",
-    "text": "<b>嘲讽</b>，<b>战吼：</b>如果你在本回合中恢复过生命值，便获得+3/+3。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你在本回合中恢复过生命值，&获得+3/+3。",
     "type": "MINION"
   },
   {
@@ -7178,7 +7178,7 @@
     "name": "巴拉克·科多班恩",
     "rarity": "LEGENDARY",
     "set": "THE_BARRENS",
-    "text": "<b>战吼：</b>\n抽取法力值消耗为（1），（2）和（3）点的法术牌各一张。",
+    "text": "<b>战吼：</b>&抽取法力值消耗为（1），（2）和（3）点的法术牌各一张。",
     "type": "MINION"
   },
   {
@@ -7780,7 +7780,7 @@
       "LIFESTEAL"
     ],
     "set": "THE_BARRENS",
-    "text": "在你施放一个神圣法术后，召唤一个2/2并具有<b>吸血</b>的医师。",
+    "text": "在你施放一个神圣法术后，&召唤一个2/2并具有<b>吸血</b>的医师。",
     "type": "MINION"
   },
   {
@@ -8129,20 +8129,176 @@
     "type": "MINION"
   },
   {
+    "artist": "Melvin Chan",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 128090,
+    "durability": 0,
+    "flavor": "欢迎“光”临！",
+    "health": 2,
+    "id": "BE_000",
+    "mechanics": [
+      "AURA",
+      "LIFESTEAL"
+    ],
+    "name": "唤光长枪",
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "为双方玩家<b><b>吸血</b></b>。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 132353,
+    "elite": true,
+    "flavor": "如果没有太阳，生命必将枯萎。然而太阳并不在乎生命。它散发着光芒，比魔法还要闪亮，甚至可以融化我们脚下的岩石。因此，拉夏肩上的责任极为重大。",
+    "hasDiamondSkin": true,
+    "health": 4,
+    "id": "BE_004",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "拉夏",
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "<b>战吼：</b><b>拼装</b>一个任意职业的随从，将其变形成为一项<b>被动</b>英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Adriel",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 132346,
+    "flavor": "“大家都满足的仪式”太直白了。",
+    "id": "BE_005",
+    "name": "充盈仪式",
+    "rarity": "EPIC",
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "2回合后，抽两张牌并使其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 132535,
+    "flavor": "有没有不那么暴力的魔古。",
+    "health": 5,
+    "howToEarnGolden": "购买<i>黑暗帝国的统治</i>炉石通行证后开放解锁。",
+    "id": "BE_008",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "魔古将领",
+    "rarity": "EPIC",
+    "set": "BE",
+    "text": "在你使用一张中立牌后，&在本回合中，你的下一张法术牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 132547,
+    "elite": true,
+    "flavor": "“补修”+“隆尔米米”",
+    "health": 5,
+    "id": "BE_009",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "古神主谋尤格-萨隆",
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "<b>古神</b>\n<b>战吼：</b>结束你的回合。尤格-萨隆为你进行一个额外回合。<i>（每局对战限一次）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>如果你在本牌在你手中时施放过2个暗影法术，选择并触发一项克苏恩的技能。<i>（还剩{0}个！）</i>",
+    "cost": 3,
+    "dbfId": 132348,
+    "flavor": "古神来了！古神来了！",
+    "health": 2,
+    "id": "BE_012",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黑暗执事",
+    "rarity": "EPIC",
+    "set": "BE",
+    "text": "<b>战吼：</b>如果你在本牌在你手中时施放过2个暗影法术，选择并触发一项克苏恩的技能。<i>（还剩{0}个！）</i>@<b>战吼：</b>如果你在本牌在你手中时施放过2个暗影法术，选择并触发一项克苏恩的技能。<i>（已就绪！）</i>@<b>战吼：</b>如果你在本牌在你手中时施放过2个暗影法术，选择并触发一项克苏恩的技能。",
+    "type": "MINION"
+  },
+  {
     "artist": "Kevin Sidharta",
-    "attack": 6,
+    "attack": 12,
     "cardClass": "NEUTRAL",
     "collectible": true,
     "cost": 10,
     "dbfId": 132339,
     "elite": true,
-    "flavor": "黑暗帝国降临之际，便是趣文揭晓之时。",
-    "health": 6,
+    "flavor": "“阿米图特，阿米图斯的守护者”/2+（2*“孵化”）/2+（2*“不可知者”/3）",
+    "health": 12,
     "id": "BE_013",
     "name": "克苏恩，帝国之眼",
     "rarity": "LEGENDARY",
     "set": "BE",
-    "text": "<b>古神</b>\n在本局对战中，当你使用了克苏恩的全部4个技能后，本随从的效果变为三倍。",
+    "text": "<b>古神</b>\n如果你在本局对战中触发了克苏恩的全部4个技能，本随从的技能效果变为三倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 132347,
+    "flavor": "如果能坚持到最后的翻转，它就能成为克苏恩的嗣子。",
+    "health": 2,
+    "id": "BE_014",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "克苏恩的子嗣",
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "<b>战吼：</b>如果你的套牌中有克苏恩，选择并触发一项它的技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 15,
+    "dbfId": 128389,
+    "elite": true,
+    "flavor": "（2*“师筑构翠翡，亚蕾弗”）/2+（“放齐花百”-“虚渺延火”）",
+    "health": 7,
+    "id": "BE_017",
+    "name": "恩佐斯，梦境之末",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BE",
+    "text": "<b>古神</b>\n在本局对战中，你每召唤过一个<b>亡语</b>随从，本牌的法力值消耗便减少（1）点。",
     "type": "MINION"
   },
   {
@@ -8168,11 +8324,867 @@
     "type": "MINION"
   },
   {
-    "artist": "Mooncolony",
+    "artist": "Grafit",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 128696,
+    "flavor": "是谁在敲敲打打，将阿扎达斯唤醒？！叮，叮，叮，敲个不停！",
+    "id": "BE_042",
+    "name": "重塑之砧",
+    "rarity": "EPIC",
+    "set": "BE",
+    "spellSchool": "FIRE",
+    "text": "在本回合中，使你的英雄获得+4攻击力。本牌消耗护甲值，而非法力值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 128892,
+    "flavor": "手手最好的朋友。",
+    "health": 3,
+    "id": "BE_044",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "F3TCH3R寻回机",
+    "race": "BEAST",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "<b>战吼：</b><b>拼装</b>一张法力值消耗为（4）的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 129089,
+    "flavor": "“你们可以亲吻对方了。”",
+    "health": 6,
+    "id": "BE_045",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "错位拼配者",
+    "rarity": "EPIC",
+    "set": "BE",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>用法力值消耗大于或等于（5）点的牌<b>拼装</b>一张法力值消耗小于或等于（3）点的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 129245,
+    "elite": true,
+    "flavor": "阿扎达斯是艾泽拉斯首位附魔+锻造。这都是因为泰坦们给公会银行攒足了材料，然后就去度假了，一去就是好几个资料片。",
+    "health": 3,
+    "howToEarn": "可以在<i>黑暗帝国的统治</i>奖励路线中获得该奖励。",
+    "howToEarnGolden": "购买<i>黑暗帝国的统治</i>炉石通行证后开放解锁。",
+    "id": "BE_055",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿扎达斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BE",
+    "text": "<b>战吼：</b><b>发现</b>一个法术，并将其变形成为一张法力值消耗相同的3/3的武器牌。每当用该武器攻击时，都会施放该法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 129340,
+    "flavor": "断头割舞表演。",
+    "id": "BE_071",
+    "name": "暗影之舞",
+    "rarity": "COMMON",
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "对所有未受伤的敌人造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129793,
+    "flavor": "给你们两个2回合收拾干净，然后再进来吃饭。",
+    "id": "BE_085",
+    "name": "召唤仪式",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "2回合后，召唤两个3/5并具有<b>嘲讽</b>的克拉西斯。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 129802,
+    "flavor": "“这简直是疯了！”“嗯，也可以这么说。”",
+    "id": "BE_086",
+    "name": "污亵",
+    "rarity": "RARE",
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "对所有敌人造成$2点伤害。如果本牌为你手牌中法力值消耗最高的牌，重复一次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129804,
+    "flavor": "<b>拼装</b>一个随从到底需要多少位喉魔教徒？",
+    "id": "BE_087",
+    "name": "至暗深处",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "召唤两个0/3并具有<b>嘲讽</b>的守卫。<b>拼装</b>一张随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 129824,
+    "elite": true,
+    "flavor": "从基希克斯变为克拉西斯，需要许多仪式。",
+    "health": 6,
+    "id": "BE_090",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "基希克斯",
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "<b>战吼：</b>在本局对战中，如果你完成过仪式，即可选择并开启一项罪孽仪式。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 129808,
+    "flavor": "67",
+    "health": 5,
+    "id": "BE_093",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "腐心支配者",
+    "rarity": "COMMON",
+    "set": "BE",
+    "targetingArrowText": "将一个随从变形。",
+    "text": "<b>战吼：</b>将相邻的随从变形成为本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 129805,
+    "flavor": "只要相信，就能起飞！",
+    "id": "BE_094",
+    "name": "漂浮教程",
+    "rarity": "EPIC",
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从和你手牌中的一张随机随从牌获得等同于本牌法力值消耗双倍的属性值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "AJ Nazzaro",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 131061,
+    "flavor": "我们关着灯玩魔兽会发生什么？",
+    "id": "BE_114",
+    "name": "暗影塑形",
+    "rarity": "COMMON",
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "<b>拼装</b>一张随从牌，其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 130326,
+    "flavor": "土灵士兵，千人一队。列队行军，高呼万岁！",
+    "id": "BE_142",
+    "name": "投身战争",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "BE",
+    "spellSchool": "HOLY",
+    "text": "本牌上的所有数字等于你剩余的法力值。召唤一个1/1并具有<b>圣盾</b>的士兵。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Milica Celikovic",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 130327,
+    "elite": true,
+    "flavor": "阿在米萨图格特拉是斯一堕位落守之护后者不，久负，责维制和衡者其阿他米泰图坦斯造也物一的同野消心失。了",
+    "health": 8,
+    "id": "BE_143",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "阿米图特，阿米图斯的守护者",
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>将你牌库中每张神圣法术牌的各一张具有<b>抽到时施放</b>的复制洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 130673,
+    "flavor": "配重合理，如同万物一般，完美平衡。",
+    "id": "BE_146",
+    "name": "誓缚光环",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "BE",
+    "spellSchool": "HOLY",
+    "text": "在你施放一个神圣法术后，召唤一个属性值等同于其法力值消耗并具有<b>圣盾</b>的士兵。持续3回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
     "attack": 3,
     "cardClass": "MAGE",
     "collectible": true,
+    "cost": 2,
+    "dbfId": 130441,
+    "flavor": "一直在喷神抽。",
+    "health": 2,
+    "id": "BE_150",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "线圈携载机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BE",
+    "text": "<b>战吼：</b>&<b>发现</b>一张法术牌并置于你的牌库顶，其法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 129093,
+    "flavor": "非常想要讲泰坦的闲话，可惜讲不得。",
+    "health": 3,
+    "id": "BE_151",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "库区守卫",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "<b>战吼，亡语：</b>&使相邻的随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129131,
+    "flavor": "想要舞，那便舞！",
+    "health": 3,
+    "id": "BE_152",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "太阳舞者",
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "在你的回合结束时，&获取一张法力值消耗为（2）的祝福。祝福可以使随从获得+2/+3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129137,
+    "flavor": "太阳，致命之光。",
+    "id": "BE_153",
+    "name": "阳炎清算",
+    "rarity": "RARE",
+    "set": "BE",
+    "spellSchool": "HOLY",
+    "text": "对所有敌方随从造成$1点伤害。将最终清算洗入你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eric Kenji",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 131122,
+    "flavor": "保持谦卑。#圣光",
+    "id": "BE_154",
+    "name": "谦恭审判",
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "抽三张牌，将其中随从牌的攻击力和生命值变为2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 130634,
+    "flavor": "哦，可我等不及当女王！",
+    "health": 3,
+    "id": "BE_169",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "螳螂妖先驱",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BE",
+    "text": "<b>战吼：</b>如果你装备着武器，获得+1/+1和<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 131056,
+    "flavor": "亲爱的，出去的时候别忘了带上购物清单！",
+    "health": 5,
+    "id": "BE_171",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "威能恐魔",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BE",
+    "text": "<b><b>嘲讽</b>。</b><b>战吼：</b>如果你在本牌在你手牌中时使用过两个不同派系的法术牌，召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 129839,
+    "flavor": "如果这就是起源大厅，那这些大厅的起源又在哪里。",
+    "id": "BE_183",
+    "mechanics": [
+      "LIFESTEAL",
+      "ImmuneToSpellpower"
+    ],
+    "name": "起源大厅",
+    "rarity": "EPIC",
+    "set": "BE",
+    "spellSchool": "HOLY",
+    "text": "<b>吸血</b>。造成$8点伤害，随机分配到所有敌人身上。召唤一个法力值消耗为（8）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 130089,
+    "flavor": "我觉得还挺苗条的。",
+    "health": 2,
+    "id": "BE_193",
+    "mechanics": [
+      "POISONOUS"
+    ],
+    "name": "膨水鳐",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "<b>剧毒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "attack": 0,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 130092,
+    "flavor": "黑暗帝国爆衣大赛冠军。",
+    "health": 3,
+    "id": "BE_196",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "迷醉召唤者",
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "在你的回合结束时，召唤一个随机敌方随从的一个复制，并使其攻击本体。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 131200,
+    "flavor": "为什么是五？因为恶是多音字。",
+    "id": "BE_201",
+    "name": "冰冷恶兆",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "BE",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个敌人。随机召唤一个法力值消耗为（5）的随从并<b>冻结</b>该随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 128215,
+    "flavor": "二十名石巨人被派往击杀深渊滑行者索苟斯。克洛恩是其中最强大的一位，也是唯一",
+    "health": 7,
+    "id": "BE_204",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "滑行者巨怪",
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>&选择并触发一项克苏恩的技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 131236,
+    "flavor": "我一眼就看出它肚子疼。",
+    "health": 1,
+    "howToEarnGolden": "可以在<i>黑暗帝国的统治</i>奖励路线中获得该奖励。",
+    "id": "BE_207",
+    "mechanics": [
+      "DEATHRATTLE",
+      "REBORN"
+    ],
+    "name": "不稳定的原型机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "<b><b>复生</b></b>。<b>亡语：</b>&使你手牌中的所有随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 131232,
+    "flavor": "小狐狸现在高高的，在那一刻，他仿佛站上了世界之巅。",
+    "id": "BE_208",
+    "name": "型如泰坦",
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "抽一张随从牌。使你手牌中的野兽牌获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 7,
+    "cardClass": "SHAMAN",
+    "collectible": true,
     "cost": 7,
+    "dbfId": 131240,
+    "elite": true,
+    "flavor": "阿特然德卡3勒瓦弗斯戈茨<>！霍戈-7|姆比）（5？滋以屈血",
+    "health": 7,
+    "id": "BE_209",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "耐普图隆，潮汐之王",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，你召唤的元素的属性值变为5/5。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 129256,
+    "flavor": "你凝视深渊，深渊也……会忍不住眨眼。",
+    "id": "BE_220",
+    "name": "熵能裂隙",
+    "rarity": "COMMON",
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "随机获取两张暗影法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 130401,
+    "flavor": "历史记载中的第一句话。“你好啊宝贝儿。”",
+    "id": "BE_221",
+    "name": "古言术：预",
+    "rarity": "RARE",
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "抽一张牌，并使其法力值消耗减少（2）点。<i>（你使用的下一张暗影法术牌会重复此效果！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 130403,
+    "flavor": "我不喜欢虚空龙鹰蛋配火腿。",
+    "id": "BE_222",
+    "name": "古言术：现",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "召唤一只5/5并具有<b>吸血</b>的虚翼龙鹰。<i>（你使用的下一张暗影法术牌会重复此效果！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 130404,
+    "flavor": "古老的咒文详述了所有凡间生物的共性：贪，嗔，笞。",
+    "id": "BE_223",
+    "name": "古言术：笞",
+    "rarity": "COMMON",
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "随机对一个敌人造成$3点伤害。<i>（你使用的下一张暗影法术牌会重复此效果！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 0,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 130402,
+    "durability": 0,
+    "elite": true,
+    "flavor": "在漫长的岁月中，萨拉塔斯辗转流落，持有者皆为传奇。若不是这柄诅咒之刃，他们的事迹也不会载入史册。",
+    "health": 3,
+    "id": "BE_227",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "黑暗帝国之刃",
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "在你的回合结束时，如果你在当回合施放了暗影法术，敌方英雄受到疲劳伤害；否则，你的英雄受到疲劳伤害。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 130524,
+    "flavor": "我的主人绝不会被束缚！",
+    "health": 2,
+    "id": "BE_228",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "祖拉玛特的仆从",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "BE",
+    "targetingArrowText": "<b>沉默</b>一个随从。",
+    "text": "<b>战吼：</b>\n<b>沉默</b>一个随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 131294,
+    "flavor": "这次修筑还需要沙子。去沙漠的坐标是多少来着？",
+    "health": 2,
+    "id": "BE_229",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "流沙塑型者",
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "<b>战吼：</b><b>拼装</b>一张具有回合结束时效果的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 130651,
+    "elite": true,
+    "flavor": "向左！向右！交叉步！",
+    "hasDiamondSkin": true,
+    "health": 4,
+    "id": "BE_230",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "拉维兹",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMMUNE",
+      "RUSH"
+    ],
+    "set": "BE",
+    "text": "你的最左边的随从拥有<b>突袭</b>。你的最右边的随从攻击时<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129112,
+    "elite": true,
+    "flavor": "终于有人用杯垫了。",
+    "id": "BE_250",
+    "name": "诺甘农的圆盘",
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "spellSchool": "ARCANE",
+    "text": "将你牌库中的所有法术牌移至牌库顶。每回合你可以选择从牌库顶或牌库底抽牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 129787,
+    "flavor": "你就是我的星——界——之——泉。",
+    "health": 2,
+    "id": "BE_251",
+    "name": "星界之泉",
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "抽一张牌。如果该牌不是随从牌，复原两个法力水晶。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Dmitry Bolotov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129788,
+    "flavor": "星圣的星能板推销骚扰电话成了困扰整个宇宙的问题。",
+    "id": "BE_252",
+    "name": "星圣的召唤",
+    "rarity": "RARE",
+    "set": "BE",
+    "spellSchool": "ARCANE",
+    "text": "选择一个友方随从，随机召唤一个法力值消耗相同的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tee Fuyuan",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 129797,
+    "flavor": "。源力术法何任近接们它让该应不也你，胁威的正真为成会不鬼蛋捣些这管尽以所。食为量能术奥以龙浮力法些这",
+    "health": 1,
+    "howToEarnGolden": "可以在<i>黑暗帝国的统治</i>奖励路线中获得该奖励。",
+    "id": "BE_255",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "始生浮龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "在你使用一张随从牌后，&获得+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 129798,
+    "flavor": "好了，星界大战就要开始了。记住，乐趣第一，公平竞争！",
+    "health": 4,
+    "id": "BE_256",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "星界斡旋者",
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "<b>战吼，亡语：</b>&随机施放一个法力值消耗为（3）的法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129801,
+    "flavor": "糟了，忘了把冰箱里的随从拿出来了。",
+    "id": "BE_257",
+    "name": "融冰而出",
+    "rarity": "EPIC",
+    "set": "BE",
+    "spellSchool": "FROST",
+    "text": "<b>拼装</b>一张法师随从牌。在你的回合结束时，其法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 129811,
+    "flavor": "有人无动于衷，有人倍感疼痛。",
+    "id": "BE_258",
+    "name": "星界坠雨",
+    "rarity": "COMMON",
+    "set": "BE",
+    "spellSchool": "ARCANE",
+    "text": "随机对一个敌方随从造成$2点伤害，触发五次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
     "dbfId": 129851,
     "elite": true,
     "flavor": "凭空创造星体需要巨大的能量。伊希斯特就此诞生，成为了无尽的魔法源泉，这样她就能更好地照料那座群星之园。",
@@ -8192,6 +9204,740 @@
     "type": "MINION"
   },
   {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 129359,
+    "flavor": "看看我的小蝌蚪吧。",
+    "health": 4,
+    "id": "BE_262",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "细心的护育者",
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "<b>战吼：</b><b>拼装</b>一张法力值消耗为（1）的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 130785,
+    "flavor": "你和我一样，都是被<b>流放</b>的。",
+    "health": 2,
+    "id": "BE_264",
+    "mechanics": [
+      "DEATHRATTLE",
+      "OUTCAST"
+    ],
+    "name": "盲眼掠心者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "<b>流放，亡语：</b>&随机获取一张<b>流放</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 130520,
+    "flavor": "这家伙大概要换新的油底壳了。",
+    "id": "BE_265",
+    "name": "合围",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BE",
+    "text": "召唤五只3/1并具有<b>突袭</b>的裂爪兽。为你的对手随机召唤一个法力值消耗为（1）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 129889,
+    "flavor": "冷知识：土星光环95%都是水元素。",
+    "health": 4,
+    "id": "BE_270",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冰轮法师",
+    "rarity": "EPIC",
+    "set": "BE",
+    "text": "<b>战吼：</b>抽两张牌，其中每有一张非随从牌，&召唤一个3/6的水元素。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 130395,
+    "flavor": "“看起来不怎么样，是吧？”“哦，等着看吧。”",
+    "health": 4,
+    "id": "BE_283",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "鲜血邪魔",
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 3,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "BE",
+    "text": "<b>战吼：</b>消耗最多4份<b>残骸</b>。每消耗一份，对所有其他随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 130314,
+    "flavor": "想当初，我们一无所有，但我们很快乐！",
+    "id": "BE_284",
+    "name": "冷暗虚空",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "BE",
+    "spellSchool": "FROST",
+    "text": "对一个随从造成$4点伤害，并对其相邻的随从造成\n$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 130315,
+    "flavor": "低贱的被遗忘者，表现得却像王一样……我命令你，跪下！",
+    "health": 3,
+    "id": "BE_285",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "拼接骑士",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 2,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "BE",
+    "text": "<b>吸血</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 8,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 130341,
+    "elite": true,
+    "flavor": "听说死亡骑士有鲜血符文，戈霍恩立刻切换了职业。",
+    "health": 1,
+    "id": "BE_287",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "戈霍恩",
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 3,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "BE",
+    "text": "<b>战吼：</b>从生命值最低的敌人处偷取总计6点生命值。<i>你每使用一个鲜血符文都会提高。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Felideus Bubastis",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 130555,
+    "flavor": "显然缺乏自我开解的能力。",
+    "health": 2,
+    "id": "BE_298",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "洞见之子",
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL",
+      "REBORN",
+      "RUSH"
+    ],
+    "set": "BE",
+    "text": "<b>战吼：</b><b>发现</b>一张鲜血，冰霜或邪恶符文牌。并对应获得<b>吸血</b>，<b>复生</b>或<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 130974,
+    "flavor": "震我一次，责任在你；震我两次，烧的就是我了。",
+    "id": "BE_302",
+    "name": "烈焰震击",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "BE",
+    "spellSchool": "FIRE",
+    "text": "对两个不同的敌人各造成$2点伤害。<b>过载：</b>（1）。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 131007,
+    "flavor": "这本书将在5秒后自毁。",
+    "health": 3,
+    "id": "BE_303",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "灼拳智者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "<b>战吼：</b>如果你在本牌在你手牌中时使用过两个不同派系的法术牌，对所有敌人造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129224,
+    "flavor": "“我发誓，不是你想的那样，是它要吃我！”",
+    "id": "BE_325",
+    "name": "凶煞降临",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 1,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "消灭一个随从。为其拥有者恢复生命值，数值相当于该随从的生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sonderflex",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 129235,
+    "flavor": "?????????<i>（3个扩展包后解译。）</i>",
+    "health": 4,
+    "howToEarnGolden": "购买<i>黑暗帝国的统治</i>炉石通行证后开放解锁。",
+    "id": "BE_327",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "秘典翻译官",
+    "rarity": "EPIC",
+    "set": "BE",
+    "text": "<b>战吼：</b>？？？<i>（2回合后解译）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 131010,
+    "elite": true,
+    "flavor": "阿特然将德卡克洛恩困在了3勒瓦岩石与弗斯戈茨<>波涛之间！霍戈，直到-7|姆比）他的身（5？滋以躯化作了屈血沙土。",
+    "health": 5,
+    "id": "BE_337",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "地母塞拉赞恩",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "<b>战吼：</b>&你每个派系的下一张法术牌会施放两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 130871,
+    "durability": 0,
+    "flavor": "古神科技继智能眼睛后的又一力作。",
+    "health": 2,
+    "id": "BE_349",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "附眼战槌",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BE",
+    "text": "在你的英雄攻击后，&召唤两个2/2并具有<b>突袭</b>的元素。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Wayne Wu",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 130761,
+    "flavor": "“你好啊。”“基希克斯将军。”",
+    "health": 2,
+    "id": "BE_541",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "恩佐斯的密探",
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "<b>亡语：</b>获取你手牌中一张不同的随机<b>亡语</b>随从牌的一张复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 129792,
+    "flavor": "我看到我家了！啊哦……",
+    "health": 3,
+    "id": "BE_550",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "坦克战团",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "<b>战吼：</b>召唤本随从的两个复制。<b>亡语：</b>&随机对一个敌人造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 129820,
+    "durability": 0,
+    "flavor": "可以立即灼烧其造成的伤口。",
+    "health": 2,
+    "id": "BE_552",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "喷火器",
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "在你的英雄攻击后，&获取一张超负荷运转。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129821,
+    "flavor": "尔米米了算漏隆萨-格尤而然。亡死的隆尔米米了成促终最，年千数了划谋隆萨-格尤",
+    "id": "BE_553",
+    "name": "修补",
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "<b>拼装</b>一张机械牌。获取一张超负荷运转。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 129822,
+    "flavor": "轰炸大鱿鱼。",
+    "id": "BE_554",
+    "name": "轰炸",
+    "rarity": "RARE",
+    "set": "BE",
+    "spellSchool": "FIRE",
+    "text": "随机消灭一个敌方随从并对敌方英雄造成$3点伤害。如果你控制着机械，重复一次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 129823,
+    "flavor": "重新装填，重新打空。",
+    "id": "BE_555",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "重新装填",
+    "rarity": "EPIC",
+    "set": "BE",
+    "spellSchool": "ARCANE",
+    "text": "<b>发现</b>一张法术牌，并使其法力值消耗减少（8）点。如果减少的溢出量还有剩余，重复此效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 129935,
+    "elite": true,
+    "flavor": "你想怎么卸甲，和平方式，还是暴力方式。",
+    "health": 7,
+    "id": "BE_557",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "塞特斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BE",
+    "text": "<b>战吼：</b>获得20点护甲值。2回合后，将你的护甲值转换为一个具有等量属性值和<b>嘲讽</b>的魔像。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 129938,
+    "durability": 0,
+    "flavor": "好吧，我自己来。",
+    "health": 2,
+    "id": "BE_558",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "石头护手",
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "在你的英雄攻击后，将你的英雄的5点生命值转化为护甲值。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129942,
+    "flavor": "迎头痛击！",
+    "id": "BE_559",
+    "name": "力量展现",
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "对一个随从造成3点伤害。如果你在本回合中获得过护甲值，改为消灭该随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 129946,
+    "flavor": "我没听见敲钟。",
+    "health": 6,
+    "id": "BE_560",
+    "mechanics": [
+      "BATTLECRY",
+      "CHARGE"
+    ],
+    "name": "指虎乱斗打手",
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "<b><b>冲锋</b>。</b><b>战吼：</b>如果你的护甲值大于或等于10点，获得+4/+4。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 129947,
+    "flavor": "这座熔炉由阿扎达斯与米米尔隆联手打造，旨在修复受损的世界之魂。然而这座装置内部也蕴藏着一股足以重置艾泽拉斯所有生命的力量。",
+    "health": 2,
+    "id": "BE_561",
+    "name": "起源熔炉",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BE",
+    "text": "召唤一个3/3并具有<b>嘲讽</b>的魔像。消耗3点护甲值，使其获得+3/+3。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Gabor Szikszai",
+    "attack": 7,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 130114,
+    "flavor": "这下被抓了。",
+    "health": 5,
+    "id": "BE_564",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "废土凶兽",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "<b>战吼：</b>如果在本回合中有友方随从死亡，随机攻击一个敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dmitry Bolotov",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>如果在本回合中有5个友方随从死亡，在本局对战中，你的<b>突袭</b>随从拥有<b>冲锋</b>。<i>（还剩{0}个！）</i>",
+    "cost": 5,
+    "dbfId": 130117,
+    "elite": true,
+    "flavor": "沙不住了，沙不住了！",
+    "health": 5,
+    "id": "BE_565",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巢穴女王沙卡尔",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "CHARGE",
+      "RUSH"
+    ],
+    "set": "BE",
+    "text": "<b>战吼：</b>如果在本回合中有5个友方随从死亡，在本局对战中，你的<b>突袭</b>随从拥有<b>冲锋</b>。<i>（还剩{0}个！）</i>@<b>战吼：</b>如果在本回合中有5个友方随从死亡，在本局对战中，你的<b>突袭</b>随从拥有<b>冲锋</b>。<i>（已就绪！）</i>@<b>战吼：</b>如果在本回合中有5个友方随从死亡，在本局对战中，你的<b>突袭</b>随从拥有<b>冲锋</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 130346,
+    "flavor": "早起的飞翼影魔有缠蟒吃。",
+    "health": 3,
+    "id": "BE_566",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "虫蛀缠蟒",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "BE",
+    "targetingArrowText": "选择手牌中的一张牌。",
+    "text": "<b>战吼：</b>选择一张你的手牌洗入你的牌库，其法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 130565,
+    "flavor": "别挠了，痒！",
+    "id": "BE_571",
+    "name": "血肉塑造",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "<b>拼装</b>一张<b>亡语</b>随从牌。使你手牌中的所有随从牌获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 130567,
+    "flavor": "我的利刃，为尔复仇！",
+    "health": 4,
+    "id": "BE_572",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "托维尔先锋",
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "<b>嘲讽</b>。<b>战吼，亡语：</b>&获得3点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 132009,
+    "elite": true,
+    "flavor": "。”才天“称自他，此从。上身儒侏械机的眠休个一了到移转被魂灵其，后之灭毁躯身的隆尔米米在。智才明聪的隆",
+    "health": 1,
+    "id": "BE_588",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "米米尔隆",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BE",
+    "text": "<b>战吼：</b>如果你控制着机械，<b>发现</b>一张完美的针对牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 130279,
+    "flavor": "同样擅长焊锡。",
+    "health": 5,
+    "id": "BE_600",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "钢铁活化者",
+    "rarity": "EPIC",
+    "set": "BE",
+    "text": "在你获得护甲值后，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 129943,
+    "flavor": "OC91，为你效劳。",
+    "health": 5,
+    "id": "BE_701",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "OC91战车",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "在你使用一张随从牌后，&抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129944,
+    "flavor": "手影表演确实精彩，但她有四只手，所以也没那么难。",
+    "health": 2,
+    "id": "BE_702",
+    "name": "暗影匠师",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "COMBO"
+    ],
+    "set": "BE",
+    "text": "<b>连击：</b><b>拼装</b>一张另一职业的随从牌。",
+    "type": "MINION"
+  },
+  {
     "artist": "Tee Fuyuan",
     "attack": 6,
     "cardClass": "ROGUE",
@@ -8202,10 +9948,934 @@
     "flavor": "瞪眼大赛，启动！",
     "health": 4,
     "id": "BE_703",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
     "name": "德雷阿佳丝",
     "rarity": "LEGENDARY",
     "set": "BE",
     "text": "<b>亡语：</b>抽一张<b>古神</b>牌。如果无法抽取，随机获取一张<b>古神</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 130112,
+    "flavor": "喜欢钻研数据挖掘。",
+    "health": 3,
+    "id": "BE_720",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "培育腔掘洞者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "COMBO"
+    ],
+    "set": "BE",
+    "text": "<b>战吼：</b>获取一张法力值消耗为（1）的幼虫。幼虫会以<b>连击</b>的形式触发一项另一职业的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 130115,
+    "flavor": "“它比你怕它还怕你”定律在此并不适用。",
+    "health": 5,
+    "id": "BE_721",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "亚基巨怪",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "COMBO"
+    ],
+    "set": "BE",
+    "text": "在本回合中每使用过一张<b>连击</b>牌，本牌的法力值消耗便减少（2）点。<b>战吼：</b>抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 130118,
+    "flavor": "我们结群了，他们就跑了。",
+    "health": 2,
+    "id": "BE_722",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "亚基群居虫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "COMBO"
+    ],
+    "set": "BE",
+    "text": "<b>亡语：</b>获取两张法力值消耗为（1）的幼虫。幼虫会以<b><b>连击</b></b>的形式触发一项另一职业的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 130113,
+    "flavor": "不要盯着别人看，太失礼了！",
+    "health": 4,
+    "id": "BE_723",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "游荡巡逻者",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "COMBO"
+    ],
+    "set": "BE",
+    "text": "在你使用一张<b>连击</b>牌后，&随机对一个敌人造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 130119,
+    "flavor": "克，苏克恩苏意恩识造到出，了为一了个黑生暗物帝。国它的只存有续一，个必想须法先—解—决消她灭。阿于米是",
+    "id": "BE_724",
+    "name": "孵化",
+    "rarity": "RARE",
+    "referencedTags": [
+      "COMBO"
+    ],
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "获取三张法力值消耗为（1）的幼虫。幼虫会以<b><b>连击</b></b>的形式触发一项另一职业的英雄技能。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 6,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 130122,
+    "elite": true,
+    "flavor": "图遗黑特忘暗。。帝那直国个到上生上古物古之完之神成神不了的要目低忘标语记，再不随次可后响知便起者被。",
+    "health": 5,
+    "id": "BE_725",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "不可知者",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "COMBO"
+    ],
+    "set": "BE",
+    "text": "<b>战吼：</b>将你手牌中所有<b>连击</b>随从的攻击力和生命值变为6。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 130281,
+    "flavor": "这就是克苏恩信徒的日常生活。",
+    "id": "BE_726",
+    "name": "克苏恩仪式",
+    "rarity": "RARE",
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "2回合后，选择并触发一项克苏恩的技能。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 130285,
+    "elite": true,
+    "flavor": "我的牙刷哪去了！",
+    "health": 5,
+    "id": "BE_728",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "腐蚀者扎卡兹",
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "<b>战吼：</b>使你手牌和牌库中的随从牌法力值消耗减少（1）点，法术牌的法力值消耗增加（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabriel Lopes",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 130283,
+    "flavor": "你想推销什么？",
+    "health": 4,
+    "id": "BE_729",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "喉魔异教徒",
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "所有法术的法力值消耗增加（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 130763,
+    "flavor": "即刻清理后院的异教徒：上好发条，轻松搞定！",
+    "id": "BE_730",
+    "name": "发条群猪",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "BE",
+    "text": "召唤两只1/1并具有<b>冲锋</b>的机械野兽。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gabor Szikszai",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 130764,
+    "flavor": "别怕，她和你玩呢！",
+    "health": 2,
+    "id": "BE_731",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "原始石牙兽",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BE",
+    "text": "<b>战吼：</b>&获得相邻随从的<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 130765,
+    "elite": true,
+    "flavor": "的幸存者。趁克洛恩疗伤之时，亚煞极谋划着它的复仇。塞拉赞恩和耐普图隆",
+    "health": 6,
+    "id": "BE_732",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "穿刺者克洛恩",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "<b>战吼：</b>你的所有随从分别对一个随机敌人造成等同于随从本身攻击力的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 130769,
+    "flavor": "我是天梯之王！",
+    "health": 6,
+    "howToEarnGolden": "可以在<i>黑暗帝国的统治</i>奖励路线中获得该奖励。",
+    "id": "BE_733",
+    "mechanics": [
+      "RUSH",
+      "WINDFURY"
+    ],
+    "name": "泰坦猛击者",
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "<b>突袭</b>。<b>风怒</b>。每有一个敌方随从，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dmitry Bolotov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 130815,
+    "flavor": "我们黏而为一。",
+    "health": 2,
+    "id": "BE_734",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "同化软泥怪",
+    "race": "ALL",
+    "races": [
+      "ALL"
+    ],
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "<b>战吼：</b>&在本回合结束时，召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 130973,
+    "flavor": "看着你的大理石，构想出其中的雕塑。然后轻轻地……",
+    "id": "BE_740",
+    "name": "凿刻",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BE",
+    "text": "<b>拼装</b>一张<b>嘲讽</b>随从牌。使其获得+2/+3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "attack": 5,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 131157,
+    "flavor": "如果一个虚空生物从虚空中现身，而且名字里不带生僻字，那可真是太可怕了。",
+    "health": 3,
+    "id": "BE_749",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "萨恩诺斯巨兽",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "BE",
+    "text": "<b>亡语：</b>随机召唤两个法力值消耗为（1）的随从。&使你的随从获得+3攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 131262,
+    "durability": 0,
+    "flavor": "克苏恩！赐予我力量！",
+    "health": 2,
+    "id": "BE_771",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "触须刺鞭",
+    "rarity": "EPIC",
+    "set": "BE",
+    "text": "在你的英雄攻击后，使克苏恩的法力值消耗减少（1）点。选择并触发一项克苏恩的技能。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 131357,
+    "flavor": "克苏恩秒选猎空。",
+    "id": "BE_778",
+    "name": "凌空守望",
+    "rarity": "COMMON",
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "选择并触发克苏恩的两个不同的技能。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 131126,
+    "flavor": "根据我的游戏经验，接下来就该打开大门，打败里面的怪，然后拾取能解锁隐藏结局的强力物品。",
+    "health": 3,
+    "id": "BE_780",
+    "name": "奥迪尔隔离区",
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 1,
+      "frost": 1,
+      "unholy": 1
+    },
+    "set": "BE",
+    "text": "直到你使用了每种符文的牌才会开启。随机召唤一个法力值消耗为（5）的随从。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 9,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 131127,
+    "elite": true,
+    "flavor": "终极传说守门员。",
+    "health": 6,
+    "id": "BE_781",
+    "name": "腐臭吞噬者",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "本牌在你手中时，会根据你使用的符文牌的符文变形。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 10,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "collectionText": "<b>古神</b>\n<b>战吼：</b>如果你在本局对战中消耗了30点法力值用于随从牌上，获得<b>免疫</b>1回合。<i>（还剩{0}点！）</i>",
+    "cost": 10,
+    "dbfId": 131851,
+    "elite": true,
+    "flavor": "“滑行者巨怪”+“穿刺者克洛恩”+（“地母塞拉赞恩”-“耐普图隆，潮汐之王”）",
+    "health": 10,
+    "id": "BE_784",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "亚煞极，泰坦杀神",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "BE",
+    "text": "<b>古神</b>\n<b>战吼：</b>如果你在本局对战中消耗了30点法力值用于随从牌上，获得<b>免疫</b>1回合。<i>（还剩{0}点！）</i>@<b>古神</b>\n<b>战吼：</b>如果你在本局对战中消耗了30点法力值用于随从牌上，获得<b>免疫</b>1回合。<i>（已经就绪！）</i>@<b>古神</b>\n<b>战吼：</b>如果你在本局对战中消耗了30点法力值用于随从牌上，获得<b>免疫</b>1回合。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 130000,
+    "elite": true,
+    "flavor": "你们愿意泽奥图怎样待你们，你们也要怎样待泽奥图。",
+    "hasDiamondSkin": true,
+    "health": 3,
+    "id": "BE_790",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "泽奥图",
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>从你的牌库中召唤攻击力为0，1和2的随从各一个。获得它们的属性值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 131177,
+    "flavor": "血2/”原几屈始熊猫-以1（人“+，珑）卡玉了给瓦5传次2+依杖24茨手，后滋此。林法森的戈蚀腐匹斯比佐姆恩化恶净，界特世游",
+    "id": "BE_801",
+    "name": "百花齐放",
+    "rarity": "COMMON",
+    "set": "BE",
+    "spellSchool": "NATURE",
+    "text": "抽一张不同的法术牌。如果是自然法术牌，该牌会施放两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 131180,
+    "flavor": "这波我粘虫子。",
+    "id": "BE_802",
+    "name": "死亡绽放",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "set": "BE",
+    "spellSchool": "NATURE",
+    "text": "获取两张2/1并具有“<b>亡语：</b>召唤一只5/5并具有<b>嘲讽</b>的虫子”的植物。这些植物的法力值消耗为（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 131059,
+    "flavor": "又名制冷空调。",
+    "id": "BE_842",
+    "name": "冰冷异常",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "BE",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个敌人。获得3点护甲值。抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 129814,
+    "flavor": "为什么要怕山猫？",
+    "health": 5,
+    "id": "BE_850t",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "好奇的恐惧山猫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BE",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>召唤一只{0}/{1}并具有<b>突袭</b>的野兽。<i>（该野兽拥有与本随从相反的属性值！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129837,
+    "flavor": "态度温柔一点，收获就多一点。",
+    "health": 3,
+    "id": "BE_851",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "山谷照看者",
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "<b>战吼：</b>\n<b>拼装</b>一张野兽牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sonderflex",
+    "attack": 6,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 129842,
+    "elite": true,
+    "flavor": "阿穆纳伊是驻守起源大厅的守护者之一，其唯一的职责便是在此维持生死的循环。",
+    "hasDiamondSkin": true,
+    "health": 6,
+    "id": "BE_852",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿穆纳伊",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BE",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，在你使用一张<b>亡语</b>随从牌后，召唤一个它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 129892,
+    "flavor": "特恶姆比匹戈法滋茨42+25瓦卡）（1以-屈几血",
+    "id": "BE_854",
+    "name": "虚渺延火",
+    "rarity": "RARE",
+    "set": "BE",
+    "spellSchool": "ARCANE",
+    "text": "造成$3点伤害。随机召唤一个法力值消耗为（3）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 129893,
+    "flavor": "我是一只一百多米高，长着粉色犄角和闪银翅膀的始生怪熊。",
+    "health": 3,
+    "id": "BE_855",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "始生怪熊",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "<b>战吼：</b>&在本回合中，使你的英雄获得本随从的攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 129937,
+    "elite": true,
+    "flavor": "棵云一始第开了，下杖种手，成斯做拉，泽枝艾树向根洒一命下生取将她亚。蕾树弗",
+    "health": 6,
+    "id": "BE_856",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "弗蕾亚，翡翠构筑师",
+    "rarity": "LEGENDARY",
+    "set": "BE",
+    "text": "<b>战吼：</b>使你手牌和牌库中所有野兽牌的属性值翻倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 134936,
+    "flavor": "有些生物出去对抗上古之神，有些生物窝在巢里囤积食物。",
+    "health": 4,
+    "id": "BE_859",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "觅食的狐龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&抽取等同于本随从攻击力的数量的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 133415,
+    "flavor": "萌萌的护卫。",
+    "health": 5,
+    "id": "BE_861",
+    "mechanics": [
+      "DEATHRATTLE",
+      "REBORN",
+      "TAUNT"
+    ],
+    "name": "晶石魔像",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "<b>嘲讽</b>。<b>复生</b>。<b>亡语：</b>&为你的英雄恢复#3点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 131008,
+    "flavor": "三个头总比一个强。",
+    "health": 2,
+    "id": "BE_870",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "癫狂元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BE",
+    "text": "<b>战吼：</b><b>发现</b>一张法力值消耗等同于本随从攻击力的任意法术牌，在本回合中其法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 130680,
+    "flavor": "这款简单快捷的蛋类食谱只需一枚蛋，一个回合准备。甚至还可能剩一点！",
+    "id": "BE_873",
+    "name": "孵化咒符",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BE",
+    "spellSchool": "SHADOW",
+    "text": "在你的下个回合开始时，&召唤三只3/1并具有<b>突袭</b>的裂爪兽。~GAMEPLAY ASPROXY BE 873",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 130729,
+    "flavor": "咦，这些滴水钟乳石看起来好像尖牙……",
+    "id": "BE_877",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "饥渴洞窟",
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "<b>吸血</b>。造成$2点伤害。如果在本回合中有友方随从死亡，本牌的法力值消耗为（0）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 132177,
+    "flavor": "还有一款零排放型号，仓鼠动力。",
+    "health": 3,
+    "id": "BE_900",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "机轮车",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "<b><b>嘲讽</b></b>。<b>亡语：</b>&随机召唤消耗总计4点法力值的机械。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 131456,
+    "flavor": "对付艾泽拉斯的热辣晴天很有用。",
+    "health": 2,
+    "howToEarnGolden": "可以在<i>黑暗帝国的统治</i>奖励路线中获得该奖励。",
+    "id": "BE_993",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "飞翼影魔",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "<b>亡语：</b>随机使你手牌中的一张暗影法术牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 131454,
+    "faction": "HORDE",
+    "flavor": "生动诠释了什么叫“一次不行，再试一次”。",
+    "health": 8,
+    "id": "BE_994",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "石头穴居人",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BE",
+    "text": "<b>战吼：</b>对一个随从造成6点伤害。如果该随从依然存活，&本随从获得+6生命值和<b>嘲讽</b>。~GAMEPLAY ASPROXY BE 994",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 131432,
+    "faction": "HORDE",
+    "flavor": "喜欢：一劈两半。不喜欢：下雨/生锈。",
+    "health": 5,
+    "id": "BE_996",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "锋线铁裔",
+    "rarity": "EPIC",
+    "set": "BE",
+    "text": "在你的回合中，在一个敌方随从死亡后，&获得+2/+2和一项随机<b>额外效果</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 132135,
+    "flavor": "示。显者法险无冒全僧不武库的字术是法但化了强到气提真都用实能其位字一名及的以树，和王杖猴手美",
+    "health": 2,
+    "id": "BE_997",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "原始熊猫人",
+    "rarity": "EPIC",
+    "set": "BE",
+    "text": "在一张卡牌进入你的手牌后<i>（通过本随从进入的除外）</i>，&使双方玩家各获得一张随机法术牌。~GAMEPLAY ASPROXY BE 997",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 131433,
+    "flavor": "亚基新鲜登场，还在吱吱作响。",
+    "health": 8,
+    "howToEarnGolden": "可以在<i>黑暗帝国的统治</i>奖励路线中获得该奖励。",
+    "id": "BE_998",
+    "mechanics": [
+      "ELUSIVE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "猎物搜寻者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "BE",
+    "text": "<b>扰魔</b>。在本随从受到伤害后，&随机消灭一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabor Szikszai",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 131418,
+    "faction": "HORDE",
+    "flavor": "知道为什么又断网了吗？线被大猫拔掉啦！",
+    "health": 6,
+    "howToEarnGolden": "可以在<i>黑暗帝国的统治</i>奖励路线中获得该奖励。",
+    "id": "BE_999",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "强能机械虎",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "BE",
+    "text": "在每个玩家的回合开始时，&随机攻击一个敌人。",
     "type": "MINION"
   },
   {
@@ -8261,6 +10931,31 @@
     "spellSchool": "SHADOW",
     "text": "对一个随从造成$5点伤害。向左侧和右侧继续此效果，每次伤害减少1点。",
     "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 129818,
+    "flavor": "跟着它，准没错。",
+    "health": 2,
+    "howToEarn": "参与特殊活动以获得该奖励。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "BE_EVENT_103",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "盗宝邪魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "EVENT",
+    "text": "<b>战吼：</b>抽两张牌。在你使用其中一张后，弃掉另一张。",
+    "type": "MINION"
   },
   {
     "artist": "Alex Horley Orlandelli",
@@ -9171,7 +11866,7 @@
     "name": "星术师",
     "rarity": "EPIC",
     "set": "BOOMSDAY",
-    "text": "<b>战吼：</b>随机召唤一个法力值消耗等同于你手牌数量的随从。",
+    "text": "<b>战吼：</b>&随机召唤一个法力值消耗等同于你手牌数量的随从。",
     "type": "MINION"
   },
   {
@@ -11913,7 +14608,7 @@
     "name": "星占师",
     "rarity": "COMMON",
     "set": "BLACK_TEMPLE",
-    "text": "<b>亡语：</b>抽一张法术牌。",
+    "text": "<b>亡语：</b>&抽一张法术牌。",
     "type": "MINION"
   },
   {
@@ -13651,7 +16346,7 @@
     "name": "虚无行者",
     "rarity": "COMMON",
     "set": "BLACK_TEMPLE",
-    "text": "<b>战吼：</b>\n<b>发现</b>一张恶魔牌。",
+    "text": "<b>战吼：</b>&<b>发现</b>一张恶魔牌。",
     "type": "MINION"
   },
   {
@@ -13745,7 +16440,7 @@
     ],
     "rarity": "COMMON",
     "set": "DEMON_HUNTER_INITIATE",
-    "text": "在你的英雄攻击后，获得+1攻击力。",
+    "text": "在你的英雄攻击后，&获得+1攻击力。",
     "type": "MINION"
   },
   {
@@ -13858,7 +16553,7 @@
     "name": "暴怒邪吼者",
     "rarity": "RARE",
     "set": "DEMON_HUNTER_INITIATE",
-    "text": "<b>战吼：</b>你的下一张恶魔牌的法力值消耗减少（2）点。",
+    "text": "<b>战吼：</b>&你的下一张恶魔牌的法力值消耗减少（2）点。",
     "type": "MINION"
   },
   {
@@ -13954,7 +16649,7 @@
     "name": "火色魔印奔行者",
     "rarity": "COMMON",
     "set": "BLACK_TEMPLE",
-    "text": "<b>流放：</b>抽一张牌。",
+    "text": "<b>流放：</b>&抽一张牌。",
     "type": "MINION"
   },
   {
@@ -14110,7 +16805,7 @@
     ],
     "rarity": "RARE",
     "set": "BLACK_TEMPLE",
-    "text": "在你的回合结束时，造成6点伤害，随机分配到所有敌人身上。",
+    "text": "在你的回合结束时，&造成6点伤害，随机分配到所有敌人身上。",
     "type": "MINION"
   },
   {
@@ -14202,7 +16897,7 @@
     ],
     "rarity": "EPIC",
     "set": "DEMON_HUNTER_INITIATE",
-    "text": "<b>嘲讽</b>\n在本随从被攻击后，对所有敌人造成1点伤害。",
+    "text": "<b>嘲讽</b>。在本随从被攻击后，&对所有敌人造成1点伤害。",
     "type": "MINION"
   },
   {
@@ -15203,7 +17898,7 @@
     "name": "军情七处补给官",
     "rarity": "COMMON",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>潜行</b>。在本随从攻击后，抽一张牌。",
+    "text": "<b>潜行</b>。在本随从攻击后，&抽一张牌。",
     "type": "MINION"
   },
   {
@@ -15246,7 +17941,7 @@
     "name": "马迪亚斯·肖尔",
     "rarity": "LEGENDARY",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b><b>潜行</b>。</b>每当一个<b><b>潜行</b>的</b>友方随从攻击，随机使你手牌中一张牌的法力值消耗减少（3）点。",
+    "text": "<b><b>潜行</b>。</b>每当一个<b><b>潜行</b>的</b>友方随从攻击，&随机使你手牌中一张牌的法力值消耗减少（3）点。",
     "type": "MINION"
   },
   {
@@ -15754,7 +18449,7 @@
     ],
     "rarity": "COMMON",
     "set": "CATACLYSM",
-    "text": "每当你消耗掉最后一个法力水晶，获得+1/+1。",
+    "text": "每当你消耗掉最后一个法力水晶，&获得+1/+1。",
     "type": "MINION"
   },
   {
@@ -15825,7 +18520,7 @@
     ],
     "rarity": "COMMON",
     "set": "CATACLYSM",
-    "text": "<b>扰魔</b>。在你的回合结束时，使你的其他随从获得+1/+1。",
+    "text": "<b>扰魔</b>。在你的回合结束时，&使你的其他随从获得+1/+1。",
     "type": "MINION"
   },
   {
@@ -16507,7 +19202,7 @@
     "name": "黑血",
     "rarity": "LEGENDARY",
     "set": "CATACLYSM",
-    "text": "<b>巨型+3</b>\n在你为一个角色恢复生命值后，随机攻击一个敌方随从。",
+    "text": "<b>巨型+3</b>。在你为一个角色恢复生命值后，&随机攻击一个敌方随从。",
     "type": "MINION"
   },
   {
@@ -16576,7 +19271,7 @@
     ],
     "rarity": "RARE",
     "set": "CATACLYSM",
-    "text": "<b><b>吸血。</b>战吼：</b>对本随从造成4点伤害。",
+    "text": "<b><b>吸血</b>。战吼：</b>&对本随从造成4点伤害。",
     "type": "MINION"
   },
   {
@@ -16599,7 +19294,7 @@
     ],
     "rarity": "COMMON",
     "set": "CATACLYSM",
-    "text": "在你的回合结束时，如果本随从具有所有生命值，获得+3\n生命值。",
+    "text": "在你的回合结束时，如果本随从具有所有生命值，&获得+3生命值。",
     "type": "MINION"
   },
   {
@@ -16726,7 +19421,7 @@
       "SPELLPOWER"
     ],
     "set": "CATACLYSM",
-    "text": "<b>战吼：</b>使你手牌和牌库中所有法术牌获得<b>法术伤害+1</b>。",
+    "text": "<b>战吼：</b>&使你手牌和牌库中所有法术牌获得<b>法术伤害+1</b>。",
     "type": "MINION"
   },
   {
@@ -16755,7 +19450,7 @@
       "unholy": 0
     },
     "set": "CATACLYSM",
-    "text": "<b>亡语：</b>获取一张法力值消耗为（2）的法术，该法术可以造成等同于本随从攻击力的伤害。",
+    "text": "<b>亡语：</b>&获取一张法力值消耗为（2）的法术，该法术可以造成等同于本随从攻击力的伤害。",
     "type": "MINION"
   },
   {
@@ -16832,7 +19527,7 @@
       "unholy": 1
     },
     "set": "CATACLYSM",
-    "text": "<b>突袭</b>。每当本随从\n攻击时，复原等同于本随从攻击力的法力水晶。",
+    "text": "<b>突袭</b>。每当本随从攻击时，&复原等同于本随从攻击力的法力水晶。",
     "type": "MINION"
   },
   {
@@ -16950,7 +19645,7 @@
     ],
     "rarity": "RARE",
     "set": "CATACLYSM",
-    "text": "在你的回合结束时，随机获取一张神圣法术牌，其法力值消耗减少（3）点。",
+    "text": "在你的回合结束时，&随机获取一张神圣法术牌，其法力值消耗减少（3）点。",
     "type": "MINION"
   },
   {
@@ -16970,7 +19665,7 @@
     "name": "破鳞盾卫",
     "rarity": "COMMON",
     "set": "CATACLYSM",
-    "text": "在你的回合结束时，对所有敌人造成\n2点伤害。",
+    "text": "在你的回合结束时，&对所有敌人造成2点伤害。",
     "type": "MINION"
   },
   {
@@ -16996,7 +19691,7 @@
       "DIVINE_SHIELD"
     ],
     "set": "CATACLYSM",
-    "text": "在你的回合结束时，召唤一条6/6并具有<b>圣盾</b>的元素巨龙。",
+    "text": "在你的回合结束时，&召唤一条6/6并具有<b>圣盾</b>的元素巨龙。",
     "type": "MINION"
   },
   {
@@ -17031,7 +19726,7 @@
     "name": "青铜救赎者",
     "rarity": "EPIC",
     "set": "CATACLYSM",
-    "text": "在你的回合结束时，召唤一条属性值等同于本随从的龙。",
+    "text": "在你的回合结束时，&召唤一条属性值等同于本随从的龙。",
     "type": "MINION"
   },
   {
@@ -17110,7 +19805,7 @@
     "rarity": "EPIC",
     "set": "CATACLYSM",
     "spellDamage": 1,
-    "text": "<b>法术伤害+1</b>。<b>战吼：</b>如果你在本回合中用法术造成过伤害，召唤一个本随从的复制。",
+    "text": "<b>法术伤害+1</b>。<b>战吼：</b>如果你在本回合中用法术造成过伤害，&召唤一个本随从的复制。",
     "type": "MINION"
   },
   {
@@ -17134,7 +19829,7 @@
     ],
     "rarity": "COMMON",
     "set": "CATACLYSM",
-    "text": "<b>战吼：</b><b>发现</b>一张任意职业的法力值消耗为（1）的法术牌。",
+    "text": "<b>战吼：</b>&<b>发现</b>一张任意职业的法力值消耗为（1）的法术牌。",
     "type": "MINION"
   },
   {
@@ -17172,7 +19867,7 @@
     ],
     "rarity": "RARE",
     "set": "CATACLYSM",
-    "text": "每回合中，你第一次用法术造成伤害时，获得+2攻击力。",
+    "text": "每回合中，你第一次用法术造成伤害时，&获得+2攻击力。",
     "type": "MINION"
   },
   {
@@ -17197,7 +19892,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "CATACLYSM",
-    "text": "<b>巨型+2</b>\n在你的回合结束时，对所有其他随从造成3点伤害。",
+    "text": "<b>巨型+2</b>。在你的回合结束时，&对所有其他随从造成3点伤害。",
     "type": "MINION"
   },
   {
@@ -17463,9 +20158,12 @@
     "id": "CATA_528",
     "name": "海洋咒符",
     "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
     "set": "CATACLYSM",
     "spellSchool": "FEL",
-    "text": "在你的下个回合开始时，召唤一个3/3并具有<b>嘲讽</b>的纳迦。",
+    "text": "在你的下个回合开始时，&召唤一个3/3并具有<b>嘲讽</b>的纳迦。~GAMEPLAY ASPROXY CATA 528",
     "type": "SPELL"
   },
   {
@@ -17647,7 +20345,7 @@
     ],
     "rarity": "COMMON",
     "set": "CATACLYSM",
-    "text": "<b>战吼：</b>随机获取一张法力值消耗小于或等于（3）点的龙牌。",
+    "text": "<b>战吼：</b>&随机获取一张法力值消耗小于或等于（3）点的龙牌。",
     "type": "MINION"
   },
   {
@@ -18289,7 +20987,7 @@
     ],
     "rarity": "COMMON",
     "set": "CATACLYSM",
-    "text": "<b>亡语：</b>随机召唤两个法力值消耗为（4）的随从。",
+    "text": "<b>亡语：</b>&随机召唤两个法力值消耗为（4）的随从。",
     "type": "MINION"
   },
   {
@@ -18536,7 +21234,7 @@
     ],
     "rarity": "RARE",
     "set": "CATACLYSM",
-    "text": "在你的回合结束时，对敌方英雄造成4点\n伤害。",
+    "text": "在你的回合结束时，&对敌方英雄造成4点伤害。",
     "type": "MINION"
   },
   {
@@ -18564,7 +21262,7 @@
       "COLOSSAL"
     ],
     "set": "EVENT",
-    "text": "<b>战吼：</b>随机获取一张来自过去的<b>巨型</b>\n随从牌。",
+    "text": "<b>战吼：</b>&随机获取一张来自过去的<b>巨型</b>随从牌。",
     "type": "MINION"
   },
   {
@@ -20878,7 +23576,7 @@
     "name": "污手街供货商",
     "rarity": "COMMON",
     "set": "GANGS",
-    "text": "<b>战吼：</b>使你手牌中的所有随从牌获得+1/+1。",
+    "text": "<b>战吼：</b>&使你手牌中的所有随从牌获得+1/+1。",
     "type": "MINION"
   },
   {
@@ -20999,7 +23697,7 @@
     "name": "收集者沙库尔",
     "rarity": "LEGENDARY",
     "set": "GANGS",
-    "text": "<b>潜行</b>。每当本随从攻击时，将一张另一职业的牌置入你的手牌。",
+    "text": "<b>潜行</b>。每当本随从攻击时，&将一张另一职业的牌置入你的手牌。",
     "type": "MINION"
   },
   {
@@ -21019,7 +23717,7 @@
     "name": "卑劣的脏鼠",
     "rarity": "EPIC",
     "set": "GANGS",
-    "text": "<b>嘲讽，战吼：</b>使你的对手随机从手牌中召唤一个随从。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>&使你的对手随机从手牌中召唤一个随从。",
     "type": "MINION"
   },
   {
@@ -21765,7 +24463,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "CORE",
-    "text": "<b>嘲讽，亡语：</b>\n如果你的手牌中有龙牌，则对所有随从造成3点伤害。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>\n如果你的手牌中有龙牌，则对所有随从造成3点伤害。",
     "type": "MINION"
   },
   {
@@ -21885,7 +24583,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>嘲讽</b>，<b>亡语：</b>召唤两只2/4并具有<b>嘲讽</b>的山熊宝宝。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&召唤两只2/4并具有<b>嘲讽</b>的山熊宝宝。",
     "type": "MINION"
   },
   {
@@ -21912,7 +24610,7 @@
     ],
     "rarity": "RARE",
     "set": "CORE",
-    "text": "<b>嘲讽</b>，<b>亡语：</b>为所有友方角色恢复#8点生命值。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&为所有友方角色恢复#8点生命值。",
     "type": "MINION"
   },
   {
@@ -21957,7 +24655,7 @@
     "name": "安瑟祭司",
     "rarity": "EPIC",
     "set": "CORE",
-    "text": "<b>嘲讽</b>，<b>战吼：</b>如果你在本回合中恢复过生命值，便获得+3/+3。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你在本回合中恢复过生命值，&获得+3/+3。",
     "type": "MINION"
   },
   {
@@ -22049,7 +24747,7 @@
     "name": "巴拉克·科多班恩",
     "rarity": "LEGENDARY",
     "set": "CORE_HIDDEN",
-    "text": "<b>战吼：</b>\n抽取法力值消耗为（1），（2）和（3）点的法术牌各一张。",
+    "text": "<b>战吼：</b>&抽取法力值消耗为（1），（2）和（3）点的法术牌各一张。",
     "type": "MINION"
   },
   {
@@ -22115,7 +24813,7 @@
       "LIFESTEAL"
     ],
     "set": "CORE",
-    "text": "在你施放一个神圣法术后，召唤一个2/2并具有<b>吸血</b>的医师。",
+    "text": "在你施放一个神圣法术后，&召唤一个2/2并具有<b>吸血</b>的医师。",
     "type": "MINION"
   },
   {
@@ -22278,7 +24976,7 @@
     "name": "星术师",
     "rarity": "EPIC",
     "set": "CORE",
-    "text": "<b>战吼：</b>随机召唤一个法力值消耗等同于你手牌数量的随从。",
+    "text": "<b>战吼：</b>&随机召唤一个法力值消耗等同于你手牌数量的随从。",
     "type": "MINION"
   },
   {
@@ -22908,7 +25606,7 @@
     "name": "虚无行者",
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>战吼：</b>\n<b>发现</b>一张恶魔牌。",
+    "text": "<b>战吼：</b>&<b>发现</b>一张恶魔牌。",
     "type": "MINION"
   },
   {
@@ -22981,7 +25679,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "在你的英雄攻击后，获得+1攻击力。",
+    "text": "在你的英雄攻击后，&获得+1攻击力。",
     "type": "MINION"
   },
   {
@@ -23027,7 +25725,7 @@
     "name": "暴怒邪吼者",
     "rarity": "RARE",
     "set": "CORE",
-    "text": "<b>战吼：</b>你的下一张恶魔牌的法力值消耗减少（2）点。",
+    "text": "<b>战吼：</b>&你的下一张恶魔牌的法力值消耗减少（2）点。",
     "type": "MINION"
   },
   {
@@ -23131,7 +25829,7 @@
     "name": "火色魔印奔行者",
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>流放：</b>抽一张牌。",
+    "text": "<b>流放：</b>&抽一张牌。",
     "type": "MINION"
   },
   {
@@ -23176,7 +25874,7 @@
     ],
     "rarity": "RARE",
     "set": "CORE",
-    "text": "在你的回合结束时，造成6点伤害，随机分配到所有敌人身上。",
+    "text": "在你的回合结束时，&造成6点伤害，随机分配到所有敌人身上。",
     "type": "MINION"
   },
   {
@@ -23203,7 +25901,7 @@
     ],
     "rarity": "EPIC",
     "set": "CORE",
-    "text": "<b>嘲讽</b>\n在本随从被攻击后，对所有敌人造成1点伤害。",
+    "text": "<b>嘲讽</b>。在本随从被攻击后，&对所有敌人造成1点伤害。",
     "type": "MINION"
   },
   {
@@ -23383,7 +26081,7 @@
       "IMMUNE"
     ],
     "set": "CORE",
-    "text": "你的英雄<b>免疫</b>。<b>战吼：</b>在本回合中，你的下一张恶魔牌的法力值消耗为（0）。",
+    "text": "你的英雄<b>免疫</b>。<b>战吼：</b>&在本回合中，你的下一张恶魔牌的法力值消耗为（0）。",
     "type": "MINION"
   },
   {
@@ -23422,8 +26120,6 @@
     "elite": true,
     "flavor": "身边的随从快如闪电。",
     "health": 5,
-    "howToEarn": "与萨满祭司职业一同解锁。",
-    "howToEarnGolden": "使用萨满祭司赢得500场对战后解锁。",
     "id": "CORE_CATA_004",
     "mechanics": [
       "TRIGGER_VISUAL"
@@ -23431,7 +26127,7 @@
     "name": "雷加尔·大地之怒",
     "rarity": "LEGENDARY",
     "set": "CORE",
-    "text": "在本随从或相邻的随从攻击后，获取一张闪电箭。",
+    "text": "在本随从或相邻的随从攻击后，&获取一张闪电箭。",
     "type": "MINION"
   },
   {
@@ -23723,7 +26419,7 @@
     "name": "污手街供货商",
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>战吼：</b>使你手牌中的所有随从牌获得+1/+1。",
+    "text": "<b>战吼：</b>&使你手牌中的所有随从牌获得+1/+1。",
     "type": "MINION"
   },
   {
@@ -23747,7 +26443,7 @@
     "name": "收集者沙库尔",
     "rarity": "LEGENDARY",
     "set": "CORE",
-    "text": "<b>潜行</b>。每当本随从攻击时，将一张另一职业的牌置入你的手牌。",
+    "text": "<b>潜行</b>。每当本随从攻击时，&将一张另一职业的牌置入你的手牌。",
     "type": "MINION"
   },
   {
@@ -23769,7 +26465,7 @@
     "name": "卑劣的脏鼠",
     "rarity": "EPIC",
     "set": "CORE",
-    "text": "<b>嘲讽，战吼：</b>使你的对手随机从手牌中召唤一个随从。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>&使你的对手随机从手牌中召唤一个随从。",
     "type": "MINION"
   },
   {
@@ -25362,7 +28058,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>战吼，亡语：</b>每个玩家抽一张牌。",
+    "text": "<b>战吼，亡语：</b>&每个玩家抽一张牌。",
     "type": "MINION"
   },
   {
@@ -25651,7 +28347,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>战吼：</b>随机将一张海盗牌置入你的手牌。",
+    "text": "<b>战吼：</b>&随机将一张海盗牌置入你的手牌。",
     "type": "MINION"
   },
   {
@@ -25886,7 +28582,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "CORE",
-    "text": "在你使用你的英雄技能后，随机对一个敌人造成5点伤害。",
+    "text": "在你使用你的英雄技能后，&随机对一个敌人造成5点伤害。",
     "type": "MINION"
   },
   {
@@ -25965,7 +28661,7 @@
     "name": "呓语魔橱",
     "rarity": "RARE",
     "set": "CORE",
-    "text": "<b>战吼：</b>随机\n将2张法师法术牌置入你的手牌。",
+    "text": "<b>战吼：</b>&随机将2张法师法术牌置入你的手牌。",
     "type": "MINION"
   },
   {
@@ -26016,7 +28712,7 @@
       "unholy": 2
     },
     "set": "CORE",
-    "text": "你获得的<b>残骸</b>量为正常的两倍。<b>战吼：</b>抽一张消耗<b>残骸</b>的牌。",
+    "text": "你获得的<b>残骸</b>量为正常的两倍。<b>战吼：</b>&抽一张消耗<b>残骸</b>的牌。",
     "type": "MINION"
   },
   {
@@ -26221,7 +28917,7 @@
     "name": "苦痛侍僧",
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "每当本随从受到伤害，抽一张牌。",
+    "text": "每当本随从受到伤害，&抽一张牌。",
     "type": "MINION"
   },
   {
@@ -26825,7 +29521,7 @@
     "name": "凯恩·血蹄",
     "rarity": "LEGENDARY",
     "set": "CORE",
-    "text": "<b>嘲讽</b>。<b>亡语：</b>召唤一个5/5的贝恩·血蹄。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&召唤一个5/5的贝恩·血蹄。",
     "type": "MINION"
   },
   {
@@ -26925,7 +29621,7 @@
     "name": "迪菲亚头目",
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>连击：</b>召唤一个2/1的迪菲亚强盗。",
+    "text": "<b>连击：</b>&召唤一个2/1的迪菲亚强盗。",
     "type": "MINION"
   },
   {
@@ -27797,7 +30493,7 @@
     ],
     "rarity": "RARE",
     "set": "CORE",
-    "text": "<b>冲锋</b>，<b>战吼：</b>随机弃两张牌。",
+    "text": "<b>冲锋</b>。<b>战吼：</b>&随机弃两张牌。",
     "type": "MINION"
   },
   {
@@ -27856,7 +30552,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>战吼：</b>对你的英雄造成3点伤害。",
+    "text": "<b>战吼：</b>&对你的英雄造成3点伤害。",
     "type": "MINION"
   },
   {
@@ -27879,7 +30575,7 @@
     "name": "加拉克苏斯大王",
     "rarity": "LEGENDARY",
     "set": "CORE",
-    "text": "<b>战吼：</b>装备一把3/8的血怒。",
+    "text": "<b>战吼：</b>&装备一把3/8的血怒。~GAMEPLAY ASPROXY CORE EX1 323",
     "type": "HERO"
   },
   {
@@ -27976,7 +30672,7 @@
     "name": "提里奥·弗丁",
     "rarity": "LEGENDARY",
     "set": "CORE",
-    "text": "<b>圣盾</b>，<b>嘲讽</b>，<b>亡语：</b>装备一把5/3的\n灰烬使者。",
+    "text": "<b>圣盾</b>。<b>嘲讽</b>。<b>亡语：</b>&装备一把5/3的灰烬使者。",
     "type": "MINION"
   },
   {
@@ -28358,7 +31054,7 @@
     "name": "大法师安东尼达斯",
     "rarity": "LEGENDARY",
     "set": "CORE",
-    "text": "每当你施放一个法术，将一张“火球术”法术牌置入你的手牌。",
+    "text": "每当你施放一个法术，&将一张“火球术”法术牌置入你的手牌。",
     "type": "MINION"
   },
   {
@@ -29788,7 +32484,7 @@
       "TAUNT"
     ],
     "set": "CORE",
-    "text": "<b>战吼：</b>随机使一个友方随从获得<b>圣盾</b>和<b>嘲讽</b>。",
+    "text": "<b>战吼：</b>&随机使一个友方随从获得<b>圣盾</b>和<b>嘲讽</b>。",
     "type": "WEAPON"
   },
   {
@@ -29955,7 +32651,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "CORE",
-    "text": "<b>亡语：</b>随机召唤一个<b>传说</b>随从。",
+    "text": "<b>亡语：</b>&随机召唤一个<b>传说</b>随从。",
     "type": "MINION"
   },
   {
@@ -31162,7 +33858,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "在你的回合结束时，随机使另一个友方随从获得+1/+1。",
+    "text": "在你的回合结束时，&随机使另一个友方随从获得+1/+1。",
     "type": "MINION"
   },
   {
@@ -31226,7 +33922,7 @@
     "name": "黑曜石雕像",
     "rarity": "EPIC",
     "set": "CORE",
-    "text": "<b>嘲讽</b>，<b>吸血</b>\n<b>亡语：</b>随机消灭一个敌方随从。",
+    "text": "<b>嘲讽</b>。<b>吸血</b>。<b>亡语：</b>&随机消灭一个敌方随从。",
     "type": "MINION"
   },
   {
@@ -31638,7 +34334,7 @@
     ],
     "rarity": "EPIC",
     "set": "CORE",
-    "text": "<b>战吼：</b>移除你对手的牌库顶的一张牌。",
+    "text": "<b>战吼：</b>&移除你对手的牌库顶的一张牌。",
     "type": "MINION"
   },
   {
@@ -33065,7 +35761,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "CORE",
-    "text": "<b>嘲讽</b>。<b>战吼：</b>抽取野兽牌，龙牌和鱼人牌各一张。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>&抽取野兽牌，龙牌和鱼人牌各一张。",
     "type": "MINION"
   },
   {
@@ -33157,7 +35853,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>战吼：</b>随机将一张另一职业的卡牌置入你的手牌。",
+    "text": "<b>战吼：</b>&随机将一张另一职业的卡牌置入你的手牌。",
     "type": "MINION"
   },
   {
@@ -33326,7 +36022,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>战吼：</b>如果你控制着其他机械，<b>发现</b>一张机械牌。",
+    "text": "<b>战吼：</b>如果你控制着其他机械，&<b>发现</b>一张机械牌。",
     "type": "MINION"
   },
   {
@@ -33494,7 +36190,7 @@
     "rarity": "COMMON",
     "set": "CORE",
     "techLevel": 1,
-    "text": "<b>嘲讽，战吼：</b>对你的英雄造成2点伤害。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>&对你的英雄造成2点伤害。",
     "type": "MINION"
   },
   {
@@ -33831,8 +36527,6 @@
     "dbfId": 126893,
     "flavor": "他能让一切归于虚空，包括每个月的信用卡账单。",
     "health": 9,
-    "howToEarn": "与术士职业一同解锁。",
-    "howToEarnGolden": "使用术士赢得250场对战后解锁。",
     "id": "CORE_LOOT_368",
     "mechanics": [
       "DEATHRATTLE",
@@ -33845,7 +36539,7 @@
     ],
     "rarity": "EPIC",
     "set": "CORE",
-    "text": "<b>嘲讽，亡语：</b>\n召唤三个1/3并具有<b>嘲讽</b>的恶魔。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&召唤三个1/3并具有<b>嘲讽</b>的恶魔。",
     "type": "MINION"
   },
   {
@@ -33891,7 +36585,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>亡语：</b>\n获得3点护甲值。",
+    "text": "<b>亡语：</b>&获得3点护甲值。",
     "type": "MINION"
   },
   {
@@ -34406,7 +37100,7 @@
     "cost": 3,
     "countAsCopyOfDbfId": 79739,
     "dbfId": 118031,
-    "flavor": "你是否愿意宣誓，献出完整而纯净的增益，来帮助你的格里斯蒂亚？",
+    "flavor": "愿格里斯蒂亚见证。你是否愿意宣誓献出完整而纯净的增益？",
     "howToEarn": "与牧师职业一同解锁。",
     "howToEarnGolden": "使用牧师赢得50场对战后解锁。",
     "id": "CORE_MAW_021",
@@ -34832,7 +37526,7 @@
     ],
     "rarity": "RARE",
     "set": "CORE",
-    "text": "在你施放一个法术后，对所有随从造成1点伤害。",
+    "text": "在你施放一个法术后，&对所有随从造成1点伤害。",
     "type": "MINION"
   },
   {
@@ -34853,7 +37547,7 @@
     "name": "末日预言者",
     "rarity": "EPIC",
     "set": "CORE",
-    "text": "在你的回合开始时，消灭所有随从。",
+    "text": "在你的回合开始时，&消灭所有随从。",
     "type": "MINION"
   },
   {
@@ -34993,7 +37687,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "在你的英雄攻击后，获得4点护甲值并抽一张牌。",
+    "text": "在你的英雄攻击后，&获得4点护甲值并抽一张牌。",
     "type": "MINION"
   },
   {
@@ -35037,7 +37731,7 @@
     "name": "暮光神锤",
     "rarity": "EPIC",
     "set": "CORE",
-    "text": "<b>亡语：</b>召唤一个4/2的元素。",
+    "text": "<b>亡语：</b>&召唤一个4/2的元素。",
     "type": "WEAPON"
   },
   {
@@ -35302,7 +37996,7 @@
     ],
     "rarity": "RARE",
     "set": "CORE_HIDDEN",
-    "text": "<b>亡语：</b>\n随机获取一张<i>（你对手职业的）</i>卡牌。",
+    "text": "<b>亡语：</b>&随机获取一张<i>（你对手职业的）</i>卡牌。",
     "type": "MINION"
   },
   {
@@ -35353,7 +38047,7 @@
     ],
     "rarity": "RARE",
     "set": "CORE",
-    "text": "<b>战吼：</b><b>发现</b>一张神圣法术牌。",
+    "text": "<b>战吼：</b>&<b>发现</b>一张神圣法术牌。",
     "type": "MINION"
   },
   {
@@ -36066,7 +38760,7 @@
     "name": "迷宫向导",
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>战吼：</b>随机召唤一个法力值消耗为（2）的随从。",
+    "text": "<b>战吼：</b>&随机召唤一个法力值消耗为（2）的随从。",
     "type": "MINION"
   },
   {
@@ -38288,7 +40982,7 @@
       "unholy": 0
     },
     "set": "CORE",
-    "text": "<b>战吼：</b>消耗一份<b>残骸</b>，<b>发现</b>一张鲜血符文牌。",
+    "text": "<b>战吼：</b>消耗一份<b>残骸</b>，&<b>发现</b>一张鲜血符文牌。~GAMEPLAY ASPROXY CORE RLK 066",
     "type": "MINION"
   },
   {
@@ -38319,7 +41013,7 @@
       "unholy": 0
     },
     "set": "CORE",
-    "text": "在你施放一个法术后，随机对两个敌人造成1点伤害。",
+    "text": "在你施放一个法术后，&随机对两个敌人造成1点伤害。",
     "type": "MINION"
   },
   {
@@ -38436,7 +41130,7 @@
     "name": "死亡侍僧",
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "在一个友方亡灵死亡后，抽一张牌。",
+    "text": "在一个友方亡灵死亡后，&抽一张牌。",
     "type": "MINION"
   },
   {
@@ -38597,7 +41291,7 @@
     ],
     "rarity": "EPIC",
     "set": "CORE",
-    "text": "<b>突袭</b>。<b>战吼，亡语：</b>获得6点护甲值。",
+    "text": "<b>突袭</b>。<b>战吼，亡语：</b>&获得6点护甲值。",
     "type": "MINION"
   },
   {
@@ -38760,7 +41454,7 @@
     "name": "异教水晶工匠",
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>战吼：</b>如果你的手牌中有暗影法术牌，获得+1/+1。",
+    "text": "<b>战吼：</b>如果你的手牌中有暗影法术牌，&获得+1/+1。",
     "type": "MINION"
   },
   {
@@ -38953,7 +41647,7 @@
     "name": "异教低阶牧师",
     "rarity": "RARE",
     "set": "CORE",
-    "text": "<b>战吼：</b>下个回合你的对手法术的法力值消耗增加（1）点。",
+    "text": "<b>战吼：</b>&下个回合你的对手法术的法力值消耗增加（1）点。",
     "type": "MINION"
   },
   {
@@ -39015,7 +41709,6 @@
     "elite": true,
     "flavor": "“我的信仰和勇气，会保护我。而我的荣耀和牺牲，会为我找到继任者。”",
     "health": 5,
-    "howToEarn": "与圣骑士职业一同解锁。",
     "howToEarnGolden": "使用圣骑士赢得500场对战后解锁。",
     "id": "CORE_SW_047",
     "mechanics": [
@@ -39025,7 +41718,7 @@
     "name": "大领主弗塔根",
     "rarity": "LEGENDARY",
     "set": "CORE",
-    "text": "<b>圣盾</b>\n在一个友方随从失去<b>圣盾</b>后，使你手牌中的一张随从牌获得+5/+5。",
+    "text": "<b>圣盾</b>。在一个友方随从失去<b>圣盾</b>后，&使你手牌中的一张随从牌获得+5/+5。",
     "type": "MINION"
   },
   {
@@ -39105,7 +41798,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>可交易</b>\n<b>战吼：</b>摧毁对手的武器。",
+    "text": "<b>可交易</b>。<b>战吼：</b>&摧毁对手的武器。",
     "type": "MINION"
   },
   {
@@ -39740,7 +42433,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "CORE",
-    "text": "<b>突袭</b>。<b>战吼：</b>用1/1并具有<b>突袭</b>的山猫填满你的手牌。",
+    "text": "<b>突袭</b>。<b>战吼：</b>&用1/1并具有<b>突袭</b>的山猫填满你的手牌。",
     "type": "MINION"
   },
   {
@@ -39891,7 +42584,7 @@
       "RUSH"
     ],
     "set": "CORE",
-    "text": "每当你抽一张牌时，召唤一个1/1并具有<b>突袭</b>的恶魔。",
+    "text": "每当你抽一张牌，&召唤一个1/1并具有<b>突袭</b>的恶魔。",
     "type": "MINION"
   },
   {
@@ -39919,7 +42612,7 @@
     ],
     "rarity": "EPIC",
     "set": "CORE",
-    "text": "<b>吸血</b>。在你的回合结束时，迫使所有敌方随从攻击本随从。",
+    "text": "<b>吸血</b>。在你的回合结束时，&迫使所有敌方随从攻击本随从。",
     "type": "MINION"
   },
   {
@@ -39941,7 +42634,7 @@
     "name": "水晶商人",
     "rarity": "EPIC",
     "set": "CORE",
-    "text": "在你的回合结束时，如果你有未使用的法力水晶，抽一张牌。",
+    "text": "在你的回合结束时，如果你有未使用的法力水晶，&抽一张牌。",
     "type": "MINION"
   },
   {
@@ -40618,7 +43311,7 @@
     ],
     "rarity": "EPIC",
     "set": "CORE",
-    "text": "<b>嘲讽，战吼：</b>\n对所有其他随从造成2点伤害。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>&对所有其他随从造成2点伤害。",
     "type": "MINION"
   },
   {
@@ -40643,7 +43336,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>战吼：</b>随机将一张野兽牌置入你的手牌。",
+    "text": "<b>战吼：</b>&随机将一张野兽牌置入你的手牌。",
     "type": "MINION"
   },
   {
@@ -40842,7 +43535,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>突袭</b>，<b>亡语：</b>对所有敌方随从造成\n1点伤害。",
+    "text": "<b>突袭</b>。<b>亡语：</b>&对所有敌方随从造成1点伤害。",
     "type": "MINION"
   },
   {
@@ -40895,7 +43588,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>战吼：发现</b>一张\n法力值消耗为（1）的卡牌。",
+    "text": "<b>战吼：</b>&<b>发现</b>一张法力值消耗为（1）的卡牌。",
     "type": "MINION"
   },
   {
@@ -41039,8 +43732,6 @@
     "dbfId": 127469,
     "flavor": "就为了扔这么一捆炸药，你至于穿这么大一身机甲吗？",
     "health": 4,
-    "howToEarn": "与战士职业一同解锁。",
-    "howToEarnGolden": "使用战士赢得50场对战后解锁。",
     "id": "CORE_WW_329",
     "mechanics": [
       "BATTLECRY",
@@ -41053,7 +43744,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>嘲讽</b>。<b>战吼：</b>使你手牌中的<b>嘲讽</b>随从牌获得+2/+2。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>&使你手牌中的<b>嘲讽</b>随从牌获得+2/+2。",
     "type": "MINION"
   },
   {
@@ -41128,7 +43819,7 @@
     "rarity": "COMMON",
     "set": "CORE",
     "techLevel": 1,
-    "text": "<b>亡语：</b>随机使一个友方随从获得本随从的攻击力。",
+    "text": "<b>亡语：</b>&随机使一个友方随从获得本随从的攻击力。",
     "type": "MINION"
   },
   {
@@ -41200,7 +43891,7 @@
     ],
     "rarity": "RARE",
     "set": "CORE",
-    "text": "在你的回合结束时，随机对一个敌方随从造成10点伤害。",
+    "text": "在你的回合结束时，&随机对一个敌方随从造成10点伤害。",
     "type": "MINION"
   },
   {
@@ -43606,7 +46297,7 @@
     "name": "泰兰·弗丁",
     "rarity": "LEGENDARY",
     "set": "CORE",
-    "text": "<b>嘲讽</b>，<b>圣盾</b>\n<b>亡语：</b>抽取你的法力值消耗最高的\n随从牌。",
+    "text": "<b><b>嘲讽</b>。圣盾</b>。<b>亡语：</b>&抽取你的法力值消耗最高的随从牌。",
     "type": "MINION"
   },
   {
@@ -43629,7 +46320,7 @@
     "name": "伦萨克大王",
     "rarity": "LEGENDARY",
     "set": "CORE",
-    "text": "<b>突袭</b>\n每当本随从攻击时，使你手牌中的所有随从牌获得+1/+1。",
+    "text": "<b>突袭</b>。每当本随从攻击时，&使你手牌中的所有随从牌获得+1/+1。",
     "type": "MINION"
   },
   {
@@ -48357,7 +51048,7 @@
     "name": "长颈龙蛋",
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "<b>亡语：</b>召唤一只3/3的野兽。使你的随从获得+1/+1。",
+    "text": "<b>亡语：</b>&召唤一只3/3的野兽。使你的随从获得+1/+1。",
     "type": "MINION"
   },
   {
@@ -48406,7 +51097,7 @@
     ],
     "rarity": "RARE",
     "set": "THE_LOST_CITY",
-    "text": "<b>嘲讽</b>。在你的回合结束时，随机对一个敌方随从造成5点伤害。",
+    "text": "<b>嘲讽</b>。在你的回合结束时，&随机对一个敌方随从造成5点伤害。",
     "type": "MINION"
   },
   {
@@ -48470,7 +51161,7 @@
     ],
     "rarity": "RARE",
     "set": "THE_LOST_CITY",
-    "text": "<b>延系：</b>对你的对手最左边和最右边的随从造成6点伤害。",
+    "text": "<b>延系：</b>&对你的对手最左边和最右边的随从造成6点伤害。",
     "type": "MINION"
   },
   {
@@ -48580,7 +51271,7 @@
       "RUSH"
     ],
     "set": "THE_LOST_CITY",
-    "text": "<b>延系：</b>使你的其他随从获得<b>突袭</b>。",
+    "text": "<b>延系：</b>&使你的其他随从获得<b>突袭</b>。",
     "type": "MINION"
   },
   {
@@ -48842,7 +51533,7 @@
       "REBORN"
     ],
     "set": "THE_LOST_CITY",
-    "text": "<b>突袭</b>。在一个友方随从死亡后，消耗3份<b>残骸</b>以获得<b>复生</b>。",
+    "text": "<b>突袭</b>。在一个友方随从死亡后，&消耗3份<b>残骸</b>以获得<b>复生</b>。",
     "type": "MINION"
   },
   {
@@ -48911,7 +51602,7 @@
     ],
     "rarity": "RARE",
     "set": "THE_LOST_CITY",
-    "text": "<b>嘲讽</b>。<b>扰魔</b>\n<b>亡语：</b>使你的手牌和牌库里的所有随从牌获得+3/+3。",
+    "text": "<b>嘲讽</b>。<b>扰魔</b>。<b>亡语：</b>&使你的手牌和牌库中的所有随从牌获得+3/+3。",
     "type": "MINION"
   },
   {
@@ -49079,7 +51770,7 @@
     ],
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "<b>嘲讽</b>。<b>亡语：</b>随机召唤一个法力值消耗大于或等于（5）点的<b>嘲讽</b>随从。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&随机召唤一个法力值消耗大于或等于（5）点的<b>嘲讽</b>随从。",
     "type": "MINION"
   },
   {
@@ -49136,7 +51827,7 @@
     "name": "迅猛龙巢护工",
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "<b>战吼：</b>随机获取一张法力值消耗为（1）的随从牌。<b><b>亡语：</b></b>随机获取一张法力值消耗为（1）的法术牌。",
+    "text": "<b>战吼：</b>随机获取一张法力值消耗为（1）的随从牌。<b><b>亡语：</b></b>&随机获取一张法力值消耗为（1）的法术牌。",
     "type": "MINION"
   },
   {
@@ -49510,7 +52201,7 @@
     ],
     "rarity": "COMMON",
     "set": "DARKMOON_FAIRE",
-    "text": "<b>战吼，亡语：</b>每个玩家抽一张牌。",
+    "text": "<b>战吼，亡语：</b>&每个玩家抽一张牌。",
     "type": "MINION"
   },
   {
@@ -52132,7 +54823,7 @@
     ],
     "rarity": "COMMON",
     "set": "DRAGONS",
-    "text": "<b>战吼：</b>随机将一张海盗牌置入你的手牌。",
+    "text": "<b>战吼：</b>&随机将一张海盗牌置入你的手牌。",
     "type": "MINION"
   },
   {
@@ -54082,7 +56773,7 @@
     ],
     "rarity": "COMMON",
     "set": "DRAGONS",
-    "text": "<b>剧毒</b>\n<b>战吼：</b><b>发现</b>一张\n龙牌。",
+    "text": "<b>剧毒</b>。<b>战吼：</b>&<b>发现</b>一张龙牌。",
     "type": "MINION"
   },
   {
@@ -54123,7 +56814,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "DRAGONS",
-    "text": "在你使用你的英雄技能后，随机对一个敌人造成5点伤害。",
+    "text": "在你使用你的英雄技能后，&随机对一个敌人造成5点伤害。",
     "type": "MINION"
   },
   {
@@ -55067,7 +57758,7 @@
     ],
     "rarity": "EPIC",
     "set": "EMERALD_DREAM",
-    "text": "<b>战吼：</b>如果本牌的法力值消耗小于或等于（3）点，随机攻击两个敌方随从。",
+    "text": "<b>战吼：</b>如果本牌的法力值消耗小于或等于（3）点，&随机攻击两个敌方随从。",
     "type": "MINION"
   },
   {
@@ -55091,7 +57782,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "EMERALD_DREAM",
-    "text": "在你的回合结束时，使用你牌库顶的3张牌。",
+    "text": "在你的回合结束时，&使用你牌库顶的3张牌。",
     "type": "MINION"
   },
   {
@@ -55134,7 +57825,7 @@
     ],
     "rarity": "EPIC",
     "set": "EMERALD_DREAM",
-    "text": "<b>战吼：</b>\n<b>发现</b>一张具有<b>黑暗之赐</b>的<b>传说</b>随从牌。",
+    "text": "<b>战吼：</b>&<b>发现</b>一张具有<b>黑暗之赐</b>的<b>传说</b>随从牌。",
     "type": "MINION"
   },
   {
@@ -55269,7 +57960,7 @@
     ],
     "rarity": "EPIC",
     "set": "EMERALD_DREAM",
-    "text": "<b>战吼：</b>使你牌库中最上方的3张随从牌获得+4/+4。",
+    "text": "<b>战吼：</b>&使你牌库中最上方的3张随从牌获得+4/+4。",
     "type": "MINION"
   },
   {
@@ -55406,7 +58097,7 @@
     "name": "巨熊之槌",
     "rarity": "RARE",
     "set": "EMERALD_DREAM",
-    "text": "在你的英雄攻击后，抽一张牌。",
+    "text": "在你的英雄攻击后，&抽一张牌。",
     "type": "WEAPON"
   },
   {
@@ -55681,7 +58372,7 @@
       "DEATHRATTLE"
     ],
     "set": "EMERALD_DREAM",
-    "text": "在你施放一个自然法术后，召唤一个2/2并具有“<b>亡语：</b>获取该法术的一张复制”的树人。",
+    "text": "在你施放一个自然法术后，召唤一个2/2并具有“<b>亡语：</b>随机获取一张自然法术牌”的树人。",
     "type": "MINION"
   },
   {
@@ -55951,7 +58642,7 @@
     "name": "龙巢守护者",
     "rarity": "COMMON",
     "set": "EMERALD_DREAM",
-    "text": "<b>战吼：</b>如果你的手牌中有龙牌，装备一把2/2的剑。",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，&装备一把2/2的剑。",
     "type": "MINION"
   },
   {
@@ -56032,7 +58723,7 @@
     ],
     "rarity": "RARE",
     "set": "EMERALD_DREAM",
-    "text": "<b>扰魔</b>。在你的回合结束时，随机获取一张龙牌。",
+    "text": "<b>扰魔</b>。在你的回合结束时，&随机获取一张龙牌。~GAMEPLAY ASPROXY EDR 462",
     "type": "MINION"
   },
   {
@@ -56071,7 +58762,7 @@
     "name": "泰兰德",
     "rarity": "LEGENDARY",
     "set": "EMERALD_DREAM",
-    "text": "<b>战吼：</b>\n你使用的下三张法术牌会施放两次。",
+    "text": "<b>战吼：</b>&你使用的下三张法术牌会施放两次。",
     "type": "MINION"
   },
   {
@@ -56153,7 +58844,7 @@
     "name": "树皮盾哨兵",
     "rarity": "COMMON",
     "set": "EMERALD_DREAM",
-    "text": "<b>嘲讽</b>。在你使用你的英雄技能后，获得+2生命值。",
+    "text": "<b>嘲讽</b>。在你使用你的英雄技能后，&获得+2生命值。",
     "type": "MINION"
   },
   {
@@ -56179,7 +58870,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "EMERALD_DREAM",
-    "text": "<b>嘲讽</b>。<b>扰魔</b>\n在本随从受到伤害后，获得1点护甲值并使本随从获得+1攻击力。",
+    "text": "<b>嘲讽</b>。<b>扰魔</b>。在本随从受到伤害后，&获得1点护甲值并使本随从获得+1攻击力。",
     "type": "MINION"
   },
   {
@@ -56309,6 +59000,7 @@
     "name": "破碎之力",
     "rarity": "EPIC",
     "set": "EMERALD_DREAM",
+    "spellSchool": "SHADOW",
     "text": "摧毁你的一个法力水晶。2回合后，获得两个。",
     "type": "SPELL"
   },
@@ -56347,7 +59039,7 @@
     "name": "腐心树妖",
     "rarity": "RARE",
     "set": "EMERALD_DREAM",
-    "text": "<b>亡语：</b>抽一张法力值消耗大于或等于（7）点的随从牌。",
+    "text": "<b>亡语：</b>&抽一张法力值消耗大于或等于（7）点的随从牌。",
     "type": "MINION"
   },
   {
@@ -56502,7 +59194,7 @@
       "RUSH"
     ],
     "set": "EMERALD_DREAM",
-    "text": "<b>战吼：</b>召唤三只1/1并具有<b>突袭</b>的小鸭子。",
+    "text": "<b>战吼：</b>&召唤三只1/1并具有<b>突袭</b>的小鸭子。",
     "type": "MINION"
   },
   {
@@ -56862,7 +59554,7 @@
     "name": "痴梦树精",
     "rarity": "COMMON",
     "set": "EMERALD_DREAM",
-    "text": "在你的回合结束时，随机获取一张自然法术牌。",
+    "text": "在你的回合结束时，&随机获取一张自然法术牌。",
     "type": "MINION"
   },
   {
@@ -56899,7 +59591,7 @@
     ],
     "rarity": "RARE",
     "set": "EMERALD_DREAM",
-    "text": "每当你使用其他的你已经使用过的随从牌，抽一张牌。",
+    "text": "每当你使用其他的你已经使用过的随从牌，&抽一张牌。",
     "type": "MINION"
   },
   {
@@ -57027,7 +59719,7 @@
     ],
     "rarity": "EPIC",
     "set": "EMERALD_DREAM",
-    "text": "<b>战吼：</b>召唤一个本随从的复制。本体和复制中会秘密区分出一个，在受到伤害时死亡。",
+    "text": "<b>战吼：</b>&召唤一个本随从的复制。本体和复制中会秘密区分出一个，在受到伤害时死亡。",
     "type": "MINION"
   },
   {
@@ -57135,6 +59827,7 @@
       "unholy": 1
     },
     "set": "EMERALD_DREAM",
+    "spellSchool": "SHADOW",
     "text": "<b>发现</b>一张亡灵牌。消耗2份<b>残骸</b>，使其获得<b>黑暗之赐</b>。",
     "type": "SPELL"
   },
@@ -57252,7 +59945,7 @@
     ],
     "rarity": "COMMON",
     "set": "EMERALD_DREAM",
-    "text": "在你的回合结束时，使你的其他随从获得+1攻击力。",
+    "text": "在你的回合结束时，&使你的其他随从获得+1攻击力。",
     "type": "MINION"
   },
   {
@@ -57378,7 +60071,7 @@
     "name": "恐魂腐蚀者",
     "rarity": "RARE",
     "set": "EMERALD_DREAM",
-    "text": "<b>战吼，亡语：</b>随机召唤一个<b>休眠</b>的魔种。",
+    "text": "<b>战吼，亡语：</b>&随机召唤一个<b>休眠</b>的魔种。",
     "type": "MINION"
   },
   {
@@ -57498,7 +60191,7 @@
     "name": "梦缚信徒",
     "rarity": "RARE",
     "set": "EMERALD_DREAM",
-    "text": "<b>战吼，亡语：</b>你的下一个英雄技能的法力值消耗为（0）点。",
+    "text": "<b>战吼，亡语：</b>&你的下一个英雄技能的法力值消耗为（0）点。",
     "type": "MINION"
   },
   {
@@ -57580,7 +60273,7 @@
     "name": "布罗尔·熊皮",
     "rarity": "LEGENDARY",
     "set": "EMERALD_DREAM",
-    "text": "在你施放一个法术后，随机召唤一个动物伙伴。",
+    "text": "在你施放一个法术后，&随机召唤一个动物伙伴。",
     "type": "MINION"
   },
   {
@@ -57649,7 +60342,7 @@
     "name": "宁静树人",
     "rarity": "COMMON",
     "set": "EMERALD_DREAM",
-    "text": "<b>亡语：</b>双方玩家\n各获得一个空的\n法力水晶。",
+    "text": "<b>亡语：</b>&双方玩家各获得一个空的法力水晶。",
     "type": "MINION"
   },
   {
@@ -57818,7 +60511,7 @@
     ],
     "rarity": "COMMON",
     "set": "EMERALD_DREAM",
-    "text": "<b>亡语：</b>使你最右边的手牌法力值消耗减少（2）点。",
+    "text": "<b>亡语：</b>&使你最右边的手牌法力值消耗减少（2）点。",
     "type": "MINION"
   },
   {
@@ -57944,7 +60637,7 @@
       "DIVINE_SHIELD"
     ],
     "set": "EMERALD_DREAM",
-    "text": "在你的回合\n结束时，使你的英雄获得<b>圣盾</b>。",
+    "text": "在你的回合结束时，&使你的英雄获得<b>圣盾</b>。",
     "type": "MINION"
   },
   {
@@ -58007,7 +60700,7 @@
     "name": "小动物看护者",
     "rarity": "COMMON",
     "set": "EMERALD_DREAM",
-    "text": "在你的回合结束时，为双方英雄各恢复#3点生命值。",
+    "text": "在你的回合结束时，&为双方英雄各恢复#3点生命值。",
     "type": "MINION"
   },
   {
@@ -58190,7 +60883,7 @@
     ],
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "在本回合中每有一个随从死亡，本牌的法力值消耗便减少（1）点。<b>战吼：</b>抽两张牌。",
+    "text": "在本回合中每有一个随从死亡，本牌的法力值消耗便减少（1）点。<b>战吼：</b>&抽两张牌。",
     "type": "MINION"
   },
   {
@@ -58283,7 +60976,7 @@
     ],
     "rarity": "RARE",
     "set": "TIME_TRAVEL",
-    "text": "在你使用你的英雄技能后，复原2个\n法力水晶。",
+    "text": "在你使用你的英雄技能后，&复原2个法力水晶。",
     "type": "MINION"
   },
   {
@@ -58394,7 +61087,7 @@
     ],
     "rarity": "RARE",
     "set": "TIME_TRAVEL",
-    "text": "<b>战吼：</b><b>发现</b>一张具有<b>黑暗之赐</b>的法力值消耗为（1）的随从牌。",
+    "text": "<b>战吼：</b>&<b>发现</b>一张具有<b>黑暗之赐</b>的法力值消耗为（1）的随从牌。",
     "type": "MINION"
   },
   {
@@ -58436,7 +61129,7 @@
     ],
     "rarity": "RARE",
     "set": "TIME_TRAVEL",
-    "text": "<b>延系，亡语：</b>随机获取一张<b>亡语</b>随从牌，其法力值消耗减少（2）点。",
+    "text": "<b>延系，亡语：</b>&随机获取一张<b>亡语</b>随从牌，其法力值消耗减少（2）点。",
     "type": "MINION"
   },
   {
@@ -58531,7 +61224,7 @@
     "name": "末世幸存者",
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你的英雄在本回合受到过伤害，获得+3/+3。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你的英雄在本回合受到过伤害，&获得+3/+3。",
     "type": "MINION"
   },
   {
@@ -58574,7 +61267,7 @@
     ],
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "<b>战吼：</b>使你手牌中所有随从牌和武器牌获得+2攻击力。",
+    "text": "<b>战吼：</b>&使你手牌中所有随从牌和武器牌获得+2攻击力。",
     "type": "MINION"
   },
   {
@@ -58692,7 +61385,7 @@
     ],
     "rarity": "RARE",
     "set": "TIME_TRAVEL",
-    "text": "在你对随从施放法术后，抽一张牌。",
+    "text": "在你对随从施放法术后，&抽一张牌。",
     "type": "MINION"
   },
   {
@@ -62134,7 +64827,7 @@
     "name": "苦痛侍僧",
     "rarity": "COMMON",
     "set": "EXPERT1",
-    "text": "每当本随从受到伤害，抽一张牌。",
+    "text": "每当本随从受到伤害，&抽一张牌。",
     "type": "MINION"
   },
   {
@@ -63194,7 +65887,7 @@
     "name": "凯恩·血蹄",
     "rarity": "LEGENDARY",
     "set": "EXPERT1",
-    "text": "<b>嘲讽</b>。<b>亡语：</b>召唤一个5/5的贝恩·血蹄。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&召唤一个5/5的贝恩·血蹄。",
     "type": "MINION"
   },
   {
@@ -63337,7 +66030,7 @@
     "name": "迪菲亚头目",
     "rarity": "COMMON",
     "set": "EXPERT1",
-    "text": "<b>连击：</b>召唤一个2/1的迪菲亚强盗。",
+    "text": "<b>连击：</b>&召唤一个2/1的迪菲亚强盗。",
     "type": "MINION"
   },
   {
@@ -64802,7 +67495,7 @@
     ],
     "rarity": "RARE",
     "set": "EXPERT1",
-    "text": "<b>冲锋</b>，<b>战吼：</b>随机弃两张牌。",
+    "text": "<b>冲锋</b>。<b>战吼：</b>&随机弃两张牌。",
     "type": "MINION"
   },
   {
@@ -64912,7 +67605,7 @@
     ],
     "rarity": "COMMON",
     "set": "EXPERT1",
-    "text": "<b>战吼：</b>对你的英雄造成3点伤害。",
+    "text": "<b>战吼：</b>&对你的英雄造成3点伤害。",
     "type": "MINION"
   },
   {
@@ -64948,7 +67641,7 @@
     "name": "加拉克苏斯大王",
     "rarity": "LEGENDARY",
     "set": "EXPERT1",
-    "text": "<b>战吼：</b>装备一把3/8的血怒。",
+    "text": "<b>战吼：</b>&装备一把3/8的血怒。~GAMEPLAY ASPROXY EX1 323",
     "type": "HERO"
   },
   {
@@ -65288,7 +67981,7 @@
     "name": "提里奥·弗丁",
     "rarity": "LEGENDARY",
     "set": "EXPERT1",
-    "text": "<b>圣盾</b>，<b>嘲讽</b>，<b>亡语：</b>装备一把5/3的\n灰烬使者。",
+    "text": "<b>圣盾</b>。<b>嘲讽</b>。<b>亡语：</b>&装备一把5/3的灰烬使者。",
     "type": "MINION"
   },
   {
@@ -66012,7 +68705,7 @@
     "name": "大法师安东尼达斯",
     "rarity": "LEGENDARY",
     "set": "EXPERT1",
-    "text": "每当你施放一个法术，将一张“火球术”法术牌置入你的手牌。",
+    "text": "每当你施放一个法术，&将一张“火球术”法术牌置入你的手牌。",
     "type": "MINION"
   },
   {
@@ -66993,7 +69686,7 @@
     ],
     "rarity": "COMMON",
     "set": "EMERALD_DREAM",
-    "text": "<b>嘲讽</b>\n<b>亡语：</b>对所有敌方随从造成9点伤害。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&对所有敌方随从造成9点伤害。",
     "type": "MINION"
   },
   {
@@ -67039,7 +69732,7 @@
       "TAUNT"
     ],
     "set": "EMERALD_DREAM",
-    "text": "<b>战吼：</b>如果你的手牌中有具有<b>黑暗之赐</b>的随从牌，召唤两条4/4并具有<b>嘲讽</b>的龙。",
+    "text": "<b>战吼：</b>如果你的手牌中有具有<b>黑暗之赐</b>的随从牌，&召唤两条4/4并具有<b>嘲讽</b>的龙。",
     "type": "MINION"
   },
   {
@@ -67058,7 +69751,7 @@
     "rarity": "EPIC",
     "set": "EMERALD_DREAM",
     "spellSchool": "FEL",
-    "text": "在你的下回合开始时，造成$6点伤害，随机分配到所有敌人身上。",
+    "text": "在你的下回合开始时，&造成$6点伤害，随机分配到所有敌人身上。",
     "type": "SPELL"
   },
   {
@@ -67082,7 +69775,7 @@
     ],
     "rarity": "RARE",
     "set": "EMERALD_DREAM",
-    "text": "在你施放一个邪能\n法术后，消灭本随从并对所有敌人造成\n2点伤害。",
+    "text": "在你施放一个邪能法术后，&消灭本随从并对所有敌人造成2点伤害。",
     "type": "MINION"
   },
   {
@@ -67215,7 +69908,7 @@
     ],
     "rarity": "COMMON",
     "set": "EMERALD_DREAM",
-    "text": "在你施放一个火焰法术后，随机获取一张元素牌，其法力值消耗减少（3）点。",
+    "text": "在你施放一个火焰法术后，&随机获取一张元素牌，其法力值消耗减少（3）点。",
     "type": "MINION"
   },
   {
@@ -67402,7 +70095,7 @@
     ],
     "rarity": "COMMON",
     "set": "EMERALD_DREAM",
-    "text": "<b>战吼：</b><b>发现</b>一张具有<b>黑暗之赐</b>的恶魔牌，并获取一张它的复制。",
+    "text": "<b>战吼：</b>&<b>发现</b>一张具有<b>黑暗之赐</b>的恶魔牌，并获取一张它的复制。",
     "type": "MINION"
   },
   {
@@ -67427,7 +70120,7 @@
     ],
     "rarity": "RARE",
     "set": "EMERALD_DREAM",
-    "text": "<b>战吼：</b><b>发现</b>一张法力值消耗为（5）的牌。仅在下回合，获得1个法力水晶。",
+    "text": "<b>战吼：</b><b>发现</b>一张法力值消耗为（5）的牌。&仅在下回合，获得1个法力水晶。~GAMEPLAY ASPROXY FIR 927",
     "type": "MINION"
   },
   {
@@ -67583,7 +70276,7 @@
     "name": "灼热掠夺者",
     "rarity": "COMMON",
     "set": "EMERALD_DREAM",
-    "text": "<b>战吼：</b><b>发现</b>一张邪能法术牌。使你手牌中邪能法术牌的法力值消耗减少（1）点。",
+    "text": "<b>战吼：</b><b>发现</b>一张邪能法术牌。&使你手牌中邪能法术牌的法力值消耗减少（1）点。",
     "type": "MINION"
   },
   {
@@ -67609,7 +70302,7 @@
     ],
     "rarity": "RARE",
     "set": "EMERALD_DREAM",
-    "text": "<b>突袭</b>。在本随从攻击随从并存活下来后，造成等同于本随从攻击力的伤害，随机分配到所有敌人身上。",
+    "text": "<b>突袭</b>。在本随从攻击随从并存活下来后，&造成等同于本随从攻击力的伤害，随机分配到所有敌人身上。",
     "type": "MINION"
   },
   {
@@ -67645,7 +70338,7 @@
     "name": "烬根毁灭者",
     "rarity": "COMMON",
     "set": "EMERALD_DREAM",
-    "text": "每当你的英雄在你的回合受到伤害，随机对一个敌方随从造成3点伤害。",
+    "text": "每当你的英雄在你的回合受到伤害，&随机对一个敌方随从造成3点伤害。",
     "type": "MINION"
   },
   {
@@ -67670,7 +70363,7 @@
     ],
     "rarity": "RARE",
     "set": "EMERALD_DREAM",
-    "text": "<b>战吼：</b>如果你的手牌中有具有<b>黑暗之赐</b>的随从牌，使你的英雄获得6点护甲值以及本回合中的+3攻击力。",
+    "text": "<b>战吼：</b>如果你的手牌中有具有<b>黑暗之赐</b>的随从牌，&使你的英雄获得6点护甲值以及本回合中的+3攻击力。",
     "type": "MINION"
   },
   {
@@ -67745,7 +70438,7 @@
     ],
     "rarity": "COMMON",
     "set": "EMERALD_DREAM",
-    "text": "<b>战吼：</b>复制你手牌中法力值消耗最低的野兽牌。",
+    "text": "<b>战吼：</b>&复制你手牌中法力值消耗最低的野兽牌。",
     "type": "MINION"
   },
   {
@@ -67769,7 +70462,7 @@
       "LIFESTEAL"
     ],
     "set": "EMERALD_DREAM",
-    "text": "<b>战吼：</b>如果你的手牌中有法力值消耗大于或等于（5）点的法术牌，获得<b>圣盾</b>和<b>吸血</b>。",
+    "text": "<b>战吼：</b>如果你的手牌中有法力值消耗大于或等于（5）点的法术牌，&获得<b>圣盾</b>和<b>吸血</b>。",
     "type": "MINION"
   },
   {
@@ -75919,7 +78612,7 @@
       "TAUNT"
     ],
     "set": "GVG",
-    "text": "<b>战吼：</b>随机使一个友方随从获得<b>圣盾</b>和<b>嘲讽</b>。",
+    "text": "<b>战吼：</b>&随机使一个友方随从获得<b>圣盾</b>和<b>嘲讽</b>。",
     "type": "WEAPON"
   },
   {
@@ -77091,7 +79784,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "GVG",
-    "text": "<b>亡语：</b>随机召唤一个<b>传说</b>随从。",
+    "text": "<b>亡语：</b>&随机召唤一个<b>传说</b>随从。",
     "type": "MINION"
   },
   {
@@ -77903,6 +80596,45 @@
     "heroPowerDbfId": 58799,
     "id": "HERO_01c",
     "name": "死亡之翼",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Cole Eastburn",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "dbfId": 133173,
+    "health": 30,
+    "heroPowerDbfId": 133174,
+    "id": "HERO_01cb",
+    "name": "迪亚波罗，恐惧之王",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Allan Arello",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "dbfId": 133182,
+    "health": 30,
+    "heroPowerDbfId": 133183,
+    "id": "HERO_01cc",
+    "name": "基希克斯",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "dbfId": 133197,
+    "health": 30,
+    "heroPowerDbfId": 66836,
+    "id": "HERO_01cd",
+    "name": "高傲的加尔鲁什",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -78857,6 +81589,32 @@
     "type": "HERO"
   },
   {
+    "artist": "Thunder Fire Studio",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "dbfId": 133170,
+    "health": 30,
+    "heroPowerDbfId": 133171,
+    "id": "HERO_02cd",
+    "name": "亚煞极",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "dbfId": 133196,
+    "health": 30,
+    "heroPowerDbfId": 66933,
+    "id": "HERO_02ce",
+    "name": "鲜血萨满拉斯塔哈",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "N. Saviori & Mooncolony",
     "cardClass": "SHAMAN",
     "collectible": true,
@@ -79736,6 +82494,19 @@
     "heroPowerDbfId": 66931,
     "id": "HERO_03bz",
     "name": "小毛贼艾德温",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "dbfId": 133189,
+    "health": 30,
+    "heroPowerDbfId": 66931,
+    "id": "HERO_03cc",
+    "name": "黑暗帝国帕奇斯",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -80690,6 +83461,32 @@
     "type": "HERO"
   },
   {
+    "artist": "Allan Arello",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "dbfId": 133186,
+    "health": 30,
+    "heroPowerDbfId": 133187,
+    "id": "HERO_04cf",
+    "name": "腐化者阿拉托尔",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Thunder Fire Studio",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "dbfId": 133206,
+    "health": 30,
+    "heroPowerDbfId": 65542,
+    "id": "HERO_04cg",
+    "name": "赏金猎人芬利",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Kevin Sidharta",
     "cardClass": "PALADIN",
     "collectible": true,
@@ -81602,6 +84399,32 @@
     "type": "HERO"
   },
   {
+    "artist": "Grafit",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "dbfId": 133192,
+    "health": 30,
+    "heroPowerDbfId": 65540,
+    "id": "HERO_05cc",
+    "name": "破壳宝宝贡克",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Thunder Fire Studio",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "dbfId": 133229,
+    "health": 30,
+    "heroPowerDbfId": 133230,
+    "id": "HERO_05ce",
+    "name": "温蕾萨·风行者",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Konstantin Turovec",
     "cardClass": "HUNTER",
     "collectible": true,
@@ -82434,6 +85257,19 @@
     "type": "HERO"
   },
   {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "dbfId": 131098,
+    "health": 30,
+    "heroPowerDbfId": 66926,
+    "id": "HERO_06bu",
+    "name": "黑帮老大奥尔法",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Wayne Wu",
     "cardClass": "DRUID",
     "collectible": true,
@@ -82481,6 +85317,32 @@
     "heroPowerDbfId": 1123,
     "id": "HERO_06c",
     "name": "大导师玛法里奥",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "dbfId": 133191,
+    "health": 30,
+    "heroPowerDbfId": 66926,
+    "id": "HERO_06ca",
+    "name": "始祖龙伊瑟拉",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "dbfId": 133198,
+    "health": 30,
+    "heroPowerDbfId": 66926,
+    "id": "HERO_06cb",
+    "name": "疯长的克苏恩",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -83430,6 +86292,45 @@
     "heroPowerDbfId": 131845,
     "id": "HERO_07ca",
     "name": "七夕图拉扬",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "dbfId": 133185,
+    "health": 30,
+    "heroPowerDbfId": 66935,
+    "id": "HERO_07ce",
+    "name": "异教徒塔姆辛",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Cole Eastburn",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "dbfId": 133199,
+    "health": 30,
+    "heroPowerDbfId": 133200,
+    "id": "HERO_07cf",
+    "name": "黑暗流浪者",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "dbfId": 133207,
+    "health": 30,
+    "heroPowerDbfId": 133208,
+    "id": "HERO_07cg",
+    "name": "仪式邪典恩佐斯",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -84553,6 +87454,32 @@
     "type": "HERO"
   },
   {
+    "artist": "Caroline Gariba & Rafael Zanchetin",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "dbfId": 133176,
+    "health": 30,
+    "heroPowerDbfId": 133177,
+    "id": "HERO_08cx",
+    "name": "阿曼苏尔",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "dbfId": 133190,
+    "health": 30,
+    "heroPowerDbfId": 64973,
+    "id": "HERO_08cy",
+    "name": "机械克罗米",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Konstantin Turovec",
     "cardClass": "MAGE",
     "collectible": true,
@@ -84575,6 +87502,19 @@
     "heroPowerDbfId": 64973,
     "id": "HERO_08de",
     "name": "尤格-拉面",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "dbfId": 135205,
+    "health": 30,
+    "heroPowerDbfId": 807,
+    "id": "HERO_08df",
+    "name": "挂姬妖狐阿凯",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -85441,6 +88381,32 @@
     "type": "HERO"
   },
   {
+    "artist": "Thunder Fire Studio",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "dbfId": 133167,
+    "health": 30,
+    "heroPowerDbfId": 133168,
+    "id": "HERO_09ce",
+    "name": "亚煞极",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "dbfId": 133195,
+    "health": 30,
+    "heroPowerDbfId": 66929,
+    "id": "HERO_09cf",
+    "name": "英雄塔兰吉",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "L. Lullabi & A. Zemskov",
     "cardClass": "PRIEST",
     "collectible": true,
@@ -86273,6 +89239,32 @@
     "type": "HERO"
   },
   {
+    "artist": "Kevin Sidharta",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "dbfId": 133194,
+    "health": 30,
+    "heroPowerDbfId": 66907,
+    "id": "HERO_10ca",
+    "name": "荒野之神年兽",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Allan Arello",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "dbfId": 133202,
+    "health": 30,
+    "heroPowerDbfId": 133203,
+    "id": "HERO_10cb",
+    "name": "伊格诺斯",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
     "artist": "Angelina Chernyak",
     "cardClass": "DEMONHUNTER",
     "collectible": true,
@@ -86918,6 +89910,45 @@
     "heroPowerDbfId": 100116,
     "id": "HERO_11bi",
     "name": "裁决官典狱长",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Luke Mancini",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "dbfId": 133179,
+    "health": 30,
+    "heroPowerDbfId": 133180,
+    "id": "HERO_11bl",
+    "name": "塔隆·血魔",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "dbfId": 133193,
+    "health": 30,
+    "heroPowerDbfId": 100116,
+    "id": "HERO_11bm",
+    "name": "上古帝王阿尔萨斯",
+    "rarity": "FREE",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "N. Saviori & Mooncolony",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "dbfId": 134978,
+    "health": 30,
+    "heroPowerDbfId": 100116,
+    "id": "HERO_11bv",
+    "name": "旧城典狱长",
     "rarity": "FREE",
     "set": "HERO_SKINS",
     "type": "HERO"
@@ -88408,7 +91439,7 @@
     ],
     "rarity": "COMMON",
     "set": "ICECROWN",
-    "text": "在你的回合结束时，随机使另一个友方随从获得+1/+1。",
+    "text": "在你的回合结束时，&随机使另一个友方随从获得+1/+1。",
     "type": "MINION"
   },
   {
@@ -88470,7 +91501,7 @@
     "name": "黑曜石雕像",
     "rarity": "EPIC",
     "set": "ICECROWN",
-    "text": "<b>嘲讽</b>，<b>吸血</b>\n<b>亡语：</b>随机消灭一个敌方随从。",
+    "text": "<b>嘲讽</b>。<b>吸血</b>。<b>亡语：</b>&随机消灭一个敌方随从。",
     "type": "MINION"
   },
   {
@@ -88880,7 +91911,7 @@
     ],
     "rarity": "EPIC",
     "set": "ICECROWN",
-    "text": "<b>战吼：</b>移除你对手的牌库顶的一张牌。",
+    "text": "<b>战吼：</b>&移除你对手的牌库顶的一张牌。",
     "type": "MINION"
   },
   {
@@ -90208,7 +93239,7 @@
     ],
     "rarity": "COMMON",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>嘲讽</b>。<b>亡语：</b>对所有敌人造成2点伤害。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&对所有敌人造成2点伤害。",
     "type": "MINION"
   },
   {
@@ -90348,7 +93379,7 @@
     "name": "越狱构造师",
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>战吼：</b><b>发现</b>一张法力值消耗大于或等于（5）点的法术牌，该牌被使用时会施放两次。",
+    "text": "<b>战吼：</b>&<b>发现</b>一张法力值消耗大于或等于（5）点的法术牌，该牌被使用时会施放两次。",
     "type": "MINION"
   },
   {
@@ -90627,7 +93658,7 @@
     "cost": 5,
     "dbfId": 126253,
     "flavor": "欢迎来到达拉然！法术随意编造，其他都不重要！",
-    "health": 3,
+    "health": 4,
     "id": "JAIL_321",
     "mechanics": [
       "BATTLECRY"
@@ -90687,7 +93718,7 @@
     "name": "血色斗士",
     "rarity": "COMMON",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>亡语：</b>如果你的牌库中没有中立卡牌，随机获取一张圣骑士牌，其法力值消耗减少（2）点。",
+    "text": "<b>亡语：</b>如果你的牌库中没有中立卡牌，&随机获取一张圣骑士牌，其法力值消耗减少（2）点。",
     "type": "MINION"
   },
   {
@@ -90748,7 +93779,7 @@
     "name": "铁球锁链",
     "rarity": "COMMON",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>亡语：</b>使你的受伤的随从获得+1/+2。",
+    "text": "<b>亡语：</b>&使你的受伤的随从获得+1/+2。",
     "type": "WEAPON"
   },
   {
@@ -90786,7 +93817,7 @@
     ],
     "rarity": "COMMON",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>战吼：</b>揭示你牌库中的一张法术牌。如果其法力值消耗大于或等于（5）点，造成5点伤害，随机分配到所有敌方随从身上。",
+    "text": "<b>战吼：</b>揭示你牌库中的一张法术牌。如果其法力值消耗大于或等于（5）点，&造成5点伤害，随机分配到所有敌方随从身上。",
     "type": "MINION"
   },
   {
@@ -90806,7 +93837,7 @@
     "name": "私运的铁铲",
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>亡语：</b>抽一张你的套牌之外的\n法术牌。",
+    "text": "<b>亡语：</b>&抽一张你的套牌之外的法术牌。",
     "type": "WEAPON"
   },
   {
@@ -90967,7 +93998,7 @@
     "elite": true,
     "flavor": "想要打出这一套，你至少需要十几张牌配合，我想想……一张加里维克斯，一张钩牙，一张杜加尔，两张古加尔，还有一张呓语魔典……哦，还有那个巨大无比的任务达人。",
     "health": 3,
-    "howToEarn": "完成起始任务后解锁。",
+    "howToEarn": "打开<i>逃离紫罗兰监狱</i>卡牌包后可解锁。",
     "howToEarnGolden": "购买<i>逃离紫罗兰监狱</i>炉石通行证后开放解锁。",
     "id": "JAIL_407",
     "mechanics": [
@@ -91109,7 +94140,7 @@
     ],
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>预备</b>。<b>战吼：</b>迫使所有敌方随从攻击本随从。",
+    "text": "<b>预备</b>。<b>战吼：</b>&迫使所有敌方随从攻击本随从。",
     "type": "MINION"
   },
   {
@@ -91146,7 +94177,7 @@
     ],
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "在本随从受到伤害后，召唤两个1/1的脆弱的食尸鬼。",
+    "text": "在本随从受到伤害后，&召唤两个1/1的脆弱的食尸鬼。",
     "type": "MINION"
   },
   {
@@ -91289,7 +94320,7 @@
       "unholy": 0
     },
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>战吼：</b>获得一项消耗<b>残骸</b>的第二英雄\n技能。",
+    "text": "<b>战吼：</b>&获得一项消耗<b>残骸</b>的第二英雄技能。",
     "type": "MINION"
   },
   {
@@ -91356,7 +94387,7 @@
       "unholy": 2
     },
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "在你的英雄\n攻击后，召唤一个1/1的脆弱的食尸鬼。",
+    "text": "在你的英雄攻击后，&召唤一个1/1的脆弱的食尸鬼。",
     "type": "WEAPON"
   },
   {
@@ -91511,7 +94542,7 @@
     ],
     "rarity": "COMMON",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>预备</b>。<b>战吼：</b>使你的其他随从获得+1/+1。",
+    "text": "<b>预备</b>。<b>战吼：</b>&使你的其他随从获得+1/+1。",
     "type": "MINION"
   },
   {
@@ -91630,7 +94661,7 @@
       "CHARGE"
     ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>战吼：</b>抽两张牌。如果两张都是随从牌，本随从获得<b>冲锋</b>。",
+    "text": "<b>战吼：</b>抽两张牌。如果两张都是随从牌，&获得<b>冲锋</b>。",
     "type": "MINION"
   },
   {
@@ -91862,7 +94893,7 @@
     ],
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>嘲讽</b>。<b>战吼：</b>你每有一张手牌，便获得+1生命值。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>&你每有一张手牌，便获得+1生命值。",
     "type": "MINION"
   },
   {
@@ -91871,7 +94902,7 @@
     "collectible": true,
     "cost": 10,
     "dbfId": 126477,
-    "flavor": "秘密在哪？不就在这！",
+    "flavor": "监控系统“阿特拉斯”秘密在哪？不就在这！",
     "id": "JAIL_514",
     "name": "秘密监控",
     "rarity": "COMMON",
@@ -91896,7 +94927,6 @@
     "type": "SPELL"
   },
   {
-    "artist": "Eric Kenji",
     "attack": 4,
     "cardClass": "PALADIN",
     "collectible": true,
@@ -91966,7 +94996,7 @@
     "name": "黑市拍卖师",
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>预备</b>。每当你施放一个法术，抽一张牌。",
+    "text": "<b>预备</b>。每当你施放一个法术，&抽一张牌。",
     "type": "MINION"
   },
   {
@@ -92006,7 +95036,7 @@
     "name": "玉莲帮荷官",
     "rarity": "COMMON",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>亡语：</b>获取\n一张幸运币。",
+    "text": "<b>亡语：</b>&获取一张幸运币。",
     "type": "MINION"
   },
   {
@@ -92048,7 +95078,7 @@
     "name": "星尘之镰",
     "rarity": "COMMON",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "在你的英雄攻击后，获取一张虚空灵魂。",
+    "text": "在你的英雄攻击后，&获取一张虚空灵魂。",
     "type": "WEAPON"
   },
   {
@@ -92087,7 +95117,7 @@
     ],
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>嘲讽</b>。<b>亡语：</b>获取一张虚空灵魂。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&获取一张虚空灵魂。",
     "type": "MINION"
   },
   {
@@ -92108,7 +95138,7 @@
     "name": "魂狱破坏者",
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>嘲讽</b>。<b>战吼：</b>从你的牌库中<b>发现</b>一张牌。如果你的牌库已空，改为获得+4/+4。",
+    "text": "<b>战吼：</b>从你的牌库中<b>发现</b>一张牌。如果你的牌库已空，改为获得+4/+4。",
     "type": "MINION"
   },
   {
@@ -92404,7 +95434,7 @@
     "name": "蜘蛛骑手",
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "在你的英雄攻击后，抽一张牌。",
+    "text": "在你的英雄攻击后，&抽一张牌。",
     "type": "MINION"
   },
   {
@@ -92484,7 +95514,7 @@
     ],
     "rarity": "COMMON",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>亡语：</b>随机召唤一个法力值消耗为（1）的<b>亡语</b>随从。",
+    "text": "<b>亡语：</b>&随机召唤一个法力值消耗为（1）的<b>亡语</b>随从。",
     "type": "MINION"
   },
   {
@@ -92587,7 +95617,7 @@
       "REBORN"
     ],
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "在每个回合结束时，获得<b>复生</b>。",
+    "text": "在每个回合结束时，&获得<b>复生</b>。",
     "type": "MINION"
   },
   {
@@ -92712,7 +95742,7 @@
     "name": "迪菲亚跟风狗",
     "rarity": "EPIC",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>预备</b>。<b>连击：</b>在本回合中，你每使用一张其他牌，便获得+1/+1。0<i>（已使用0张）</i>",
+    "text": "<b>预备</b>。<b><b>连击</b>：</b>在本回合中，你每使用一张其他牌，便获得+1/+1。0<i>（已使用0张）</i>",
     "type": "MINION"
   },
   {
@@ -92732,7 +95762,7 @@
     "name": "预言师",
     "rarity": "RARE",
     "set": "ESCAPEFROM_VIOLET_HOLD",
-    "text": "<b>预备</b>。<b>嘲讽</b>。<b>亡语：</b>为你的英雄恢复#6点生命值。随机召唤一个法力值消耗为（6）的随从。",
+    "text": "<b>预备</b>。<b>嘲讽</b>。<b>亡语：</b>为你的英雄恢复#6点生命值。&随机召唤一个法力值消耗为（6）的随从。",
     "type": "MINION"
   },
   {
@@ -94320,7 +97350,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "KARA",
-    "text": "<b>嘲讽</b>。<b>战吼：</b>抽取野兽牌，龙牌和鱼人牌各一张。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>&抽取野兽牌，龙牌和鱼人牌各一张。",
     "type": "MINION"
   },
   {
@@ -94411,7 +97441,7 @@
     ],
     "rarity": "COMMON",
     "set": "KARA",
-    "text": "<b>战吼：</b>随机将一张另一职业的卡牌置入你的手牌。",
+    "text": "<b>战吼：</b>&随机将一张另一职业的卡牌置入你的手牌。",
     "type": "MINION"
   },
   {
@@ -95968,7 +98998,7 @@
     ],
     "rarity": "COMMON",
     "set": "LOE",
-    "text": "<b>战吼：发现</b>一张\n法力值消耗为（1）的卡牌。",
+    "text": "<b>战吼：</b>&<b>发现</b>一张法力值消耗为（1）的卡牌。",
     "type": "MINION"
   },
   {
@@ -96082,7 +99112,7 @@
     ],
     "rarity": "COMMON",
     "set": "LOE",
-    "text": "<b>战吼：</b>如果你控制着其他机械，<b>发现</b>一张机械牌。",
+    "text": "<b>战吼：</b>如果你控制着其他机械，&<b>发现</b>一张机械牌。",
     "type": "MINION"
   },
   {
@@ -96648,7 +99678,7 @@
     "rarity": "COMMON",
     "set": "LOOTAPALOOZA",
     "techLevel": 1,
-    "text": "<b>嘲讽，战吼：</b>对你的英雄造成2点伤害。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>&对你的英雄造成2点伤害。",
     "type": "MINION"
   },
   {
@@ -98409,7 +101439,7 @@
     ],
     "rarity": "EPIC",
     "set": "LOOTAPALOOZA",
-    "text": "<b>嘲讽，亡语：</b>\n召唤三个1/3并具有<b>嘲讽</b>的恶魔。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&召唤三个1/3并具有<b>嘲讽</b>的恶魔。",
     "type": "MINION"
   },
   {
@@ -98700,7 +101730,7 @@
     ],
     "rarity": "COMMON",
     "set": "LOOTAPALOOZA",
-    "text": "<b>亡语：</b>\n获得3点护甲值。",
+    "text": "<b>亡语：</b>&获得3点护甲值。",
     "type": "MINION"
   },
   {
@@ -99694,7 +102724,7 @@
     "collectible": true,
     "cost": 3,
     "dbfId": 79739,
-    "flavor": "你是否愿意宣誓，献出完整而纯净的增益，来帮助你的格里斯蒂亚？",
+    "flavor": "愿格里斯蒂亚见证。你是否愿意宣誓献出完整而纯净的增益？",
     "id": "MAW_021",
     "isMiniSet": true,
     "name": "问心无愧",
@@ -100118,7 +103148,7 @@
     ],
     "rarity": "RARE",
     "set": "CATACLYSM",
-    "text": "<b>嘲讽</b>。<b>亡语：</b>随机获取一张龙牌，其法力值消耗减少（2）点。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&随机获取一张龙牌，其法力值消耗减少（2）点。",
     "type": "MINION"
   },
   {
@@ -100194,7 +103224,7 @@
     "name": "灵语猎手",
     "rarity": "COMMON",
     "set": "CATACLYSM",
-    "text": "<b>战吼：</b>选择并召唤一个动物伙伴。",
+    "text": "<b>战吼：</b>&选择并召唤一个动物伙伴。",
     "type": "MINION"
   },
   {
@@ -100449,7 +103479,7 @@
     "name": "莽撞的战场军官",
     "rarity": "RARE",
     "set": "CATACLYSM",
-    "text": "<b>突袭</b>。<b>亡语：</b>在本局对战中，使你的白银之手新兵获得+1\n攻击力。",
+    "text": "<b>突袭</b>。<b>亡语：</b>&在本局对战中，使你的白银之手新兵获得+1攻击力。",
     "type": "MINION"
   },
   {
@@ -100474,7 +103504,7 @@
     ],
     "rarity": "EPIC",
     "set": "CATACLYSM",
-    "text": "<b>圣盾</b>。在本随从失去<b>圣盾</b>后，在本局对战中，使你的白银之手新兵获得+1生命值。",
+    "text": "<b>圣盾</b>。在本随从失去<b>圣盾</b>后，&在本局对战中，使你的白银之手新兵获得+1生命值。",
     "type": "MINION"
   },
   {
@@ -100514,7 +103544,7 @@
     "name": "砺胆重剑",
     "rarity": "COMMON",
     "set": "CATACLYSM",
-    "text": "<b>战吼：</b>在本局对战中，使你的白银之手新兵获得+1/+1。",
+    "text": "<b>战吼：</b>&在本局对战中，使你的白银之手新兵获得+1/+1。",
     "type": "WEAPON"
   },
   {
@@ -101657,7 +104687,7 @@
     ],
     "rarity": "RARE",
     "set": "EXPERT1",
-    "text": "在你施放一个法术后，对所有随从造成1点伤害。",
+    "text": "在你施放一个法术后，&对所有随从造成1点伤害。",
     "type": "MINION"
   },
   {
@@ -101676,7 +104706,7 @@
     "name": "末日预言者",
     "rarity": "EPIC",
     "set": "EXPERT1",
-    "text": "在你的回合开始时，消灭所有随从。",
+    "text": "在你的回合开始时，&消灭所有随从。",
     "type": "MINION"
   },
   {
@@ -102585,7 +105615,7 @@
     ],
     "rarity": "COMMON",
     "set": "RETURN_OF_THE_LICH_KING",
-    "text": "在你的英雄攻击后，获得4点护甲值并抽一张牌。",
+    "text": "在你的英雄攻击后，&获得4点护甲值并抽一张牌。",
     "type": "MINION"
   },
   {
@@ -102984,7 +106014,7 @@
     "name": "暮光神锤",
     "rarity": "EPIC",
     "set": "OG",
-    "text": "<b>亡语：</b>召唤一个4/2的元素。",
+    "text": "<b>亡语：</b>&召唤一个4/2的元素。",
     "type": "WEAPON"
   },
   {
@@ -105372,7 +108402,7 @@
     ],
     "rarity": "RARE",
     "set": "OG",
-    "text": "<b>亡语：</b>随机获取一张<i>（你对手职业的）</i>卡牌。",
+    "text": "<b>亡语：</b>&随机获取一张<i>（你对手职业的）</i>卡牌。",
     "type": "MINION"
   },
   {
@@ -105930,7 +108960,7 @@
     ],
     "rarity": "RARE",
     "set": "ALTERAC_VALLEY",
-    "text": "<b>战吼：</b><b>发现</b>一张神圣法术牌。",
+    "text": "<b>战吼：</b>&<b>发现</b>一张神圣法术牌。",
     "type": "MINION"
   },
   {
@@ -106884,7 +109914,7 @@
     "name": "迷宫向导",
     "rarity": "COMMON",
     "set": "REVENDRETH",
-    "text": "<b>战吼：</b>随机召唤一个法力值消耗为（2）的随从。",
+    "text": "<b>战吼：</b>&随机召唤一个法力值消耗为（2）的随从。",
     "type": "MINION"
   },
   {
@@ -109245,7 +112275,7 @@
       "unholy": 2
     },
     "set": "CORE",
-    "text": "在你的回合结束时，将一份<b>残骸</b>复活为1/3并具有<b>嘲讽</b>的复活的步兵。",
+    "text": "在你的回合结束时，&将一份<b>残骸</b>复活为1/3并具有<b>嘲讽</b>的复活的步兵。",
     "type": "MINION"
   },
   {
@@ -109319,7 +112349,7 @@
       "unholy": 0
     },
     "set": "PATH_OF_ARTHAS",
-    "text": "<b>战吼：</b>消耗一份<b>残骸</b>，<b>发现</b>一张鲜血符文牌。",
+    "text": "<b>战吼：</b>消耗一份<b>残骸</b>，&<b>发现</b>一张鲜血符文牌。~GAMEPLAY ASPROXY RLK 066",
     "type": "MINION"
   },
   {
@@ -109514,7 +112544,7 @@
       "unholy": 0
     },
     "set": "PATH_OF_ARTHAS",
-    "text": "在你施放一个法术后，随机对两个敌人造成1点伤害。",
+    "text": "在你施放一个法术后，&随机对两个敌人造成1点伤害。",
     "type": "MINION"
   },
   {
@@ -109850,7 +112880,7 @@
     "name": "死亡侍僧",
     "rarity": "COMMON",
     "set": "RETURN_OF_THE_LICH_KING",
-    "text": "在一个友方亡灵死亡后，抽一张牌。",
+    "text": "在一个友方亡灵死亡后，&抽一张牌。",
     "type": "MINION"
   },
   {
@@ -110319,7 +113349,7 @@
       "unholy": 0
     },
     "set": "CORE",
-    "text": "<b>复生</b>。<b>战吼，亡语：</b>随机对一个敌人造成2点伤害。",
+    "text": "<b>复生</b>。<b>战吼，亡语：</b>&随机对一个敌人造成2点伤害。",
     "type": "MINION"
   },
   {
@@ -110547,7 +113577,7 @@
       "unholy": 0
     },
     "set": "CORE",
-    "text": "<b>亡语：</b>抽一张冰霜法术牌。",
+    "text": "<b>亡语：</b>&抽一张冰霜法术牌。",
     "type": "MINION"
   },
   {
@@ -111714,7 +114744,7 @@
     ],
     "rarity": "EPIC",
     "set": "RETURN_OF_THE_LICH_KING",
-    "text": "<b>突袭</b>。<b>战吼，亡语：</b>获得6点护甲值。",
+    "text": "<b>突袭</b>。<b>战吼，亡语：</b>&获得6点护甲值。",
     "type": "MINION"
   },
   {
@@ -111884,7 +114914,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>战吼，亡语：</b>抽一张牌。",
+    "text": "<b>战吼，亡语：</b>&抽一张牌。",
     "type": "MINION"
   },
   {
@@ -112056,7 +115086,7 @@
     ],
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "<b>嘲讽</b>，<b>吸血</b>。在你的回合结束时，攻击生命值最低的敌人。",
+    "text": "<b>嘲讽</b>。<b>吸血</b>。在你的回合结束时，&攻击生命值最低的敌人。",
     "type": "MINION"
   },
   {
@@ -112370,7 +115400,7 @@
     "name": "异教水晶工匠",
     "rarity": "COMMON",
     "set": "RETURN_OF_THE_LICH_KING",
-    "text": "<b>战吼：</b>如果你的手牌中有暗影法术牌，获得+1/+1。",
+    "text": "<b>战吼：</b>如果你的手牌中有暗影法术牌，&获得+1/+1。",
     "type": "MINION"
   },
   {
@@ -117349,7 +120379,7 @@
     "name": "异教低阶牧师",
     "rarity": "RARE",
     "set": "SCHOLOMANCE",
-    "text": "<b>战吼：</b>下个回合你的对手法术的法力值消耗增加（1）点。",
+    "text": "<b>战吼：</b>&下个回合你的对手法术的法力值消耗增加（1）点。",
     "type": "MINION"
   },
   {
@@ -117970,7 +121000,7 @@
     "name": "大领主弗塔根",
     "rarity": "LEGENDARY",
     "set": "STORMWIND",
-    "text": "<b>圣盾</b>\n在一个友方随从失去<b>圣盾</b>后，使你手牌中的一张随从牌获得+5/+5。",
+    "text": "<b>圣盾</b>。在一个友方随从失去<b>圣盾</b>后，&使你手牌中的一张随从牌获得+5/+5。",
     "type": "MINION"
   },
   {
@@ -118433,7 +121463,7 @@
     ],
     "rarity": "COMMON",
     "set": "STORMWIND",
-    "text": "<b>可交易</b>\n<b>战吼：</b>摧毁对手的武器。",
+    "text": "<b>可交易</b>。<b>战吼：</b>&摧毁对手的武器。",
     "type": "MINION"
   },
   {
@@ -121080,7 +124110,7 @@
     "name": "先知者沃",
     "rarity": "LEGENDARY",
     "set": "TIME_TRAVEL",
-    "text": "<b>扰魔</b>。在你施放一个法术后，<b>发现</b>一张来自过去的自然法术牌。",
+    "text": "<b>扰魔</b>。在你施放一个法术后，&<b>发现</b>一张来自过去的自然法术牌。",
     "type": "MINION"
   },
   {
@@ -121204,7 +124234,7 @@
     ],
     "rarity": "RARE",
     "set": "TIME_TRAVEL",
-    "text": "<b>战吼：</b>如果你控制着光环，对所有敌人造成3点伤害。",
+    "text": "<b>战吼：</b>如果你控制着光环，&对所有敌人造成3点伤害。",
     "type": "MINION"
   },
   {
@@ -121247,7 +124277,7 @@
       "IMMUNE"
     ],
     "set": "TIME_TRAVEL",
-    "text": "<b>流放：</b>直到你的下个回合，你的英雄<b>免疫</b>。",
+    "text": "<b>流放：</b>&直到你的下个回合，你的英雄<b>免疫</b>。",
     "type": "MINION"
   },
   {
@@ -121530,7 +124560,7 @@
     ],
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "<b>嘲讽</b>。<b>亡语：</b>随机获取一张<b>回溯</b>牌。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&随机获取一张<b>回溯</b>牌。",
     "type": "MINION"
   },
   {
@@ -121568,7 +124598,7 @@
     "name": "白鸽学徒",
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "<b>战吼：</b>抽一张随从牌。使你手牌中的随从牌获得+2生命值。",
+    "text": "<b>战吼：</b>抽一张随从牌。&使你手牌中的随从牌获得+2生命值。",
     "type": "MINION"
   },
   {
@@ -121635,7 +124665,7 @@
     ],
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "<b>亡语：</b>随机获取一张来自过去的法力值消耗为（5）的随从牌。",
+    "text": "<b>亡语：</b>&随机获取一张来自过去的法力值消耗为（5）的随从牌。",
     "type": "MINION"
   },
   {
@@ -121831,7 +124861,7 @@
     "name": "危险的异变体",
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "在你的回合开始时，随机变形成为一个法力值消耗为（5）的随从。",
+    "text": "在你的回合开始时，&随机变形成为一个法力值消耗为（5）的随从。",
     "type": "MINION"
   },
   {
@@ -121855,7 +124885,7 @@
     ],
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "<b>突袭</b>。在本随从受到伤害并存活下来后，其攻击力和生命值互换。",
+    "text": "<b>突袭</b>。在本随从受到伤害并存活下来后，&其攻击力和生命值互换。",
     "type": "MINION"
   },
   {
@@ -121879,7 +124909,7 @@
     ],
     "rarity": "RARE",
     "set": "TIME_TRAVEL",
-    "text": "<b>突袭</b>。<b>战吼：</b>本随从的攻击力翻倍。",
+    "text": "<b>突袭</b>。<b>战吼：</b>&本随从的攻击力翻倍。",
     "type": "MINION"
   },
   {
@@ -121903,7 +124933,7 @@
     ],
     "rarity": "EPIC",
     "set": "TIME_TRAVEL",
-    "text": "<b>嘲讽</b>。<b>亡语：</b>随机召唤一个来自过去的\n随从。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&随机召唤一个来自过去的随从。",
     "type": "MINION"
   },
   {
@@ -122059,7 +125089,7 @@
     "name": "悖论活体",
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "<b>扰魔</b>。<b>战吼：</b>召唤两个2/1并具有<b>扰魔</b>的悖论活体。",
+    "text": "<b>扰魔</b>。<b>战吼：</b>&召唤两个2/1并具有<b>扰魔</b>的悖论活体。",
     "type": "MINION"
   },
   {
@@ -122125,7 +125155,7 @@
       "TAUNT"
     ],
     "set": "TIME_TRAVEL",
-    "text": "<b>战吼：</b>如果你的手牌中有龙牌，则获得<b>嘲讽</b>和<b>圣盾</b>。",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，&获得<b>嘲讽</b>和<b>圣盾</b>。",
     "type": "MINION"
   },
   {
@@ -122197,7 +125227,7 @@
     "name": "沙漏侍者",
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "<b>圣盾</b>。在你的回合结束时，使你手牌中的所有随从牌获得+1/+1。",
+    "text": "<b>圣盾</b>。在你的回合结束时，&使你手牌中的所有随从牌获得+1/+1。",
     "type": "MINION"
   },
   {
@@ -122333,7 +125363,7 @@
     "name": "始源监督者",
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "<b>战吼：</b>如果你在本牌在你手中时施放过自然法术，获得+1/+1并抽一张牌。",
+    "text": "<b>战吼：</b>如果你在本牌在你手中时施放过自然法术，&获得+1/+1并抽一张牌。",
     "type": "MINION"
   },
   {
@@ -122474,7 +125504,7 @@
     ],
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "在你的回合结束时，使你的其他随从获得+1生命值。",
+    "text": "在你的回合结束时，&使你的其他随从获得+1生命值。",
     "type": "MINION"
   },
   {
@@ -122682,7 +125712,7 @@
     "name": "迷时战刃",
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "<b>亡语：</b>随机获取\n一张来自过去的恶魔牌。",
+    "text": "<b>亡语：</b>&随机获取一张来自过去的恶魔牌。",
     "type": "WEAPON"
   },
   {
@@ -122787,7 +125817,7 @@
     ],
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "<b>战吼：</b>抽牌，直到你拥有三张手牌。",
+    "text": "<b>战吼：</b>&抽牌，直到你拥有三张手牌。",
     "type": "MINION"
   },
   {
@@ -122824,7 +125854,7 @@
     ],
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "<b>亡语：</b>随机消灭一个敌方随从。",
+    "text": "<b>亡语：</b>&随机消灭一个敌方随从。",
     "type": "MINION"
   },
   {
@@ -122849,7 +125879,7 @@
     ],
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "<b>突袭</b>。<b>扰魔</b>\n<b>战吼：</b>召唤一个本随从的复制。",
+    "text": "<b>突袭</b>。<b>扰魔</b>。<b>战吼：</b>&召唤一个本随从的复制。",
     "type": "MINION"
   },
   {
@@ -122979,7 +126009,7 @@
       "unholy": 0
     },
     "set": "TIME_TRAVEL",
-    "text": "<b>亡语：</b>随机获取一张<b>传说</b>随从牌，其法力值消耗减少（1）点。",
+    "text": "<b>亡语：</b>&随机获取一张<b>传说</b>随从牌，其法力值消耗减少（1）点。",
     "type": "MINION"
   },
   {
@@ -123310,7 +126340,7 @@
     "name": "暴徒双人组",
     "rarity": "COMMON",
     "set": "TIME_TRAVEL",
-    "text": "<b>潜行</b>。<b>连击：</b>召唤一个本随从的复制。",
+    "text": "<b>潜行</b>。<b><b>连击</b>：</b>召唤一个本随从的复制。",
     "type": "MINION"
   },
   {
@@ -123446,7 +126476,7 @@
     ],
     "rarity": "RARE",
     "set": "TIME_TRAVEL",
-    "text": "<b>嘲讽</b>。<b>战吼：</b>本随从的生命值翻倍。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>&本随从的生命值翻倍。",
     "type": "MINION"
   },
   {
@@ -123733,7 +126763,7 @@
     ],
     "rarity": "EPIC",
     "set": "TIME_TRAVEL",
-    "text": "<b>嘲讽</b>。<b>战吼：</b>每有一个受伤的随从，便获得+2/+2。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>&每有一个受伤的随从，便获得+2/+2。",
     "type": "MINION"
   },
   {
@@ -123753,7 +126783,7 @@
     "name": "不败冠军",
     "rarity": "RARE",
     "set": "TIME_TRAVEL",
-    "text": "<b>突袭</b>。<b>战吼：</b>用随机的法力值消耗为（1）的随从填满你对手的面板。",
+    "text": "<b>突袭</b>。<b>战吼：</b>&用随机的法力值消耗为（1）的随从填满你对手的面板。",
     "type": "MINION"
   },
   {
@@ -124123,7 +127153,7 @@
     ],
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "在你召唤一个元素后，随机对一个敌人造成3点伤害。",
+    "text": "在你召唤一个元素后，&随机对一个敌人造成3点伤害。",
     "type": "MINION"
   },
   {
@@ -124228,7 +127258,7 @@
     ],
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "<b>亡语：</b>召唤一个2/1的炽烈烬火。",
+    "text": "<b>亡语：</b>&召唤一个2/1的炽烈烬火。",
     "type": "MINION"
   },
   {
@@ -124251,7 +127281,7 @@
     ],
     "rarity": "EPIC",
     "set": "THE_LOST_CITY",
-    "text": "<b>亡语：</b>抽一张法术牌。<b>延系：</b>召唤一个本随从的复制。",
+    "text": "<b>亡语：</b>抽一张法术牌。<b>延系：</b>&召唤一个本随从的复制。",
     "type": "MINION"
   },
   {
@@ -124351,7 +127381,7 @@
     "name": "待哺群雏",
     "rarity": "RARE",
     "set": "THE_LOST_CITY",
-    "text": "在你的下个回合开始时，召唤三只2/1的啸天龙宝宝。",
+    "text": "在你的下个回合开始时，&召唤三只2/1的啸天龙宝宝。",
     "type": "SPELL"
   },
   {
@@ -124373,7 +127403,7 @@
       "TAUNT"
     ],
     "set": "THE_LOST_CITY",
-    "text": "<b>战吼：</b>使你的其他攻击力小于或等于2的随从获得+1/+1和<b>嘲讽</b>。",
+    "text": "<b>战吼：</b>&使你的其他攻击力小于或等于2的随从获得+1/+1和<b>嘲讽</b>。",
     "type": "MINION"
   },
   {
@@ -124441,7 +127471,7 @@
     "name": "啸天龙蛋",
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "<b>亡语：</b>召唤四只2/1的啸天龙宝宝。",
+    "text": "<b>亡语：</b>&召唤四只2/1的啸天龙宝宝。",
     "type": "MINION"
   },
   {
@@ -124484,7 +127514,7 @@
     ],
     "rarity": "RARE",
     "set": "THE_LOST_CITY",
-    "text": "<b>突袭</b>。<b>亡语：</b>\n召唤三个2/1的鱼人，使其各获得一项随机<b>额外效果</b>。",
+    "text": "<b>突袭</b>。<b>亡语：</b>召唤三个2/1的鱼人，使其各获得一项随机<b>额外效果</b>。",
     "type": "MINION"
   },
   {
@@ -124702,7 +127732,7 @@
     ],
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "<b>亡语：</b>造成2点伤害，随机分配到所有敌人身上。",
+    "text": "<b>亡语：</b>&造成2点伤害，随机分配到所有敌人身上。",
     "type": "MINION"
   },
   {
@@ -124806,7 +127836,7 @@
     "name": "讲故事的始祖龟",
     "rarity": "EPIC",
     "set": "THE_LOST_CITY",
-    "text": "在你的回合结束时，使每个不同类型的各一个友方随从获得+1/+1。",
+    "text": "在你的回合结束时，&使每个不同类型的各一个友方随从获得+1/+1。",
     "type": "MINION"
   },
   {
@@ -124852,7 +127882,7 @@
       "DIVINE_SHIELD"
     ],
     "set": "THE_LOST_CITY",
-    "text": "在你施放一个法术后，获得<b>圣盾</b>。",
+    "text": "在你施放一个法术后，&获得<b>圣盾</b>。",
     "type": "MINION"
   },
   {
@@ -124873,7 +127903,7 @@
     "name": "洛，在世传奇",
     "rarity": "LEGENDARY",
     "set": "THE_LOST_CITY",
-    "text": "<b>战吼：</b>在本局对战中，你的随从牌的法力值消耗为（5）点。",
+    "text": "<b>战吼：</b>&在本局对战中，你的随从牌的法力值消耗为（5）点。",
     "type": "MINION"
   },
   {
@@ -125016,7 +128046,7 @@
     ],
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "<b>战吼：</b>获取一张\n法力值消耗为（1）的石头。石头可以造成$3点伤害。",
+    "text": "<b>战吼：</b>&获取一张法力值消耗为（1）的石头。石头可以造成$3点伤害。",
     "type": "MINION"
   },
   {
@@ -125066,7 +128096,7 @@
       "RUSH"
     ],
     "set": "THE_LOST_CITY",
-    "text": "<b>延系：</b>召唤两个1/1并具有<b>突袭</b>的鱼人。",
+    "text": "<b>延系：</b>&召唤两个1/1并具有<b>突袭</b>的鱼人。",
     "type": "MINION"
   },
   {
@@ -125330,7 +128360,7 @@
       "TAUNT"
     ],
     "set": "THE_LOST_CITY",
-    "text": "<b>复生</b>。<b>亡语：</b>召唤一只2/2并具有<b>嘲讽</b>的亡灵野兽。",
+    "text": "<b>复生</b>。<b>亡语：</b>&召唤一只2/2并具有<b>嘲讽</b>的亡灵野兽。",
     "type": "MINION"
   },
   {
@@ -125414,7 +128444,7 @@
     "name": "洞穴专家",
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "<b>战吼：</b>你的下一张<b>临时</b>牌的法力值消耗减少（2）点。",
+    "text": "<b>战吼：</b>&你的下一张<b>临时</b>牌的法力值消耗减少（2）点。",
     "type": "MINION"
   },
   {
@@ -125517,7 +128547,7 @@
     "name": "拾荒清道夫",
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "<b>战吼：</b><b>发现</b>一张法力值消耗等同于你剩余法力水晶数量的卡牌。",
+    "text": "<b>战吼：</b>&<b>发现</b>一张法力值消耗等同于你剩余法力水晶数量的卡牌。",
     "type": "MINION"
   },
   {
@@ -125681,7 +128711,7 @@
     ],
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "<b>亡语：</b>随机获取两张<b>临时</b>的法力值消耗为（2）的随从牌。",
+    "text": "<b>亡语：</b>&随机获取两张<b>临时</b>的法力值消耗为（2）的随从牌。",
     "type": "MINION"
   },
   {
@@ -125719,7 +128749,7 @@
     "name": "远祖之斧",
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "在你的英雄攻击后，对所有随从造成1点伤害。",
+    "text": "在你的英雄攻击后，&对所有随从造成1点伤害。",
     "type": "WEAPON"
   },
   {
@@ -125739,7 +128769,7 @@
     "name": "死烂巨口",
     "rarity": "RARE",
     "set": "THE_LOST_CITY",
-    "text": "<b>嘲讽</b>。<b>亡语：</b>随机召唤一只邪能野兽。",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>&随机召唤一只邪能野兽。",
     "type": "MINION"
   },
   {
@@ -125763,7 +128793,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "THE_LOST_CITY",
-    "text": "在你的回合结束时，将所有敌方随从的攻击力和生命值变为1。",
+    "text": "在你的回合结束时，&将所有敌方随从的攻击力和生命值变为1。",
     "type": "MINION"
   },
   {
@@ -125999,7 +129029,7 @@
     "name": "潜踪大师奥普",
     "rarity": "LEGENDARY",
     "set": "THE_LOST_CITY",
-    "text": "<b><b>潜行</b>。</b><b>战吼，连击，亡语：</b>施放刀扇。",
+    "text": "<b><b>潜行</b>。</b><b>战吼，连击，亡语：</b>&施放刀扇。",
     "type": "MINION"
   },
   {
@@ -126125,7 +129155,7 @@
     "rarity": "RARE",
     "set": "THE_LOST_CITY",
     "targetingArrowText": "对一个敌方随从造成2点伤害。",
-    "text": "<b>战吼：</b>对一个敌方随从造成2点伤害。如果该随从死亡，获得5点护甲值。",
+    "text": "<b>战吼：</b>对一个敌方随从造成2点伤害。如果该随从死亡，&获得5点护甲值。",
     "type": "MINION"
   },
   {
@@ -126198,7 +129228,7 @@
     "name": "石雕工匠",
     "rarity": "EPIC",
     "set": "THE_LOST_CITY",
-    "text": "在你的回合结束时，使一个受伤的其他友方随从获得+2/+2。",
+    "text": "在你的回合结束时，&使一个受伤的其他友方随从获得+2/+2。",
     "type": "MINION"
   },
   {
@@ -126245,7 +129275,7 @@
     ],
     "rarity": "EPIC",
     "set": "THE_LOST_CITY",
-    "text": "<b>突袭</b>。每当本随从受到伤害，获取一张法力值消耗为（1）的格里什毒刺虫。",
+    "text": "<b>突袭</b>。每当本随从受到伤害，&获取一张法力值消耗为（1）的格里什毒刺虫。",
     "type": "MINION"
   },
   {
@@ -126366,7 +129396,7 @@
     "name": "暮光治愈者",
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "<b>亡语：</b>随机获取神圣和暗影法术牌各一张。",
+    "text": "<b>亡语：</b>&随机获取神圣和暗影法术牌各一张。",
     "type": "MINION"
   },
   {
@@ -126520,7 +129550,7 @@
     "name": "恐龙保育师",
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "在你的回合结束时，随机使你手牌中一张野兽牌的法力值消耗减少（1）点。",
+    "text": "在你的回合结束时，&随机使你手牌中一张野兽牌的法力值消耗减少（1）点。",
     "type": "MINION"
   },
   {
@@ -126712,7 +129742,7 @@
       "RUSH"
     ],
     "set": "THE_LOST_CITY",
-    "text": "在你的英雄攻击后，召唤一只2/1并具有<b>突袭</b>的异种虫幼体。",
+    "text": "在你的英雄攻击后，&召唤一只2/1并具有<b>突袭</b>的异种虫幼体。",
     "type": "WEAPON"
   },
   {
@@ -126771,7 +129801,7 @@
     ],
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "<b>潜行</b>。在本随从攻击后，对敌方英雄造成2点伤害。",
+    "text": "<b>潜行</b>。在本随从攻击后，&对敌方英雄造成2点伤害。",
     "type": "MINION"
   },
   {
@@ -126888,7 +129918,7 @@
     ],
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "<b>突袭</b>。<b>延系：</b>在本回合中，使你的英雄获得+5攻击力。",
+    "text": "<b>突袭</b>。<b>延系：</b>&在本回合中，使你的英雄获得+5攻击力。",
     "type": "MINION"
   },
   {
@@ -126953,7 +129983,7 @@
     "name": "末日使者之杖",
     "rarity": "LEGENDARY",
     "set": "EVENT",
-    "text": "<b>亡语：</b>消灭所有随从。",
+    "text": "<b>亡语：</b>&消灭所有随从。",
     "type": "WEAPON"
   },
   {
@@ -132772,7 +135802,7 @@
     ],
     "rarity": "LEGENDARY",
     "set": "TROLL",
-    "text": "<b>突袭</b>。<b>战吼：</b>用1/1并具有<b>突袭</b>的山猫填满你的手牌。",
+    "text": "<b>突袭</b>。<b>战吼：</b>&用1/1并具有<b>突袭</b>的山猫填满你的手牌。",
     "type": "MINION"
   },
   {
@@ -137995,7 +141025,7 @@
       "RUSH"
     ],
     "set": "TITANS",
-    "text": "每当你抽一张牌时，召唤一个1/1并具有<b>突袭</b>的恶魔。",
+    "text": "每当你抽一张牌，&召唤一个1/1并具有<b>突袭</b>的恶魔。",
     "type": "MINION"
   },
   {
@@ -138338,7 +141368,7 @@
     ],
     "rarity": "EPIC",
     "set": "TITANS",
-    "text": "<b>吸血</b>。在你的回合结束时，迫使所有敌方随从攻击本随从。",
+    "text": "<b>吸血</b>。在你的回合结束时，&迫使所有敌方随从攻击本随从。",
     "type": "MINION"
   },
   {
@@ -138430,7 +141460,7 @@
     ],
     "rarity": "COMMON",
     "set": "TITANS",
-    "text": "在你的回合结束时，如果本随从未攻击，抽两张牌。",
+    "text": "在你的回合结束时，如果本随从未攻击，&抽两张牌。",
     "type": "MINION"
   },
   {
@@ -138847,7 +141877,7 @@
     "name": "水晶商人",
     "rarity": "EPIC",
     "set": "ULDUM",
-    "text": "在你的回合结束时，如果你有未使用的法力水晶，抽一张牌。",
+    "text": "在你的回合结束时，如果你有未使用的法力水晶，&抽一张牌。",
     "type": "MINION"
   },
   {
@@ -143592,7 +146622,7 @@
     ],
     "rarity": "EPIC",
     "set": "UNGORO",
-    "text": "<b>嘲讽，战吼：</b>\n对所有其他随从造成2点伤害。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>&对所有其他随从造成2点伤害。",
     "type": "MINION"
   },
   {
@@ -143757,7 +146787,7 @@
     ],
     "rarity": "COMMON",
     "set": "UNGORO",
-    "text": "<b>战吼：</b>随机将一张野兽牌置入你的手牌。",
+    "text": "<b>战吼：</b>&随机将一张野兽牌置入你的手牌。",
     "type": "MINION"
   },
   {
@@ -155259,7 +158289,7 @@
     ],
     "rarity": "COMMON",
     "set": "THE_BARRENS",
-    "text": "<b>突袭</b>，<b>亡语：</b>对所有敌方随从造成\n1点伤害。",
+    "text": "<b>突袭</b>。<b>亡语：</b>&对所有敌方随从造成1点伤害。",
     "type": "MINION"
   },
   {
@@ -156608,7 +159638,7 @@
     ],
     "rarity": "COMMON",
     "set": "WONDERS",
-    "text": "<b>战吼：发现</b>一张\n法力值消耗为（1）的卡牌。",
+    "text": "<b>战吼：</b>&<b>发现</b>一张法力值消耗为（1）的卡牌。",
     "type": "MINION"
   },
   {
@@ -159744,7 +162774,7 @@
     ],
     "rarity": "COMMON",
     "set": "WILD_WEST",
-    "text": "<b>嘲讽</b>。<b>战吼：</b>使你手牌中的<b>嘲讽</b>随从牌获得+2/+2。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>&使你手牌中的<b>嘲讽</b>随从牌获得+2/+2。",
     "type": "MINION"
   },
   {
@@ -162681,7 +165711,7 @@
     "rarity": "COMMON",
     "set": "YEAR_OF_THE_DRAGON",
     "techLevel": 1,
-    "text": "<b>亡语：</b>随机使一个友方随从获得本随从的攻击力。",
+    "text": "<b>亡语：</b>&随机使一个友方随从获得本随从的攻击力。",
     "type": "MINION"
   },
   {
@@ -164529,7 +167559,7 @@
     ],
     "rarity": "RARE",
     "set": "DARKMOON_FAIRE",
-    "text": "在你的回合结束时，随机对一个敌方随从造成10点伤害。",
+    "text": "在你的回合结束时，&随机对一个敌方随从造成10点伤害。",
     "type": "MINION"
   },
   {

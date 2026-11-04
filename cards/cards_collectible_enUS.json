@@ -8224,7 +8224,7 @@
     "name": "Mastermind Yogg-Saron",
     "rarity": "LEGENDARY",
     "set": "BE",
-    "text": "<b>Old God.</b> <b>Battlecry:</b> End your turn. Yogg-saron takes\nan extra turn for you. <i>(Once per game)</i>",
+    "text": "<b>Old God.</b> <b>Battlecry:</b> End your turn. Yogg-Saron takes\nan extra turn for you. <i>(Once per game)</i>",
     "type": "MINION"
   },
   {
@@ -8232,7 +8232,6 @@
     "attack": 3,
     "cardClass": "PRIEST",
     "collectible": true,
-    "collectionText": "[x]<b>Battlecry:</b> If you've cast 2\nShadow spells while holding\nthis, choose a C'Thun ability\nto trigger. <i>({0} left!)</i>",
     "cost": 3,
     "dbfId": 132348,
     "flavor": "The Old Gods are coming. The Old Gods are coming!",
@@ -8244,7 +8243,7 @@
     "name": "Dark Deacon",
     "rarity": "EPIC",
     "set": "BE",
-    "text": "[x]<b>Battlecry:</b> If you've cast 2\nShadow spells while holding\nthis, choose a C'Thun ability\nto trigger. <i>({0} left!)</i>@[x]<b>Battlecry:</b> If you've cast 2\nShadow spells while holding\nthis, choose a C'Thun ability\nto trigger. <i>(Ready)</i>@[x]<b>Battlecry:</b> If you've cast 2\nShadow spells while holding\nthis, choose a C'Thun ability\nto trigger.",
+    "text": "[x]<b>Battlecry:</b> If you've cast a\nShadow spell while holding\nthis, choose a C'Thun\nability to trigger.",
     "type": "MINION"
   },
   {
@@ -8261,7 +8260,7 @@
     "name": "C'Thun, Eye of the Empire",
     "rarity": "LEGENDARY",
     "set": "BE",
-    "text": "<b>Old God.</b> If you've triggered all 4 C'Thun abilities this game, this minion's abilities are tripled.",
+    "text": "[x]<b>Old God.</b> If you've triggered\nall 4 C'Thun abilities this\ngame, this minion's abilities\nare quadrupled.",
     "type": "MINION"
   },
   {
@@ -8308,7 +8307,7 @@
     "attack": 9,
     "cardClass": "NEUTRAL",
     "collectible": true,
-    "cost": 9,
+    "cost": 10,
     "dbfId": 128132,
     "elite": true,
     "flavor": "M.O.T.H.E.R HAS ARRIVED!",
@@ -8439,7 +8438,7 @@
     ],
     "set": "BE",
     "spellSchool": "SHADOW",
-    "text": "In 2 turns, summon\ntwo 3/5 C'thraxxi\nwith <b>Taunt</b>.",
+    "text": "In 2 turns, summon\ntwo 2/4 C'thraxxi\nwith <b>Taunt</b>.",
     "type": "SPELL"
   },
   {
@@ -8865,7 +8864,7 @@
     ],
     "rarity": "RARE",
     "set": "BE",
-    "text": "[x]<b><b>Reborn</b>\n</b><b>Deathrattle:</b>& Give all\nminions in your\nhand +1/+1.",
+    "text": "[x]<b>Reborn</b>\n<b>Deathrattle:</b>& Give all\nminions in your hand\n+1 Attack.",
     "type": "MINION"
   },
   {
@@ -8951,7 +8950,7 @@
     ],
     "set": "BE",
     "spellSchool": "SHADOW",
-    "text": "Summon a 5/5 Voidwing with <b>Lifesteal</b>. <i>(The next Shadow spell you play repeats this!)</i>",
+    "text": "Summon two 3/4 Voidwings with <b>Lifesteal</b>. <i>(The next Shadow spell you play repeats this!)</i>",
     "type": "SPELL"
   },
   {
@@ -9336,7 +9335,7 @@
     "cost": 2,
     "dbfId": 130315,
     "flavor": "A lowly Forsaken, playing as a lord... I command thee, kneel!",
-    "health": 3,
+    "health": 4,
     "id": "BE_285",
     "mechanics": [
       "LIFESTEAL"
@@ -9344,7 +9343,7 @@
     "name": "Grafted Knight",
     "rarity": "COMMON",
     "runeCost": {
-      "blood": 2,
+      "blood": 3,
       "frost": 0,
       "unholy": 0
     },
@@ -9575,7 +9574,7 @@
   },
   {
     "artist": "Mauricio Herrera",
-    "attack": 2,
+    "attack": 3,
     "cardClass": "HUNTER",
     "collectible": true,
     "cost": 3,
@@ -9597,7 +9596,7 @@
     "artist": "Matt Dixon",
     "cardClass": "HUNTER",
     "collectible": true,
-    "cost": 2,
+    "cost": 1,
     "dbfId": 129821,
     "flavor": "miM rof tnuocca ton did tolp s'noraS-ggoY tub ,htaed s'norimiM detartsehcro yllufsseccus noraS-ggoY ,noitiurF ot emoc ot ainnellim ynam ekat dluow ti hguohT",
     "id": "BE_553",
@@ -9642,14 +9641,14 @@
   },
   {
     "artist": "Ivan Fomin",
-    "attack": 7,
+    "attack": 6,
     "cardClass": "WARRIOR",
     "collectible": true,
-    "cost": 7,
+    "cost": 6,
     "dbfId": 129935,
     "elite": true,
     "flavor": "You can lose your armor the easy way, or the hard way.",
-    "health": 7,
+    "health": 6,
     "id": "BE_557",
     "mechanics": [
       "BATTLECRY"
@@ -10008,18 +10007,18 @@
       "COMBO"
     ],
     "set": "BE",
-    "text": "[x]Costs (2) less for each\n<b>Combo</b> card played this turn.\n<b>Battlecry:</b> Draw a card.",
+    "text": "[x]Costs (2) less for each\n<b>Combo</b> card played this turn.\n<b>Battlecry:</b> Draw 2 cards.",
     "type": "MINION"
   },
   {
     "artist": "Mike Sass",
-    "attack": 4,
+    "attack": 5,
     "cardClass": "ROGUE",
     "collectible": true,
-    "cost": 3,
+    "cost": 4,
     "dbfId": 130118,
     "flavor": "They see me swarming. They running.",
-    "health": 2,
+    "health": 4,
     "id": "BE_722",
     "mechanics": [
       "DEATHRATTLE"
@@ -10034,7 +10033,7 @@
       "COMBO"
     ],
     "set": "BE",
-    "text": "<b>Deathrattle:</b> Get two 1-Cost Larvae with <b><b>Combo</b>s</b> that trigger a Hero Power from another class.",
+    "text": "[x]<b>Deathrattle:</b> Get two Larvae\nwith <b><b>Combo</b>s</b> that trigger a\nHero Power from another\nclass. They cost (0).",
     "type": "MINION"
   },
   {
@@ -10389,7 +10388,7 @@
     "cardClass": "NEUTRAL",
     "collectible": true,
     "collectionText": "[x]<b>Old God.</b> <b>Battlecry:</b> If you've\nspent 30 Mana on minions\nthis game, gain <b>Immune</b>\nfor 1 turn. <i>({0} left!)</i>",
-    "cost": 10,
+    "cost": 9,
     "dbfId": 131851,
     "elite": true,
     "flavor": "\"Gargantuan Slitherer\" + \"Kronn the Impaler\" + (\"Therazane the Earthmother\" - \"Neptulon, Lord of Tides\")",
@@ -10887,8 +10886,8 @@
     "cost": 5,
     "dbfId": 132669,
     "flavor": "It started when a Void creation did what it did.\nAnd stuck itself upon her planet with evil that it hid.\nNow her worlds under their powers, she's no ordinary kid.\nShe's Azeroth.",
-    "howToEarn": "Obtainable by participating in a special event.",
-    "howToEarnGolden": "Obtainable by participating in a special event.",
+    "howToEarn": "Earnable after opening a <i>Escape from Violet Hold</i> card pack.",
+    "howToEarnGolden": "Earnable after opening a golden <i>Escape from Violet Hold</i> card pack.",
     "id": "BE_EVENT_100",
     "name": "Arrival of the Old Gods",
     "rarity": "EPIC",
@@ -10904,8 +10903,8 @@
     "cost": 6,
     "dbfId": 132671,
     "flavor": "\"Hey guys check this out, they just lost their fifth game in a row!\"",
-    "howToEarn": "Obtainable by participating in a special event.",
-    "howToEarnGolden": "Obtainable by participating in a special event.",
+    "howToEarn": "Earnable after opening a <i>Escape from Violet Hold</i> card pack.",
+    "howToEarnGolden": "Earnable after opening a golden <i>Escape from Violet Hold</i> card pack.",
     "id": "BE_EVENT_101",
     "name": "Arrival of the Titans",
     "rarity": "EPIC",
@@ -10921,8 +10920,8 @@
     "cost": 5,
     "dbfId": 132673,
     "flavor": "Hmm, you know what it's missing? Another Obelisk right in that corner over there.",
-    "howToEarn": "Obtainable by participating in a special event.",
-    "howToEarnGolden": "Obtainable by participating in a special event.",
+    "howToEarn": "Earnable after opening a <i>Escape from Violet Hold</i> card pack.",
+    "howToEarnGolden": "Earnable after opening a golden <i>Escape from Violet Hold</i> card pack.",
     "id": "BE_EVENT_102",
     "mechanics": [
       "ImmuneToSpellpower"
@@ -20607,7 +20606,7 @@
     "artist": "Dmitry Bolotov",
     "cardClass": "WARRIOR",
     "collectible": true,
-    "cost": 6,
+    "cost": 5,
     "dbfId": 123056,
     "flavor": "10 times as bad as Centi-mation.",
     "id": "CATA_581",
@@ -38585,7 +38584,7 @@
     "name": "Mysterious Visitor",
     "rarity": "EPIC",
     "set": "CORE_HIDDEN",
-    "text": "<b>Battlecry:</b> Reduce the Cost of cards copied from your opponent by (3).",
+    "text": "<b>Battlecry:</b> Reduce the Cost of cards copied from your opponent by (2).",
     "type": "MINION"
   },
   {
@@ -41151,7 +41150,7 @@
     "name": "Acolyte of Death",
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "After a friendly Undead dies,& draw a card.",
+    "text": "After a friendly Undead dies, draw a card.",
     "type": "MINION"
   },
   {
@@ -41739,7 +41738,7 @@
     "name": "Highlord Fordragon",
     "rarity": "LEGENDARY",
     "set": "CORE",
-    "text": "[x]<b>Divine Shield</b>\nAfter a friendly minion loses\n<b>Divine Shield</b>,& give a minion\n  in your hand +5/+5.",
+    "text": "[x]<b>Divine Shield</b>\nAfter a friendly minion loses\n<b>Divine Shield</b>, give a minion\n  in your hand +5/+5.",
     "type": "MINION"
   },
   {
@@ -51250,7 +51249,7 @@
     "name": "Bat Mask",
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "Set a friendly minion's stats to 1/1. Fill your board with copies of it.",
+    "text": "Set a friendly non-<b>Legendary</b> minion's stats to 1/1. Fill your board with copies of it.",
     "type": "SPELL"
   },
   {
@@ -51414,11 +51413,8 @@
     ],
     "name": "The Egg of Khelos",
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "TAUNT"
-    ],
     "set": "THE_LOST_CITY",
-    "text": "[x]<b>Deathrattle:</b> Summon a\nslightly cracked Egg. <i>(Break\n5 times to hatch a 20/20\nBeast with <b>Taunt</b>!)</i>",
+    "text": "[x]<b>Deathrattle:</b> Summon\na slightly cracked Egg.\n<i>(Break 5 times to hatch\ninto a 20/20 Beast!)</i>",
     "type": "MINION"
   },
   {
@@ -71071,7 +71067,7 @@
     "rarity": "COMMON",
     "set": "NAXX",
     "spellSchool": "NATURE",
-    "text": "Destroy a minion,\nthen return it to life with full Health.",
+    "text": "[x]Destroy a\nnon-<b>Legendary</b> minion,\nthen return it to life\nwith full Health.",
     "type": "SPELL"
   },
   {
@@ -93691,7 +93687,7 @@
     "cost": 5,
     "dbfId": 126253,
     "flavor": "Welcome to Dalaran, where the spells are made up and the points don't matter!",
-    "health": 4,
+    "health": 3,
     "id": "JAIL_321",
     "mechanics": [
       "BATTLECRY"
@@ -94288,10 +94284,10 @@
   },
   {
     "artist": "AJ Nazzaro",
-    "attack": 5,
+    "attack": 6,
     "cardClass": "DEATHKNIGHT",
     "collectible": true,
-    "cost": 5,
+    "cost": 6,
     "dbfId": 126260,
     "flavor": "Sawbones saw bones to bone saw.",
     "health": 3,
@@ -101743,7 +101739,7 @@
     "name": "Kobold Illusionist",
     "rarity": "RARE",
     "set": "LOOTAPALOOZA",
-    "text": "<b>Deathrattle:</b> Summon a 1/1 copy of a minion from your hand.",
+    "text": "<b>Deathrattle:</b> Summon a minion from your hand. Set its stats to 1/1.",
     "type": "MINION"
   },
   {
@@ -103543,7 +103539,7 @@
     ],
     "rarity": "EPIC",
     "set": "CATACLYSM",
-    "text": "[x]<b>Divine Shield</b>\nAfter this loses <b>Divine Shield</b>,&\ngive your Silver Hand Recruits\n+1 Health this game.",
+    "text": "[x]<b>Divine Shield</b>\nAfter this loses <b>Divine Shield</b>,\ngive your Silver Hand Recruits\n+1 Health this game.",
     "type": "MINION"
   },
   {
@@ -109768,7 +109764,7 @@
     "name": "Mysterious Visitor",
     "rarity": "EPIC",
     "set": "REVENDRETH",
-    "text": "<b>Battlecry:</b> Reduce the Cost of cards copied from your opponent by (3).",
+    "text": "<b>Battlecry:</b> Reduce the Cost of cards copied from your opponent by (2).",
     "type": "MINION"
   },
   {
@@ -112919,7 +112915,7 @@
     "name": "Acolyte of Death",
     "rarity": "COMMON",
     "set": "RETURN_OF_THE_LICH_KING",
-    "text": "After a friendly Undead dies,& draw a card.",
+    "text": "After a friendly Undead dies, draw a card.",
     "type": "MINION"
   },
   {
@@ -120884,7 +120880,7 @@
     "name": "Final Showdown",
     "rarity": "LEGENDARY",
     "set": "STORMWIND",
-    "text": "<b>Questline:</b> Draw 4 cards in one turn. <b>Reward:</b> Reduce the Cost of the cards drawn by (1).",
+    "text": "<b>Questline:</b> Draw 5 cards in one turn. <b>Reward:</b> Reduce the Cost of the cards drawn by (1).",
     "type": "SPELL"
   },
   {
@@ -121040,7 +121036,7 @@
     "name": "Highlord Fordragon",
     "rarity": "LEGENDARY",
     "set": "STORMWIND",
-    "text": "[x]<b>Divine Shield</b>\nAfter a friendly minion loses\n<b>Divine Shield</b>,& give a minion\n  in your hand +5/+5.",
+    "text": "[x]<b>Divine Shield</b>\nAfter a friendly minion loses\n<b>Divine Shield</b>, give a minion\n  in your hand +5/+5.",
     "type": "MINION"
   },
   {
@@ -124489,7 +124485,7 @@
     "artist": "Slawomir Maniak",
     "cardClass": "WARLOCK",
     "collectible": true,
-    "cost": 5,
+    "cost": 7,
     "dbfId": 120489,
     "flavor": "They really are my other half.",
     "id": "TIME_030",
@@ -126520,7 +126516,7 @@
     ],
     "rarity": "RARE",
     "set": "TIME_TRAVEL",
-    "text": "<b>Taunt</b>\n<b>Battlecry:</b>& Double this minion's Health.",
+    "text": "<b>Taunt</b>\n<b>Battlecry:</b> Double this minion's Health.",
     "type": "MINION"
   },
   {
@@ -127197,7 +127193,7 @@
     ],
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "[x]After you summon an\nElemental,& deal 3 damage\nto a random enemy.",
+    "text": "[x]After you summon an\nElemental, deal 3 damage\nto a random enemy.",
     "type": "MINION"
   },
   {
@@ -129491,7 +129487,7 @@
     "name": "Reach Equilibrium",
     "rarity": "LEGENDARY",
     "set": "THE_LOST_CITY",
-    "text": "[x]<b>Quest:</b> Cast 4 Holy spells\n<b>Reward:</b> Life's Breath.\n<b>Quest:</b> Cast 4 Shadow spells.\n<b>Reward:</b> Death's Touch.",
+    "text": "[x]<b>Quest:</b> Cast 6 Holy spells.\n<b>Reward:</b> Life's Breath.\n<b>Quest:</b> Cast 6 Shadow spells.\n<b>Reward:</b> Death's Touch.",
     "type": "SPELL"
   },
   {
@@ -161135,7 +161131,7 @@
     "rarity": "COMMON",
     "set": "WONDERS",
     "spellSchool": "NATURE",
-    "text": "Destroy a minion,\nthen return it to life with full Health.",
+    "text": "[x]Destroy a\nnon-<b>Legendary</b> minion,\nthen return it to life\nwith full Health.",
     "type": "SPELL"
   },
   {

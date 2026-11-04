@@ -8230,7 +8230,6 @@
     "attack": 3,
     "cardClass": "PRIEST",
     "collectible": true,
-    "collectionText": "<b>战吼：</b>如果你在本牌在你手中时施放过2个暗影法术，选择并触发一项克苏恩的技能。<i>（还剩{0}个！）</i>",
     "cost": 3,
     "dbfId": 132348,
     "flavor": "古神来了！古神来了！",
@@ -8242,7 +8241,7 @@
     "name": "黑暗执事",
     "rarity": "EPIC",
     "set": "BE",
-    "text": "<b>战吼：</b>如果你在本牌在你手中时施放过2个暗影法术，选择并触发一项克苏恩的技能。<i>（还剩{0}个！）</i>@<b>战吼：</b>如果你在本牌在你手中时施放过2个暗影法术，选择并触发一项克苏恩的技能。<i>（已就绪！）</i>@<b>战吼：</b>如果你在本牌在你手中时施放过2个暗影法术，选择并触发一项克苏恩的技能。",
+    "text": "<b>战吼：</b>如果你在本牌在你手中时施放过暗影法术，选择并触发一项克苏恩的技能。",
     "type": "MINION"
   },
   {
@@ -8259,7 +8258,7 @@
     "name": "克苏恩，帝国之眼",
     "rarity": "LEGENDARY",
     "set": "BE",
-    "text": "<b>古神</b>\n如果你在本局对战中触发了克苏恩的全部4个技能，本随从的技能效果变为三倍。",
+    "text": "<b>古神</b>\n如果你在本局对战中触发了克苏恩的全部4个技能，本随从的技能效果变为四倍。",
     "type": "MINION"
   },
   {
@@ -8306,7 +8305,7 @@
     "attack": 9,
     "cardClass": "NEUTRAL",
     "collectible": true,
-    "cost": 9,
+    "cost": 10,
     "dbfId": 128132,
     "elite": true,
     "flavor": "圣母来了！",
@@ -8404,7 +8403,7 @@
       "DISCOVER"
     ],
     "set": "BE",
-    "text": "<b>战吼：</b><b>发现</b>一个法术，并将其变形成为一张法力值消耗相同的3/3的武器牌。每当用该武器攻击时，都会施放该法术。",
+    "text": "<b>战吼：</b><b>发现</b>一个法术，并将其变形成为一张法力值消耗相同的3/3的武器牌。每次用该武器攻击后，都会施放该法术。",
     "type": "MINION"
   },
   {
@@ -8437,7 +8436,7 @@
     ],
     "set": "BE",
     "spellSchool": "SHADOW",
-    "text": "2回合后，召唤两个3/5并具有<b>嘲讽</b>的克拉西斯。",
+    "text": "2回合后，召唤两个2/4并具有<b>嘲讽</b>的克拉西斯。",
     "type": "SPELL"
   },
   {
@@ -8863,7 +8862,7 @@
     ],
     "rarity": "RARE",
     "set": "BE",
-    "text": "<b><b>复生</b></b>。<b>亡语：</b>&使你手牌中的所有随从牌获得+1/+1。",
+    "text": "<b>复生</b>。<b>亡语：</b>&使你手牌中的所有随从牌获得+1攻击力。",
     "type": "MINION"
   },
   {
@@ -8949,7 +8948,7 @@
     ],
     "set": "BE",
     "spellSchool": "SHADOW",
-    "text": "召唤一只5/5并具有<b>吸血</b>的虚翼龙鹰。<i>（你使用的下一张暗影法术牌会重复此效果！）</i>",
+    "text": "召唤两只3/4并具有<b>吸血</b>的虚翼龙鹰。<i>（你使用的下一张暗影法术牌会重复此效果！）</i>",
     "type": "SPELL"
   },
   {
@@ -9334,7 +9333,7 @@
     "cost": 2,
     "dbfId": 130315,
     "flavor": "低贱的被遗忘者，表现得却像王一样……我命令你，跪下！",
-    "health": 3,
+    "health": 4,
     "id": "BE_285",
     "mechanics": [
       "LIFESTEAL"
@@ -9342,7 +9341,7 @@
     "name": "拼接骑士",
     "rarity": "COMMON",
     "runeCost": {
-      "blood": 2,
+      "blood": 3,
       "frost": 0,
       "unholy": 0
     },
@@ -9573,7 +9572,7 @@
   },
   {
     "artist": "Mauricio Herrera",
-    "attack": 2,
+    "attack": 3,
     "cardClass": "HUNTER",
     "collectible": true,
     "cost": 3,
@@ -9595,7 +9594,7 @@
     "artist": "Matt Dixon",
     "cardClass": "HUNTER",
     "collectible": true,
-    "cost": 2,
+    "cost": 1,
     "dbfId": 129821,
     "flavor": "尔米米了算漏隆萨-格尤而然。亡死的隆尔米米了成促终最，年千数了划谋隆萨-格尤",
     "id": "BE_553",
@@ -9640,14 +9639,14 @@
   },
   {
     "artist": "Ivan Fomin",
-    "attack": 7,
+    "attack": 6,
     "cardClass": "WARRIOR",
     "collectible": true,
-    "cost": 7,
+    "cost": 6,
     "dbfId": 129935,
     "elite": true,
     "flavor": "你想怎么卸甲，和平方式，还是暴力方式。",
-    "health": 7,
+    "health": 6,
     "id": "BE_557",
     "mechanics": [
       "BATTLECRY"
@@ -10006,18 +10005,18 @@
       "COMBO"
     ],
     "set": "BE",
-    "text": "在本回合中每使用过一张<b>连击</b>牌，本牌的法力值消耗便减少（2）点。<b>战吼：</b>抽一张牌。",
+    "text": "在本回合中每使用过一张<b>连击</b>牌，本牌的法力值消耗便减少（2）点。<b>战吼：</b>抽两张牌。",
     "type": "MINION"
   },
   {
     "artist": "Mike Sass",
-    "attack": 4,
+    "attack": 5,
     "cardClass": "ROGUE",
     "collectible": true,
-    "cost": 3,
+    "cost": 4,
     "dbfId": 130118,
     "flavor": "我们结群了，他们就跑了。",
-    "health": 2,
+    "health": 4,
     "id": "BE_722",
     "mechanics": [
       "DEATHRATTLE"
@@ -10032,7 +10031,7 @@
       "COMBO"
     ],
     "set": "BE",
-    "text": "<b>亡语：</b>获取两张法力值消耗为（1）的幼虫。幼虫会以<b><b>连击</b></b>的形式触发一项另一职业的英雄技能。",
+    "text": "<b>亡语：</b>获取两张以<b><b>连击</b></b>的形式触发一项另一职业英雄技能的幼虫。这两张幼虫的法力值消耗为（0）点。",
     "type": "MINION"
   },
   {
@@ -10387,7 +10386,7 @@
     "cardClass": "NEUTRAL",
     "collectible": true,
     "collectionText": "<b>古神</b>\n<b>战吼：</b>如果你在本局对战中消耗了30点法力值用于随从牌上，获得<b>免疫</b>1回合。<i>（还剩{0}点！）</i>",
-    "cost": 10,
+    "cost": 9,
     "dbfId": 131851,
     "elite": true,
     "flavor": "“滑行者巨怪”+“穿刺者克洛恩”+（“地母塞拉赞恩”-“耐普图隆，潮汐之王”）",
@@ -10885,8 +10884,8 @@
     "cost": 5,
     "dbfId": 132669,
     "flavor": "起初，虚空造物暗藏着邪恶，附着上了她的星球。如今，她的世界笼罩在虚空势力之下；而她，绝非普通的新星。她是艾泽拉斯。",
-    "howToEarn": "参与特殊活动以获得该奖励。",
-    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "howToEarn": "打开<i>逃离紫罗兰监狱</i>卡牌包后可解锁。",
+    "howToEarnGolden": "打开<i>逃离紫罗兰监狱</i>金色包后可解锁。",
     "id": "BE_EVENT_100",
     "name": "古神降临",
     "rarity": "EPIC",
@@ -10902,8 +10901,8 @@
     "cost": 6,
     "dbfId": 132671,
     "flavor": "“快来看呐，他们连输了五局了！”",
-    "howToEarn": "参与特殊活动以获得该奖励。",
-    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "howToEarn": "打开<i>逃离紫罗兰监狱</i>卡牌包后可解锁。",
+    "howToEarnGolden": "打开<i>逃离紫罗兰监狱</i>金色包后可解锁。",
     "id": "BE_EVENT_101",
     "name": "泰坦降临",
     "rarity": "EPIC",
@@ -10919,8 +10918,8 @@
     "cost": 5,
     "dbfId": 132673,
     "flavor": "嗯……你知道还缺了点什么吗？那边那个角上还缺一座方尖碑。",
-    "howToEarn": "参与特殊活动以获得该奖励。",
-    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "howToEarn": "打开<i>逃离紫罗兰监狱</i>卡牌包后可解锁。",
+    "howToEarnGolden": "打开<i>逃离紫罗兰监狱</i>金色包后可解锁。",
     "id": "BE_EVENT_102",
     "mechanics": [
       "ImmuneToSpellpower"
@@ -20599,7 +20598,7 @@
     "artist": "Dmitry Bolotov",
     "cardClass": "WARRIOR",
     "collectible": true,
-    "cost": 6,
+    "cost": 5,
     "dbfId": 123056,
     "flavor": "比斩杀恶劣多了。",
     "id": "CATA_581",
@@ -38564,7 +38563,7 @@
     "name": "神秘访客",
     "rarity": "EPIC",
     "set": "CORE_HIDDEN",
-    "text": "<b>战吼：</b>使你从对手处复制的卡牌的法力值消耗减少（3）点。",
+    "text": "<b>战吼：</b>使你从对手处复制的卡牌的法力值消耗减少（2）点。",
     "type": "MINION"
   },
   {
@@ -41130,7 +41129,7 @@
     "name": "死亡侍僧",
     "rarity": "COMMON",
     "set": "CORE",
-    "text": "在一个友方亡灵死亡后，&抽一张牌。",
+    "text": "在一个友方亡灵死亡后，抽一张牌。",
     "type": "MINION"
   },
   {
@@ -41718,7 +41717,7 @@
     "name": "大领主弗塔根",
     "rarity": "LEGENDARY",
     "set": "CORE",
-    "text": "<b>圣盾</b>。在一个友方随从失去<b>圣盾</b>后，&使你手牌中的一张随从牌获得+5/+5。",
+    "text": "<b>圣盾</b>\n在一个友方随从失去<b>圣盾</b>后，使你手牌中的一张随从牌获得+5/+5。",
     "type": "MINION"
   },
   {
@@ -51228,7 +51227,7 @@
     "name": "蝙蝠面具",
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "将一个友方随从的属性值变为1/1。用它的复制填满你的\n面板。",
+    "text": "将一个非<b>传说</b>友方随从的属性值变为1/1。用它的复制填满你的面板。",
     "type": "SPELL"
   },
   {
@@ -51392,11 +51391,8 @@
     ],
     "name": "凯洛斯的蛋",
     "rarity": "LEGENDARY",
-    "referencedTags": [
-      "TAUNT"
-    ],
     "set": "THE_LOST_CITY",
-    "text": "<b>亡语：</b>召唤一枚轻微开裂的蛋。<i>（破壳5次即可孵化为一只20/20并具有<b>嘲讽</b>的野兽！）</i>",
+    "text": "<b>亡语：</b>召唤一枚轻微开裂的蛋。<i>（破壳5次即可孵化为一只20/20的野兽！）</i>",
     "type": "MINION"
   },
   {
@@ -71040,7 +71036,7 @@
     "rarity": "COMMON",
     "set": "NAXX",
     "spellSchool": "NATURE",
-    "text": "消灭一个随从，然后将其复活，并具有所有生命值。",
+    "text": "消灭一个非<b>传说</b>随从，然后将其复活，并具有所有生命值。",
     "type": "SPELL"
   },
   {
@@ -93658,7 +93654,7 @@
     "cost": 5,
     "dbfId": 126253,
     "flavor": "欢迎来到达拉然！法术随意编造，其他都不重要！",
-    "health": 4,
+    "health": 3,
     "id": "JAIL_321",
     "mechanics": [
       "BATTLECRY"
@@ -94255,10 +94251,10 @@
   },
   {
     "artist": "AJ Nazzaro",
-    "attack": 5,
+    "attack": 6,
     "cardClass": "DEATHKNIGHT",
     "collectible": true,
-    "cost": 5,
+    "cost": 6,
     "dbfId": 126260,
     "flavor": "锯骨巨魔，就是用巨锯锯巨骨的巨魔。",
     "health": 3,
@@ -101707,7 +101703,7 @@
     "name": "狗头人幻术师",
     "rarity": "RARE",
     "set": "LOOTAPALOOZA",
-    "text": "<b>亡语：</b>从你的手牌中召唤一个随从的\n1/1复制。",
+    "text": "<b>亡语：</b>从你的手牌中召唤一个随从，将其属性值变为1/1。",
     "type": "MINION"
   },
   {
@@ -103504,7 +103500,7 @@
     ],
     "rarity": "EPIC",
     "set": "CATACLYSM",
-    "text": "<b>圣盾</b>。在本随从失去<b>圣盾</b>后，&在本局对战中，使你的白银之手新兵获得+1生命值。",
+    "text": "<b>圣盾</b>。在本随从失去<b>圣盾</b>后，在本局对战中，使你的白银之手新兵获得+1生命值。",
     "type": "MINION"
   },
   {
@@ -109729,7 +109725,7 @@
     "name": "神秘访客",
     "rarity": "EPIC",
     "set": "REVENDRETH",
-    "text": "<b>战吼：</b>使你从对手处复制的卡牌的法力值消耗减少（3）点。",
+    "text": "<b>战吼：</b>使你从对手处复制的卡牌的法力值消耗减少（2）点。",
     "type": "MINION"
   },
   {
@@ -112880,7 +112876,7 @@
     "name": "死亡侍僧",
     "rarity": "COMMON",
     "set": "RETURN_OF_THE_LICH_KING",
-    "text": "在一个友方亡灵死亡后，&抽一张牌。",
+    "text": "在一个友方亡灵死亡后，抽一张牌。",
     "type": "MINION"
   },
   {
@@ -120844,7 +120840,7 @@
     "name": "一决胜负",
     "rarity": "LEGENDARY",
     "set": "STORMWIND",
-    "text": "<b>任务线：</b>在一回合中抽四张牌。<b>奖励：</b>使抽到的牌法力值消耗减少（1）点。",
+    "text": "<b>任务线：</b>在一回合中抽五张牌。<b>奖励：</b>使抽到的牌法力值消耗减少（1）点。",
     "type": "SPELL"
   },
   {
@@ -121000,7 +120996,7 @@
     "name": "大领主弗塔根",
     "rarity": "LEGENDARY",
     "set": "STORMWIND",
-    "text": "<b>圣盾</b>。在一个友方随从失去<b>圣盾</b>后，&使你手牌中的一张随从牌获得+5/+5。",
+    "text": "<b>圣盾</b>\n在一个友方随从失去<b>圣盾</b>后，使你手牌中的一张随从牌获得+5/+5。",
     "type": "MINION"
   },
   {
@@ -124447,7 +124443,7 @@
     "artist": "Slawomir Maniak",
     "cardClass": "WARLOCK",
     "collectible": true,
-    "cost": 5,
+    "cost": 7,
     "dbfId": 120489,
     "flavor": "这位真的是我的另一半。",
     "id": "TIME_030",
@@ -126476,7 +126472,7 @@
     ],
     "rarity": "RARE",
     "set": "TIME_TRAVEL",
-    "text": "<b>嘲讽</b>。<b>战吼：</b>&本随从的生命值翻倍。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>本随从的生命值翻倍。",
     "type": "MINION"
   },
   {
@@ -127153,7 +127149,7 @@
     ],
     "rarity": "COMMON",
     "set": "THE_LOST_CITY",
-    "text": "在你召唤一个元素后，&随机对一个敌人造成3点伤害。",
+    "text": "在你召唤一个元素后，随机对一个敌人造成3点伤害。",
     "type": "MINION"
   },
   {
@@ -129447,7 +129443,7 @@
     "name": "寻求平衡",
     "rarity": "LEGENDARY",
     "set": "THE_LOST_CITY",
-    "text": "<b>任务：</b>施放4个神圣法术。<b>奖励：</b>生命之息。<b>任务：</b>施放4个暗影法术。<b>奖励：</b>死亡之触。",
+    "text": "<b>任务：</b>施放6个神圣法术。<b>奖励：</b>生命之息。<b>任务：</b>施放6个暗影法术。<b>奖励：</b>死亡之触。",
     "type": "SPELL"
   },
   {
@@ -161078,7 +161074,7 @@
     "rarity": "COMMON",
     "set": "WONDERS",
     "spellSchool": "NATURE",
-    "text": "消灭一个随从，然后将其复活，并具有所有生命值。",
+    "text": "消灭一个非<b>传说</b>随从，然后将其复活，并具有所有生命值。",
     "type": "SPELL"
   },
   {

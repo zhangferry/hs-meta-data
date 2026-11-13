@@ -1,0 +1,19 @@
+{
+  "reportNumber": 361,
+  "reportDate": "Thu, 12 Nov 2026 17:00:02 +0000",
+  "source": "vicious_syndicate",
+  "fetchDate": "2026-11-13T15:52:32.017873Z",
+  "archetypes": [],
+  "matrix": [],
+  "rankBrackets": [
+    "legend",
+    "all"
+  ],
+  "imageUrls": {
+    "legend": "https://www.vicioussyndicate.com/wp-content/uploads/DRR361-Winrate-L.png",
+    "all": "https://www.vicioussyndicate.com/wp-content/uploads/DRR361-Winrate-All.png"
+  },
+  "dataQuality": "none",
+  "parseMethod": "failed",
+  "note": "Could not parse structured data. Images available at imageUrls."
+}

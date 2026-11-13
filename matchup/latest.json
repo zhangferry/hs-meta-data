@@ -1,17 +1,17 @@
 {
-  "reportNumber": 360,
-  "reportDate": "Thu, 29 Oct 2026 16:00:10 +0000",
+  "reportNumber": 361,
+  "reportDate": "Thu, 12 Nov 2026 17:00:02 +0000",
   "source": "vicious_syndicate",
-  "fetchDate": "2026-11-12T16:30:38.344649Z",
+  "fetchDate": "2026-11-13T15:52:32.017873Z",
   "archetypes": [],
   "matrix": [],
   "rankBrackets": [
-    "all",
-    "legend"
+    "legend",
+    "all"
   ],
   "imageUrls": {
-    "all": "https://www.vicioussyndicate.com/wp-content/uploads/DRR360-Winrate-All.png",
-    "legend": "https://www.vicioussyndicate.com/wp-content/uploads/DRR360-Winrate-L.png"
+    "legend": "https://www.vicioussyndicate.com/wp-content/uploads/DRR361-Winrate-L.png",
+    "all": "https://www.vicioussyndicate.com/wp-content/uploads/DRR361-Winrate-All.png"
   },
   "dataQuality": "none",
   "parseMethod": "failed",
